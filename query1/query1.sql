@@ -17,8 +17,7 @@ CREATE TABLE IF NOT EXISTS VeiculoTipoCarga (
 	Veiculo_id INT NOT NULL,
 	TipoCarga_id INT NOT NULL,
 	
-	PRIMARY KEY(Veiculo_id),
-	PRIMARY KEY(TipoCarga_id),
+	PRIMARY KEY(Veiculo_id, TipoCarga_id),
 	
 	FOREIGN KEY (Veiculo_id) REFERENCES Veiculo(id),
 	FOREIGN KEY (TipoCarga_id) REFERENCES TipoCarga(id)
