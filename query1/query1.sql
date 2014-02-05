@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS TipoCarga (
 	PRIMARY KEY(id)
 );
 
-CREATE TABLE IF NOT EXISTS TipoCarga (
+CREATE TABLE IF NOT EXISTS VeiculoTipoCarga (
 	Veiculo_id INT NOT NULL,
 	TipoCarga_id INT NOT NULL,
 	
