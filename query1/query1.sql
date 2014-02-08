@@ -90,8 +90,8 @@ CREATE TABLE IF NOT EXISTS Servico (
 
 CREATE TABLE IF NOT EXISTS Transporte (
 	id SERIAL,
-	dataIniciou VARCHAR(45),
-	dataTerminou VARCHAR(45),
+	dataIniciou DATE,
+	dataTerminou DATE,
 	custoTransporte VARCHAR(45),
 	Servico_id INT NOT NULL,
 	Motorista_id INT NOT NULL,
