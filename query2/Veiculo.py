@@ -12,10 +12,20 @@ NUMERO_DA_PLACA_INICIAL = 2750
 # Variável se incremento das placas.
 __numeroDaPlaca = 0
 
+# Variável de incremento de id dos veiculos.
+__idVeiculo = 1 # Primeiro id
+
 # Funções.
 # Retorna um modelo de veículo aleatório.
 def modeloAleatorio( modelos ):
 	return random.choice(modelos)
+
+# Retorna o próximo id de veículo.
+def nextIdVeiculo():
+	global __idVeiculo
+	id = __idVeiculo
+	__idVeiculo += 1
+	return id;
 
 # Retorna uma placa aleatória.
 def placaSequencial():
@@ -52,8 +62,8 @@ modelos = lerModelos()
 # Gera uma query sql para inserir um veiculo aleatório na tabela de
 # veículos.
 def insertVeiculoAleatorio( modelos ):
-	sql = "INSERT INTO veiculo(placa, modelo)\n"
-	sql +="VALUES ('" + placaSequencial() + "', '" + modeloAleatorio(modelos) + "');\n"
+	sql = "INSERT INTO veiculo(id, placa, modelo)\n"
+	sql +="VALUES (" + str(nextIdVeiculo()) + ", '" + placaSequencial() + "', '" + modeloAleatorio(modelos) + "');\n"
 	return sql
 
 # Dá uma nova seed ao random.
