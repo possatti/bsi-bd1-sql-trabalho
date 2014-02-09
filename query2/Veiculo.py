@@ -4,8 +4,13 @@
 import random
 
 # Definições.
-ARQUIVO_DE_MODELOS = "Dados/modelos.txt"
-ARQUIVO_DE_SAIDA = "SQL Gerado/veiculo.sql"
+ARQUIVO_DE_MODELOS = "Dados/Modelos de Caminhoes.txt"
+ARQUIVO_DE_SAIDA = "SQL Gerado/Veiculo.sql"
+NUMERO_DE_VEICULOS = 100;
+NUMERO_DA_PLACA_INICIAL = 2750
+
+# Variável se incremento das placas.
+__numeroDaPlaca = 0
 
 # Funções.
 # Retorna um modelo de veículo aleatório.
@@ -13,7 +18,7 @@ def modeloAleatorio( modelos ):
 	return random.choice(modelos)
 
 # Retorna uma placa aleatória.
-def placaAleatoria():
+def placaSequencial():
 	placa = ""
 
 	# Anexa letras a placa.
@@ -24,8 +29,9 @@ def placaAleatoria():
 	placa += "-"
 
 	# Anexa os números a placa.
-	for i in range(4):
-		placa += random.choice("0123456789")
+	global __numeroDaPlaca
+	__numeroDaPlaca = __numeroDaPlaca + 1
+	placa += str(NUMERO_DA_PLACA_INICIAL + __numeroDaPlaca)
 
 	return placa
 
@@ -45,15 +51,18 @@ modelos = lerModelos()
 
 # Gera uma query sql para inserir um veiculo aleatório na tabela de
 # veículos.
-def insertVeiculoAleatorio():
+def insertVeiculoAleatorio( modelos ):
 	sql = "INSERT INTO veiculo(placa, modelo)\n"
-	sql +="VALUES ('" + placaAleatoria() + "', '" + modeloAleatorio(modelos) + "');\n"
+	sql +="VALUES ('" + placaSequencial() + "', '" + modeloAleatorio(modelos) + "');\n"
 	return sql
 
 # Dá uma nova seed ao random.
 random.seed()
 
+# Lê os modelos
+modelos = lerModelos()
+
 # Escreve todas as queries para um arquivo.
 with open(ARQUIVO_DE_SAIDA, "w") as arqSaida:
-	for x in range(100):
-		arqSaida.write(insertVeiculoAleatorio() + "\n")
+	for x in range(NUMERO_DE_VEICULOS):
+		arqSaida.write(insertVeiculoAleatorio(modelos) + "\n")
