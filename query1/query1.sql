@@ -1,6 +1,6 @@
 ﻿CREATE TABLE IF NOT EXISTS Veiculo (
 	id SERIAL,
-	placa VARCHAR(45),
+	placa VARCHAR(45) UNIQUE,
 	modelo VARCHAR(45),
 
 	PRIMARY KEY(id)
@@ -8,7 +8,7 @@
 
 CREATE TABLE IF NOT EXISTS TipoCarga (
 	id SERIAL,
-	nome VARCHAR(45),
+	nome VARCHAR(45) UNIQUE,
 
 	PRIMARY KEY(id)
 );
@@ -23,25 +23,28 @@ CREATE TABLE IF NOT EXISTS VeiculoTipoCarga (
 	FOREIGN KEY (TipoCarga_id) REFERENCES TipoCarga(id)
 );
 
-CREATE TABLE IF NOT EXISTS Contato (
-	id SERIAL,
-	PRIMARY KEY(id)
-);
-
 CREATE TABLE IF NOT EXISTS Endereco (
 	id SERIAL,
 	cep VARCHAR(45),
+	estado VARCHAR(45),
 	bairro VARCHAR(45),
 	rua VARCHAR(45),
-	Contato_id INT NOT NULL,
+	numero VARCHAR(45),
+
+	PRIMARY KEY(id)
+);
+
+CREATE TABLE IF NOT EXISTS Contato (
+	id SERIAL,
+	Endereco_id INT NOT NULL UNIQUE,
 
 	PRIMARY KEY(id),
-	FOREIGN KEY (Contato_id) REFERENCES Contato(id)
+	FOREIGN KEY (Endereco_id) REFERENCES Endereco(id)
 );
 
 CREATE TABLE IF NOT EXISTS Telefone (
 	id SERIAL,
-	numero VARCHAR(45),
+	numero VARCHAR(45) UNIQUE,
 	Contato_id INT NOT NULL,
 
 	PRIMARY KEY(id),
@@ -51,12 +54,12 @@ CREATE TABLE IF NOT EXISTS Telefone (
 CREATE TABLE IF NOT EXISTS Motorista (
 	id SERIAL,
 	nome VARCHAR(45),
-	cpf VARCHAR(45),
-	rg VARCHAR(45),
-	cnh VARCHAR(45),
+	cpf VARCHAR(45) UNIQUE,
+	rg VARCHAR(45) UNIQUE,
+	cnh VARCHAR(45) UNIQUE,
 	disponibilidade BOOL,
-	Contato_id INT,
-	Veiculo_id INT,
+	Contato_id INT NOT NULL,
+	Veiculo_id INT NOT NULL,
 
 	PRIMARY KEY(id),
 	FOREIGN KEY (Contato_id) REFERENCES Contato(id),
@@ -66,8 +69,8 @@ CREATE TABLE IF NOT EXISTS Motorista (
 CREATE TABLE IF NOT EXISTS Empresa (
 	id SERIAL,
 	nome VARCHAR(45),
-	cnpj VARCHAR(45),
-	Contato_id INT,
+	cnpj VARCHAR(45) UNIQUE,
+	Contato_id INT NOT NULL,
 
 	PRIMARY KEY(id),
 	FOREIGN KEY (Contato_id) REFERENCES Contato(id)
@@ -96,7 +99,6 @@ CREATE TABLE IF NOT EXISTS Transporte (
 	Servico_id INT NOT NULL,
 	Motorista_id INT NOT NULL,
 	
-
 	PRIMARY KEY(id),
 	FOREIGN KEY (Servico_id) REFERENCES Servico(id),
 	FOREIGN KEY (Motorista_id) REFERENCES Motorista(id)
