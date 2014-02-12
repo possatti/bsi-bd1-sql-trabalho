@@ -17,9 +17,9 @@ SQLFiles = [
 'SQL Independente/TipoCarga.sql',
 'SQL Gerado/Veiculo.sql',
 'SQL Gerado/VeiculoTipoCarga.sql',
+'SQL Gerado/Endereco.sql',
 'SQL Gerado/Contato.sql',
-'SQL Gerado/Telefone.sql',
-'SQL Gerado/Endereco.sql'
+'SQL Gerado/Telefone.sql'
 ]
 
 with open(NOME_DO_ARQUIVO_GERADO, "w") as arqSaida:

@@ -1,602 +1,602 @@
 -- Popula a tabela Telefone.
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (1, '(078) 3198-5950', 1);
+VALUES (1, '(085) 3781-8446', 1);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (2, '(077) 3103-1793', 2);
+VALUES (2, '(062) 3494-3020', 2);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (3, '(041) 3084-6362', 3);
+VALUES (3, '(023) 3942-0427', 3);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (4, '(095) 3913-7782', 4);
+VALUES (4, '(092) 3526-8628', 4);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (5, '(097) 3071-0474', 5);
+VALUES (5, '(069) 3134-2450', 5);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (6, '(085) 3205-9608', 6);
+VALUES (6, '(088) 3272-5774', 6);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (7, '(081) 3023-2449', 7);
+VALUES (7, '(049) 3572-6433', 7);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (8, '(078) 3308-1311', 8);
+VALUES (8, '(095) 3138-6757', 8);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (9, '(044) 3507-0221', 9);
+VALUES (9, '(052) 3332-9726', 9);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (10, '(094) 3400-8749', 10);
+VALUES (10, '(095) 3626-0164', 10);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (11, '(058) 3576-8400', 11);
+VALUES (11, '(066) 3673-2085', 11);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (12, '(091) 3467-0959', 12);
+VALUES (12, '(048) 3074-7591', 12);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (13, '(064) 3422-3714', 13);
+VALUES (13, '(076) 3632-2784', 13);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (14, '(078) 3825-4431', 14);
+VALUES (14, '(087) 3459-1797', 14);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (15, '(052) 3911-7484', 15);
+VALUES (15, '(053) 3120-0108', 15);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (16, '(075) 3634-7453', 16);
+VALUES (16, '(067) 3822-2167', 16);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (17, '(083) 3131-1831', 17);
+VALUES (17, '(096) 3269-8006', 17);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (18, '(059) 3628-9328', 18);
+VALUES (18, '(023) 3867-0090', 18);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (19, '(042) 3738-7957', 19);
+VALUES (19, '(068) 3659-4189', 19);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (20, '(093) 3554-6963', 20);
+VALUES (20, '(075) 3623-2761', 20);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (21, '(033) 3838-4413', 21);
+VALUES (21, '(065) 3108-2791', 21);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (22, '(019) 3293-3852', 22);
+VALUES (22, '(037) 3065-2019', 22);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (23, '(049) 3962-1365', 23);
+VALUES (23, '(074) 3264-6522', 23);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (24, '(016) 3463-6750', 24);
+VALUES (24, '(093) 3870-3622', 24);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (25, '(089) 3758-2564', 25);
+VALUES (25, '(052) 3275-4303', 25);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (26, '(093) 3815-7455', 26);
+VALUES (26, '(096) 3953-3146', 26);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (27, '(071) 3243-7658', 27);
+VALUES (27, '(087) 3070-0720', 27);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (28, '(015) 3833-3794', 28);
+VALUES (28, '(033) 3418-9956', 28);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (29, '(082) 3533-3614', 29);
+VALUES (29, '(096) 3652-1101', 29);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (30, '(068) 3749-2663', 30);
+VALUES (30, '(019) 3949-4136', 30);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (31, '(065) 3029-3013', 31);
+VALUES (31, '(083) 3068-5607', 31);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (32, '(064) 3551-5206', 32);
+VALUES (32, '(037) 3738-8104', 32);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (33, '(012) 3795-5890', 33);
+VALUES (33, '(058) 3993-6894', 33);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (34, '(048) 3147-7397', 34);
+VALUES (34, '(066) 3153-4199', 34);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (35, '(069) 3641-7853', 35);
+VALUES (35, '(093) 3685-7697', 35);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (36, '(097) 3349-8026', 36);
+VALUES (36, '(036) 3942-6147', 36);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (37, '(029) 3932-2526', 37);
+VALUES (37, '(079) 3439-0964', 37);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (38, '(067) 3316-1477', 38);
+VALUES (38, '(046) 3563-9227', 38);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (39, '(057) 3664-9360', 39);
+VALUES (39, '(031) 3770-7912', 39);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (40, '(093) 3965-8848', 40);
+VALUES (40, '(086) 3913-1302', 40);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (41, '(064) 3741-7809', 41);
+VALUES (41, '(084) 3751-0653', 41);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (42, '(071) 3059-1116', 42);
+VALUES (42, '(077) 3291-2026', 42);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (43, '(044) 3651-0733', 43);
+VALUES (43, '(056) 3007-5746', 43);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (44, '(025) 3414-7093', 44);
+VALUES (44, '(063) 3053-1037', 44);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (45, '(027) 3107-4162', 45);
+VALUES (45, '(041) 3364-0520', 45);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (46, '(086) 3331-4057', 46);
+VALUES (46, '(033) 3330-6528', 46);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (47, '(012) 3985-7384', 47);
+VALUES (47, '(022) 3233-8856', 47);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (48, '(077) 3698-0702', 48);
+VALUES (48, '(094) 3360-5369', 48);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (49, '(086) 3241-1110', 49);
+VALUES (49, '(081) 3962-8267', 49);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (50, '(082) 3781-0397', 50);
+VALUES (50, '(051) 3547-3962', 50);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (51, '(083) 3338-6321', 51);
+VALUES (51, '(056) 3036-9800', 51);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (52, '(078) 3597-5824', 52);
+VALUES (52, '(084) 3360-9339', 52);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (53, '(076) 3101-7768', 53);
+VALUES (53, '(049) 3641-7516', 53);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (54, '(053) 3434-4155', 54);
+VALUES (54, '(086) 3178-6743', 54);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (55, '(072) 3897-6240', 55);
+VALUES (55, '(061) 3685-8656', 55);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (56, '(033) 3310-7503', 56);
+VALUES (56, '(047) 3035-1206', 56);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (57, '(026) 3792-6027', 57);
+VALUES (57, '(024) 3287-4095', 57);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (58, '(099) 3203-2811', 58);
+VALUES (58, '(084) 3406-6468', 58);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (59, '(057) 3579-1184', 59);
+VALUES (59, '(038) 3004-6637', 59);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (60, '(034) 3142-0441', 60);
+VALUES (60, '(097) 3137-7123', 60);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (61, '(039) 3101-3266', 61);
+VALUES (61, '(066) 3850-7040', 61);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (62, '(055) 3834-5196', 62);
+VALUES (62, '(068) 3299-2824', 62);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (63, '(043) 3901-1639', 63);
+VALUES (63, '(044) 3383-2188', 63);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (64, '(066) 3892-2225', 64);
+VALUES (64, '(017) 3690-7317', 64);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (65, '(078) 3861-5752', 65);
+VALUES (65, '(069) 3619-5802', 65);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (66, '(079) 3319-9792', 66);
+VALUES (66, '(014) 3900-4703', 66);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (67, '(073) 3683-2973', 67);
+VALUES (67, '(034) 3360-4432', 67);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (68, '(026) 3851-3749', 68);
+VALUES (68, '(086) 3364-6178', 68);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (69, '(077) 3122-5752', 69);
+VALUES (69, '(062) 3733-7570', 69);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (70, '(036) 3542-6848', 70);
+VALUES (70, '(051) 3593-1254', 70);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (71, '(088) 3725-5024', 71);
+VALUES (71, '(063) 3666-7697', 71);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (72, '(037) 3488-4250', 72);
+VALUES (72, '(015) 3381-3712', 72);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (73, '(018) 3799-1816', 73);
+VALUES (73, '(056) 3729-2008', 73);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (74, '(019) 3823-0037', 74);
+VALUES (74, '(025) 3806-5290', 74);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (75, '(095) 3880-6699', 75);
+VALUES (75, '(083) 3970-4328', 75);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (76, '(069) 3156-4399', 76);
+VALUES (76, '(088) 3611-7807', 76);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (77, '(039) 3916-0852', 77);
+VALUES (77, '(041) 3373-6105', 77);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (78, '(099) 3119-3589', 78);
+VALUES (78, '(036) 3730-7975', 78);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (79, '(086) 3321-9038', 79);
+VALUES (79, '(065) 3739-0522', 79);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (80, '(057) 3356-9499', 80);
+VALUES (80, '(089) 3057-0390', 80);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (81, '(068) 3861-0829', 81);
+VALUES (81, '(013) 3521-5486', 81);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (82, '(085) 3039-3638', 82);
+VALUES (82, '(041) 3685-3798', 82);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (83, '(091) 3911-0293', 83);
+VALUES (83, '(054) 3683-3601', 83);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (84, '(058) 3611-6645', 84);
+VALUES (84, '(073) 3334-3564', 84);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (85, '(092) 3209-5868', 85);
+VALUES (85, '(063) 3174-2717', 85);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (86, '(091) 3763-7469', 86);
+VALUES (86, '(088) 3053-9824', 86);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (87, '(064) 3238-5386', 87);
+VALUES (87, '(055) 3431-6938', 87);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (88, '(073) 3953-6772', 88);
+VALUES (88, '(022) 3970-5856', 88);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (89, '(054) 3379-6465', 89);
+VALUES (89, '(036) 3113-9503', 89);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (90, '(088) 3580-9660', 90);
+VALUES (90, '(043) 3099-6629', 90);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (91, '(012) 3219-6804', 91);
+VALUES (91, '(056) 3511-3166', 91);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (92, '(036) 3307-0919', 92);
+VALUES (92, '(083) 3971-4492', 92);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (93, '(015) 3242-6251', 93);
+VALUES (93, '(098) 3404-8663', 93);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (94, '(064) 3969-0836', 94);
+VALUES (94, '(049) 3480-9220', 94);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (95, '(051) 3374-8106', 95);
+VALUES (95, '(073) 3433-0640', 95);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (96, '(044) 3630-9484', 96);
+VALUES (96, '(046) 3245-8736', 96);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (97, '(083) 3147-9290', 97);
+VALUES (97, '(065) 3458-9610', 97);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (98, '(031) 3172-6099', 98);
+VALUES (98, '(012) 3798-2877', 98);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (99, '(024) 3830-5288', 99);
+VALUES (99, '(038) 3212-6916', 99);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (100, '(051) 3810-4203', 100);
+VALUES (100, '(015) 3783-2884', 100);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (101, '(032) 3935-2400', 101);
+VALUES (101, '(092) 3820-9533', 101);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (102, '(091) 3801-2977', 102);
+VALUES (102, '(047) 3571-7526', 102);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (103, '(064) 3366-2480', 103);
+VALUES (103, '(036) 3685-5172', 103);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (104, '(016) 3263-1596', 104);
+VALUES (104, '(081) 3476-0504', 104);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (105, '(083) 3499-6955', 105);
+VALUES (105, '(028) 3898-4715', 105);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (106, '(095) 3875-5138', 106);
+VALUES (106, '(083) 3034-9507', 106);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (107, '(089) 3435-0093', 107);
+VALUES (107, '(019) 3277-9638', 107);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (108, '(047) 3315-8234', 108);
+VALUES (108, '(025) 3907-5705', 108);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (109, '(035) 3079-5615', 109);
+VALUES (109, '(026) 3940-2609', 109);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (110, '(045) 3216-4008', 110);
+VALUES (110, '(019) 3433-9243', 110);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (111, '(076) 3241-5421', 111);
+VALUES (111, '(016) 3200-3419', 111);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (112, '(021) 3697-3444', 112);
+VALUES (112, '(093) 3867-2073', 112);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (113, '(078) 3221-0470', 113);
+VALUES (113, '(071) 3472-7874', 113);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (114, '(071) 3959-9370', 114);
+VALUES (114, '(035) 3796-0658', 114);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (115, '(073) 3981-2614', 115);
+VALUES (115, '(091) 3740-6346', 115);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (116, '(089) 3168-9091', 116);
+VALUES (116, '(014) 3756-1215', 116);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (117, '(086) 3353-5830', 117);
+VALUES (117, '(037) 3331-2971', 117);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (118, '(075) 3942-7072', 118);
+VALUES (118, '(074) 3432-2644', 118);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (119, '(091) 3242-7256', 119);
+VALUES (119, '(058) 3151-2263', 119);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (120, '(018) 3195-3161', 120);
+VALUES (120, '(066) 3746-2241', 120);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (121, '(027) 3817-9969', 121);
+VALUES (121, '(015) 3483-8100', 121);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (122, '(065) 3095-2259', 122);
+VALUES (122, '(054) 3559-7917', 122);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (123, '(081) 3257-8863', 123);
+VALUES (123, '(037) 3782-6774', 123);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (124, '(094) 3553-0774', 124);
+VALUES (124, '(064) 3390-9600', 124);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (125, '(084) 3457-9296', 125);
+VALUES (125, '(085) 3287-7786', 125);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (126, '(068) 3602-0730', 126);
+VALUES (126, '(022) 3957-8398', 126);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (127, '(073) 3010-5302', 127);
+VALUES (127, '(033) 3994-6073', 127);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (128, '(015) 3869-5483', 128);
+VALUES (128, '(095) 3895-0527', 128);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (129, '(055) 3077-5812', 129);
+VALUES (129, '(045) 3153-4218', 129);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (130, '(087) 3224-7312', 130);
+VALUES (130, '(068) 3409-4203', 130);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (131, '(088) 3165-9618', 131);
+VALUES (131, '(087) 3854-7370', 131);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (132, '(017) 3541-6424', 132);
+VALUES (132, '(016) 3406-6259', 132);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (133, '(049) 3063-9977', 133);
+VALUES (133, '(051) 3552-5641', 133);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (134, '(042) 3781-4676', 134);
+VALUES (134, '(043) 3829-3345', 134);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (135, '(081) 3122-5601', 135);
+VALUES (135, '(069) 3145-1280', 135);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (136, '(066) 3293-1333', 136);
+VALUES (136, '(032) 3230-1829', 136);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (137, '(093) 3804-5839', 137);
+VALUES (137, '(028) 3968-7715', 137);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (138, '(088) 3564-3817', 138);
+VALUES (138, '(018) 3179-0778', 138);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (139, '(056) 3818-7637', 139);
+VALUES (139, '(045) 3137-2163', 139);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (140, '(026) 3275-5518', 140);
+VALUES (140, '(042) 3615-9010', 140);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (141, '(045) 3960-7652', 141);
+VALUES (141, '(099) 3828-0919', 141);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (142, '(046) 3666-9827', 142);
+VALUES (142, '(047) 3860-0207', 142);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (143, '(012) 3560-8715', 143);
+VALUES (143, '(089) 3331-5261', 143);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (144, '(098) 3636-4441', 144);
+VALUES (144, '(046) 3232-8858', 144);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (145, '(081) 3447-4746', 145);
+VALUES (145, '(058) 3407-0779', 145);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (146, '(031) 3379-2162', 146);
+VALUES (146, '(076) 3538-6057', 146);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (147, '(074) 3988-3397', 147);
+VALUES (147, '(099) 3307-8380', 147);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (148, '(023) 3483-4319', 148);
+VALUES (148, '(065) 3657-1478', 148);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (149, '(023) 3756-0448', 149);
+VALUES (149, '(077) 3338-4124', 149);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (150, '(086) 3407-4199', 150);
+VALUES (150, '(054) 3279-7846', 150);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (151, '(058) 3382-0086', 151);
+VALUES (151, '(037) 3505-8258', 151);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (152, '(062) 3085-2793', 152);
+VALUES (152, '(065) 3106-1339', 152);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (153, '(073) 3598-5834', 153);
+VALUES (153, '(072) 3371-7250', 153);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (154, '(033) 3753-8613', 154);
+VALUES (154, '(076) 3689-5684', 154);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (155, '(048) 3406-8117', 155);
+VALUES (155, '(026) 3402-9015', 155);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (156, '(096) 3787-7372', 156);
+VALUES (156, '(052) 3853-9652', 156);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (157, '(064) 3646-6968', 157);
+VALUES (157, '(019) 3937-7011', 157);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (158, '(073) 3224-5917', 158);
+VALUES (158, '(041) 3303-8979', 158);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (159, '(026) 3808-6725', 159);
+VALUES (159, '(014) 3997-8044', 159);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (160, '(026) 3274-0286', 160);
+VALUES (160, '(026) 3794-7963', 160);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (161, '(079) 3942-5471', 161);
+VALUES (161, '(093) 3203-8888', 161);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (162, '(074) 3583-5332', 162);
+VALUES (162, '(077) 3792-8904', 162);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (163, '(039) 3509-5401', 163);
+VALUES (163, '(022) 3795-0743', 163);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (164, '(067) 3450-7770', 164);
+VALUES (164, '(099) 3980-7326', 164);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (165, '(017) 3978-3197', 165);
+VALUES (165, '(095) 3182-0946', 165);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (166, '(076) 3599-2245', 166);
+VALUES (166, '(052) 3346-7339', 166);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (167, '(079) 3915-8783', 167);
+VALUES (167, '(076) 3044-8668', 167);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (168, '(015) 3192-6548', 168);
+VALUES (168, '(028) 3103-5693', 168);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (169, '(071) 3673-0073', 169);
+VALUES (169, '(065) 3960-6446', 169);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (170, '(061) 3371-4252', 170);
+VALUES (170, '(028) 3061-9713', 170);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (171, '(046) 3891-2846', 171);
+VALUES (171, '(074) 3834-2310', 171);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (172, '(096) 3313-8100', 172);
+VALUES (172, '(064) 3336-9638', 172);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (173, '(099) 3029-9795', 173);
+VALUES (173, '(016) 3553-2672', 173);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (174, '(066) 3021-4767', 174);
+VALUES (174, '(035) 3176-5152', 174);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (175, '(034) 3909-1690', 175);
+VALUES (175, '(099) 3585-4174', 175);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (176, '(058) 3096-8371', 176);
+VALUES (176, '(023) 3837-9120', 176);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (177, '(073) 3309-2321', 177);
+VALUES (177, '(091) 3772-7956', 177);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (178, '(091) 3341-4353', 178);
+VALUES (178, '(096) 3057-3788', 178);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (179, '(086) 3869-7412', 179);
+VALUES (179, '(099) 3077-8777', 179);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (180, '(055) 3506-6341', 180);
+VALUES (180, '(056) 3047-6678', 180);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (181, '(033) 3219-6452', 181);
+VALUES (181, '(092) 3154-8985', 181);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (182, '(079) 3789-7857', 182);
+VALUES (182, '(058) 3302-0215', 182);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (183, '(023) 3817-9035', 183);
+VALUES (183, '(083) 3135-3149', 183);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (184, '(027) 3453-2673', 184);
+VALUES (184, '(096) 3255-7744', 184);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (185, '(077) 3892-2755', 185);
+VALUES (185, '(055) 3003-8301', 185);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (186, '(047) 3862-7683', 186);
+VALUES (186, '(016) 3148-2330', 186);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (187, '(064) 3921-5975', 187);
+VALUES (187, '(013) 3006-9167', 187);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (188, '(084) 3881-0144', 188);
+VALUES (188, '(022) 3860-6656', 188);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (189, '(029) 3427-5812', 189);
+VALUES (189, '(075) 3416-9992', 189);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (190, '(018) 3960-6021', 190);
+VALUES (190, '(081) 3132-8269', 190);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (191, '(048) 3305-9666', 191);
+VALUES (191, '(033) 3799-1807', 191);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (192, '(051) 3086-8331', 192);
+VALUES (192, '(089) 3972-6968', 192);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (193, '(052) 3858-0691', 193);
+VALUES (193, '(042) 3714-3935', 193);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (194, '(063) 3954-4741', 194);
+VALUES (194, '(016) 3575-3721', 194);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (195, '(012) 3834-4473', 195);
+VALUES (195, '(071) 3700-1016', 195);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (196, '(059) 3728-6247', 196);
+VALUES (196, '(097) 3240-1988', 196);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (197, '(018) 3124-6164', 197);
+VALUES (197, '(095) 3020-9732', 197);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (198, '(025) 3743-4774', 198);
+VALUES (198, '(034) 3034-6671', 198);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (199, '(073) 3377-6318', 199);
+VALUES (199, '(051) 3855-9558', 199);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (200, '(071) 3052-4592', 200);
+VALUES (200, '(019) 3261-8858', 200);
 

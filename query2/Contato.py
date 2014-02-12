@@ -13,8 +13,11 @@ def nextIdContato():
 	return id;
 
 def insert():
-	sql = "INSERT INTO Contato(id)"
-	sql +=" VALUES (" + str(nextIdContato()) + ");\n"
+	# Será usado tanto para chave primária, quanto para chave
+	# estrangeira.
+	id = str(nextIdContato())
+	sql = "INSERT INTO Contato(id, Endereco_id)"
+	sql +=" VALUES (" + id + ", " + id + ");\n"
 	return sql
 
 # Abre o arquivo onde será escrito o SQL.
