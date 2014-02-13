@@ -28,3 +28,4 @@ with open(ARQUIVO_DE_SAIDA, "w") as arqSaida:
 	# Escreve todas as queries para um arquivo.
 	for x in range(NUMERO_DE_CONTATOS):
 		arqSaida.write(insert())
+	arqSaida.write("\n")

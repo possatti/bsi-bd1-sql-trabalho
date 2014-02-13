@@ -33,8 +33,6 @@ def telefoneFixoAleatorio():
 	telefone += random.choice("0123456789")
 	return telefone
 
-
-
 def insert():
 	# Este id será usado tanto para a chave primária, e a chave estrangeira
 	# para a tabela de contatos. Assim haverá apenas um telefone para cada

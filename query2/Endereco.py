@@ -4,10 +4,13 @@ import random
 ARQUIVO_DE_NOMES_DE_ESTADOS = "Dados/Nomes de Estados.txt"
 ARQUIVO_DE_NOMES_DE_BAIRROS = "Dados/Nomes de Frutas.txt"
 ARQUIVO_DE_SAIDA = "SQL Gerado/Endereco.sql"
-NUMERO_DE_CONTATOS = 200;
+## 200 serão para os contatos, e 200 para para origem e destino
+## dos serviços.
+NUMERO_DE_CONTATOS = 400;
 
 # Variável de controle da seleção de bairros.
-__numeroBairro = 0 # Primeiro índice da lista.
+## FIXME: Apagar, se não for ser usado.
+#__numeroBairro = 0 # Primeiro índice da lista.
 
 # Variável de controle do id dos telefones.
 __idEndereco = 1 # Primeiro id.
@@ -42,11 +45,8 @@ def cepAleatorioEUnico():
 def estadoAleatorio( estados ):
 	return random.choice(estados)
 
-def bairroSequencial( bairros ):
-	global __numeroBairro
-	bairro = bairros[__numeroBairro]
-	__numeroBairro += 1
-	return bairro
+def bairroAleatorio( bairros ):
+	return random.choice(bairros)
 
 def ruaAleatoria():
 	rua = "Rua "
@@ -65,7 +65,7 @@ def insert( estados, bairros ):
 	sql +="VALUES (" + str(nextIdEndereco())
 	sql +=", '" + cepAleatorioEUnico() + "'"
 	sql +=", '" + estadoAleatorio(estados) + "'"
-	sql +=", '" + bairroSequencial(bairros) + "'"
+	sql +=", '" + bairroAleatorio(bairros) + "'"
 	sql +=", '" + ruaAleatoria() + "'"
 	sql +=", '" + numeroAleatorio() + "');\n"
 	return sql

@@ -1,300 +1,300 @@
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (1, 'VYQ-2751', 'Volks 9150');
+VALUES (1, 'IEW-2751', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (2, 'UAK-2752', 'Volvo VM 260');
+VALUES (2, 'MMT-2752', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (3, 'WYO-2753', 'Volks 9150');
+VALUES (3, 'YEX-2753', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (4, 'PFN-2754', 'Mercedes 710');
+VALUES (4, 'AJR-2754', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (5, 'IRR-2755', 'Volks 8150');
+VALUES (5, 'MNC-2755', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (6, 'FFT-2756', 'Volvo FH 460');
+VALUES (6, 'FMI-2756', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (7, 'RZR-2757', 'Scania R440');
+VALUES (7, 'MXE-2757', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (8, 'UVE-2758', 'Volks 8150');
+VALUES (8, 'QQC-2758', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (9, 'EZK-2759', 'Mercedes Atego 2425');
+VALUES (9, 'TGT-2759', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (10, 'FDU-2760', 'Volks 8150');
+VALUES (10, 'UCF-2760', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (11, 'XYV-2761', 'Volks 13180');
+VALUES (11, 'DOB-2761', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (12, 'BWG-2762', 'Volks 24250');
+VALUES (12, 'FRH-2762', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (13, 'VBT-2763', 'Volvo VM 260');
+VALUES (13, 'DRM-2763', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (14, 'TLZ-2764', 'Volks 9150');
+VALUES (14, 'MVS-2764', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (15, 'WYZ-2765', 'Volks 13180');
+VALUES (15, 'QLC-2765', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (16, 'ZKY-2766', 'Volks 8150');
+VALUES (16, 'VYX-2766', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (17, 'MJZ-2767', 'Mercedes Atego 2425');
+VALUES (17, 'XSV-2767', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (18, 'HCG-2768', 'Volks 9150');
+VALUES (18, 'WWW-2768', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (19, 'BFD-2769', 'Volks 8150');
+VALUES (19, 'CVX-2769', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (20, 'XAB-2770', 'Volvo FH 460');
+VALUES (20, 'WIM-2770', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (21, 'OET-2771', 'Volks 13180');
+VALUES (21, 'QVM-2771', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (22, 'ZNS-2772', 'Mercedes Atego 2425');
+VALUES (22, 'QOT-2772', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (23, 'MES-2773', 'Volvo FH 460');
+VALUES (23, 'BOV-2773', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (24, 'LCO-2774', 'Volvo FH 460');
+VALUES (24, 'DUR-2774', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (25, 'YZE-2775', 'Volks 9150');
+VALUES (25, 'DYB-2775', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (26, 'ZZL-2776', 'Volks 13180');
+VALUES (26, 'HBQ-2776', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (27, 'RQP-2777', 'Volvo FH 460');
+VALUES (27, 'VBP-2777', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (28, 'CKH-2778', 'Volks 24250');
+VALUES (28, 'CAD-2778', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (29, 'YAO-2779', 'Scania R440');
+VALUES (29, 'VNE-2779', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (30, 'XAO-2780', 'Volvo FH 460');
+VALUES (30, 'XQV-2780', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (31, 'EZP-2781', 'Volks 13180');
+VALUES (31, 'FGT-2781', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (32, 'UWZ-2782', 'Volks 24250');
+VALUES (32, 'OKS-2782', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (33, 'JJA-2783', 'Volvo FH 460');
+VALUES (33, 'SUI-2783', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (34, 'LCQ-2784', 'Volvo VM 260');
+VALUES (34, 'OGT-2784', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (35, 'QSH-2785', 'Scania R440');
+VALUES (35, 'SLO-2785', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (36, 'QJK-2786', 'Mercedes 710');
+VALUES (36, 'AML-2786', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (37, 'VPQ-2787', 'Mercedes Accelo 815');
+VALUES (37, 'SJW-2787', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (38, 'PQO-2788', 'Volvo VM 260');
+VALUES (38, 'AFI-2788', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (39, 'GVV-2789', 'Mercedes Atego 2425');
+VALUES (39, 'PLC-2789', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (40, 'CTE-2790', 'Volks 9150');
+VALUES (40, 'ZHW-2790', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (41, 'UIU-2791', 'Volks 9150');
+VALUES (41, 'YHF-2791', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (42, 'WRK-2792', 'Volvo FH 460');
+VALUES (42, 'NWA-2792', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (43, 'RUC-2793', 'Volvo FH 460');
+VALUES (43, 'ZNE-2793', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (44, 'CHY-2794', 'Volks 13180');
+VALUES (44, 'BTD-2794', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (45, 'QUF-2795', 'Volvo FH 460');
+VALUES (45, 'KDA-2795', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (46, 'YGO-2796', 'Volvo VM 260');
+VALUES (46, 'TLB-2796', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (47, 'XKW-2797', 'Volvo FH 460');
+VALUES (47, 'LWO-2797', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (48, 'FUH-2798', 'Volvo VM 260');
+VALUES (48, 'QCM-2798', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (49, 'WVO-2799', 'Volks 8150');
+VALUES (49, 'EXH-2799', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (50, 'ULY-2800', 'Mercedes Accelo 815');
+VALUES (50, 'JES-2800', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (51, 'XRL-2801', 'Volvo FH 460');
+VALUES (51, 'BJN-2801', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (52, 'LLA-2802', 'Scania R440');
+VALUES (52, 'WGF-2802', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (53, 'CGY-2803', 'Mercedes 710');
+VALUES (53, 'QPT-2803', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (54, 'LHN-2804', 'Volvo VM 260');
+VALUES (54, 'UCX-2804', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (55, 'ICB-2805', 'Scania R440');
+VALUES (55, 'YVG-2805', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (56, 'BGV-2806', 'Mercedes Accelo 815');
+VALUES (56, 'YBT-2806', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (57, 'ECY-2807', 'Volks 24250');
+VALUES (57, 'OTQ-2807', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (58, 'GXE-2808', 'Volks 9150');
+VALUES (58, 'HGZ-2808', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (59, 'KGS-2809', 'Volvo FH 460');
+VALUES (59, 'OEC-2809', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (60, 'TAR-2810', 'Mercedes Atego 2425');
+VALUES (60, 'TJS-2810', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (61, 'HZD-2811', 'Volks 8150');
+VALUES (61, 'GCX-2811', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (62, 'IWX-2812', 'Volks 24250');
+VALUES (62, 'DOE-2812', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (63, 'YBQ-2813', 'Volks 9150');
+VALUES (63, 'CVF-2813', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (64, 'CYX-2814', 'Mercedes 710');
+VALUES (64, 'XTQ-2814', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (65, 'ATD-2815', 'Scania R440');
+VALUES (65, 'NAL-2815', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (66, 'YLQ-2816', 'Volvo VM 260');
+VALUES (66, 'AXQ-2816', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (67, 'XFJ-2817', 'Volvo FH 460');
+VALUES (67, 'FWT-2817', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (68, 'BEH-2818', 'Volks 13180');
+VALUES (68, 'GLQ-2818', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (69, 'MOC-2819', 'Volvo VM 260');
+VALUES (69, 'VUI-2819', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (70, 'FJE-2820', 'Volks 9150');
+VALUES (70, 'WOR-2820', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (71, 'VLQ-2821', 'Volks 9150');
+VALUES (71, 'OQI-2821', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (72, 'FTH-2822', 'Volks 8150');
+VALUES (72, 'MDA-2822', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (73, 'GRD-2823', 'Volvo VM 260');
+VALUES (73, 'TDG-2823', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (74, 'QEQ-2824', 'Mercedes 710');
+VALUES (74, 'TQO-2824', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (75, 'OHQ-2825', 'Mercedes 710');
+VALUES (75, 'HMK-2825', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (76, 'AKA-2826', 'Volks 13180');
+VALUES (76, 'VZY-2826', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (77, 'AUZ-2827', 'Volks 9150');
+VALUES (77, 'GLY-2827', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (78, 'UKO-2828', 'Scania R440');
+VALUES (78, 'ICR-2828', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (79, 'YGL-2829', 'Volvo VM 260');
+VALUES (79, 'ZFL-2829', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (80, 'ZQX-2830', 'Mercedes Atego 2425');
+VALUES (80, 'CEA-2830', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (81, 'OZO-2831', 'Volks 8150');
+VALUES (81, 'DMA-2831', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (82, 'QPD-2832', 'Mercedes Accelo 815');
+VALUES (82, 'ONP-2832', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (83, 'NTD-2833', 'Volvo FH 460');
+VALUES (83, 'SRM-2833', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (84, 'TZC-2834', 'Volvo VM 260');
+VALUES (84, 'YTW-2834', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (85, 'EOQ-2835', 'Scania R440');
+VALUES (85, 'JCW-2835', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (86, 'ODF-2836', 'Volks 8150');
+VALUES (86, 'NCF-2836', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (87, 'LCL-2837', 'Volks 13180');
+VALUES (87, 'NXH-2837', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (88, 'FEK-2838', 'Mercedes Accelo 815');
+VALUES (88, 'CQR-2838', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (89, 'UFP-2839', 'Mercedes Atego 2425');
+VALUES (89, 'PCK-2839', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (90, 'TGQ-2840', 'Volks 24250');
+VALUES (90, 'EHZ-2840', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (91, 'HME-2841', 'Volvo FH 460');
+VALUES (91, 'QYO-2841', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (92, 'ZKQ-2842', 'Volvo FH 460');
+VALUES (92, 'OQA-2842', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (93, 'CEV-2843', 'Mercedes 710');
+VALUES (93, 'EDS-2843', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (94, 'JXS-2844', 'Mercedes Accelo 815');
+VALUES (94, 'VRJ-2844', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (95, 'GQM-2845', 'Volks 9150');
+VALUES (95, 'JAX-2845', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (96, 'WBS-2846', 'Volks 13180');
+VALUES (96, 'KVY-2846', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (97, 'LAI-2847', 'Volks 24250');
+VALUES (97, 'XLY-2847', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (98, 'WIG-2848', 'Mercedes Atego 2425');
+VALUES (98, 'ORS-2848', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (99, 'QNX-2849', 'Mercedes Accelo 815');
+VALUES (99, 'ZWU-2849', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (100, 'RPY-2850', 'Volks 13180');
+VALUES (100, 'SZY-2850', 'Mercedes Accelo 815');
 
