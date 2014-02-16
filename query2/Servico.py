@@ -6,6 +6,7 @@ NUMERO_DE_SERVICOS = 100;
 UNIDADES = ["cabeças", "unidades", "gramas", "kilogramas"]
 TIPO_DE_SERVICOS = ["NORMAL", "ECONOMICO", "EXPRESSO"]
 NUMERO_DE_EMPRESAS = 100
+NUMERO_DE_TIPOS_DE_CARGA = 10
 
 # Variável de controle do id dos serviços.
 __idServico = 1 # Primeiro id.
@@ -28,6 +29,9 @@ def nextIdEndereco():
 	__idEndereco += 1
 	return id
 
+def idTipoCargaAleatorio():
+	return random.randint(1, NUMERO_DE_TIPOS_DE_CARGA)
+
 def idEmpresaAleatorio():
 	return random.choice(range(1, NUMERO_DE_EMPRESAS + 1))
 
@@ -45,7 +49,7 @@ def unidadeAleatoria():
 	return random.choice(UNIDADES)
 
 def dataAleatoria():
-	data = "2013"
+	data = "2011"
 
 	# Mês
 	data += "-"
@@ -53,7 +57,7 @@ def dataAleatoria():
 
 	# Dia
 	data += "-"
-	data += str(random.choice(range(1, 32)))
+	data += str(random.choice(range(1, 30)))
 	
 	# Hora
 	data += " "
@@ -70,7 +74,7 @@ def distanciaAleatoria():
 	distancia += " Km"
 	return distancia
 
-def getDescricao( quantidade, unidade, tipoCarga, tipoServico ):
+def getDescricao( quantidade, unidade, tipoServico ):
 	return "Transportar " + str(quantidade) + " " + unidade + ", usando o serviço " + tipoServico + "."
 
 def insert():
@@ -79,16 +83,15 @@ def insert():
 	quantidade = quantidadeAleatoria()
 	unidade = unidadeAleatoria()
 	dataPedido = dataAleatoria()
-	tipoCarga = "oO -----"
 	tipoServico = tipoServicoAleatorio()
 	distancia = distanciaAleatoria()
 
-	sql = "INSERT INTO Servico(id, tipoServico, tipoCarga, "
+	sql = "INSERT INTO Servico(id, tipoServico, TipoCarga_id, "
 	sql +="quantidadeCarga, unidadeCarga, dataPedido, distancia, "
 	sql +="Empresa_id, origem, destino, descricao)\n"
 	sql +="VALUES (" + str(id)
 	sql +=", '" + tipoServico + "'"
-	sql +=", '" + tipoCarga + "'"
+	sql +=", " + str(idTipoCargaAleatorio())
 	sql +=", '" + quantidade + "'"
 	sql +=", '" + unidade + "'"
 	sql +=", '" + dataPedido + "'"
@@ -96,7 +99,7 @@ def insert():
 	sql +=", " + str(idEmpresaAleatorio())
 	sql +=", " + str(nextIdEndereco())
 	sql +=", " + str(nextIdEndereco())
-	sql +=", '" + getDescricao(quantidade, unidade, tipoCarga, tipoServico) + "');\n"
+	sql +=", '" + getDescricao(quantidade, unidade, tipoServico) + "');\n"
 	return sql
 
 # Dá uma nova seed ao random.

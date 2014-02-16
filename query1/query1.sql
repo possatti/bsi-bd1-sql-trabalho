@@ -80,26 +80,28 @@ CREATE TABLE IF NOT EXISTS Servico (
 	id SERIAL,
 	descricao VARCHAR(1000),
 	tipoServico VARCHAR(45),
-	tipoCarga VARCHAR(45),
-	quantidadeCarga VARCHAR(45),
+	quantidadeCarga FLOAT,
 	unidadeCarga VARCHAR(45),
 	dataPedido VARCHAR(45),
 	distancia VARCHAR(45),
 	Empresa_id INT NOT NULL,
 	origem INT NOT NULL,
 	destino INT NOT NULL,
+	tipoCarga_id INT NOT NULL,
 
 	PRIMARY KEY(id),
 	FOREIGN KEY (Empresa_id) REFERENCES Empresa(id),
 	FOREIGN KEY (origem) REFERENCES Endereco(id),
-	FOREIGN KEY (destino) REFERENCES Endereco(id)
+	FOREIGN KEY (destino) REFERENCES Endereco(id),
+	FOREIGN KEY (TipoCarga_id) REFERENCES TipoCarga(id)
 );
 
 CREATE TABLE IF NOT EXISTS Transporte (
 	id SERIAL,
 	dataIniciou DATE,
 	dataTerminou DATE,
-	custoTransporte VARCHAR(45),
+	custoTransporte FLOAT,
+	quantidadeCarga FLOAT,
 	Servico_id INT NOT NULL,
 	Motorista_id INT NOT NULL,
 	
@@ -110,7 +112,7 @@ CREATE TABLE IF NOT EXISTS Transporte (
 
 CREATE TABLE IF NOT EXISTS Acidente (
 	id SERIAL,
-	descricao VARCHAR(45),
+	descricao VARCHAR(1000),
 	Transporte_id INT NOT NULL,
 	
 	PRIMARY KEY(id),

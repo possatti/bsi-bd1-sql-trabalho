@@ -12,6 +12,8 @@ subprocess.call(['python3', 'Contato.py'])
 subprocess.call(['python3', 'Motorista.py'])
 subprocess.call(['python3', 'Empresa.py'])
 subprocess.call(['python3', 'Servico.py'])
+subprocess.call(['python3', 'Transporte.py'])
+subprocess.call(['python3', 'Acidente.py'])
 
 # Junta todos os SQLs em um único arquivo.
 # Atenção: A ordem importa! Devido as relações entre as tabelas,
@@ -25,7 +27,9 @@ SQLFiles = [
 'SQL Gerado/Telefone.sql',
 'SQL Gerado/Motorista.sql',
 'SQL Gerado/Empresa.sql',
-'SQL Gerado/Servico.sql'
+'SQL Gerado/Servico.sql',
+'SQL Gerado/Transporte.sql',
+'SQL Gerado/Acidente.sql'
 ]
 
 # Junta todos os SQLs gerado em um arquivo só.

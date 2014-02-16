@@ -1,302 +1,302 @@
 -- Popula a tabela Servico.
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (1, 'EXPRESSO', 'oO -----', '642', 'gramas', '2013-12-4 15:19', '32 Km', 52, 201, 202, 'Transportar 642 gramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (1, 'ECONOMICO', 10, '478', 'kilogramas', '2011-10-3 18:2', '20 Km', 90, 201, 202, 'Transportar 478 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (2, 'NORMAL', 'oO -----', '655', 'cabeças', '2013-10-20 16:32', '11 Km', 20, 203, 204, 'Transportar 655 cabeças, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (2, 'EXPRESSO', 1, '598', 'gramas', '2011-11-21 7:49', '62 Km', 56, 203, 204, 'Transportar 598 gramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (3, 'ECONOMICO', 'oO -----', '798', 'gramas', '2013-11-8 17:32', '48 Km', 19, 205, 206, 'Transportar 798 gramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (3, 'ECONOMICO', 1, '781', 'kilogramas', '2011-10-4 3:9', '9 Km', 57, 205, 206, 'Transportar 781 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (4, 'ECONOMICO', 'oO -----', '377', 'kilogramas', '2013-11-15 10:34', '64 Km', 83, 207, 208, 'Transportar 377 kilogramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (4, 'NORMAL', 5, '525', 'kilogramas', '2011-10-2 16:21', '13 Km', 56, 207, 208, 'Transportar 525 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (5, 'NORMAL', 'oO -----', '182', 'gramas', '2013-9-14 14:7', '21 Km', 33, 209, 210, 'Transportar 182 gramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (5, 'NORMAL', 6, '609', 'unidades', '2011-5-19 0:32', '63 Km', 69, 209, 210, 'Transportar 609 unidades, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (6, 'EXPRESSO', 'oO -----', '143', 'gramas', '2013-11-16 2:5', '50 Km', 49, 211, 212, 'Transportar 143 gramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (6, 'NORMAL', 4, '745', 'gramas', '2011-8-14 2:34', '35 Km', 30, 211, 212, 'Transportar 745 gramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (7, 'EXPRESSO', 'oO -----', '946', 'kilogramas', '2013-10-11 22:50', '46 Km', 83, 213, 214, 'Transportar 946 kilogramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (7, 'ECONOMICO', 8, '204', 'cabeças', '2011-6-24 14:16', '8 Km', 47, 213, 214, 'Transportar 204 cabeças, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (8, 'NORMAL', 'oO -----', '825', 'kilogramas', '2013-2-7 16:22', '47 Km', 23, 215, 216, 'Transportar 825 kilogramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (8, 'ECONOMICO', 5, '373', 'unidades', '2011-9-13 14:20', '14 Km', 92, 215, 216, 'Transportar 373 unidades, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (9, 'EXPRESSO', 'oO -----', '667', 'gramas', '2013-12-16 15:44', '20 Km', 34, 217, 218, 'Transportar 667 gramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (9, 'EXPRESSO', 10, '548', 'kilogramas', '2011-10-10 0:0', '42 Km', 14, 217, 218, 'Transportar 548 kilogramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (10, 'NORMAL', 'oO -----', '190', 'kilogramas', '2013-8-19 13:3', '51 Km', 56, 219, 220, 'Transportar 190 kilogramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (10, 'EXPRESSO', 7, '781', 'cabeças', '2011-11-25 5:38', '28 Km', 41, 219, 220, 'Transportar 781 cabeças, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (11, 'EXPRESSO', 'oO -----', '491', 'gramas', '2013-2-15 21:32', '34 Km', 18, 221, 222, 'Transportar 491 gramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (11, 'EXPRESSO', 8, '680', 'kilogramas', '2011-4-3 19:22', '48 Km', 2, 221, 222, 'Transportar 680 kilogramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (12, 'ECONOMICO', 'oO -----', '833', 'cabeças', '2013-11-22 8:40', '9 Km', 94, 223, 224, 'Transportar 833 cabeças, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (12, 'EXPRESSO', 10, '558', 'unidades', '2011-2-16 16:41', '6 Km', 66, 223, 224, 'Transportar 558 unidades, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (13, 'ECONOMICO', 'oO -----', '771', 'gramas', '2013-1-28 0:41', '57 Km', 42, 225, 226, 'Transportar 771 gramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (13, 'NORMAL', 10, '549', 'cabeças', '2011-8-9 12:56', '17 Km', 86, 225, 226, 'Transportar 549 cabeças, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (14, 'NORMAL', 'oO -----', '847', 'cabeças', '2013-7-4 10:14', '34 Km', 8, 227, 228, 'Transportar 847 cabeças, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (14, 'ECONOMICO', 4, '795', 'unidades', '2011-9-2 14:18', '67 Km', 55, 227, 228, 'Transportar 795 unidades, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (15, 'ECONOMICO', 'oO -----', '782', 'kilogramas', '2013-4-30 5:30', '60 Km', 99, 229, 230, 'Transportar 782 kilogramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (15, 'NORMAL', 8, '537', 'unidades', '2011-2-16 6:18', '62 Km', 91, 229, 230, 'Transportar 537 unidades, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (16, 'NORMAL', 'oO -----', '628', 'gramas', '2013-2-22 14:5', '2 Km', 3, 231, 232, 'Transportar 628 gramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (16, 'NORMAL', 4, '142', 'kilogramas', '2011-2-26 8:28', '4 Km', 22, 231, 232, 'Transportar 142 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (17, 'ECONOMICO', 'oO -----', '153', 'cabeças', '2013-11-21 10:28', '14 Km', 52, 233, 234, 'Transportar 153 cabeças, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (17, 'NORMAL', 4, '380', 'gramas', '2011-5-17 13:16', '67 Km', 18, 233, 234, 'Transportar 380 gramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (18, 'ECONOMICO', 'oO -----', '301', 'cabeças', '2013-9-15 13:23', '41 Km', 77, 235, 236, 'Transportar 301 cabeças, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (18, 'EXPRESSO', 9, '609', 'unidades', '2011-6-25 8:27', '30 Km', 2, 235, 236, 'Transportar 609 unidades, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (19, 'EXPRESSO', 'oO -----', '360', 'unidades', '2013-6-31 12:18', '18 Km', 51, 237, 238, 'Transportar 360 unidades, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (19, 'NORMAL', 9, '805', 'unidades', '2011-1-23 13:33', '30 Km', 50, 237, 238, 'Transportar 805 unidades, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (20, 'NORMAL', 'oO -----', '604', 'gramas', '2013-6-26 18:25', '35 Km', 23, 239, 240, 'Transportar 604 gramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (20, 'EXPRESSO', 1, '139', 'gramas', '2011-7-4 4:8', '28 Km', 98, 239, 240, 'Transportar 139 gramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (21, 'ECONOMICO', 'oO -----', '415', 'kilogramas', '2013-2-29 4:57', '21 Km', 10, 241, 242, 'Transportar 415 kilogramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (21, 'ECONOMICO', 7, '693', 'unidades', '2011-1-22 8:51', '66 Km', 10, 241, 242, 'Transportar 693 unidades, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (22, 'EXPRESSO', 'oO -----', '362', 'cabeças', '2013-1-20 18:26', '53 Km', 68, 243, 244, 'Transportar 362 cabeças, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (22, 'ECONOMICO', 9, '533', 'unidades', '2011-1-29 23:37', '3 Km', 25, 243, 244, 'Transportar 533 unidades, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (23, 'NORMAL', 'oO -----', '807', 'unidades', '2013-1-18 15:43', '66 Km', 51, 245, 246, 'Transportar 807 unidades, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (23, 'NORMAL', 9, '454', 'gramas', '2011-7-21 20:34', '31 Km', 67, 245, 246, 'Transportar 454 gramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (24, 'ECONOMICO', 'oO -----', '693', 'unidades', '2013-10-5 9:3', '54 Km', 25, 247, 248, 'Transportar 693 unidades, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (24, 'EXPRESSO', 3, '508', 'gramas', '2011-11-29 6:38', '42 Km', 42, 247, 248, 'Transportar 508 gramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (25, 'NORMAL', 'oO -----', '702', 'gramas', '2013-5-31 23:57', '27 Km', 67, 249, 250, 'Transportar 702 gramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (25, 'EXPRESSO', 1, '896', 'gramas', '2011-10-3 8:38', '50 Km', 32, 249, 250, 'Transportar 896 gramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (26, 'ECONOMICO', 'oO -----', '901', 'gramas', '2013-8-17 1:46', '34 Km', 66, 251, 252, 'Transportar 901 gramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (26, 'EXPRESSO', 2, '262', 'gramas', '2011-2-9 19:0', '3 Km', 24, 251, 252, 'Transportar 262 gramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (27, 'NORMAL', 'oO -----', '281', 'cabeças', '2013-7-5 14:30', '19 Km', 31, 253, 254, 'Transportar 281 cabeças, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (27, 'ECONOMICO', 3, '458', 'gramas', '2011-4-24 17:5', '49 Km', 86, 253, 254, 'Transportar 458 gramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (28, 'NORMAL', 'oO -----', '437', 'gramas', '2013-2-31 9:26', '52 Km', 14, 255, 256, 'Transportar 437 gramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (28, 'NORMAL', 7, '616', 'cabeças', '2011-3-16 17:3', '4 Km', 4, 255, 256, 'Transportar 616 cabeças, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (29, 'ECONOMICO', 'oO -----', '952', 'unidades', '2013-3-8 21:40', '66 Km', 29, 257, 258, 'Transportar 952 unidades, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (29, 'ECONOMICO', 4, '433', 'unidades', '2011-7-3 2:7', '39 Km', 3, 257, 258, 'Transportar 433 unidades, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (30, 'ECONOMICO', 'oO -----', '829', 'kilogramas', '2013-12-10 0:33', '53 Km', 92, 259, 260, 'Transportar 829 kilogramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (30, 'NORMAL', 8, '680', 'gramas', '2011-12-21 8:57', '68 Km', 39, 259, 260, 'Transportar 680 gramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (31, 'NORMAL', 'oO -----', '310', 'unidades', '2013-4-15 7:52', '7 Km', 25, 261, 262, 'Transportar 310 unidades, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (31, 'ECONOMICO', 10, '329', 'unidades', '2011-3-21 21:42', '65 Km', 4, 261, 262, 'Transportar 329 unidades, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (32, 'EXPRESSO', 'oO -----', '518', 'cabeças', '2013-8-4 17:18', '60 Km', 3, 263, 264, 'Transportar 518 cabeças, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (32, 'NORMAL', 2, '738', 'unidades', '2011-9-3 15:35', '63 Km', 97, 263, 264, 'Transportar 738 unidades, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (33, 'NORMAL', 'oO -----', '913', 'gramas', '2013-4-14 0:39', '16 Km', 28, 265, 266, 'Transportar 913 gramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (33, 'NORMAL', 10, '545', 'kilogramas', '2011-1-4 22:5', '23 Km', 6, 265, 266, 'Transportar 545 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (34, 'NORMAL', 'oO -----', '906', 'cabeças', '2013-5-5 12:9', '65 Km', 87, 267, 268, 'Transportar 906 cabeças, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (34, 'EXPRESSO', 8, '529', 'cabeças', '2011-8-21 18:25', '31 Km', 87, 267, 268, 'Transportar 529 cabeças, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (35, 'ECONOMICO', 'oO -----', '888', 'gramas', '2013-1-7 0:54', '7 Km', 40, 269, 270, 'Transportar 888 gramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (35, 'NORMAL', 7, '753', 'kilogramas', '2011-8-29 1:0', '1 Km', 54, 269, 270, 'Transportar 753 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (36, 'EXPRESSO', 'oO -----', '330', 'cabeças', '2013-9-12 8:27', '38 Km', 68, 271, 272, 'Transportar 330 cabeças, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (36, 'ECONOMICO', 1, '342', 'cabeças', '2011-10-11 1:36', '19 Km', 34, 271, 272, 'Transportar 342 cabeças, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (37, 'NORMAL', 'oO -----', '150', 'kilogramas', '2013-10-1 10:7', '66 Km', 75, 273, 274, 'Transportar 150 kilogramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (37, 'ECONOMICO', 4, '983', 'kilogramas', '2011-6-12 12:40', '8 Km', 35, 273, 274, 'Transportar 983 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (38, 'ECONOMICO', 'oO -----', '922', 'gramas', '2013-10-17 14:45', '4 Km', 27, 275, 276, 'Transportar 922 gramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (38, 'ECONOMICO', 1, '855', 'cabeças', '2011-1-26 11:49', '13 Km', 99, 275, 276, 'Transportar 855 cabeças, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (39, 'NORMAL', 'oO -----', '109', 'kilogramas', '2013-11-24 6:58', '53 Km', 54, 277, 278, 'Transportar 109 kilogramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (39, 'NORMAL', 7, '838', 'cabeças', '2011-6-3 11:27', '53 Km', 66, 277, 278, 'Transportar 838 cabeças, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (40, 'EXPRESSO', 'oO -----', '390', 'unidades', '2013-7-16 8:31', '24 Km', 95, 279, 280, 'Transportar 390 unidades, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (40, 'ECONOMICO', 4, '486', 'kilogramas', '2011-12-28 6:26', '67 Km', 51, 279, 280, 'Transportar 486 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (41, 'EXPRESSO', 'oO -----', '528', 'cabeças', '2013-10-15 5:20', '15 Km', 57, 281, 282, 'Transportar 528 cabeças, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (41, 'ECONOMICO', 6, '165', 'unidades', '2011-4-23 7:0', '58 Km', 100, 281, 282, 'Transportar 165 unidades, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (42, 'ECONOMICO', 'oO -----', '269', 'kilogramas', '2013-8-11 17:59', '48 Km', 17, 283, 284, 'Transportar 269 kilogramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (42, 'ECONOMICO', 8, '478', 'gramas', '2011-9-23 4:2', '38 Km', 84, 283, 284, 'Transportar 478 gramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (43, 'ECONOMICO', 'oO -----', '151', 'kilogramas', '2013-2-4 19:34', '34 Km', 41, 285, 286, 'Transportar 151 kilogramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (43, 'EXPRESSO', 3, '183', 'gramas', '2011-7-28 12:15', '44 Km', 82, 285, 286, 'Transportar 183 gramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (44, 'EXPRESSO', 'oO -----', '932', 'unidades', '2013-11-21 1:32', '58 Km', 78, 287, 288, 'Transportar 932 unidades, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (44, 'ECONOMICO', 10, '521', 'kilogramas', '2011-1-2 4:35', '29 Km', 3, 287, 288, 'Transportar 521 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (45, 'NORMAL', 'oO -----', '278', 'kilogramas', '2013-5-26 0:32', '21 Km', 28, 289, 290, 'Transportar 278 kilogramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (45, 'NORMAL', 1, '472', 'kilogramas', '2011-12-3 9:44', '64 Km', 69, 289, 290, 'Transportar 472 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (46, 'EXPRESSO', 'oO -----', '591', 'cabeças', '2013-5-29 20:17', '29 Km', 82, 291, 292, 'Transportar 591 cabeças, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (46, 'NORMAL', 4, '554', 'kilogramas', '2011-6-20 18:12', '59 Km', 3, 291, 292, 'Transportar 554 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (47, 'EXPRESSO', 'oO -----', '581', 'kilogramas', '2013-5-30 6:33', '19 Km', 55, 293, 294, 'Transportar 581 kilogramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (47, 'NORMAL', 8, '717', 'gramas', '2011-12-25 4:23', '63 Km', 48, 293, 294, 'Transportar 717 gramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (48, 'EXPRESSO', 'oO -----', '517', 'unidades', '2013-2-10 17:6', '43 Km', 41, 295, 296, 'Transportar 517 unidades, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (48, 'NORMAL', 3, '156', 'kilogramas', '2011-7-15 2:39', '59 Km', 96, 295, 296, 'Transportar 156 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (49, 'EXPRESSO', 'oO -----', '764', 'cabeças', '2013-6-10 1:43', '58 Km', 43, 297, 298, 'Transportar 764 cabeças, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (49, 'EXPRESSO', 8, '475', 'cabeças', '2011-8-24 19:45', '57 Km', 69, 297, 298, 'Transportar 475 cabeças, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (50, 'NORMAL', 'oO -----', '277', 'unidades', '2013-7-13 22:11', '9 Km', 97, 299, 300, 'Transportar 277 unidades, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (50, 'EXPRESSO', 7, '749', 'kilogramas', '2011-11-7 15:15', '6 Km', 93, 299, 300, 'Transportar 749 kilogramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (51, 'EXPRESSO', 'oO -----', '619', 'kilogramas', '2013-4-28 9:5', '42 Km', 91, 301, 302, 'Transportar 619 kilogramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (51, 'ECONOMICO', 2, '896', 'unidades', '2011-10-4 9:46', '4 Km', 98, 301, 302, 'Transportar 896 unidades, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (52, 'ECONOMICO', 'oO -----', '124', 'cabeças', '2013-2-24 22:32', '43 Km', 40, 303, 304, 'Transportar 124 cabeças, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (52, 'NORMAL', 5, '125', 'cabeças', '2011-1-29 12:15', '21 Km', 60, 303, 304, 'Transportar 125 cabeças, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (53, 'EXPRESSO', 'oO -----', '306', 'gramas', '2013-10-3 12:29', '47 Km', 34, 305, 306, 'Transportar 306 gramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (53, 'ECONOMICO', 4, '271', 'kilogramas', '2011-6-4 19:10', '67 Km', 48, 305, 306, 'Transportar 271 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (54, 'EXPRESSO', 'oO -----', '527', 'gramas', '2013-4-14 7:50', '35 Km', 85, 307, 308, 'Transportar 527 gramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (54, 'EXPRESSO', 10, '765', 'kilogramas', '2011-8-4 23:42', '39 Km', 43, 307, 308, 'Transportar 765 kilogramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (55, 'NORMAL', 'oO -----', '523', 'unidades', '2013-11-22 14:47', '53 Km', 41, 309, 310, 'Transportar 523 unidades, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (55, 'EXPRESSO', 9, '814', 'cabeças', '2011-5-29 6:41', '16 Km', 56, 309, 310, 'Transportar 814 cabeças, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (56, 'ECONOMICO', 'oO -----', '854', 'gramas', '2013-7-19 5:53', '38 Km', 58, 311, 312, 'Transportar 854 gramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (56, 'NORMAL', 6, '127', 'unidades', '2011-10-19 7:2', '2 Km', 68, 311, 312, 'Transportar 127 unidades, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (57, 'NORMAL', 'oO -----', '538', 'cabeças', '2013-9-5 7:36', '22 Km', 43, 313, 314, 'Transportar 538 cabeças, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (57, 'ECONOMICO', 8, '863', 'unidades', '2011-5-4 7:1', '47 Km', 70, 313, 314, 'Transportar 863 unidades, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (58, 'ECONOMICO', 'oO -----', '980', 'kilogramas', '2013-2-25 10:39', '38 Km', 78, 315, 316, 'Transportar 980 kilogramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (58, 'NORMAL', 8, '920', 'kilogramas', '2011-11-26 11:37', '22 Km', 49, 315, 316, 'Transportar 920 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (59, 'EXPRESSO', 'oO -----', '210', 'cabeças', '2013-6-21 19:9', '12 Km', 42, 317, 318, 'Transportar 210 cabeças, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (59, 'NORMAL', 5, '502', 'gramas', '2011-7-26 4:38', '49 Km', 77, 317, 318, 'Transportar 502 gramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (60, 'NORMAL', 'oO -----', '119', 'cabeças', '2013-9-17 1:11', '27 Km', 37, 319, 320, 'Transportar 119 cabeças, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (60, 'NORMAL', 4, '957', 'cabeças', '2011-9-9 19:26', '33 Km', 36, 319, 320, 'Transportar 957 cabeças, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (61, 'ECONOMICO', 'oO -----', '560', 'kilogramas', '2013-2-24 23:36', '7 Km', 79, 321, 322, 'Transportar 560 kilogramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (61, 'NORMAL', 6, '395', 'kilogramas', '2011-11-5 16:7', '2 Km', 44, 321, 322, 'Transportar 395 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (62, 'ECONOMICO', 'oO -----', '451', 'kilogramas', '2013-1-13 2:30', '2 Km', 11, 323, 324, 'Transportar 451 kilogramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (62, 'ECONOMICO', 9, '721', 'kilogramas', '2011-7-3 19:37', '37 Km', 92, 323, 324, 'Transportar 721 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (63, 'NORMAL', 'oO -----', '341', 'gramas', '2013-4-18 21:37', '14 Km', 45, 325, 326, 'Transportar 341 gramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (63, 'EXPRESSO', 8, '996', 'gramas', '2011-11-14 17:1', '39 Km', 2, 325, 326, 'Transportar 996 gramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (64, 'NORMAL', 'oO -----', '492', 'cabeças', '2013-12-30 3:7', '8 Km', 50, 327, 328, 'Transportar 492 cabeças, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (64, 'EXPRESSO', 6, '165', 'gramas', '2011-10-29 7:42', '38 Km', 49, 327, 328, 'Transportar 165 gramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (65, 'EXPRESSO', 'oO -----', '164', 'unidades', '2013-9-29 6:31', '21 Km', 41, 329, 330, 'Transportar 164 unidades, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (65, 'NORMAL', 9, '683', 'kilogramas', '2011-2-7 19:37', '14 Km', 65, 329, 330, 'Transportar 683 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (66, 'EXPRESSO', 'oO -----', '678', 'unidades', '2013-4-26 15:56', '39 Km', 44, 331, 332, 'Transportar 678 unidades, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (66, 'ECONOMICO', 4, '405', 'kilogramas', '2011-8-15 11:14', '56 Km', 47, 331, 332, 'Transportar 405 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (67, 'ECONOMICO', 'oO -----', '338', 'unidades', '2013-4-22 4:17', '35 Km', 72, 333, 334, 'Transportar 338 unidades, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (67, 'EXPRESSO', 2, '596', 'kilogramas', '2011-10-4 14:38', '64 Km', 57, 333, 334, 'Transportar 596 kilogramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (68, 'ECONOMICO', 'oO -----', '545', 'cabeças', '2013-7-9 19:30', '27 Km', 9, 335, 336, 'Transportar 545 cabeças, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (68, 'ECONOMICO', 8, '117', 'unidades', '2011-2-10 10:21', '54 Km', 30, 335, 336, 'Transportar 117 unidades, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (69, 'ECONOMICO', 'oO -----', '314', 'unidades', '2013-11-8 10:47', '62 Km', 22, 337, 338, 'Transportar 314 unidades, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (69, 'NORMAL', 4, '331', 'unidades', '2011-2-4 5:47', '42 Km', 20, 337, 338, 'Transportar 331 unidades, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (70, 'ECONOMICO', 'oO -----', '510', 'cabeças', '2013-1-6 17:35', '18 Km', 67, 339, 340, 'Transportar 510 cabeças, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (70, 'NORMAL', 2, '166', 'unidades', '2011-7-29 15:39', '66 Km', 11, 339, 340, 'Transportar 166 unidades, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (71, 'NORMAL', 'oO -----', '357', 'kilogramas', '2013-4-21 15:57', '26 Km', 92, 341, 342, 'Transportar 357 kilogramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (71, 'ECONOMICO', 3, '166', 'cabeças', '2011-4-28 15:30', '16 Km', 89, 341, 342, 'Transportar 166 cabeças, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (72, 'NORMAL', 'oO -----', '194', 'kilogramas', '2013-3-3 20:43', '22 Km', 73, 343, 344, 'Transportar 194 kilogramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (72, 'ECONOMICO', 10, '977', 'cabeças', '2011-5-13 23:25', '19 Km', 49, 343, 344, 'Transportar 977 cabeças, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (73, 'ECONOMICO', 'oO -----', '887', 'kilogramas', '2013-1-12 21:9', '55 Km', 56, 345, 346, 'Transportar 887 kilogramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (73, 'NORMAL', 10, '115', 'cabeças', '2011-10-13 7:19', '59 Km', 55, 345, 346, 'Transportar 115 cabeças, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (74, 'ECONOMICO', 'oO -----', '183', 'unidades', '2013-12-17 3:46', '48 Km', 68, 347, 348, 'Transportar 183 unidades, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (74, 'ECONOMICO', 7, '732', 'gramas', '2011-2-26 20:50', '2 Km', 47, 347, 348, 'Transportar 732 gramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (75, 'NORMAL', 'oO -----', '892', 'kilogramas', '2013-4-30 20:38', '65 Km', 66, 349, 350, 'Transportar 892 kilogramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (75, 'EXPRESSO', 1, '997', 'cabeças', '2011-3-19 2:24', '10 Km', 92, 349, 350, 'Transportar 997 cabeças, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (76, 'ECONOMICO', 'oO -----', '588', 'unidades', '2013-3-31 18:1', '58 Km', 9, 351, 352, 'Transportar 588 unidades, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (76, 'NORMAL', 9, '610', 'kilogramas', '2011-7-20 17:13', '34 Km', 57, 351, 352, 'Transportar 610 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (77, 'ECONOMICO', 'oO -----', '709', 'cabeças', '2013-7-13 17:29', '39 Km', 65, 353, 354, 'Transportar 709 cabeças, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (77, 'EXPRESSO', 5, '166', 'unidades', '2011-8-13 2:16', '45 Km', 65, 353, 354, 'Transportar 166 unidades, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (78, 'ECONOMICO', 'oO -----', '675', 'gramas', '2013-1-2 16:17', '51 Km', 70, 355, 356, 'Transportar 675 gramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (78, 'NORMAL', 1, '788', 'kilogramas', '2011-7-3 7:52', '29 Km', 98, 355, 356, 'Transportar 788 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (79, 'ECONOMICO', 'oO -----', '440', 'cabeças', '2013-3-2 5:7', '53 Km', 26, 357, 358, 'Transportar 440 cabeças, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (79, 'EXPRESSO', 10, '510', 'gramas', '2011-6-8 11:40', '56 Km', 41, 357, 358, 'Transportar 510 gramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (80, 'ECONOMICO', 'oO -----', '479', 'gramas', '2013-5-14 10:32', '52 Km', 15, 359, 360, 'Transportar 479 gramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (80, 'ECONOMICO', 10, '813', 'kilogramas', '2011-1-17 0:54', '36 Km', 83, 359, 360, 'Transportar 813 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (81, 'ECONOMICO', 'oO -----', '861', 'cabeças', '2013-7-31 16:8', '59 Km', 34, 361, 362, 'Transportar 861 cabeças, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (81, 'NORMAL', 9, '181', 'cabeças', '2011-3-28 16:8', '50 Km', 34, 361, 362, 'Transportar 181 cabeças, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (82, 'NORMAL', 'oO -----', '197', 'gramas', '2013-9-21 4:50', '15 Km', 42, 363, 364, 'Transportar 197 gramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (82, 'NORMAL', 3, '193', 'unidades', '2011-4-7 20:39', '50 Km', 57, 363, 364, 'Transportar 193 unidades, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (83, 'NORMAL', 'oO -----', '891', 'kilogramas', '2013-4-21 6:4', '24 Km', 34, 365, 366, 'Transportar 891 kilogramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (83, 'NORMAL', 1, '344', 'kilogramas', '2011-5-27 10:59', '37 Km', 80, 365, 366, 'Transportar 344 kilogramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (84, 'NORMAL', 'oO -----', '664', 'kilogramas', '2013-3-16 1:2', '69 Km', 4, 367, 368, 'Transportar 664 kilogramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (84, 'ECONOMICO', 8, '515', 'gramas', '2011-12-6 9:42', '24 Km', 71, 367, 368, 'Transportar 515 gramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (85, 'ECONOMICO', 'oO -----', '233', 'kilogramas', '2013-9-26 16:2', '17 Km', 23, 369, 370, 'Transportar 233 kilogramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (85, 'ECONOMICO', 5, '293', 'kilogramas', '2011-7-25 4:33', '8 Km', 26, 369, 370, 'Transportar 293 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (86, 'ECONOMICO', 'oO -----', '160', 'cabeças', '2013-4-9 1:42', '10 Km', 19, 371, 372, 'Transportar 160 cabeças, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (86, 'EXPRESSO', 3, '553', 'kilogramas', '2011-4-20 15:26', '53 Km', 70, 371, 372, 'Transportar 553 kilogramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (87, 'EXPRESSO', 'oO -----', '877', 'gramas', '2013-3-1 20:50', '26 Km', 60, 373, 374, 'Transportar 877 gramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (87, 'ECONOMICO', 8, '878', 'gramas', '2011-3-4 6:5', '40 Km', 3, 373, 374, 'Transportar 878 gramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (88, 'EXPRESSO', 'oO -----', '452', 'kilogramas', '2013-2-8 0:35', '29 Km', 79, 375, 376, 'Transportar 452 kilogramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (88, 'NORMAL', 6, '143', 'gramas', '2011-4-15 15:42', '20 Km', 34, 375, 376, 'Transportar 143 gramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (89, 'ECONOMICO', 'oO -----', '217', 'unidades', '2013-3-19 13:45', '37 Km', 19, 377, 378, 'Transportar 217 unidades, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (89, 'NORMAL', 7, '404', 'gramas', '2011-2-15 15:34', '7 Km', 80, 377, 378, 'Transportar 404 gramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (90, 'EXPRESSO', 'oO -----', '367', 'cabeças', '2013-4-6 19:54', '14 Km', 87, 379, 380, 'Transportar 367 cabeças, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (90, 'NORMAL', 5, '913', 'gramas', '2011-7-18 3:36', '55 Km', 7, 379, 380, 'Transportar 913 gramas, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (91, 'EXPRESSO', 'oO -----', '658', 'cabeças', '2013-8-25 19:56', '30 Km', 98, 381, 382, 'Transportar 658 cabeças, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (91, 'EXPRESSO', 1, '103', 'kilogramas', '2011-9-17 17:2', '61 Km', 33, 381, 382, 'Transportar 103 kilogramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (92, 'EXPRESSO', 'oO -----', '558', 'kilogramas', '2013-1-20 4:11', '50 Km', 18, 383, 384, 'Transportar 558 kilogramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (92, 'ECONOMICO', 8, '134', 'gramas', '2011-7-24 13:14', '37 Km', 74, 383, 384, 'Transportar 134 gramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (93, 'EXPRESSO', 'oO -----', '573', 'gramas', '2013-5-28 9:15', '41 Km', 58, 385, 386, 'Transportar 573 gramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (93, 'ECONOMICO', 1, '236', 'gramas', '2011-7-15 4:44', '61 Km', 36, 385, 386, 'Transportar 236 gramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (94, 'NORMAL', 'oO -----', '809', 'unidades', '2013-12-30 18:6', '51 Km', 87, 387, 388, 'Transportar 809 unidades, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (94, 'EXPRESSO', 7, '231', 'gramas', '2011-1-25 19:39', '35 Km', 58, 387, 388, 'Transportar 231 gramas, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (95, 'ECONOMICO', 'oO -----', '156', 'cabeças', '2013-8-28 13:49', '8 Km', 21, 389, 390, 'Transportar 156 cabeças, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (95, 'ECONOMICO', 1, '388', 'kilogramas', '2011-1-5 14:27', '5 Km', 16, 389, 390, 'Transportar 388 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (96, 'ECONOMICO', 'oO -----', '924', 'gramas', '2013-12-29 15:44', '13 Km', 6, 391, 392, 'Transportar 924 gramas, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (96, 'ECONOMICO', 9, '496', 'kilogramas', '2011-5-22 5:2', '11 Km', 5, 391, 392, 'Transportar 496 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (97, 'ECONOMICO', 'oO -----', '134', 'unidades', '2013-10-4 11:36', '55 Km', 40, 393, 394, 'Transportar 134 unidades, usando o serviço ECONOMICO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (97, 'ECONOMICO', 5, '394', 'kilogramas', '2011-6-25 16:34', '64 Km', 29, 393, 394, 'Transportar 394 kilogramas, usando o serviço ECONOMICO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (98, 'EXPRESSO', 'oO -----', '648', 'gramas', '2013-8-20 6:25', '52 Km', 24, 395, 396, 'Transportar 648 gramas, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (98, 'EXPRESSO', 1, '853', 'unidades', '2011-9-26 4:7', '36 Km', 3, 395, 396, 'Transportar 853 unidades, usando o serviço EXPRESSO.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (99, 'NORMAL', 'oO -----', '534', 'kilogramas', '2013-7-17 9:58', '52 Km', 25, 397, 398, 'Transportar 534 kilogramas, usando o serviço NORMAL.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (99, 'NORMAL', 6, '936', 'unidades', '2011-12-2 21:26', '9 Km', 100, 397, 398, 'Transportar 936 unidades, usando o serviço NORMAL.');
 
-INSERT INTO Servico(id, tipoServico, tipoCarga, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (100, 'EXPRESSO', 'oO -----', '739', 'cabeças', '2013-4-11 15:46', '16 Km', 9, 399, 400, 'Transportar 739 cabeças, usando o serviço EXPRESSO.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
+VALUES (100, 'NORMAL', 4, '153', 'cabeças', '2011-7-4 1:22', '35 Km', 90, 399, 400, 'Transportar 153 cabeças, usando o serviço NORMAL.');
 
