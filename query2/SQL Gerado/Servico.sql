@@ -1,302 +1,302 @@
 -- Popula a tabela Servico.
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (1, 'EXPRESSO', 10, '234', 'kilogramas', '2011-6-16 6:13', '60 Km', 10, 201, 202, 'A carga deve estar com gps, por toda a viagem.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (1, 'ECONOMICO', 3, '783', 'unidades', '2011-9-27 23:29', 1029, 'Km', 6, 201, 202, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (2, 'ECONOMICO', 8, '878', 'unidades', '2011-8-7 7:15', '32 Km', 3, 203, 204, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (2, 'EXPRESSO', 2, '668', 'cabeças', '2011-5-16 18:12', 369, 'Km', 41, 203, 204, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (3, 'ECONOMICO', 4, '261', 'unidades', '2011-6-11 17:43', '37 Km', 97, 205, 206, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (3, 'EXPRESSO', 10, '411', 'gramas', '2011-3-21 18:7', 81, 'Km', 89, 205, 206, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (4, 'EXPRESSO', 8, '806', 'gramas', '2011-2-20 7:56', '8 Km', 44, 207, 208, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (4, 'ECONOMICO', 7, '497', 'gramas', '2011-1-12 7:16', 410, 'milhas', 30, 207, 208, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (5, 'EXPRESSO', 4, '337', 'gramas', '2011-2-5 0:56', '4 Km', 9, 209, 210, 'Em caso de acidentes, muito cuidado com a carga, pois é altamente inflamável.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (5, 'EXPRESSO', 1, '987', 'cabeças', '2011-9-14 16:14', 1163, 'Km', 74, 209, 210, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (6, 'ECONOMICO', 5, '208', 'cabeças', '2011-6-22 20:14', '22 Km', 61, 211, 212, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (6, 'ECONOMICO', 5, '439', 'cabeças', '2011-1-17 17:22', 286, 'Km', 16, 211, 212, 'A carga deve estar com gps, por toda a viagem.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (7, 'EXPRESSO', 7, '489', 'gramas', '2011-8-22 9:53', '67 Km', 47, 213, 214, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (7, 'NORMAL', 4, '703', 'unidades', '2011-2-10 0:43', 682, 'milhas', 21, 213, 214, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (8, 'EXPRESSO', 9, '638', 'cabeças', '2011-7-23 3:3', '24 Km', 18, 215, 216, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (8, 'NORMAL', 6, '387', 'gramas', '2011-2-4 2:12', 1151, 'Km', 100, 215, 216, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (9, 'NORMAL', 8, '910', 'unidades', '2011-2-11 1:34', '11 Km', 75, 217, 218, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (9, 'NORMAL', 4, '538', 'kilogramas', '2011-2-9 19:33', 779, 'milhas', 37, 217, 218, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (10, 'EXPRESSO', 6, '487', 'cabeças', '2011-7-1 22:47', '29 Km', 87, 219, 220, 'Evitar caminhos esburacados, a carga é muito sensível.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (10, 'EXPRESSO', 6, '122', 'kilogramas', '2011-8-12 23:18', 106, 'Km', 49, 219, 220, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (11, 'NORMAL', 5, '604', 'gramas', '2011-7-19 6:13', '54 Km', 2, 221, 222, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (11, 'EXPRESSO', 2, '811', 'kilogramas', '2011-10-25 11:22', 1049, 'Km', 24, 221, 222, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (12, 'ECONOMICO', 7, '947', 'kilogramas', '2011-3-9 17:59', '30 Km', 90, 223, 224, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (12, 'ECONOMICO', 4, '361', 'kilogramas', '2011-7-19 1:57', 90, 'Km', 95, 223, 224, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (13, 'EXPRESSO', 7, '810', 'cabeças', '2011-9-3 15:27', '67 Km', 34, 225, 226, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (13, 'NORMAL', 1, '909', 'gramas', '2011-3-17 11:30', 282, 'milhas', 94, 225, 226, 'A carga deve ser deixada no campo ao lado do prédio principal.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (14, 'ECONOMICO', 2, '183', 'gramas', '2011-4-13 21:1', '54 Km', 76, 227, 228, 'Evitar caminhos esburacados, a carga é muito sensível.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (14, 'EXPRESSO', 8, '311', 'cabeças', '2011-6-7 14:39', 459, 'milhas', 30, 227, 228, 'A entrega deve ser feita pela manhã.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (15, 'ECONOMICO', 10, '210', 'gramas', '2011-1-18 4:5', '1 Km', 78, 229, 230, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (15, 'ECONOMICO', 2, '457', 'kilogramas', '2011-8-7 21:42', 831, 'milhas', 57, 229, 230, 'A carga deve ser deixada no campo ao lado do prédio principal.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (16, 'ECONOMICO', 5, '426', 'gramas', '2011-2-3 12:26', '64 Km', 85, 231, 232, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (16, 'NORMAL', 8, '651', 'unidades', '2011-3-6 4:26', 27, 'Km', 75, 231, 232, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (17, 'NORMAL', 7, '760', 'gramas', '2011-4-19 13:5', '60 Km', 41, 233, 234, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (17, 'EXPRESSO', 8, '304', 'kilogramas', '2011-1-29 13:44', 348, 'milhas', 66, 233, 234, 'A carga deve estar com gps, por toda a viagem.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (18, 'ECONOMICO', 8, '576', 'kilogramas', '2011-1-12 22:16', '7 Km', 6, 235, 236, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (18, 'NORMAL', 7, '647', 'gramas', '2011-11-20 15:59', 666, 'milhas', 70, 235, 236, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (19, 'EXPRESSO', 10, '758', 'kilogramas', '2011-9-14 14:20', '59 Km', 96, 237, 238, 'Em caso de acidentes, muito cuidado com a carga, pois é altamente inflamável.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (19, 'EXPRESSO', 2, '369', 'gramas', '2011-7-11 8:44', 757, 'milhas', 56, 237, 238, 'A entrega deve ser feita pela manhã.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (20, 'NORMAL', 3, '246', 'unidades', '2011-5-27 23:5', '66 Km', 29, 239, 240, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (20, 'NORMAL', 3, '773', 'unidades', '2011-5-19 18:4', 837, 'Km', 93, 239, 240, 'A carga deve estar com gps, por toda a viagem.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (21, 'EXPRESSO', 6, '717', 'cabeças', '2011-12-23 6:15', '29 Km', 42, 241, 242, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (21, 'NORMAL', 4, '908', 'gramas', '2011-12-11 20:47', 870, 'milhas', 22, 241, 242, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (22, 'ECONOMICO', 7, '957', 'cabeças', '2011-10-21 13:31', '35 Km', 50, 243, 244, 'Pegaro máximo de estradas livres.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (22, 'NORMAL', 10, '128', 'unidades', '2011-5-15 4:41', 1046, 'milhas', 8, 243, 244, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (23, 'ECONOMICO', 9, '617', 'kilogramas', '2011-8-9 16:37', '46 Km', 45, 245, 246, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (23, 'ECONOMICO', 8, '308', 'cabeças', '2011-5-17 13:23', 1166, 'milhas', 64, 245, 246, 'Pegaro máximo de estradas livres.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (24, 'EXPRESSO', 2, '627', 'kilogramas', '2011-7-19 0:47', '55 Km', 9, 247, 248, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (24, 'ECONOMICO', 10, '310', 'cabeças', '2011-9-28 19:56', 518, 'Km', 57, 247, 248, 'A carga deve ser deixada no campo ao lado do prédio principal.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (25, 'ECONOMICO', 1, '754', 'gramas', '2011-10-12 19:40', '13 Km', 13, 249, 250, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (25, 'NORMAL', 6, '664', 'kilogramas', '2011-1-19 22:22', 275, 'milhas', 78, 249, 250, 'Passar apenas por caminhos asfaltados.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (26, 'NORMAL', 10, '609', 'gramas', '2011-10-1 18:29', '51 Km', 75, 251, 252, 'Atrasos não serão tolerados para essa entrega.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (26, 'ECONOMICO', 7, '830', 'unidades', '2011-4-4 5:42', 95, 'milhas', 7, 251, 252, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (27, 'NORMAL', 7, '678', 'cabeças', '2011-7-14 14:36', '35 Km', 67, 253, 254, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (27, 'NORMAL', 2, '741', 'cabeças', '2011-3-18 10:22', 1019, 'milhas', 32, 253, 254, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (28, 'EXPRESSO', 10, '566', 'kilogramas', '2011-3-6 7:9', '40 Km', 3, 255, 256, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (28, 'EXPRESSO', 1, '938', 'unidades', '2011-2-5 13:4', 852, 'Km', 78, 255, 256, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (29, 'EXPRESSO', 3, '853', 'unidades', '2011-9-21 8:35', '2 Km', 77, 257, 258, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (29, 'NORMAL', 9, '293', 'unidades', '2011-12-17 18:18', 72, 'Km', 45, 257, 258, 'Atrasos não serão tolerados para essa entrega.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (30, 'EXPRESSO', 8, '759', 'cabeças', '2011-1-2 3:0', '3 Km', 33, 259, 260, 'A carga deve estar com gps, por toda a viagem.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (30, 'NORMAL', 2, '318', 'cabeças', '2011-7-5 12:54', 498, 'milhas', 86, 259, 260, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (31, 'EXPRESSO', 9, '922', 'gramas', '2011-8-7 0:0', '34 Km', 64, 261, 262, 'A carga deve ser deixada no campo ao lado do prédio principal.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (31, 'EXPRESSO', 7, '738', 'cabeças', '2011-3-29 22:16', 1048, 'Km', 22, 261, 262, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (32, 'NORMAL', 6, '915', 'cabeças', '2011-8-29 5:5', '67 Km', 53, 263, 264, 'Evitar caminhos esburacados, a carga é muito sensível.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (32, 'EXPRESSO', 8, '718', 'gramas', '2011-8-23 0:14', 227, 'Km', 70, 263, 264, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (33, 'EXPRESSO', 3, '223', 'gramas', '2011-1-4 23:56', '50 Km', 65, 265, 266, 'Pegaro máximo de estradas livres.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (33, 'EXPRESSO', 5, '399', 'cabeças', '2011-3-17 7:28', 580, 'milhas', 70, 265, 266, 'Evitar caminhos esburacados, a carga é muito sensível.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (34, 'NORMAL', 5, '318', 'cabeças', '2011-10-3 2:46', '62 Km', 76, 267, 268, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (34, 'ECONOMICO', 6, '765', 'unidades', '2011-1-18 15:39', 273, 'Km', 69, 267, 268, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (35, 'NORMAL', 10, '142', 'gramas', '2011-3-2 5:33', '37 Km', 49, 269, 270, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (35, 'EXPRESSO', 10, '285', 'kilogramas', '2011-11-21 14:25', 88, 'milhas', 81, 269, 270, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (36, 'EXPRESSO', 1, '909', 'kilogramas', '2011-2-5 11:3', '22 Km', 50, 271, 272, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (36, 'ECONOMICO', 4, '154', 'gramas', '2011-6-10 22:36', 649, 'Km', 23, 271, 272, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (37, 'EXPRESSO', 5, '896', 'kilogramas', '2011-1-13 0:37', '7 Km', 73, 273, 274, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (37, 'ECONOMICO', 10, '370', 'kilogramas', '2011-10-3 20:55', 289, 'milhas', 4, 273, 274, 'A entrega deve ser feita pela manhã.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (38, 'EXPRESSO', 10, '114', 'kilogramas', '2011-10-26 16:52', '66 Km', 44, 275, 276, 'A carga deve estar com gps, por toda a viagem.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (38, 'EXPRESSO', 9, '489', 'cabeças', '2011-6-24 20:5', 131, 'Km', 15, 275, 276, 'A carga deve ser deixada no campo ao lado do prédio principal.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (39, 'EXPRESSO', 4, '436', 'unidades', '2011-1-9 20:17', '41 Km', 34, 277, 278, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (39, 'NORMAL', 9, '626', 'gramas', '2011-8-21 16:16', 252, 'milhas', 75, 277, 278, 'Em caso de acidentes, muito cuidado com a carga, pois é altamente inflamável.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (40, 'NORMAL', 6, '334', 'kilogramas', '2011-3-10 17:24', '57 Km', 66, 279, 280, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (40, 'EXPRESSO', 1, '908', 'gramas', '2011-12-7 1:1', 622, 'milhas', 23, 279, 280, 'A carga deve ser deixada no campo ao lado do prédio principal.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (41, 'NORMAL', 10, '500', 'kilogramas', '2011-3-16 19:48', '15 Km', 75, 281, 282, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (41, 'EXPRESSO', 4, '805', 'kilogramas', '2011-3-29 6:23', 256, 'Km', 69, 281, 282, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (42, 'ECONOMICO', 6, '541', 'cabeças', '2011-9-12 5:43', '5 Km', 34, 283, 284, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (42, 'EXPRESSO', 1, '766', 'kilogramas', '2011-7-1 3:54', 1032, 'Km', 86, 283, 284, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (43, 'NORMAL', 5, '763', 'cabeças', '2011-8-6 16:48', '18 Km', 55, 285, 286, 'Em caso de acidentes, muito cuidado com a carga, pois é altamente inflamável.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (43, 'NORMAL', 6, '222', 'unidades', '2011-1-29 13:47', 90, 'milhas', 72, 285, 286, 'A entrega deve ser feita pela manhã.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (44, 'EXPRESSO', 10, '189', 'unidades', '2011-3-11 1:53', '69 Km', 66, 287, 288, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (44, 'EXPRESSO', 6, '593', 'kilogramas', '2011-2-20 11:57', 929, 'milhas', 54, 287, 288, 'Passar apenas por caminhos asfaltados.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (45, 'NORMAL', 10, '417', 'kilogramas', '2011-10-6 15:4', '50 Km', 61, 289, 290, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (45, 'ECONOMICO', 4, '597', 'kilogramas', '2011-9-11 18:41', 1069, 'Km', 4, 289, 290, 'A carga deve ser deixada no campo ao lado do prédio principal.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (46, 'EXPRESSO', 1, '611', 'gramas', '2011-2-18 14:53', '49 Km', 79, 291, 292, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (46, 'EXPRESSO', 10, '160', 'cabeças', '2011-1-4 8:23', 848, 'Km', 13, 291, 292, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (47, 'NORMAL', 7, '321', 'cabeças', '2011-11-3 3:23', '35 Km', 54, 293, 294, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (47, 'NORMAL', 7, '333', 'unidades', '2011-12-14 19:37', 773, 'milhas', 94, 293, 294, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (48, 'EXPRESSO', 1, '634', 'unidades', '2011-12-19 18:8', '1 Km', 76, 295, 296, 'A carga deve ser deixada no campo ao lado do prédio principal.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (48, 'EXPRESSO', 6, '751', 'kilogramas', '2011-11-16 4:19', 86, 'Km', 94, 295, 296, 'A carga deve ser deixada no campo ao lado do prédio principal.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (49, 'EXPRESSO', 5, '444', 'gramas', '2011-4-4 8:38', '31 Km', 75, 297, 298, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (49, 'EXPRESSO', 1, '970', 'kilogramas', '2011-5-12 7:51', 868, 'milhas', 10, 297, 298, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (50, 'EXPRESSO', 3, '973', 'kilogramas', '2011-10-13 1:41', '59 Km', 66, 299, 300, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (50, 'NORMAL', 7, '853', 'cabeças', '2011-3-3 6:0', 947, 'Km', 100, 299, 300, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (51, 'NORMAL', 7, '255', 'unidades', '2011-7-15 7:2', '66 Km', 75, 301, 302, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (51, 'EXPRESSO', 5, '382', 'cabeças', '2011-12-28 3:22', 171, 'milhas', 2, 301, 302, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (52, 'NORMAL', 1, '843', 'unidades', '2011-10-4 6:11', '31 Km', 93, 303, 304, 'Passar apenas por caminhos asfaltados.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (52, 'NORMAL', 10, '968', 'cabeças', '2011-8-7 10:12', 804, 'milhas', 91, 303, 304, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (53, 'ECONOMICO', 10, '565', 'gramas', '2011-2-16 0:41', '43 Km', 64, 305, 306, 'Passar apenas por caminhos asfaltados.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (53, 'EXPRESSO', 9, '540', 'cabeças', '2011-4-27 16:12', 754, 'Km', 97, 305, 306, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (54, 'NORMAL', 5, '135', 'gramas', '2011-8-22 7:44', '4 Km', 36, 307, 308, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (54, 'ECONOMICO', 2, '547', 'unidades', '2011-2-20 16:42', 324, 'Km', 52, 307, 308, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (55, 'EXPRESSO', 1, '741', 'cabeças', '2011-10-26 10:23', '61 Km', 12, 309, 310, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (55, 'ECONOMICO', 3, '347', 'unidades', '2011-1-9 8:24', 915, 'Km', 15, 309, 310, 'A carga deve ser deixada no campo ao lado do prédio principal.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (56, 'EXPRESSO', 2, '969', 'kilogramas', '2011-5-4 17:50', '60 Km', 53, 311, 312, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (56, 'NORMAL', 2, '828', 'cabeças', '2011-6-1 7:39', 66, 'milhas', 47, 311, 312, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (57, 'NORMAL', 9, '685', 'unidades', '2011-6-9 10:29', '10 Km', 23, 313, 314, 'Pegaro máximo de estradas livres.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (57, 'ECONOMICO', 2, '168', 'gramas', '2011-3-27 12:29', 886, 'Km', 87, 313, 314, 'Passar apenas por caminhos asfaltados.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (58, 'EXPRESSO', 4, '609', 'unidades', '2011-11-26 17:24', '13 Km', 82, 315, 316, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (58, 'ECONOMICO', 8, '368', 'cabeças', '2011-4-25 3:38', 1138, 'Km', 79, 315, 316, 'Em caso de acidentes, muito cuidado com a carga, pois é altamente inflamável.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (59, 'ECONOMICO', 5, '491', 'kilogramas', '2011-2-4 22:44', '13 Km', 14, 317, 318, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (59, 'NORMAL', 8, '244', 'gramas', '2011-11-4 2:58', 680, 'Km', 29, 317, 318, 'Atrasos não serão tolerados para essa entrega.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (60, 'ECONOMICO', 9, '442', 'gramas', '2011-6-29 9:19', '31 Km', 71, 319, 320, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (60, 'NORMAL', 4, '232', 'unidades', '2011-5-29 2:41', 454, 'milhas', 59, 319, 320, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (61, 'ECONOMICO', 5, '441', 'cabeças', '2011-8-20 9:4', '63 Km', 70, 321, 322, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (61, 'NORMAL', 3, '719', 'unidades', '2011-11-13 9:8', 163, 'milhas', 31, 321, 322, 'Passar apenas por caminhos asfaltados.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (62, 'EXPRESSO', 3, '466', 'kilogramas', '2011-5-15 1:26', '53 Km', 66, 323, 324, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (62, 'EXPRESSO', 7, '101', 'kilogramas', '2011-5-15 13:22', 378, 'milhas', 64, 323, 324, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (63, 'ECONOMICO', 5, '892', 'unidades', '2011-4-5 12:48', '1 Km', 81, 325, 326, 'Pegaro máximo de estradas livres.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (63, 'ECONOMICO', 1, '771', 'gramas', '2011-8-17 4:34', 169, 'milhas', 63, 325, 326, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (64, 'EXPRESSO', 5, '160', 'gramas', '2011-2-5 20:2', '67 Km', 28, 327, 328, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (64, 'ECONOMICO', 3, '306', 'unidades', '2011-10-9 15:32', 689, 'Km', 60, 327, 328, 'Atrasos não serão tolerados para essa entrega.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (65, 'ECONOMICO', 7, '213', 'unidades', '2011-9-9 13:10', '34 Km', 24, 329, 330, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (65, 'EXPRESSO', 2, '197', 'unidades', '2011-3-19 16:22', 651, 'milhas', 7, 329, 330, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (66, 'ECONOMICO', 6, '244', 'cabeças', '2011-4-22 0:49', '37 Km', 33, 331, 332, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (66, 'NORMAL', 6, '973', 'kilogramas', '2011-1-8 16:9', 614, 'milhas', 82, 331, 332, 'A carga deve estar com gps, por toda a viagem.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (67, 'EXPRESSO', 2, '151', 'kilogramas', '2011-5-1 17:56', '13 Km', 23, 333, 334, 'Passar apenas por caminhos asfaltados.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (67, 'ECONOMICO', 6, '297', 'kilogramas', '2011-10-4 19:31', 364, 'milhas', 40, 333, 334, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (68, 'EXPRESSO', 5, '436', 'gramas', '2011-3-6 4:39', '19 Km', 56, 335, 336, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (68, 'EXPRESSO', 1, '198', 'gramas', '2011-4-22 19:9', 399, 'Km', 45, 335, 336, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (69, 'EXPRESSO', 8, '459', 'cabeças', '2011-7-18 22:4', '50 Km', 29, 337, 338, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (69, 'NORMAL', 5, '554', 'cabeças', '2011-9-24 0:51', 519, 'Km', 56, 337, 338, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (70, 'EXPRESSO', 4, '319', 'cabeças', '2011-9-25 21:43', '62 Km', 85, 339, 340, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (70, 'ECONOMICO', 9, '176', 'cabeças', '2011-1-8 12:47', 725, 'Km', 78, 339, 340, 'Passar apenas por caminhos asfaltados.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (71, 'NORMAL', 3, '704', 'cabeças', '2011-4-21 3:16', '67 Km', 60, 341, 342, 'A carga deve estar com gps, por toda a viagem.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (71, 'NORMAL', 6, '952', 'unidades', '2011-2-20 19:14', 916, 'milhas', 74, 341, 342, 'A carga deve estar com gps, por toda a viagem.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (72, 'ECONOMICO', 4, '237', 'kilogramas', '2011-2-8 9:22', '36 Km', 47, 343, 344, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (72, 'EXPRESSO', 3, '758', 'cabeças', '2011-7-1 10:57', 1079, 'Km', 5, 343, 344, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (73, 'EXPRESSO', 3, '700', 'cabeças', '2011-9-24 20:56', '11 Km', 15, 345, 346, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (73, 'EXPRESSO', 8, '845', 'cabeças', '2011-2-2 6:43', 194, 'Km', 90, 345, 346, 'A carga deve estar com gps, por toda a viagem.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (74, 'ECONOMICO', 7, '577', 'cabeças', '2011-2-21 3:27', '24 Km', 83, 347, 348, 'A entrega deve ser feita pela manhã.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (74, 'NORMAL', 3, '478', 'unidades', '2011-7-29 10:53', 855, 'Km', 95, 347, 348, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (75, 'ECONOMICO', 8, '526', 'gramas', '2011-9-4 22:15', '7 Km', 72, 349, 350, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (75, 'ECONOMICO', 2, '671', 'gramas', '2011-11-2 8:28', 509, 'Km', 7, 349, 350, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (76, 'NORMAL', 7, '198', 'cabeças', '2011-4-20 16:15', '1 Km', 24, 351, 352, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (76, 'ECONOMICO', 10, '460', 'kilogramas', '2011-7-11 10:55', 161, 'milhas', 8, 351, 352, 'A carga deve estar com gps, por toda a viagem.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (77, 'EXPRESSO', 2, '694', 'unidades', '2011-12-17 18:48', '22 Km', 66, 353, 354, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (77, 'NORMAL', 1, '867', 'kilogramas', '2011-7-5 6:7', 1161, 'milhas', 68, 353, 354, 'A carga deve estar com gps, por toda a viagem.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (78, 'ECONOMICO', 8, '885', 'cabeças', '2011-1-7 6:54', '19 Km', 95, 355, 356, 'Atrasos não serão tolerados para essa entrega.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (78, 'EXPRESSO', 8, '459', 'kilogramas', '2011-1-7 11:7', 359, 'Km', 22, 355, 356, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (79, 'EXPRESSO', 6, '936', 'kilogramas', '2011-4-13 16:52', '38 Km', 88, 357, 358, 'Evitar caminhos esburacados, a carga é muito sensível.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (79, 'EXPRESSO', 6, '665', 'unidades', '2011-6-15 11:27', 171, 'Km', 21, 357, 358, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (80, 'EXPRESSO', 4, '950', 'cabeças', '2011-9-20 2:26', '61 Km', 95, 359, 360, 'A entrega deve ser feita pela manhã.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (80, 'EXPRESSO', 7, '456', 'kilogramas', '2011-10-1 20:40', 734, 'Km', 60, 359, 360, 'A carga deve estar com gps, por toda a viagem.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (81, 'ECONOMICO', 10, '949', 'cabeças', '2011-8-21 18:8', '3 Km', 42, 361, 362, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (81, 'ECONOMICO', 1, '433', 'unidades', '2011-12-28 15:42', 240, 'Km', 92, 361, 362, 'Atrasos não serão tolerados para essa entrega.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (82, 'ECONOMICO', 10, '841', 'unidades', '2011-7-9 20:23', '44 Km', 42, 363, 364, 'A entrega deve ser feita pela manhã.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (82, 'ECONOMICO', 3, '725', 'unidades', '2011-3-24 1:46', 358, 'Km', 46, 363, 364, 'Atrasos não serão tolerados para essa entrega.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (83, 'NORMAL', 2, '220', 'kilogramas', '2011-1-28 2:48', '37 Km', 15, 365, 366, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (83, 'NORMAL', 2, '200', 'kilogramas', '2011-10-22 22:41', 839, 'Km', 30, 365, 366, 'Atrasos não serão tolerados para essa entrega.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (84, 'ECONOMICO', 3, '161', 'kilogramas', '2011-9-26 21:35', '15 Km', 59, 367, 368, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (84, 'EXPRESSO', 8, '387', 'kilogramas', '2011-6-28 19:42', 642, 'milhas', 27, 367, 368, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (85, 'EXPRESSO', 9, '437', 'gramas', '2011-1-13 7:31', '48 Km', 56, 369, 370, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (85, 'ECONOMICO', 5, '671', 'kilogramas', '2011-12-15 14:28', 247, 'milhas', 66, 369, 370, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (86, 'NORMAL', 4, '244', 'kilogramas', '2011-2-6 3:6', '61 Km', 45, 371, 372, 'Passar apenas por caminhos asfaltados.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (86, 'EXPRESSO', 8, '266', 'unidades', '2011-2-20 10:29', 602, 'milhas', 27, 371, 372, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (87, 'EXPRESSO', 10, '608', 'gramas', '2011-1-18 9:17', '44 Km', 19, 373, 374, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (87, 'EXPRESSO', 10, '274', 'cabeças', '2011-11-11 23:42', 1137, 'milhas', 97, 373, 374, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (88, 'NORMAL', 3, '954', 'cabeças', '2011-11-9 2:17', '52 Km', 23, 375, 376, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (88, 'ECONOMICO', 2, '104', 'gramas', '2011-11-29 23:20', 50, 'Km', 70, 375, 376, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (89, 'NORMAL', 3, '615', 'gramas', '2011-10-5 23:23', '10 Km', 63, 377, 378, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (89, 'ECONOMICO', 4, '551', 'gramas', '2011-10-13 10:58', 262, 'Km', 69, 377, 378, 'A carga deve estar com gps, por toda a viagem.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (90, 'ECONOMICO', 6, '144', 'kilogramas', '2011-2-10 8:48', '47 Km', 7, 379, 380, 'Atrasos não serão tolerados para essa entrega.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (90, 'EXPRESSO', 7, '993', 'kilogramas', '2011-10-16 14:46', 209, 'Km', 84, 379, 380, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (91, 'NORMAL', 8, '569', 'unidades', '2011-12-24 5:56', '3 Km', 14, 381, 382, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (91, 'ECONOMICO', 9, '327', 'kilogramas', '2011-4-24 1:19', 299, 'Km', 19, 381, 382, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (92, 'EXPRESSO', 6, '590', 'unidades', '2011-7-6 17:21', '32 Km', 83, 383, 384, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (92, 'ECONOMICO', 3, '954', 'unidades', '2011-11-17 10:15', 119, 'Km', 64, 383, 384, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (93, 'EXPRESSO', 7, '579', 'gramas', '2011-4-9 13:8', '37 Km', 64, 385, 386, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (93, 'NORMAL', 8, '394', 'unidades', '2011-1-25 16:26', 1066, 'Km', 81, 385, 386, 'A entrega deve ser feita pela manhã.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (94, 'ECONOMICO', 6, '737', 'kilogramas', '2011-2-25 3:23', '63 Km', 70, 387, 388, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (94, 'ECONOMICO', 4, '423', 'gramas', '2011-11-18 6:42', 92, 'Km', 68, 387, 388, 'Atrasos não serão tolerados para essa entrega.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (95, 'EXPRESSO', 3, '484', 'cabeças', '2011-10-17 9:33', '65 Km', 59, 389, 390, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (95, 'ECONOMICO', 9, '180', 'kilogramas', '2011-12-13 21:58', 420, 'Km', 44, 389, 390, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (96, 'EXPRESSO', 1, '340', 'gramas', '2011-6-24 13:34', '31 Km', 14, 391, 392, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (96, 'EXPRESSO', 8, '896', 'gramas', '2011-3-5 0:33', 993, 'milhas', 73, 391, 392, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (97, 'EXPRESSO', 5, '545', 'kilogramas', '2011-5-5 18:59', '56 Km', 50, 393, 394, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (97, 'EXPRESSO', 3, '663', 'gramas', '2011-12-10 5:57', 298, 'milhas', 34, 393, 394, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (98, 'EXPRESSO', 3, '334', 'kilogramas', '2011-11-16 17:9', '60 Km', 33, 395, 396, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (98, 'ECONOMICO', 7, '171', 'gramas', '2011-6-25 6:11', 527, 'Km', 18, 395, 396, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (99, 'NORMAL', 8, '903', 'gramas', '2011-4-24 15:0', '29 Km', 27, 397, 398, null);
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (99, 'EXPRESSO', 6, '849', 'kilogramas', '2011-12-2 3:59', 456, 'milhas', 76, 397, 398, null);
 
-INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (100, 'EXPRESSO', 7, '275', 'cabeças', '2011-10-15 14:5', '59 Km', 99, 399, 400, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
+INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,Empresa_id, origem, destino, descricao)
+VALUES (100, 'EXPRESSO', 10, '374', 'unidades', '2011-10-28 3:57', 604, 'milhas', 48, 399, 400, 'Evitar caminhos esburacados, a carga é muito sensível.');
 

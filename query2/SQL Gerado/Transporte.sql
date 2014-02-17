@@ -1,602 +1,602 @@
 -- Popula a tabela Transporte.
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (1, '2012-12-8 0:26', null, 978.84, 87, 95, 63);
+VALUES (1, '2012-1-27 6:35', null, 396.37, 11, 19, 72);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (2, '2012-1-6 10:28', null, 772.14, 48, 93, 60);
+VALUES (2, '2012-10-27 13:23', '2013-9-14 21:37', 600.22, 48, 63, 63);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (3, '2012-3-14 2:44', '2013-3-16 2:0', 420.87, 84, 51, 56);
+VALUES (3, '2012-6-15 6:21', '2013-3-23 17:8', 400.62, 71, 78, 15);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (4, '2012-11-1 2:18', null, 795.79, 39, 6, 16);
+VALUES (4, '2012-12-5 17:5', '2013-1-2 20:16', 811.94, 51, 84, 57);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (5, '2012-4-3 17:46', null, 838.36, 49, 10, 87);
+VALUES (5, '2012-4-6 17:7', null, 247.30, 30, 22, 89);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (6, '2012-12-5 1:43', '2013-3-10 13:56', 958.64, 65, 33, 27);
+VALUES (6, '2012-8-4 14:38', null, 212.05, 22, 65, 25);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (7, '2012-3-22 18:10', null, 810.79, 19, 100, 98);
+VALUES (7, '2012-11-7 23:38', null, 173.94, 31, 12, 43);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (8, '2012-4-12 21:49', null, 577.84, 13, 23, 18);
+VALUES (8, '2012-11-21 7:29', '2013-1-3 6:3', 180.89, 90, 21, 18);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (9, '2012-3-13 21:26', null, 863.81, 61, 59, 85);
+VALUES (9, '2012-4-27 17:26', '2013-3-23 0:1', 586.09, 80, 74, 23);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (10, '2012-9-11 15:8', null, 209.04, 14, 79, 98);
+VALUES (10, '2012-10-11 22:15', null, 943.52, 84, 36, 66);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (11, '2012-4-9 22:20', null, 718.22, 31, 26, 86);
+VALUES (11, '2012-10-4 9:21', null, 891.33, 10, 12, 37);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (12, '2012-9-6 5:1', null, 299.10, 69, 80, 41);
+VALUES (12, '2012-6-14 16:50', '2013-8-23 21:3', 181.92, 12, 49, 96);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (13, '2012-11-23 17:43', '2013-4-12 13:20', 796.67, 98, 73, 44);
+VALUES (13, '2012-5-17 2:29', null, 100.36, 70, 38, 10);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (14, '2012-5-25 23:38', '2013-6-20 3:21', 744.65, 29, 3, 42);
+VALUES (14, '2012-9-29 19:24', null, 445.92, 20, 94, 66);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (15, '2012-8-29 19:43', null, 184.92, 37, 78, 98);
+VALUES (15, '2012-3-9 6:15', null, 163.29, 23, 96, 50);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (16, '2012-9-3 10:25', '2013-11-5 12:20', 989.74, 50, 91, 6);
+VALUES (16, '2012-2-24 12:7', null, 466.08, 86, 49, 57);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (17, '2012-12-29 7:35', null, 335.80, 54, 5, 97);
+VALUES (17, '2012-7-21 3:59', null, 143.43, 47, 81, 19);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (18, '2012-10-17 3:56', null, 168.81, 22, 4, 77);
+VALUES (18, '2012-5-21 3:6', null, 395.71, 14, 56, 60);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (19, '2012-8-3 18:21', null, 583.40, 12, 77, 9);
+VALUES (19, '2012-6-14 10:55', null, 178.40, 81, 32, 8);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (20, '2012-9-2 6:32', null, 191.34, 44, 27, 19);
+VALUES (20, '2012-1-23 23:59', '2013-9-11 21:25', 660.16, 19, 68, 9);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (21, '2012-2-23 8:59', null, 404.30, 73, 95, 49);
+VALUES (21, '2012-1-22 16:46', null, 608.18, 36, 47, 10);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (22, '2012-10-21 18:25', null, 533.82, 15, 98, 38);
+VALUES (22, '2012-7-4 2:35', '2013-3-13 3:35', 806.99, 18, 85, 55);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (23, '2012-11-23 12:21', null, 843.01, 16, 94, 8);
+VALUES (23, '2012-11-21 22:13', null, 322.53, 99, 36, 28);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (24, '2012-12-3 21:0', null, 853.13, 89, 11, 44);
+VALUES (24, '2012-6-22 7:7', null, 151.94, 52, 21, 14);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (25, '2012-2-9 2:43', '2013-4-17 14:37', 603.64, 77, 72, 99);
+VALUES (25, '2012-5-21 14:39', null, 724.19, 10, 43, 74);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (26, '2012-6-29 16:12', null, 366.45, 98, 34, 57);
+VALUES (26, '2012-5-9 1:17', null, 323.94, 54, 38, 16);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (27, '2012-2-28 18:44', '2013-6-24 16:1', 908.82, 84, 35, 24);
+VALUES (27, '2012-1-8 4:15', null, 179.35, 25, 74, 74);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (28, '2012-11-7 15:44', null, 641.55, 53, 60, 72);
+VALUES (28, '2012-12-8 18:58', null, 899.65, 21, 60, 33);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (29, '2012-7-26 15:4', null, 896.27, 99, 16, 81);
+VALUES (29, '2012-4-6 16:46', '2013-5-5 11:28', 659.53, 37, 50, 23);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (30, '2012-10-9 8:15', '2013-6-2 9:42', 644.39, 14, 53, 46);
+VALUES (30, '2012-7-7 0:21', '2013-12-6 11:2', 680.68, 69, 85, 74);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (31, '2012-12-22 18:18', null, 574.53, 59, 93, 15);
+VALUES (31, '2012-7-2 0:1', '2013-10-5 20:19', 541.32, 59, 89, 73);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (32, '2012-12-12 12:7', null, 813.44, 17, 1, 30);
+VALUES (32, '2012-7-18 12:48', '2013-11-11 7:4', 654.22, 94, 41, 54);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (33, '2012-2-16 20:15', null, 235.83, 22, 72, 59);
+VALUES (33, '2012-9-12 14:34', null, 214.63, 17, 8, 38);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (34, '2012-9-6 22:37', '2013-10-29 5:50', 982.71, 41, 26, 31);
+VALUES (34, '2012-12-23 23:14', null, 808.09, 87, 35, 98);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (35, '2012-9-22 5:48', null, 635.92, 19, 5, 4);
+VALUES (35, '2012-6-10 22:56', null, 657.64, 87, 56, 66);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (36, '2012-5-3 18:21', null, 321.59, 93, 50, 50);
+VALUES (36, '2012-6-15 23:31', null, 199.18, 13, 16, 33);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (37, '2012-7-27 12:4', null, 716.64, 53, 88, 8);
+VALUES (37, '2012-10-17 0:1', null, 354.41, 28, 82, 82);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (38, '2012-2-14 21:53', '2013-12-2 14:29', 868.84, 18, 57, 10);
+VALUES (38, '2012-2-2 8:41', null, 736.38, 18, 83, 86);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (39, '2012-3-16 17:52', '2013-5-18 21:52', 575.27, 74, 51, 6);
+VALUES (39, '2012-3-15 23:38', null, 923.80, 11, 74, 58);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (40, '2012-1-28 21:4', '2013-8-16 14:23', 303.09, 11, 33, 53);
+VALUES (40, '2012-5-27 5:18', null, 150.10, 27, 52, 80);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (41, '2012-3-5 8:34', null, 950.17, 80, 24, 84);
+VALUES (41, '2012-3-10 7:3', null, 416.41, 57, 8, 86);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (42, '2012-7-25 7:23', null, 474.04, 79, 99, 69);
+VALUES (42, '2012-9-14 15:8', '2013-5-8 2:12', 190.27, 26, 86, 90);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (43, '2012-1-6 16:1', null, 186.84, 63, 56, 13);
+VALUES (43, '2012-3-10 17:31', '2013-2-23 0:37', 625.62, 17, 17, 78);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (44, '2012-1-23 20:4', null, 882.33, 34, 74, 8);
+VALUES (44, '2012-8-6 21:50', '2013-6-22 20:10', 896.14, 47, 64, 91);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (45, '2012-11-11 8:14', null, 274.66, 69, 40, 59);
+VALUES (45, '2012-2-15 19:9', null, 175.84, 39, 65, 54);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (46, '2012-11-7 8:38', null, 295.52, 37, 6, 64);
+VALUES (46, '2012-1-3 23:53', '2013-4-5 2:3', 378.30, 89, 92, 58);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (47, '2012-8-17 4:27', '2013-3-24 9:43', 166.64, 16, 46, 81);
+VALUES (47, '2012-3-19 12:27', null, 866.14, 86, 3, 55);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (48, '2012-8-2 16:44', null, 633.54, 85, 61, 33);
+VALUES (48, '2012-6-21 1:24', '2013-12-29 6:38', 993.96, 54, 2, 100);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (49, '2012-11-20 4:55', null, 129.12, 43, 75, 21);
+VALUES (49, '2012-12-7 9:27', '2013-4-4 19:4', 468.42, 69, 74, 67);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (50, '2012-3-25 12:11', null, 836.12, 54, 43, 96);
+VALUES (50, '2012-8-20 3:21', '2013-7-19 19:44', 897.10, 51, 77, 75);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (51, '2012-3-26 6:45', null, 784.98, 42, 59, 1);
+VALUES (51, '2012-5-15 15:32', '2013-8-25 15:20', 858.07, 85, 8, 61);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (52, '2012-11-19 4:14', '2013-10-20 16:42', 948.54, 72, 65, 1);
+VALUES (52, '2012-4-10 19:9', null, 307.23, 42, 11, 57);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (53, '2012-9-21 15:56', null, 499.80, 79, 45, 61);
+VALUES (53, '2012-11-25 6:41', null, 211.43, 68, 6, 27);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (54, '2012-4-14 2:49', null, 434.68, 74, 91, 61);
+VALUES (54, '2012-5-13 6:32', null, 995.78, 89, 61, 93);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (55, '2012-10-13 2:36', '2013-9-11 13:11', 358.23, 59, 63, 48);
+VALUES (55, '2012-4-19 9:30', '2013-7-14 12:18', 644.20, 93, 83, 85);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (56, '2012-6-26 16:47', null, 492.37, 57, 42, 76);
+VALUES (56, '2012-9-12 8:46', '2013-5-18 4:13', 910.73, 87, 31, 50);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (57, '2012-11-14 0:7', null, 117.92, 79, 59, 89);
+VALUES (57, '2012-10-12 9:38', '2013-9-3 0:50', 136.11, 42, 77, 72);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (58, '2012-8-27 2:14', '2013-4-14 9:30', 284.03, 98, 31, 20);
+VALUES (58, '2012-2-15 14:30', '2013-4-24 17:26', 182.35, 61, 87, 42);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (59, '2012-5-23 15:11', null, 129.15, 44, 9, 38);
+VALUES (59, '2012-9-16 22:50', '2013-11-6 2:31', 639.61, 58, 100, 72);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (60, '2012-10-19 9:58', '2013-10-23 8:24', 361.12, 76, 5, 73);
+VALUES (60, '2012-1-21 21:30', null, 100.99, 10, 54, 92);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (61, '2012-12-14 17:27', null, 738.69, 31, 2, 11);
+VALUES (61, '2012-10-11 3:35', '2013-1-27 12:59', 990.92, 53, 20, 90);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (62, '2012-4-22 0:52', null, 132.37, 22, 91, 97);
+VALUES (62, '2012-1-15 18:53', null, 103.15, 63, 94, 67);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (63, '2012-5-21 10:28', '2013-7-29 23:40', 320.28, 16, 83, 45);
+VALUES (63, '2012-7-22 19:27', '2013-7-4 7:22', 513.33, 84, 2, 30);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (64, '2012-4-14 15:24', '2013-3-18 22:34', 424.32, 99, 25, 95);
+VALUES (64, '2012-10-21 6:59', '2013-5-13 14:15', 188.42, 35, 99, 53);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (65, '2012-11-15 14:5', null, 516.26, 20, 1, 100);
+VALUES (65, '2012-3-4 7:47', '2013-5-6 17:27', 326.55, 47, 1, 93);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (66, '2012-4-19 13:39', null, 629.43, 33, 17, 73);
+VALUES (66, '2012-6-9 7:47', null, 166.01, 46, 100, 55);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (67, '2012-10-23 19:35', null, 399.60, 68, 1, 18);
+VALUES (67, '2012-12-5 20:31', '2013-7-8 6:54', 677.05, 52, 20, 10);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (68, '2012-1-27 1:44', null, 884.01, 81, 87, 11);
+VALUES (68, '2012-10-6 10:48', '2013-2-11 14:27', 131.35, 49, 97, 38);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (69, '2012-1-27 21:32', '2013-2-23 4:49', 557.12, 42, 48, 33);
+VALUES (69, '2012-11-23 10:38', null, 505.30, 74, 26, 71);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (70, '2012-12-24 12:58', '2013-10-10 1:12', 723.90, 28, 17, 86);
+VALUES (70, '2012-9-13 6:32', null, 621.43, 76, 48, 29);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (71, '2012-1-28 20:51', null, 152.66, 64, 64, 64);
+VALUES (71, '2012-9-7 6:16', '2013-7-14 23:3', 165.51, 15, 89, 93);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (72, '2012-4-1 4:49', null, 473.83, 14, 87, 96);
+VALUES (72, '2012-5-10 20:32', null, 129.54, 88, 51, 70);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (73, '2012-12-1 8:5', '2013-10-3 1:37', 420.44, 71, 81, 23);
+VALUES (73, '2012-2-11 2:54', null, 602.34, 64, 29, 55);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (74, '2012-12-17 12:39', '2013-2-25 21:16', 713.65, 92, 18, 94);
+VALUES (74, '2012-11-15 10:16', null, 794.84, 44, 14, 94);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (75, '2012-6-27 14:48', null, 979.90, 65, 27, 100);
+VALUES (75, '2012-10-14 19:54', '2013-9-16 17:47', 208.44, 28, 65, 50);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (76, '2012-8-11 11:58', '2013-9-14 14:51', 672.17, 31, 42, 81);
+VALUES (76, '2012-4-5 14:36', null, 145.07, 56, 93, 73);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (77, '2012-6-1 10:26', '2013-10-2 18:53', 190.19, 12, 83, 54);
+VALUES (77, '2012-11-26 0:26', '2013-10-19 6:17', 127.51, 56, 75, 34);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (78, '2012-8-28 12:29', '2013-2-4 19:49', 822.21, 67, 99, 18);
+VALUES (78, '2012-12-6 2:55', null, 570.35, 81, 71, 95);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (79, '2012-3-24 0:4', '2013-8-27 2:1', 755.11, 59, 71, 5);
+VALUES (79, '2012-8-4 0:49', null, 133.61, 45, 23, 48);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (80, '2012-1-14 11:52', '2013-7-10 12:16', 677.92, 47, 98, 93);
+VALUES (80, '2012-8-1 8:11', null, 309.32, 12, 72, 24);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (81, '2012-4-4 22:33', null, 984.97, 73, 66, 10);
+VALUES (81, '2012-6-7 4:49', '2013-9-27 22:58', 815.38, 88, 56, 5);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (82, '2012-11-19 6:20', '2013-3-14 19:57', 766.05, 98, 7, 11);
+VALUES (82, '2012-12-6 11:56', null, 101.13, 55, 86, 68);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (83, '2012-6-8 10:53', null, 633.29, 42, 80, 70);
+VALUES (83, '2012-9-17 1:22', null, 475.75, 76, 67, 2);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (84, '2012-1-13 5:13', '2013-3-1 23:35', 151.23, 32, 53, 93);
+VALUES (84, '2012-11-8 9:42', '2013-10-1 19:0', 109.41, 91, 22, 59);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (85, '2012-6-8 2:9', '2013-11-9 14:52', 547.42, 19, 92, 79);
+VALUES (85, '2012-3-18 7:56', null, 345.08, 77, 19, 48);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (86, '2012-2-15 2:57', '2013-4-3 20:52', 628.90, 96, 31, 8);
+VALUES (86, '2012-5-5 21:41', '2013-7-29 7:50', 190.87, 16, 91, 15);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (87, '2012-4-9 21:43', null, 555.20, 49, 82, 45);
+VALUES (87, '2012-6-15 20:55', '2013-1-15 4:15', 308.70, 81, 50, 49);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (88, '2012-12-11 17:58', null, 744.61, 99, 35, 24);
+VALUES (88, '2012-7-4 5:30', null, 600.32, 92, 71, 36);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (89, '2012-12-10 17:41', null, 857.73, 88, 32, 28);
+VALUES (89, '2012-9-13 17:41', null, 926.07, 20, 69, 10);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (90, '2012-8-17 17:25', '2013-2-7 11:59', 281.28, 65, 55, 21);
+VALUES (90, '2012-4-14 14:8', '2013-1-25 4:47', 740.70, 18, 21, 73);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (91, '2012-7-2 15:58', '2013-7-14 21:55', 955.81, 66, 87, 74);
+VALUES (91, '2012-10-10 17:39', '2013-6-24 7:5', 778.59, 12, 41, 20);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (92, '2012-6-8 8:25', null, 841.01, 29, 66, 49);
+VALUES (92, '2012-3-27 0:39', '2013-11-6 0:47', 616.32, 37, 31, 66);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (93, '2012-7-3 16:9', '2013-3-25 7:12', 383.45, 98, 96, 44);
+VALUES (93, '2012-8-18 23:57', '2013-8-17 2:2', 144.89, 83, 53, 36);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (94, '2012-1-15 17:55', '2013-6-28 20:4', 503.90, 46, 19, 37);
+VALUES (94, '2012-7-24 19:11', null, 296.73, 79, 82, 15);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (95, '2012-4-7 22:20', '2013-9-1 7:12', 475.40, 10, 1, 9);
+VALUES (95, '2012-2-21 2:56', null, 346.92, 74, 29, 100);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (96, '2012-3-26 6:35', '2013-1-19 18:51', 778.06, 68, 10, 67);
+VALUES (96, '2012-10-8 9:42', '2013-12-10 5:28', 492.12, 37, 17, 76);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (97, '2012-8-4 1:9', null, 468.42, 18, 31, 52);
+VALUES (97, '2012-6-14 1:25', '2013-7-15 10:7', 740.11, 19, 83, 14);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (98, '2012-11-27 21:21', null, 973.24, 23, 3, 63);
+VALUES (98, '2012-12-21 17:47', null, 337.32, 96, 48, 9);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (99, '2012-9-9 7:7', null, 487.87, 28, 89, 76);
+VALUES (99, '2012-5-24 23:49', null, 607.55, 76, 52, 88);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (100, '2012-10-1 19:50', '2013-5-27 1:2', 173.29, 34, 78, 50);
+VALUES (100, '2012-9-29 3:47', null, 315.99, 53, 53, 22);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (101, '2012-4-9 23:38', null, 917.77, 36, 1, 23);
+VALUES (101, '2012-10-26 16:48', null, 453.78, 93, 65, 24);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (102, '2012-8-23 5:58', null, 802.90, 15, 49, 35);
+VALUES (102, '2012-3-4 13:32', null, 789.22, 85, 96, 37);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (103, '2012-10-24 17:36', null, 477.40, 74, 8, 68);
+VALUES (103, '2012-1-24 6:44', null, 271.07, 97, 70, 80);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (104, '2012-4-14 10:38', '2013-10-4 9:32', 195.36, 40, 80, 38);
+VALUES (104, '2012-11-28 20:2', '2013-7-5 17:10', 171.84, 36, 62, 39);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (105, '2012-12-9 3:59', null, 556.82, 94, 97, 72);
+VALUES (105, '2012-4-17 23:30', null, 142.62, 23, 88, 69);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (106, '2012-5-9 8:45', '2013-2-15 11:45', 513.95, 48, 8, 90);
+VALUES (106, '2012-7-10 9:55', '2013-11-23 3:59', 791.77, 29, 53, 17);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (107, '2012-12-26 5:13', '2013-8-7 19:41', 213.28, 17, 83, 56);
+VALUES (107, '2012-1-22 19:58', null, 441.06, 18, 41, 47);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (108, '2012-8-3 21:1', null, 171.91, 59, 61, 67);
+VALUES (108, '2012-2-7 21:51', '2013-5-17 21:55', 598.04, 85, 85, 22);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (109, '2012-7-9 9:22', '2013-6-28 22:33', 921.70, 35, 54, 31);
+VALUES (109, '2012-11-9 2:37', '2013-1-23 10:37', 250.83, 18, 91, 93);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (110, '2012-8-12 0:2', '2013-4-1 6:44', 698.07, 67, 36, 62);
+VALUES (110, '2012-9-8 22:33', '2013-11-16 20:3', 166.53, 54, 89, 32);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (111, '2012-10-21 20:50', '2013-8-4 0:32', 666.56, 17, 56, 78);
+VALUES (111, '2012-8-19 7:37', '2013-1-1 19:57', 241.88, 28, 56, 6);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (112, '2012-9-8 23:31', null, 839.38, 41, 83, 94);
+VALUES (112, '2012-11-3 8:3', null, 184.18, 56, 63, 47);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (113, '2012-4-2 15:55', '2013-5-28 14:6', 130.89, 60, 9, 38);
+VALUES (113, '2012-7-23 5:7', '2013-7-24 3:25', 517.21, 11, 10, 36);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (114, '2012-8-17 23:35', '2013-6-6 17:46', 767.32, 23, 86, 13);
+VALUES (114, '2012-4-2 15:26', '2013-9-12 13:11', 110.61, 78, 63, 86);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (115, '2012-7-2 9:41', '2013-11-29 20:48', 500.69, 55, 88, 86);
+VALUES (115, '2012-1-25 16:24', '2013-1-1 6:7', 906.78, 68, 15, 43);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (116, '2012-5-26 0:23', '2013-7-25 5:4', 797.93, 54, 38, 8);
+VALUES (116, '2012-11-1 0:53', '2013-8-6 4:33', 347.71, 52, 33, 54);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (117, '2012-9-25 13:31', '2013-12-6 7:2', 255.72, 69, 1, 30);
+VALUES (117, '2012-3-24 10:35', '2013-6-12 2:23', 229.71, 19, 37, 49);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (118, '2012-10-5 8:33', null, 946.36, 74, 91, 70);
+VALUES (118, '2012-7-25 22:39', '2013-8-23 8:58', 844.51, 87, 70, 6);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (119, '2012-1-19 4:25', null, 908.38, 82, 44, 69);
+VALUES (119, '2012-2-12 23:9', '2013-8-14 17:7', 991.84, 98, 26, 71);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (120, '2012-4-16 0:14', '2013-12-12 9:12', 293.75, 91, 55, 34);
+VALUES (120, '2012-10-14 8:51', null, 817.79, 49, 95, 44);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (121, '2012-11-18 3:9', null, 384.63, 82, 84, 70);
+VALUES (121, '2012-8-5 21:54', null, 191.57, 48, 4, 43);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (122, '2012-8-7 1:12', '2013-10-1 16:8', 706.31, 32, 35, 1);
+VALUES (122, '2012-3-2 3:18', '2013-1-18 10:35', 751.42, 19, 12, 71);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (123, '2012-5-12 9:54', null, 366.03, 80, 94, 99);
+VALUES (123, '2012-9-5 13:42', null, 878.92, 42, 2, 4);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (124, '2012-5-23 15:25', null, 845.35, 45, 7, 41);
+VALUES (124, '2012-9-1 11:32', '2013-8-13 4:43', 827.83, 99, 79, 69);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (125, '2012-8-19 3:42', '2013-4-14 12:56', 348.81, 77, 40, 92);
+VALUES (125, '2012-1-24 18:12', '2013-11-15 15:16', 728.02, 13, 90, 42);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (126, '2012-11-20 10:53', null, 111.82, 26, 55, 46);
+VALUES (126, '2012-3-26 13:10', null, 446.06, 39, 19, 39);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (127, '2012-7-25 13:51', null, 831.29, 26, 42, 76);
+VALUES (127, '2012-11-29 17:17', '2013-7-19 19:15', 129.05, 57, 21, 92);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (128, '2012-5-22 3:27', '2013-1-4 16:2', 608.60, 81, 64, 41);
+VALUES (128, '2012-6-11 9:20', null, 408.07, 72, 89, 84);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (129, '2012-8-28 22:17', null, 619.39, 77, 77, 82);
+VALUES (129, '2012-12-29 0:36', '2013-2-10 15:6', 252.68, 59, 73, 56);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (130, '2012-8-12 19:36', null, 170.61, 48, 51, 9);
+VALUES (130, '2012-11-28 13:10', '2013-4-20 18:32', 886.54, 14, 67, 35);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (131, '2012-2-11 14:27', null, 136.85, 81, 42, 63);
+VALUES (131, '2012-10-1 9:55', '2013-12-4 23:43', 791.74, 42, 31, 79);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (132, '2012-4-26 8:46', '2013-8-4 21:44', 939.72, 20, 68, 100);
+VALUES (132, '2012-4-21 6:33', '2013-12-23 15:0', 838.98, 63, 15, 11);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (133, '2012-6-11 0:48', '2013-10-9 13:53', 604.35, 19, 97, 85);
+VALUES (133, '2012-3-11 10:0', null, 726.14, 18, 84, 57);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (134, '2012-11-25 7:20', null, 649.36, 78, 73, 61);
+VALUES (134, '2012-12-1 3:47', '2013-8-16 22:40', 764.48, 38, 52, 83);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (135, '2012-11-2 3:6', '2013-12-8 21:42', 129.39, 61, 99, 54);
+VALUES (135, '2012-11-5 9:29', '2013-5-6 0:36', 563.75, 42, 55, 78);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (136, '2012-7-7 21:2', '2013-5-4 20:52', 402.11, 69, 90, 5);
+VALUES (136, '2012-12-15 17:45', null, 360.37, 15, 63, 65);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (137, '2012-11-11 22:0', null, 374.98, 29, 69, 35);
+VALUES (137, '2012-2-26 13:34', '2013-11-20 5:56', 731.63, 77, 58, 73);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (138, '2012-11-14 21:24', '2013-11-1 4:26', 240.93, 81, 62, 97);
+VALUES (138, '2012-5-10 18:14', null, 108.70, 13, 78, 74);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (139, '2012-11-5 7:47', '2013-11-16 5:47', 724.98, 54, 62, 45);
+VALUES (139, '2012-3-9 11:36', '2013-6-1 7:6', 460.32, 17, 52, 37);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (140, '2012-9-25 23:13', '2013-4-25 13:2', 189.50, 21, 100, 9);
+VALUES (140, '2012-8-27 14:14', '2013-11-15 1:57', 691.25, 20, 77, 99);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (141, '2012-11-21 15:35', '2013-8-15 4:29', 832.15, 56, 52, 60);
+VALUES (141, '2012-12-23 1:0', '2013-2-9 20:4', 467.67, 94, 30, 53);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (142, '2012-11-3 3:26', '2013-9-8 10:6', 127.97, 58, 7, 63);
+VALUES (142, '2012-8-12 21:30', '2013-5-11 21:23', 359.01, 16, 62, 80);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (143, '2012-10-11 22:40', '2013-8-22 2:28', 679.45, 67, 12, 88);
+VALUES (143, '2012-2-3 15:4', '2013-5-7 8:8', 178.15, 78, 10, 99);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (144, '2012-12-29 22:35', null, 408.15, 10, 74, 25);
+VALUES (144, '2012-3-28 6:32', null, 242.57, 50, 27, 32);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (145, '2012-8-28 6:20', null, 149.82, 86, 50, 1);
+VALUES (145, '2012-1-28 5:44', '2013-12-19 11:1', 827.02, 84, 32, 17);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (146, '2012-7-13 12:57', null, 492.98, 17, 20, 25);
+VALUES (146, '2012-1-2 11:33', null, 916.19, 39, 68, 2);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (147, '2012-8-6 14:22', null, 800.95, 93, 99, 39);
+VALUES (147, '2012-7-9 23:29', '2013-2-11 3:53', 950.66, 17, 99, 18);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (148, '2012-12-19 2:2', '2013-10-3 8:30', 274.77, 80, 97, 68);
+VALUES (148, '2012-11-12 19:42', '2013-7-19 16:22', 447.55, 43, 22, 50);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (149, '2012-7-23 4:23', null, 547.79, 12, 38, 95);
+VALUES (149, '2012-3-1 7:1', '2013-11-16 0:44', 199.83, 17, 29, 65);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (150, '2012-3-26 12:45', '2013-4-16 23:13', 538.53, 50, 22, 8);
+VALUES (150, '2012-3-17 16:15', null, 239.88, 18, 48, 17);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (151, '2012-10-24 13:19', null, 106.80, 83, 62, 72);
+VALUES (151, '2012-9-29 6:16', null, 156.47, 15, 8, 62);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (152, '2012-2-13 10:38', '2013-11-18 3:41', 504.20, 15, 19, 69);
+VALUES (152, '2012-4-12 23:21', null, 227.80, 46, 71, 44);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (153, '2012-4-14 9:50', null, 119.18, 99, 84, 31);
+VALUES (153, '2012-8-21 16:31', null, 842.52, 12, 26, 76);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (154, '2012-1-7 22:9', '2013-9-8 15:34', 480.38, 55, 99, 7);
+VALUES (154, '2012-12-3 5:1', '2013-6-26 12:25', 390.11, 37, 69, 87);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (155, '2012-10-19 3:54', null, 930.24, 23, 32, 73);
+VALUES (155, '2012-10-15 7:13', null, 958.77, 22, 86, 25);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (156, '2012-3-28 4:41', null, 211.59, 13, 21, 42);
+VALUES (156, '2012-12-13 4:10', null, 810.63, 89, 57, 35);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (157, '2012-8-25 8:46', '2013-11-12 17:6', 274.78, 16, 77, 28);
+VALUES (157, '2012-10-16 3:10', null, 959.90, 87, 39, 64);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (158, '2012-4-10 9:17', null, 971.34, 12, 33, 74);
+VALUES (158, '2012-4-10 2:18', '2013-8-3 6:7', 932.83, 55, 98, 78);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (159, '2012-8-27 2:25', null, 186.53, 81, 63, 3);
+VALUES (159, '2012-7-11 21:6', null, 123.06, 92, 77, 49);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (160, '2012-3-10 2:29', '2013-4-26 22:35', 172.10, 12, 75, 62);
+VALUES (160, '2012-10-27 14:0', '2013-7-28 23:49', 918.68, 17, 12, 5);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (161, '2012-8-8 0:55', null, 639.11, 25, 20, 92);
+VALUES (161, '2012-2-25 22:33', '2013-4-4 19:9', 461.51, 52, 93, 53);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (162, '2012-2-4 4:36', '2013-2-20 2:2', 273.70, 93, 65, 40);
+VALUES (162, '2012-1-20 23:21', null, 639.62, 75, 17, 17);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (163, '2012-10-6 13:49', '2013-8-15 19:54', 874.96, 49, 50, 15);
+VALUES (163, '2012-10-21 20:43', null, 987.66, 58, 59, 42);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (164, '2012-1-26 17:2', '2013-7-6 15:0', 894.41, 94, 41, 68);
+VALUES (164, '2012-9-17 9:41', '2013-6-9 5:12', 816.95, 10, 14, 70);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (165, '2012-8-24 10:48', null, 987.20, 15, 6, 1);
+VALUES (165, '2012-8-29 21:5', null, 145.97, 29, 45, 13);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (166, '2012-7-14 0:54', '2013-3-2 21:13', 995.60, 95, 9, 37);
+VALUES (166, '2012-7-26 4:49', null, 329.78, 60, 22, 66);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (167, '2012-8-20 18:59', '2013-7-29 20:39', 281.08, 56, 2, 31);
+VALUES (167, '2012-3-13 22:29', null, 467.41, 16, 62, 100);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (168, '2012-11-6 5:42', '2013-10-17 8:40', 778.35, 66, 26, 28);
+VALUES (168, '2012-12-1 21:8', '2013-11-9 4:59', 161.59, 62, 73, 3);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (169, '2012-3-29 13:41', null, 739.21, 69, 36, 56);
+VALUES (169, '2012-2-28 16:7', '2013-12-7 15:28', 718.14, 54, 89, 46);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (170, '2012-2-13 0:29', '2013-12-23 14:54', 965.20, 46, 20, 50);
+VALUES (170, '2012-6-18 10:0', '2013-12-7 13:1', 148.36, 92, 19, 9);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (171, '2012-8-9 14:51', null, 603.49, 10, 6, 92);
+VALUES (171, '2012-5-28 18:41', null, 677.53, 29, 49, 55);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (172, '2012-11-28 13:27', null, 488.29, 68, 48, 60);
+VALUES (172, '2012-6-6 16:41', null, 281.27, 87, 72, 61);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (173, '2012-2-26 22:55', '2013-8-2 15:49', 671.13, 72, 57, 76);
+VALUES (173, '2012-12-2 9:24', null, 128.50, 15, 6, 78);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (174, '2012-6-12 22:44', null, 123.41, 68, 46, 98);
+VALUES (174, '2012-12-6 21:32', null, 133.54, 25, 28, 1);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (175, '2012-6-16 9:41', '2013-3-26 15:31', 301.71, 98, 12, 83);
+VALUES (175, '2012-9-23 3:54', '2013-5-25 11:43', 402.37, 85, 21, 97);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (176, '2012-9-24 22:3', '2013-11-20 4:41', 126.85, 91, 18, 2);
+VALUES (176, '2012-6-3 4:28', null, 174.62, 73, 66, 95);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (177, '2012-1-3 12:24', '2013-4-10 3:15', 367.50, 63, 83, 14);
+VALUES (177, '2012-8-6 13:34', '2013-10-19 2:5', 189.63, 43, 83, 49);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (178, '2012-4-26 9:36', '2013-3-1 16:12', 779.53, 78, 87, 39);
+VALUES (178, '2012-6-12 13:29', '2013-2-16 8:16', 830.55, 22, 44, 21);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (179, '2012-9-12 11:35', '2013-11-29 2:42', 484.37, 74, 29, 7);
+VALUES (179, '2012-6-9 18:52', null, 261.10, 14, 36, 46);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (180, '2012-6-6 2:9', '2013-1-1 8:4', 384.64, 97, 82, 41);
+VALUES (180, '2012-10-27 12:39', '2013-11-18 6:11', 866.20, 97, 5, 11);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (181, '2012-8-14 3:6', '2013-11-24 4:35', 155.89, 73, 59, 58);
+VALUES (181, '2012-6-27 12:3', '2013-11-20 6:55', 418.49, 95, 10, 38);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (182, '2012-9-2 14:40', null, 106.35, 48, 96, 69);
+VALUES (182, '2012-12-15 23:56', '2013-4-5 16:50', 809.89, 40, 18, 59);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (183, '2012-3-17 8:37', null, 417.60, 13, 54, 68);
+VALUES (183, '2012-6-10 3:58', '2013-12-25 5:15', 548.59, 96, 92, 76);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (184, '2012-4-18 9:17', '2013-1-25 0:53', 125.81, 12, 5, 11);
+VALUES (184, '2012-8-17 20:20', '2013-2-15 17:23', 528.19, 56, 10, 9);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (185, '2012-2-28 3:59', null, 905.72, 11, 41, 70);
+VALUES (185, '2012-5-28 23:16', '2013-5-22 3:6', 471.14, 89, 28, 40);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (186, '2012-2-21 3:5', '2013-6-11 2:6', 226.27, 75, 92, 48);
+VALUES (186, '2012-5-15 21:51', '2013-7-15 16:32', 197.55, 93, 96, 77);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (187, '2012-2-11 23:42', '2013-12-18 4:56', 329.12, 66, 43, 32);
+VALUES (187, '2012-1-7 18:9', '2013-10-3 5:32', 473.96, 98, 32, 49);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (188, '2012-2-11 13:0', '2013-4-4 11:37', 630.34, 19, 31, 62);
+VALUES (188, '2012-5-28 22:49', null, 371.92, 54, 87, 26);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (189, '2012-10-17 14:19', null, 471.83, 99, 43, 6);
+VALUES (189, '2012-12-17 11:54', '2013-7-22 16:31', 252.57, 46, 51, 69);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (190, '2012-8-4 9:38', null, 155.36, 42, 52, 97);
+VALUES (190, '2012-11-29 17:42', null, 155.97, 59, 40, 25);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (191, '2012-11-3 21:5', '2013-4-15 10:55', 380.08, 20, 74, 57);
+VALUES (191, '2012-6-4 6:6', '2013-2-2 9:22', 272.76, 50, 71, 4);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (192, '2012-1-11 3:43', null, 284.20, 18, 32, 99);
+VALUES (192, '2012-3-4 3:10', '2013-7-11 7:37', 864.26, 20, 39, 31);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (193, '2012-4-14 23:42', null, 875.77, 68, 40, 54);
+VALUES (193, '2012-7-24 6:43', '2013-10-18 10:58', 537.26, 74, 81, 18);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (194, '2012-2-7 9:11', '2013-6-15 12:51', 907.64, 65, 92, 56);
+VALUES (194, '2012-11-15 16:34', '2013-5-14 10:26', 111.21, 92, 75, 82);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (195, '2012-3-16 14:40', '2013-3-10 23:57', 622.26, 45, 51, 1);
+VALUES (195, '2012-11-11 1:37', null, 145.47, 38, 55, 60);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (196, '2012-12-22 2:39', null, 384.75, 85, 30, 67);
+VALUES (196, '2012-3-26 23:22', '2013-1-25 1:48', 460.85, 16, 92, 67);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (197, '2012-11-2 2:59', '2013-8-3 9:31', 530.18, 65, 82, 69);
+VALUES (197, '2012-10-28 5:13', null, 343.80, 77, 19, 95);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (198, '2012-9-4 23:18', '2013-2-17 18:16', 787.94, 14, 58, 23);
+VALUES (198, '2012-3-7 3:42', null, 594.65, 81, 68, 8);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (199, '2012-5-24 13:12', '2013-9-10 2:40', 980.93, 92, 31, 32);
+VALUES (199, '2012-8-27 22:55', '2013-10-18 12:11', 308.04, 21, 69, 77);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (200, '2012-9-10 13:36', '2013-11-27 9:1', 898.86, 30, 91, 43);
+VALUES (200, '2012-7-28 19:59', null, 414.91, 14, 21, 14);
 

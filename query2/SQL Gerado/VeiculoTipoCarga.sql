@@ -1,19 +1,19 @@
 -- Popula a tabela VeiculoTipoCarga.
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (1, 2);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (1, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (1, 4);
+VALUES (2, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (1, 5);
+VALUES (3, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (2, 3);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (3, 7);
+VALUES (3, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (4, 1);
@@ -22,94 +22,82 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (4, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (5, 7);
+VALUES (5, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (5, 8);
+VALUES (5, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (6, 7);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (6, 8);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (6, 9);
+VALUES (6, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (7, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (7, 4);
+VALUES (8, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (8, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (9, 5);
+VALUES (8, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (9, 6);
+VALUES (9, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (9, 7);
+VALUES (9, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (9, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (10, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (10, 4);
+VALUES (11, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (10, 5);
+VALUES (12, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (11, 4);
+VALUES (12, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (11, 5);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (11, 6);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (12, 7);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (12, 8);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (12, 9);
+VALUES (13, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (13, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (14, 2);
+VALUES (14, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (14, 3);
+VALUES (14, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (15, 2);
+VALUES (15, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (16, 7);
+VALUES (15, 9);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (16, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (16, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (16, 5);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (17, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (17, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (17, 8);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (17, 9);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (18, 7);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (19, 7);
+VALUES (18, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (19, 8);
@@ -118,28 +106,28 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (19, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (20, 3);
+VALUES (19, 10);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (20, 4);
+VALUES (20, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (21, 7);
+VALUES (20, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (21, 8);
+VALUES (20, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (21, 9);
+VALUES (21, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (22, 4);
+VALUES (22, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (22, 5);
+VALUES (22, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (23, 1);
+VALUES (22, 10);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (23, 2);
@@ -148,22 +136,25 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (23, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (24, 2);
+VALUES (23, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (24, 3);
+VALUES (24, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (25, 8);
+VALUES (24, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (25, 9);
+VALUES (24, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (26, 8);
+VALUES (25, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (26, 9);
+VALUES (25, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (26, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (27, 8);
@@ -172,28 +163,34 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (27, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (27, 10);
+VALUES (28, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (28, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (29, 8);
+VALUES (28, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (29, 9);
+VALUES (29, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (29, 10);
+VALUES (30, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (30, 7);
+VALUES (30, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (31, 2);
+VALUES (30, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (31, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (31, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (31, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (32, 5);
@@ -205,19 +202,16 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (32, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (33, 5);
+VALUES (33, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (34, 7);
+VALUES (34, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (34, 8);
+VALUES (34, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (35, 5);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (35, 6);
+VALUES (35, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (36, 3);
@@ -226,199 +220,175 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (36, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (36, 5);
+VALUES (37, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (37, 2);
+VALUES (37, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (37, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (38, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (38, 3);
+VALUES (39, 5);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (39, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (39, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (40, 2);
+VALUES (40, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (41, 5);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (41, 6);
+VALUES (40, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (41, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (42, 3);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (42, 4);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (42, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (43, 2);
+VALUES (42, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (44, 8);
+VALUES (43, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (44, 9);
+VALUES (43, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (45, 2);
+VALUES (43, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (45, 3);
+VALUES (44, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (44, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (45, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (46, 7);
+VALUES (45, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (46, 8);
+VALUES (46, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (47, 6);
+VALUES (47, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (48, 7);
+VALUES (48, 5);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (48, 6);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (49, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (49, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (49, 8);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (50, 2);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (50, 3);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (50, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (51, 2);
+VALUES (50, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (51, 3);
+VALUES (51, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (51, 4);
+VALUES (51, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (52, 2);
+VALUES (51, 9);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (52, 6);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (52, 7);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (52, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (53, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (53, 7);
+VALUES (54, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (53, 8);
+VALUES (55, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (54, 1);
+VALUES (55, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (55, 1);
+VALUES (56, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (55, 2);
+VALUES (56, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (55, 3);
+VALUES (56, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (56, 7);
+VALUES (57, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (56, 8);
+VALUES (58, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (57, 3);
+VALUES (58, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (58, 2);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (58, 3);
+VALUES (59, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (59, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (60, 2);
+VALUES (60, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (60, 3);
+VALUES (60, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (60, 4);
+VALUES (60, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (61, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (61, 5);
+VALUES (62, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (62, 4);
+VALUES (63, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (62, 5);
+VALUES (64, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (62, 6);
+VALUES (65, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (63, 3);
+VALUES (65, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (63, 4);
+VALUES (66, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (63, 5);
+VALUES (67, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (64, 8);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (64, 9);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (65, 1);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (65, 2);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (66, 3);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (66, 4);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (66, 5);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (67, 7);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (67, 8);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (67, 9);
+VALUES (67, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (68, 6);
@@ -430,22 +400,22 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (69, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (69, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (69, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (70, 2);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (70, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (70, 4);
+VALUES (71, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (71, 4);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (71, 5);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (72, 6);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (72, 7);
+VALUES (72, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (73, 6);
@@ -454,70 +424,82 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (74, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (75, 8);
+VALUES (74, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (75, 9);
+VALUES (75, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (76, 6);
+VALUES (76, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (76, 7);
+VALUES (77, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (77, 1);
+VALUES (77, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (77, 2);
+VALUES (77, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (78, 1);
+VALUES (78, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (79, 1);
+VALUES (78, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (80, 2);
+VALUES (78, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (80, 3);
+VALUES (79, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (81, 7);
+VALUES (79, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (81, 8);
+VALUES (79, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (82, 1);
+VALUES (80, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (83, 5);
+VALUES (81, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (83, 6);
+VALUES (82, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (82, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (82, 5);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (83, 2);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (83, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (84, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (84, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (84, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (84, 6);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (84, 7);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (85, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (85, 4);
+VALUES (86, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (85, 5);
+VALUES (86, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (86, 2);
+VALUES (87, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (87, 8);
@@ -526,25 +508,19 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (87, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (88, 6);
+VALUES (88, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (88, 7);
+VALUES (89, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (89, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (89, 4);
+VALUES (90, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (89, 5);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (90, 2);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (90, 3);
+VALUES (90, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (91, 8);
@@ -556,53 +532,44 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (91, 10);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (92, 6);
+VALUES (92, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (92, 7);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (93, 3);
+VALUES (92, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (93, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (94, 3);
+VALUES (93, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (94, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (95, 8);
+VALUES (95, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (95, 9);
+VALUES (96, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (96, 3);
+VALUES (96, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (96, 4);
+VALUES (96, 10);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (97, 4);
+VALUES (97, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (97, 5);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (97, 6);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (98, 4);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (99, 4);
+VALUES (98, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (99, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (100, 6);
+VALUES (100, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (100, 5);
 

@@ -20,6 +20,11 @@ DESCRICOES = [
 "A carga deve ser deixada no campo ao lado do prédio principal.",
 "A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los",
 ]
+DISTANCIA_MAXIMA = 1200
+UNIDADES_DE_DISTANCIA = [
+'Km',
+'milhas'
+]
 
 # Variável de controle do id dos serviços.
 __idServico = 1 # Primeiro id.
@@ -83,9 +88,11 @@ def dataAleatoria():
 	return data
 
 def distanciaAleatoria():
-	distancia = str(random.choice(range(1, 70)))
-	distancia += " Km"
+	distancia = str(random.choice(range(1, DISTANCIA_MAXIMA)))
 	return distancia
+
+def unidadeDistanciaAleatoria():
+	return random.choice(UNIDADES_DE_DISTANCIA)
 
 def getDescricaoAleatoria():
 	descricao = random.choice(DESCRICOES)
@@ -102,7 +109,7 @@ def insert():
 	distancia = distanciaAleatoria()
 
 	sql = "INSERT INTO Servico(id, tipoServico, TipoCarga_id, "
-	sql +="quantidadeCarga, unidadeCarga, dataPedido, distancia, "
+	sql +="quantidadeCarga, unidadeCarga, dataPedido, distancia, unidadeDistancia,"
 	sql +="Empresa_id, origem, destino, descricao)\n"
 	sql +="VALUES (" + str(id)
 	sql +=", '" + tipoServico + "'"
@@ -110,7 +117,8 @@ def insert():
 	sql +=", '" + quantidade + "'"
 	sql +=", '" + unidade + "'"
 	sql +=", '" + dataPedido + "'"
-	sql +=", '" + distancia + "'"
+	sql +=", " + distancia + ""
+	sql +=", '" + unidadeDistanciaAleatoria() + "'"
 	sql +=", " + str(idEmpresaAleatorio())
 	sql +=", " + str(nextIdEndereco())
 	sql +=", " + str(nextIdEndereco())

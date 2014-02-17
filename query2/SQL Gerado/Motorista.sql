@@ -1,302 +1,302 @@
 -- Popula a tabela Motorista.
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (1, 'Rashad Romer', '221.233.746-00', '9193215', '78011536691', true, 1, 1);
+VALUES (1, 'Rashad Romer', '108.233.379-88', '7903218', '71331530495', false, 1, 1);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (2, 'Teresa Tant', '160.234.659-08', '3783222', '19181544089', false, 2, 2);
+VALUES (2, 'Teresa Tant', '930.234.856-62', '2823222', '59721546699', false, 2, 2);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (3, 'Kyoko Korn', '903.235.760-94', '6603236', '23321552720', true, 3, 3);
+VALUES (3, 'Kyoko Korn', '544.235.476-06', '6293239', '24861550510', false, 3, 3);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (4, 'Latonya Leaman', '214.236.662-04', '0993240', '04271565644', false, 4, 4);
+VALUES (4, 'Latonya Leaman', '280.236.592-21', '9973247', '95501561260', true, 4, 4);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (5, 'Luigi Lamay', '508.237.884-73', '4443252', '00411579417', false, 5, 5);
+VALUES (5, 'Luigi Lamay', '469.237.080-46', '5333259', '99591571744', true, 5, 5);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (6, 'Suzanne Scola', '575.238.132-27', '5443267', '76281588337', false, 6, 6);
+VALUES (6, 'Suzanne Scola', '617.238.935-58', '8303264', '59721587377', true, 6, 6);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (7, 'Tabitha Tunnell', '675.239.845-69', '4313273', '17581590556', true, 7, 7);
+VALUES (7, 'Tabitha Tunnell', '918.239.045-51', '9463272', '13861597495', false, 7, 7);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (8, 'Lonny Lacasse', '012.240.311-08', '9103287', '79231606751', true, 8, 8);
+VALUES (8, 'Lonny Lacasse', '614.240.178-79', '9593281', '43801609212', false, 8, 8);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (9, 'Tangela Trowbridge', '761.241.162-62', '6333296', '59521611651', false, 9, 9);
+VALUES (9, 'Tangela Trowbridge', '378.241.713-81', '0033291', '86091615460', true, 9, 9);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (10, 'Theressa Tarkington', '043.242.388-81', '4143302', '54541620455', false, 10, 10);
+VALUES (10, 'Theressa Tarkington', '293.242.354-86', '5313305', '13741624088', true, 10, 10);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (11, 'Bettye Beaubien', '248.243.717-60', '9853315', '84561638468', false, 11, 11);
+VALUES (11, 'Bettye Beaubien', '198.243.848-08', '0743316', '39741636173', true, 11, 11);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (12, 'Sung Southall', '007.244.173-28', '0343323', '65811646548', false, 12, 12);
+VALUES (12, 'Sung Southall', '765.244.071-55', '7503323', '88191642750', true, 12, 12);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (13, 'Leighann Logan', '959.245.093-15', '7053334', '00171652985', true, 13, 13);
+VALUES (13, 'Leighann Logan', '714.245.193-73', '3203331', '77911656981', true, 13, 13);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (14, 'Avery Almanzar', '803.246.899-03', '4183347', '79151661813', true, 14, 14);
+VALUES (14, 'Avery Almanzar', '822.246.501-87', '4143346', '80791665660', true, 14, 14);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (15, 'Horace Huber', '201.247.120-03', '0373352', '91201672446', true, 15, 15);
+VALUES (15, 'Horace Huber', '405.247.236-85', '4843356', '60801670931', true, 15, 15);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (16, 'Candace Calderone', '168.248.063-11', '5883369', '76331689743', true, 16, 16);
+VALUES (16, 'Candace Calderone', '839.248.746-38', '2863364', '97471680784', true, 16, 16);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (17, 'Selma Siegler', '293.249.623-79', '6293376', '70861698062', true, 17, 17);
+VALUES (17, 'Selma Siegler', '275.249.059-82', '0503373', '35091696048', true, 17, 17);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (18, 'Ok Oyler', '822.250.866-94', '8523387', '81871706111', false, 18, 18);
+VALUES (18, 'Ok Oyler', '384.250.731-16', '1263388', '99341705879', true, 18, 18);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (19, 'Rex Raynes', '112.251.985-74', '3883391', '36441710157', false, 19, 19);
+VALUES (19, 'Rex Raynes', '152.251.960-85', '0243395', '70591717355', false, 19, 19);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (20, 'Mariela Mccorkle', '506.252.297-83', '7683401', '23161722086', false, 20, 20);
+VALUES (20, 'Mariela Mccorkle', '167.252.685-49', '3323401', '69671726132', false, 20, 20);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (21, 'Andres Auman', '633.253.606-66', '7813412', '26761731558', false, 21, 21);
+VALUES (21, 'Andres Auman', '315.253.213-26', '8633418', '10781733763', true, 21, 21);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (22, 'Vera Vannote', '138.254.508-36', '4093426', '73941749308', false, 22, 22);
+VALUES (22, 'Vera Vannote', '166.254.192-90', '6593427', '05631742597', false, 22, 22);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (23, 'Cristine Condie', '590.255.854-31', '3943433', '82631758780', true, 23, 23);
+VALUES (23, 'Cristine Condie', '605.255.300-42', '5413437', '32121751462', false, 23, 23);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (24, 'Andree Audet', '327.256.422-53', '8503440', '43521768859', false, 24, 24);
+VALUES (24, 'Andree Audet', '275.256.381-04', '6823442', '06661769888', true, 24, 24);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (25, 'Samual Sparacino', '168.257.490-70', '0753452', '91651777699', false, 25, 25);
+VALUES (25, 'Samual Sparacino', '443.257.204-60', '9023456', '88241774082', true, 25, 25);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (26, 'Rosalba Riehl', '042.258.605-62', '6383460', '30901782018', true, 26, 26);
+VALUES (26, 'Rosalba Riehl', '636.258.009-66', '8393468', '90651789077', false, 26, 26);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (27, 'Blair Becerra', '517.259.097-91', '9273470', '81971794300', false, 27, 27);
+VALUES (27, 'Blair Becerra', '209.259.233-90', '9163472', '44361793518', true, 27, 27);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (28, 'Ilene Iman', '453.260.482-25', '1053484', '86471802482', true, 28, 28);
+VALUES (28, 'Ilene Iman', '392.260.097-98', '0383481', '58831805139', true, 28, 28);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (29, 'Sherley Stuber', '614.261.102-75', '0833491', '09921813734', false, 29, 29);
+VALUES (29, 'Sherley Stuber', '698.261.371-64', '7473496', '87311818991', true, 29, 29);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (30, 'Leslee Lafler', '056.262.677-57', '2043509', '46261828274', false, 30, 30);
+VALUES (30, 'Leslee Lafler', '179.262.822-11', '6553507', '46531829102', true, 30, 30);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (31, 'Lavonne Leverette', '828.263.569-39', '3793513', '85731839576', true, 31, 31);
+VALUES (31, 'Lavonne Leverette', '377.263.993-50', '5093517', '47841835137', false, 31, 31);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (32, 'Chantal Chubb', '127.264.817-96', '0313529', '61671849124', true, 32, 32);
+VALUES (32, 'Chantal Chubb', '134.264.069-95', '0143525', '12161848613', false, 32, 32);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (33, 'Ozie Ottley', '609.265.839-10', '5663535', '53581850307', true, 33, 33);
+VALUES (33, 'Ozie Ottley', '632.265.668-03', '1763539', '90361853309', true, 33, 33);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (34, 'Judie Jaycox', '211.266.189-95', '6673545', '55751868128', true, 34, 34);
+VALUES (34, 'Judie Jaycox', '205.266.250-50', '9743544', '36751863965', true, 34, 34);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (35, 'Faye Fluellen', '513.267.555-18', '9373557', '60691870082', false, 35, 35);
+VALUES (35, 'Faye Fluellen', '317.267.878-31', '3393551', '07161871819', true, 35, 35);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (36, 'Shakia Snelson', '313.268.243-81', '1313564', '75831888794', true, 36, 36);
+VALUES (36, 'Shakia Snelson', '112.268.302-04', '8373565', '62991888046', false, 36, 36);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (37, 'Louisa Lathan', '193.269.806-57', '2783576', '55391891935', false, 37, 37);
+VALUES (37, 'Louisa Lathan', '308.269.765-12', '4273578', '34411898898', true, 37, 37);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (38, 'Dexter Dana', '290.270.126-84', '3733584', '20541905951', false, 38, 38);
+VALUES (38, 'Dexter Dana', '747.270.248-32', '2243587', '75781902194', false, 38, 38);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (39, 'Ray Ridder', '870.271.507-06', '7753593', '73151913377', false, 39, 39);
+VALUES (39, 'Ray Ridder', '180.271.341-10', '2833592', '13001914797', true, 39, 39);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (40, 'Kenny Kosak', '386.272.591-49', '4563600', '54241929476', false, 40, 40);
+VALUES (40, 'Kenny Kosak', '219.272.632-01', '8223602', '88711929198', true, 40, 40);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (41, 'Eliz Elie', '189.273.862-73', '7823610', '32401939213', false, 41, 41);
+VALUES (41, 'Eliz Elie', '059.273.558-99', '8773616', '48981933867', true, 41, 41);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (42, 'Nichole Newingham', '188.274.152-55', '0983628', '09641943839', true, 42, 42);
+VALUES (42, 'Nichole Newingham', '016.274.502-61', '4823628', '63291945702', true, 42, 42);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (43, 'Saul Soto', '160.275.211-84', '1343635', '61311953866', true, 43, 43);
+VALUES (43, 'Saul Soto', '187.275.245-02', '8143633', '16461951323', false, 43, 43);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (44, 'Julissa Jone', '307.276.299-14', '5753649', '43511962047', false, 44, 44);
+VALUES (44, 'Julissa Jone', '787.276.382-77', '0633640', '14791962763', false, 44, 44);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (45, 'Abram Applin', '697.277.411-61', '7653658', '66601979660', false, 45, 45);
+VALUES (45, 'Abram Applin', '496.277.210-39', '4023655', '06381976847', false, 45, 45);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (46, 'Rosenda Rossman', '517.278.867-18', '3983669', '58281989201', false, 46, 46);
+VALUES (46, 'Rosenda Rossman', '631.278.746-85', '0763667', '34451985216', true, 46, 46);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (47, 'Nidia Nembhard', '781.279.146-64', '2123671', '20821998462', false, 47, 47);
+VALUES (47, 'Nidia Nembhard', '803.279.268-82', '5463675', '08011991765', false, 47, 47);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (48, 'Patty Preece', '972.280.322-09', '1963681', '22732005609', true, 48, 48);
+VALUES (48, 'Patty Preece', '091.280.969-23', '8663684', '20812009874', true, 48, 48);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (49, 'Berenice Butt', '854.281.781-08', '5833699', '82612013535', false, 49, 49);
+VALUES (49, 'Berenice Butt', '876.281.055-73', '3223691', '35162016611', false, 49, 49);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (50, 'Ashlee Andreas', '130.282.698-39', '4613707', '50932022020', false, 50, 50);
+VALUES (50, 'Ashlee Andreas', '615.282.204-51', '3183707', '07462028485', true, 50, 50);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (51, 'Marisela Morrow', '284.283.624-02', '3713718', '51092030139', true, 51, 51);
+VALUES (51, 'Marisela Morrow', '481.283.619-90', '9563719', '29422034574', false, 51, 51);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (52, 'Katheleen Kenan', '731.284.005-01', '4843724', '29942043703', false, 52, 52);
+VALUES (52, 'Katheleen Kenan', '266.284.751-18', '0393727', '00982042468', false, 52, 52);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (53, 'Scarlett Schiavo', '242.285.337-52', '7983735', '05742058596', true, 53, 53);
+VALUES (53, 'Scarlett Schiavo', '591.285.727-29', '2013731', '03662051706', false, 53, 53);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (54, 'Collin Cuneo', '715.286.623-30', '5403746', '47852062454', false, 54, 54);
+VALUES (54, 'Collin Cuneo', '754.286.291-73', '0743749', '24032064445', true, 54, 54);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (55, 'Sharika Severs', '670.287.763-56', '6373752', '32512076068', true, 55, 55);
+VALUES (55, 'Sharika Severs', '110.287.829-27', '4843758', '37122077014', true, 55, 55);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (56, 'Ardelle Arrieta', '379.288.204-21', '6183761', '78962083830', false, 56, 56);
+VALUES (56, 'Ardelle Arrieta', '778.288.386-37', '7583769', '58142087783', false, 56, 56);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (57, 'Gaynelle Geraghty', '444.289.182-29', '0463775', '24682091621', false, 57, 57);
+VALUES (57, 'Gaynelle Geraghty', '777.289.680-86', '9353777', '00592097912', false, 57, 57);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (58, 'Noemi Nuzzo', '958.290.608-41', '3153784', '22312104188', true, 58, 58);
+VALUES (58, 'Noemi Nuzzo', '396.290.062-41', '8383784', '34672108837', true, 58, 58);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (59, 'Willis Wilkens', '550.291.037-79', '3043791', '94172118394', true, 59, 59);
+VALUES (59, 'Willis Wilkens', '945.291.628-57', '2243798', '45052118457', false, 59, 59);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (60, 'Nisha Neilson', '372.292.713-88', '2533803', '03412128122', false, 60, 60);
+VALUES (60, 'Nisha Neilson', '673.292.200-27', '0533803', '42402123640', true, 60, 60);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (61, 'Trula Toomey', '774.293.187-94', '3713811', '20842139883', true, 61, 61);
+VALUES (61, 'Trula Toomey', '658.293.008-77', '8663817', '53252133187', true, 61, 61);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (62, 'Jonie Johnstone', '764.294.926-04', '6233820', '59462147748', true, 62, 62);
+VALUES (62, 'Jonie Johnstone', '052.294.940-24', '9543823', '95122141479', false, 62, 62);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (63, 'Tod Traughber', '020.295.944-28', '3953830', '15562155702', true, 63, 63);
+VALUES (63, 'Tod Traughber', '506.295.324-02', '1453838', '79742156267', true, 63, 63);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (64, 'Nidia Null', '192.296.888-82', '4323849', '75072166108', false, 64, 64);
+VALUES (64, 'Nidia Null', '631.296.106-66', '4203845', '36152160527', false, 64, 64);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (65, 'Mamie Mccumber', '243.297.477-34', '0383858', '44992175456', false, 65, 65);
+VALUES (65, 'Mamie Mccumber', '241.297.936-02', '4293854', '16292176157', false, 65, 65);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (66, 'Becky Babcock', '560.298.612-26', '9833865', '68252181979', true, 66, 66);
+VALUES (66, 'Becky Babcock', '901.298.236-09', '8753866', '03672180089', false, 66, 66);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (67, 'Yvone Yaple', '976.299.091-79', '6033871', '17432196512', true, 67, 67);
+VALUES (67, 'Yvone Yaple', '937.299.809-73', '3233875', '72982191022', true, 67, 67);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (68, 'Bee Breck', '818.300.450-50', '7383882', '57062200578', false, 68, 68);
+VALUES (68, 'Bee Breck', '082.300.869-23', '6903888', '79012200397', false, 68, 68);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (69, 'Ara Alves', '159.301.879-54', '4013894', '74922216556', false, 69, 69);
+VALUES (69, 'Ara Alves', '521.301.539-05', '6413898', '18902215862', true, 69, 69);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (70, 'May Mongillo', '375.302.750-02', '2333901', '71462225665', false, 70, 70);
+VALUES (70, 'May Mongillo', '666.302.953-02', '0423904', '40122224994', true, 70, 70);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (71, 'Angel Altizer', '193.303.083-36', '9633914', '23952233868', true, 71, 71);
+VALUES (71, 'Angel Altizer', '887.303.373-00', '1163915', '22852239406', false, 71, 71);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (72, 'Bo Bledsoe', '231.304.772-87', '6103928', '98782247362', true, 72, 72);
+VALUES (72, 'Bo Bledsoe', '980.304.861-86', '0953928', '99772247079', true, 72, 72);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (73, 'Andre Avis', '744.305.374-07', '8583933', '85112254931', true, 73, 73);
+VALUES (73, 'Andre Avis', '193.305.701-08', '3583935', '38612250658', false, 73, 73);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (74, 'Lanny Lennon', '963.306.410-11', '7713941', '84912267998', false, 74, 74);
+VALUES (74, 'Lanny Lennon', '303.306.705-45', '7373944', '38242266150', true, 74, 74);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (75, 'Carla Cogdill', '709.307.750-02', '8253958', '05702272075', false, 75, 75);
+VALUES (75, 'Carla Cogdill', '103.307.511-67', '2743956', '27252274869', true, 75, 75);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (76, 'Donna Dobbin', '489.308.631-61', '6733969', '08182283734', false, 76, 76);
+VALUES (76, 'Donna Dobbin', '102.308.171-40', '0843968', '89922282358', false, 76, 76);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (77, 'Troy Turman', '231.309.467-77', '2683976', '86642291761', false, 77, 77);
+VALUES (77, 'Troy Turman', '216.309.221-06', '8023970', '82262293919', true, 77, 77);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (78, 'Mozella Mcneil', '305.310.038-45', '5873983', '44192305410', true, 78, 78);
+VALUES (78, 'Mozella Mcneil', '245.310.547-79', '6993988', '24402302812', false, 78, 78);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (79, 'Jennell Jarrett', '953.311.962-06', '3323997', '72792318662', false, 79, 79);
+VALUES (79, 'Jennell Jarrett', '798.311.243-85', '8093996', '39092315159', false, 79, 79);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (80, 'Tasha Tu', '854.312.215-20', '7734002', '70272326726', false, 80, 80);
+VALUES (80, 'Tasha Tu', '384.312.393-07', '1604008', '58872324257', true, 80, 80);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (81, 'Reena Releford', '447.313.392-29', '4504017', '68312333490', false, 81, 81);
+VALUES (81, 'Reena Releford', '008.313.533-34', '0044013', '11402332773', true, 81, 81);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (82, 'Carin Crabill', '733.314.401-36', '8244023', '38092345863', false, 82, 82);
+VALUES (82, 'Carin Crabill', '481.314.385-97', '3684020', '94552343402', false, 82, 82);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (83, 'Ernestine Eberhardt', '007.315.598-25', '1234039', '77002357634', false, 83, 83);
+VALUES (83, 'Ernestine Eberhardt', '061.315.788-51', '1584032', '93732355454', false, 83, 83);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (84, 'Berenice Benshoof', '186.316.133-47', '7804049', '01602369365', false, 84, 84);
+VALUES (84, 'Berenice Benshoof', '578.316.497-71', '8264046', '43082361198', false, 84, 84);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (85, 'Sharleen Spengler', '708.317.086-38', '3734051', '78942375787', false, 85, 85);
+VALUES (85, 'Sharleen Spengler', '940.317.548-33', '5904053', '05902375938', true, 85, 85);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (86, 'Ruth Routt', '347.318.805-34', '6714064', '62942387239', false, 86, 86);
+VALUES (86, 'Ruth Routt', '509.318.694-02', '9064061', '55282382629', false, 86, 86);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (87, 'Marivel Mangum', '741.319.601-45', '0564074', '55702398849', false, 87, 87);
+VALUES (87, 'Marivel Mangum', '782.319.346-80', '2754074', '10102398368', false, 87, 87);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (88, 'Bobby Burchard', '843.320.565-89', '5694083', '13042404808', false, 88, 88);
+VALUES (88, 'Bobby Burchard', '976.320.930-65', '5784089', '97142404186', true, 88, 88);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (89, 'Candance Ceniceros', '517.321.883-28', '2334096', '36722417195', false, 89, 89);
+VALUES (89, 'Candance Ceniceros', '295.321.585-31', '6174094', '88562415502', false, 89, 89);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (90, 'Jamee Jaillet', '978.322.566-86', '1604101', '44952423590', false, 90, 90);
+VALUES (90, 'Jamee Jaillet', '220.322.450-30', '2564100', '78922420748', false, 90, 90);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (91, 'Anh Arens', '039.323.783-63', '7964115', '25292436214', true, 91, 91);
+VALUES (91, 'Anh Arens', '575.323.541-41', '2614118', '26492434470', true, 91, 91);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (92, 'Arvilla Amore', '856.324.163-53', '9024128', '83722445103', false, 92, 92);
+VALUES (92, 'Arvilla Amore', '557.324.853-04', '7904123', '30112447447', true, 92, 92);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (93, 'Sierra Suess', '791.325.307-20', '5804133', '64532458354', false, 93, 93);
+VALUES (93, 'Sierra Suess', '230.325.307-81', '7394134', '16822457724', false, 93, 93);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (94, 'Arthur Armagost', '363.326.502-42', '0124148', '80152462896', true, 94, 94);
+VALUES (94, 'Arthur Armagost', '793.326.553-64', '5704140', '69592467172', true, 94, 94);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (95, 'Cami Chaplin', '581.327.160-08', '6334151', '39602470728', true, 95, 95);
+VALUES (95, 'Cami Chaplin', '410.327.319-02', '0414151', '67192476203', false, 95, 95);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (96, 'Joi Jarrell', '961.328.471-32', '3604160', '54472487698', true, 96, 96);
+VALUES (96, 'Joi Jarrell', '454.328.841-13', '5904167', '80132481729', true, 96, 96);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (97, 'Claudie Curtsinger', '777.329.052-62', '3264175', '07842496332', true, 97, 97);
+VALUES (97, 'Claudie Curtsinger', '036.329.134-61', '7874170', '39102496084', false, 97, 97);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (98, 'Luisa Leinen', '904.330.734-45', '6494184', '92762502464', true, 98, 98);
+VALUES (98, 'Luisa Leinen', '905.330.100-48', '0994184', '46102507748', true, 98, 98);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (99, 'Kendra Kitzman', '292.331.090-98', '2604193', '49462513891', false, 99, 99);
+VALUES (99, 'Kendra Kitzman', '059.331.032-86', '4784196', '88522513352', true, 99, 99);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (100, 'Lucille Lirette', '280.332.717-59', '2004203', '19982524517', true, 100, 100);
+VALUES (100, 'Lucille Lirette', '728.332.710-47', '6894200', '32032528961', false, 100, 100);
 
