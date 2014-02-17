@@ -1,1202 +1,1202 @@
 -- Popula a tabela Endereco.
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (1, '91238-475', 'Goiás', 'Mamão', 'Rua 54', '67');
+VALUES (1, '11235-146', 'Sergipe', 'Romã', 'Rua 68', '43');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (2, '21249-033', 'Alagoas', 'Ciriguela', 'Rua 24', '59');
+VALUES (2, '01245-986', 'Alagoas', 'Guabiroba', 'Rua 56', '46');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (3, '31250-261', 'Paraíba', 'Tâmara natural', 'Rua 48', '33');
+VALUES (3, '51255-073', 'Minas Gerais', 'Goiaba branca', 'Rua 27', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (4, '91265-791', 'Mato Grosso', 'Laranja', 'Rua 27', '66');
+VALUES (4, '81266-523', 'São Paulo', 'Baru', 'Rua 21', '33');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (5, '71279-515', 'Rio Grande do Sul', 'Mirtilo', 'Rua 24', '10');
+VALUES (5, '21276-376', 'Rio Grande do Sul', 'Banana dágua', 'Rua 30', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (6, '91284-443', 'São Paulo', 'Pitomba', 'Rua 14', '85');
+VALUES (6, '71280-861', 'Amazonas', 'Uva branca', 'Rua 82', '67');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (7, '91292-423', 'Piauí', 'Naranjilla', 'Rua 94', '70');
+VALUES (7, '91295-449', 'Acre', 'Laranja valência', 'Rua 79', '86');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (8, '11300-065', 'Roraima', 'Xixa', 'Rua 92', '88');
+VALUES (8, '51302-592', 'Ceará', 'Jatobáá', 'Rua 26', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (9, '21316-519', 'Sergipe', 'Caraguata', 'Rua 51', '56');
+VALUES (9, '71318-071', 'Goiás', 'Rambutão', 'Rua 38', '51');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (10, '41329-198', 'Bahia', 'Laranja valência', 'Rua 60', '51');
+VALUES (10, '01328-977', 'Rio Grande do Norte', 'Melão', 'Rua 78', '60');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (11, '11334-567', 'Minas Gerais', 'Babaco', 'Rua 77', '29');
+VALUES (11, '41332-098', 'Alagoas', 'Lucuma', 'Rua 18', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (12, '81349-221', 'São Paulo', 'Guabiroba', 'Rua 82', '28');
+VALUES (12, '11345-029', 'Goiás', 'Jatobá', 'Rua 22', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (13, '11357-952', 'Mato Grosso', 'Pinha', 'Rua 50', '51');
+VALUES (13, '01353-419', 'Goiás', 'Juá de queimada', 'Rua 15', '31');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (14, '91365-473', 'Pará', 'Pitaya', 'Rua 59', '73');
+VALUES (14, '91362-996', 'Amazonas', 'Lucuma', 'Rua 95', '30');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (15, '01375-235', 'Rio de Janeiro', 'Coco fresco', 'Rua 51', '77');
+VALUES (15, '21375-517', 'Espírito Santo', 'Tarumã', 'Rua 83', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (16, '61389-512', 'Amapá', 'Achachairu', 'Rua 90', '31');
+VALUES (16, '31383-852', 'Rondônia', 'Mamão papaia', 'Rua 79', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (17, '31390-951', 'Minas Gerais', 'Sapoti', 'Rua 77', '16');
+VALUES (17, '01398-258', 'Minas Gerais', 'Guabiroba', 'Rua 14', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (18, '71401-361', 'Pernambuco', 'Guariroba', 'Rua 66', '85');
+VALUES (18, '01402-008', 'Roraima', 'Babaçu', 'Rua 41', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (19, '21410-917', 'Amapá', 'Biriba', 'Rua 40', '80');
+VALUES (19, '21413-335', 'Paraná', 'Pequi', 'Rua 52', '54');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (20, '21422-632', 'Santa Catarina', 'Durião', 'Rua 18', '64');
+VALUES (20, '51425-921', 'Paraná', 'Pupunha', 'Rua 83', '77');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (21, '61434-417', 'Rondônia', 'Bilimbi', 'Rua 11', '42');
+VALUES (21, '81439-390', 'Goiás', 'Caraguata', 'Rua 91', '87');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (22, '41445-455', 'Acre', 'Avelã', 'Rua 27', '50');
+VALUES (22, '81449-382', 'Goiás', 'Dovyalis', 'Rua 68', '68');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (23, '51458-271', 'Bahia', 'Mamoncillo', 'Rua 31', '66');
+VALUES (23, '11458-536', 'Goiás', 'Banana Pacova', 'Rua 37', '77');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (24, '11462-994', 'Acre', 'Bacuri', 'Rua 96', '12');
+VALUES (24, '71467-899', 'Roraima', 'Cherimoya', 'Rua 13', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (25, '01471-269', 'Ceará', 'Goiaba vermelha', 'Rua 79', '79');
+VALUES (25, '31473-870', 'Ceará', 'Calabaça', 'Rua 41', '33');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (26, '11484-815', 'Rio Grande do Norte', 'Caimito', 'Rua 99', '26');
+VALUES (26, '91489-697', 'Amazonas', 'Cherimóia', 'Rua 19', '46');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (27, '11495-840', 'Rio de Janeiro', 'Cherimóia', 'Rua 80', '35');
+VALUES (27, '01492-371', 'Paraná', 'Cutite', 'Rua 44', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (28, '01500-529', 'Ceará', 'Avocadoe', 'Rua 75', '64');
+VALUES (28, '01504-851', 'Paraná', 'Laranja', 'Rua 93', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (29, '31510-494', 'Paraíba', 'Taiúva', 'Rua 87', '29');
+VALUES (29, '41512-994', 'Bahia', 'Tomate Arbóreo', 'Rua 30', '90');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (30, '31526-389', 'Pará', 'Uva japonesa', 'Rua 64', '30');
+VALUES (30, '21522-117', 'Amapá', 'Pêssego', 'Rua 97', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (31, '41534-970', 'Alagoas', 'Groselha vermelha', 'Rua 71', '54');
+VALUES (31, '31535-324', 'Minas Gerais', 'Caimito branco', 'Rua 98', '67');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (32, '61548-270', 'Alagoas', 'Achachairu', 'Rua 39', '21');
+VALUES (32, '81541-546', 'Alagoas', 'Jambo branco', 'Rua 96', '63');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (33, '91558-872', 'Mato Grosso', 'Uva rubi', 'Rua 42', '85');
+VALUES (33, '71558-122', 'Pará', 'Jambo amarelo', 'Rua 79', '22');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (34, '71560-479', 'Rondônia', 'Mandacarú', 'Rua 37', '66');
+VALUES (34, '81562-955', 'Amazonas', 'Taiúva', 'Rua 43', '38');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (35, '61574-384', 'Ceará', 'Cherimóia', 'Rua 80', '90');
+VALUES (35, '01575-070', 'Tocantins', 'Açaí', 'Rua 64', '23');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (36, '31584-290', 'Ceará', 'Ilama', 'Rua 58', '42');
+VALUES (36, '21588-989', 'Rondônia', 'Tamarindo', 'Rua 15', '77');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (37, '91593-846', 'Rio de Janeiro', 'Baru', 'Rua 32', '56');
+VALUES (37, '11594-936', 'Paraíba', 'Melancia amarela', 'Rua 84', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (38, '91602-389', 'Bahia', 'Cabeludinha', 'Rua 75', '65');
+VALUES (38, '51602-441', 'Distrito Federal', 'Pitaya', 'Rua 99', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (39, '11617-262', 'Mato Grosso do Sul', 'Amêndoa', 'Rua 38', '68');
+VALUES (39, '41616-010', 'Rio Grande do Sul', 'Calabaça', 'Rua 65', '63');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (40, '91629-526', 'Sergipe', 'Massala', 'Rua 20', '46');
+VALUES (40, '71624-188', 'Paraná', 'Jatobá', 'Rua 91', '95');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (41, '71630-044', 'Ceará', 'Noz Pecã', 'Rua 79', '32');
+VALUES (41, '81634-716', 'Goiás', 'Cambucá', 'Rua 13', '58');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (42, '01643-594', 'Distrito Federal', 'Kinkan', 'Rua 21', '41');
+VALUES (42, '71643-651', 'Goiás', 'Mamey', 'Rua 46', '43');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (43, '71650-793', 'Ceará', 'Uva', 'Rua 27', '53');
+VALUES (43, '21652-805', 'Santa Catarina', 'Amora silvestre', 'Rua 53', '73');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (44, '51664-123', 'Paraná', 'Baru', 'Rua 57', '42');
+VALUES (44, '81666-220', 'Pernambuco', 'Anonáceas', 'Rua 70', '29');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (45, '21675-812', 'Amapá', 'Ilama', 'Rua 16', '57');
+VALUES (45, '51677-910', 'Acre', 'Goiaba vermelha', 'Rua 87', '84');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (46, '91686-946', 'Rio Grande do Norte', 'Macaúba', 'Rua 15', '41');
+VALUES (46, '91682-373', 'Rondônia', 'Jaca', 'Rua 98', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (47, '91693-651', 'Roraima', 'Limão tahiti', 'Rua 38', '27');
+VALUES (47, '21698-389', 'Bahia', 'Guabiroba', 'Rua 52', '14');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (48, '51707-594', 'Espírito Santo', 'Figo da índia vermelho', 'Rua 86', '24');
+VALUES (48, '71705-050', 'Mato Grosso do Sul', 'Natanjila', 'Rua 54', '81');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (49, '41714-553', 'Santa Catarina', 'Wampi', 'Rua 85', '83');
+VALUES (49, '81712-484', 'Amapá', 'Avelã', 'Rua 75', '33');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (50, '61728-128', 'Mato Grosso', 'Banana figo', 'Rua 11', '39');
+VALUES (50, '71728-228', 'Espírito Santo', 'Cupuaçu', 'Rua 74', '70');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (51, '41735-844', 'Rondônia', 'Physalis', 'Rua 92', '16');
+VALUES (51, '61730-237', 'Rio Grande do Sul', 'Jatobá', 'Rua 67', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (52, '31741-372', 'Pernambuco', 'Laranja lima', 'Rua 21', '88');
+VALUES (52, '21742-422', 'Paraná', 'Banana Nanica', 'Rua 66', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (53, '21753-065', 'Espírito Santo', 'Jerivá ou Jeribá', 'Rua 61', '36');
+VALUES (53, '81753-339', 'Alagoas', 'Cutite', 'Rua 54', '63');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (54, '31760-106', 'Santa Catarina', 'Guabiju', 'Rua 31', '27');
+VALUES (54, '91767-322', 'Paraíba', 'Ilama', 'Rua 58', '44');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (55, '81776-908', 'Paraíba', 'Carambola', 'Rua 75', '98');
+VALUES (55, '01777-682', 'Amapá', 'Banana', 'Rua 43', '96');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (56, '31785-120', 'Tocantins', 'Fruta-pão', 'Rua 90', '91');
+VALUES (56, '61788-619', 'Goiás', 'Akee', 'Rua 38', '86');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (57, '31794-442', 'Mato Grosso do Sul', 'Uva rubi', 'Rua 30', '78');
+VALUES (57, '61793-944', 'Pará', 'Maracujá', 'Rua 31', '56');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (58, '31800-155', 'Roraima', 'Cherimoya', 'Rua 55', '30');
+VALUES (58, '01807-994', 'Paraná', 'Uva', 'Rua 66', '18');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (59, '31810-524', 'Tocantins', 'Durião', 'Rua 28', '39');
+VALUES (59, '51818-164', 'Amazonas', 'Pulasan', 'Rua 33', '75');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (60, '31823-374', 'Rio Grande do Sul', 'Muruci', 'Rua 13', '84');
+VALUES (60, '01820-964', 'Pernambuco', 'Groselha', 'Rua 85', '12');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (61, '41838-709', 'São Paulo', 'Tâmara natural', 'Rua 72', '59');
+VALUES (61, '11834-267', 'Goiás', 'Cambuci', 'Rua 95', '14');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (62, '81848-189', 'Amazonas', 'Mutamba', 'Rua 45', '30');
+VALUES (62, '91844-168', 'Tocantins', 'Biriba', 'Rua 52', '16');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (63, '21851-833', 'Distrito Federal', 'Juá', 'Rua 65', '96');
+VALUES (63, '01855-923', 'Mato Grosso', 'Caraguata', 'Rua 34', '70');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (64, '51867-204', 'Amapá', 'Cidra', 'Rua 53', '98');
+VALUES (64, '11860-146', 'Distrito Federal', 'Jujuba', 'Rua 49', '99');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (65, '01879-594', 'Distrito Federal', 'Uvaia', 'Rua 72', '42');
+VALUES (65, '91877-786', 'Goiás', 'Limão siciliano', 'Rua 39', '62');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (66, '91881-671', 'Tocantins', 'Jabuticaba', 'Rua 64', '34');
+VALUES (66, '61881-937', 'Rondônia', 'Mamão', 'Rua 85', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (67, '71890-349', 'Maranhão', 'Cherimóia', 'Rua 90', '90');
+VALUES (67, '61899-710', 'Bahia', 'Cereja fresca', 'Rua 92', '33');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (68, '61908-411', 'Paraíba', 'Feijoa', 'Rua 32', '94');
+VALUES (68, '31909-369', 'Rio de Janeiro', 'Natanjila', 'Rua 23', '57');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (69, '81917-965', 'Ceará', 'Kinkan', 'Rua 28', '52');
+VALUES (69, '41914-929', 'Amapá', 'Butiá', 'Rua 81', '42');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (70, '61926-509', 'Sergipe', 'Jambolão', 'Rua 28', '16');
+VALUES (70, '11926-009', 'Minas Gerais', 'Banana prata', 'Rua 40', '75');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (71, '91932-120', 'Roraima', 'Ingá', 'Rua 34', '95');
+VALUES (71, '71934-458', 'Santa Catarina', 'Limão galego', 'Rua 54', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (72, '71940-672', 'Alagoas', 'Mandacarú', 'Rua 87', '30');
+VALUES (72, '01944-284', 'Ceará', 'Jatobá', 'Rua 16', '28');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (73, '51957-951', 'Roraima', 'Cacau', 'Rua 81', '98');
+VALUES (73, '61954-597', 'Tocantins', 'Kiwi', 'Rua 10', '78');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (74, '61969-007', 'Rio de Janeiro', 'Jambo amarelo', 'Rua 12', '79');
+VALUES (74, '41960-198', 'Tocantins', 'Babaçu', 'Rua 93', '91');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (75, '91974-003', 'Maranhão', 'Damasco', 'Rua 96', '47');
+VALUES (75, '71977-899', 'Rio Grande do Norte', 'Champedaque', 'Rua 84', '22');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (76, '01985-251', 'Ceará', 'Carissa', 'Rua 61', '90');
+VALUES (76, '11980-782', 'Bahia', 'Condessa', 'Rua 13', '59');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (77, '61996-477', 'Distrito Federal', 'Tâmara', 'Rua 90', '36');
+VALUES (77, '91995-196', 'Ceará', 'Baru', 'Rua 28', '80');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (78, '32000-054', 'Distrito Federal', 'Camu-camu', 'Rua 92', '62');
+VALUES (78, '02004-615', 'Rondônia', 'Maná - Cubiu', 'Rua 64', '90');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (79, '52018-321', 'Alagoas', 'Atemóia', 'Rua 63', '11');
+VALUES (79, '72012-544', 'Rio Grande do Norte', 'Abiu', 'Rua 46', '91');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (80, '62023-001', 'Roraima', 'Limão', 'Rua 67', '80');
+VALUES (80, '42025-599', 'Amazonas', 'Jujuba', 'Rua 66', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (81, '02031-608', 'Rio de Janeiro', 'Guaraná', 'Rua 34', '58');
+VALUES (81, '62031-958', 'Pará', 'Rambutão', 'Rua 56', '71');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (82, '52048-452', 'Rio de Janeiro', 'Biriba', 'Rua 39', '31');
+VALUES (82, '12049-961', 'Distrito Federal', 'Tamarindo', 'Rua 17', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (83, '92058-848', 'Pará', 'Tangerina', 'Rua 11', '45');
+VALUES (83, '82050-307', 'Tocantins', 'Amêndoa', 'Rua 27', '71');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (84, '62069-309', 'Alagoas', 'Uva branca', 'Rua 36', '30');
+VALUES (84, '82064-699', 'Rio Grande do Sul', 'Jamelão', 'Rua 87', '63');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (85, '12071-793', 'Paraíba', 'Umbu', 'Rua 60', '94');
+VALUES (85, '42072-597', 'Minas Gerais', 'Caimito branco', 'Rua 16', '58');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (86, '02084-584', 'Alagoas', 'Manga bourbon', 'Rua 29', '92');
+VALUES (86, '92084-753', 'Pará', 'Castanha do pará', 'Rua 50', '93');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (87, '62096-442', 'Maranhão', 'Calamondin', 'Rua 81', '20');
+VALUES (87, '72093-345', 'Pará', 'Butiá', 'Rua 30', '35');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (88, '82105-303', 'Amazonas', 'Melancia branca', 'Rua 77', '63');
+VALUES (88, '22104-796', 'Pernambuco', 'Cereja', 'Rua 63', '85');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (89, '92115-786', 'Mato Grosso', 'Coco', 'Rua 75', '84');
+VALUES (89, '02111-226', 'Rondônia', 'Caraguata', 'Rua 81', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (90, '62128-087', 'Rondônia', 'Coco', 'Rua 19', '44');
+VALUES (90, '22122-730', 'Paraná', 'Jujuba', 'Rua 43', '87');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (91, '62134-858', 'Rio Grande do Sul', 'Goiaba vermelha', 'Rua 16', '36');
+VALUES (91, '92132-676', 'São Paulo', 'Juá', 'Rua 21', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (92, '72147-208', 'Espírito Santo', 'Pitomba', 'Rua 36', '61');
+VALUES (92, '42145-918', 'Espírito Santo', 'Camu - Camu', 'Rua 24', '37');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (93, '72152-087', 'Rio de Janeiro', 'Cereja fresca', 'Rua 16', '35');
+VALUES (93, '32156-452', 'Ceará', 'Maçã Fuji', 'Rua 23', '98');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (94, '62162-283', 'Rio Grande do Norte', 'Laranja valência', 'Rua 95', '78');
+VALUES (94, '62166-899', 'Tocantins', 'Dendê', 'Rua 83', '70');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (95, '72171-646', 'Roraima', 'Maçã argentina', 'Rua 24', '42');
+VALUES (95, '12174-833', 'São Paulo', 'Goiaba branca', 'Rua 95', '12');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (96, '92182-868', 'Pará', 'Pêra Williams', 'Rua 70', '98');
+VALUES (96, '92182-331', 'Paraná', 'Tangerina Poncâ', 'Rua 88', '80');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (97, '22194-829', 'Espírito Santo', 'Damasco', 'Rua 26', '49');
+VALUES (97, '02198-747', 'Rondônia', 'Cagaita', 'Rua 71', '51');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (98, '42207-760', 'Distrito Federal', 'Calamondin', 'Rua 90', '59');
+VALUES (98, '42206-781', 'Paraná', 'Calamondin', 'Rua 95', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (99, '82218-217', 'Paraíba', 'Marula', 'Rua 30', '13');
+VALUES (99, '62211-779', 'Bahia', 'Abacaxi', 'Rua 14', '17');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (100, '52223-065', 'Distrito Federal', 'Figo da índia amarelo', 'Rua 59', '44');
+VALUES (100, '12221-879', 'Espírito Santo', 'Lichia', 'Rua 99', '99');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (101, '42231-337', 'Amazonas', 'Grapefruit rosa', 'Rua 35', '47');
+VALUES (101, '12238-296', 'Bahia', 'Pêra Park', 'Rua 66', '52');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (102, '42245-150', 'Mato Grosso do Sul', 'Umbu', 'Rua 67', '67');
+VALUES (102, '32246-514', 'Rio Grande do Sul', 'Achachairu', 'Rua 19', '62');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (103, '52253-165', 'Piauí', 'Bacaba', 'Rua 37', '18');
+VALUES (103, '22250-918', 'Rio de Janeiro', 'Mamoncillo', 'Rua 22', '92');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (104, '02262-868', 'Amapá', 'Manga bourbon', 'Rua 72', '64');
+VALUES (104, '22263-691', 'Goiás', 'Cajá', 'Rua 39', '82');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (105, '02275-745', 'Pará', 'Castanhas Variadas', 'Rua 39', '14');
+VALUES (105, '32275-136', 'Goiás', 'Tangerina Poncâ', 'Rua 17', '77');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (106, '42283-875', 'Tocantins', 'Banana Pacova', 'Rua 29', '38');
+VALUES (106, '62288-711', 'Rondônia', 'Uva japonesa', 'Rua 89', '48');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (107, '22299-501', 'Ceará', 'Mabolo', 'Rua 37', '88');
+VALUES (107, '32293-565', 'Alagoas', 'Guabiroba', 'Rua 87', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (108, '22307-404', 'Santa Catarina', 'Melão', 'Rua 76', '78');
+VALUES (108, '12304-818', 'Rio Grande do Sul', 'Mamey', 'Rua 35', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (109, '62312-222', 'Mato Grosso', 'Mangostão', 'Rua 35', '58');
+VALUES (109, '12311-451', 'Goiás', 'Maná - Cubiu', 'Rua 86', '85');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (110, '72320-398', 'Mato Grosso do Sul', 'Cagaita', 'Rua 87', '73');
+VALUES (110, '42329-569', 'Rio Grande do Sul', 'Uva itália', 'Rua 30', '68');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (111, '02331-356', 'Amapá', 'Tomate Arbóreo', 'Rua 25', '73');
+VALUES (111, '02333-255', 'Alagoas', 'Jambo branco', 'Rua 10', '53');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (112, '32344-301', 'Rio de Janeiro', 'Tangerina', 'Rua 80', '95');
+VALUES (112, '02343-770', 'Alagoas', 'Cidra', 'Rua 69', '90');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (113, '82358-297', 'Minas Gerais', 'Nêspera', 'Rua 58', '32');
+VALUES (113, '12357-034', 'Alagoas', 'Noz Pecã', 'Rua 68', '77');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (114, '02369-657', 'Acre', 'Manga haden', 'Rua 85', '37');
+VALUES (114, '42360-278', 'Bahia', 'Kiwi', 'Rua 72', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (115, '02377-495', 'Paraná', 'Amora', 'Rua 23', '17');
+VALUES (115, '22371-722', 'Roraima', 'Mabolo', 'Rua 35', '72');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (116, '92389-425', 'Sergipe', 'Coco babaçu', 'Rua 82', '68');
+VALUES (116, '92380-029', 'Amapá', 'Mangostin', 'Rua 43', '40');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (117, '42396-696', 'Rio de Janeiro', 'Goiaba branca', 'Rua 31', '22');
+VALUES (117, '02396-045', 'Rio de Janeiro', 'Abacaxi', 'Rua 10', '41');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (118, '62407-654', 'Espírito Santo', 'Juá de queimada', 'Rua 65', '78');
+VALUES (118, '32407-516', 'Mato Grosso do Sul', 'Macadâmia', 'Rua 70', '14');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (119, '42412-333', 'Bahia', 'Caraguata', 'Rua 49', '46');
+VALUES (119, '22417-134', 'Rio de Janeiro', 'Langsat', 'Rua 95', '17');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (120, '12425-741', 'Alagoas', 'Calabaça', 'Rua 36', '26');
+VALUES (120, '42429-235', 'Ceará', 'Jujuba chinesa', 'Rua 92', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (121, '62438-690', 'Pernambuco', 'Champedaque', 'Rua 86', '38');
+VALUES (121, '22431-211', 'Pernambuco', 'Ilama', 'Rua 82', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (122, '72441-354', 'Paraná', 'Nêspera', 'Rua 29', '37');
+VALUES (122, '02441-318', 'Maranhão', 'Physalis', 'Rua 82', '78');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (123, '62457-923', 'Goiás', 'Toranja', 'Rua 61', '36');
+VALUES (123, '82456-486', 'Paraná', 'Pitomba', 'Rua 47', '56');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (124, '12466-550', 'Piauí', 'Goiaba', 'Rua 66', '29');
+VALUES (124, '72464-246', 'Rio Grande do Norte', 'Pêra Williams', 'Rua 72', '22');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (125, '42473-252', 'Rio Grande do Norte', 'Grapefruit rosa', 'Rua 88', '64');
+VALUES (125, '72479-656', 'Tocantins', 'Abacaxi', 'Rua 84', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (126, '62480-950', 'Roraima', 'Tangerina', 'Rua 88', '72');
+VALUES (126, '72489-861', 'Bahia', 'Laranja valência', 'Rua 97', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (127, '32491-612', 'Rio Grande do Sul', 'Guajirú', 'Rua 97', '98');
+VALUES (127, '72494-040', 'Rio Grande do Norte', 'Ingá', 'Rua 15', '71');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (128, '42504-815', 'Bahia', 'Uva rubi', 'Rua 97', '26');
+VALUES (128, '92505-005', 'Piauí', 'Tâmara natural', 'Rua 98', '73');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (129, '52511-850', 'Amapá', 'Coco babaçu', 'Rua 25', '77');
+VALUES (129, '22518-224', 'Paraná', 'Baru', 'Rua 12', '20');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (130, '32525-693', 'Maranhão', 'Figo da índia amarelo', 'Rua 89', '93');
+VALUES (130, '12523-613', 'Acre', 'Amêndoa', 'Rua 16', '96');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (131, '72535-126', 'Tocantins', 'Jurubeba', 'Rua 60', '89');
+VALUES (131, '12537-467', 'Amapá', 'Banana Maçã', 'Rua 33', '58');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (132, '52540-285', 'Espírito Santo', 'Jambo branco', 'Rua 47', '75');
+VALUES (132, '92544-276', 'Bahia', 'Guaraná', 'Rua 36', '56');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (133, '72552-616', 'Espírito Santo', 'Pêssego', 'Rua 82', '37');
+VALUES (133, '52556-053', 'Pará', 'Noz Pecã', 'Rua 13', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (134, '02569-560', 'Amapá', 'Camu - Camu', 'Rua 30', '81');
+VALUES (134, '02566-597', 'Paraná', 'Cherimóia', 'Rua 30', '13');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (135, '72576-367', 'Minas Gerais', 'Macaúba', 'Rua 45', '68');
+VALUES (135, '32573-283', 'Rio de Janeiro', 'Kinkan', 'Rua 73', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (136, '52580-956', 'Distrito Federal', 'Mamey', 'Rua 48', '46');
+VALUES (136, '22580-702', 'Paraíba', 'Calabura', 'Rua 22', '28');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (137, '32593-800', 'Distrito Federal', 'Butiá', 'Rua 76', '38');
+VALUES (137, '12593-700', 'Amapá', 'Banana figo', 'Rua 14', '29');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (138, '32600-308', 'Amazonas', 'Uxi', 'Rua 17', '26');
+VALUES (138, '72606-010', 'Amapá', 'Abacaxi', 'Rua 98', '90');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (139, '32619-825', 'Santa Catarina', 'Nêspera', 'Rua 16', '82');
+VALUES (139, '22610-806', 'Mato Grosso do Sul', 'Maçã Fuji', 'Rua 69', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (140, '22622-472', 'Rio Grande do Sul', 'Banana Ouro', 'Rua 28', '32');
+VALUES (140, '52626-482', 'Distrito Federal', 'Salak', 'Rua 64', '98');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (141, '72638-829', 'Mato Grosso', 'Guabiroba', 'Rua 85', '10');
+VALUES (141, '72638-769', 'Rio Grande do Sul', 'Pêra Park', 'Rua 73', '27');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (142, '62646-386', 'Paraná', 'Guajirú', 'Rua 22', '90');
+VALUES (142, '22642-882', 'Tocantins', 'Manga tommy', 'Rua 66', '50');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (143, '32656-383', 'Paraíba', 'Taperebá', 'Rua 59', '76');
+VALUES (143, '22659-753', 'Maranhão', 'Cacau', 'Rua 43', '95');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (144, '42660-675', 'Espírito Santo', 'Carnaúba', 'Rua 21', '11');
+VALUES (144, '42668-378', 'Rio de Janeiro', 'Maçã argentina', 'Rua 70', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (145, '32670-691', 'Pará', 'Cajá-manga', 'Rua 25', '27');
+VALUES (145, '42673-181', 'Minas Gerais', 'Abricó', 'Rua 97', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (146, '22684-038', 'Bahia', 'Pinhão', 'Rua 20', '74');
+VALUES (146, '22689-023', 'Distrito Federal', 'Goiaba vermelha', 'Rua 58', '91');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (147, '92694-401', 'Amazonas', 'Framboesa fresca', 'Rua 36', '80');
+VALUES (147, '42690-730', 'Tocantins', 'Coco fresco', 'Rua 40', '44');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (148, '82700-231', 'Pernambuco', 'Banana Passa', 'Rua 86', '59');
+VALUES (148, '22707-729', 'Paraíba', 'Tarumã', 'Rua 77', '30');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (149, '12711-239', 'Distrito Federal', 'Atemóia', 'Rua 17', '38');
+VALUES (149, '32710-212', 'São Paulo', 'Carambola', 'Rua 72', '92');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (150, '72721-322', 'Bahia', 'Carnaúba', 'Rua 59', '18');
+VALUES (150, '32723-219', 'Maranhão', 'Veludo', 'Rua 47', '82');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (151, '72737-798', 'Amazonas', 'Limão siciliano', 'Rua 56', '52');
+VALUES (151, '72738-886', 'Acre', 'Pêra Williams', 'Rua 67', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (152, '92743-028', 'Pará', 'Macadâmia', 'Rua 58', '52');
+VALUES (152, '62748-450', 'Goiás', 'Caqui japonês', 'Rua 17', '57');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (153, '12759-201', 'Minas Gerais', 'Limão galego', 'Rua 78', '28');
+VALUES (153, '02756-768', 'Rio Grande do Norte', 'Cutite', 'Rua 66', '62');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (154, '22764-415', 'Amapá', 'Juá', 'Rua 46', '87');
+VALUES (154, '62768-199', 'Tocantins', 'Mutamba', 'Rua 97', '18');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (155, '42777-450', 'Paraná', 'Condessa', 'Rua 41', '47');
+VALUES (155, '32779-013', 'São Paulo', 'Jaca', 'Rua 11', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (156, '02782-808', 'Mato Grosso do Sul', 'Mangostin', 'Rua 54', '27');
+VALUES (156, '22784-533', 'Bahia', 'Banana Maçã', 'Rua 16', '75');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (157, '72793-108', 'Sergipe', 'Romã', 'Rua 94', '18');
+VALUES (157, '52791-092', 'Mato Grosso', 'Maçã Fuji', 'Rua 88', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (158, '92806-342', 'Santa Catarina', 'Jatobá', 'Rua 91', '99');
+VALUES (158, '52800-537', 'Ceará', 'Calamondin', 'Rua 66', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (159, '52813-009', 'Distrito Federal', 'Guabiju', 'Rua 97', '38');
+VALUES (159, '42811-542', 'Paraíba', 'Jaracatiá', 'Rua 54', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (160, '52825-911', 'Tocantins', 'Pêra', 'Rua 99', '66');
+VALUES (160, '92827-516', 'Bahia', 'Marmelo', 'Rua 90', '78');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (161, '42832-919', 'Amazonas', 'Laranja', 'Rua 69', '73');
+VALUES (161, '52832-858', 'Rio Grande do Norte', 'Banana Nanica', 'Rua 66', '67');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (162, '92844-414', 'Sergipe', 'Taperebá', 'Rua 39', '32');
+VALUES (162, '32847-701', 'Sergipe', 'Figo', 'Rua 40', '64');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (163, '12857-942', 'Distrito Federal', 'Cajá vermelho', 'Rua 85', '36');
+VALUES (163, '32858-824', 'Amapá', 'Mangostin', 'Rua 73', '18');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (164, '12868-498', 'Sergipe', 'Uva itália', 'Rua 75', '95');
+VALUES (164, '12862-227', 'Goiás', 'Mamey', 'Rua 20', '94');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (165, '22871-141', 'Espírito Santo', 'Biriba', 'Rua 89', '49');
+VALUES (165, '92873-123', 'Espírito Santo', 'Uva niagara', 'Rua 91', '74');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (166, '62885-247', 'Alagoas', 'Uva niagara', 'Rua 18', '90');
+VALUES (166, '62888-476', 'Paraná', 'Uvalha', 'Rua 95', '50');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (167, '22895-845', 'Mato Grosso', 'Marmelo', 'Rua 68', '95');
+VALUES (167, '22899-434', 'Pará', 'Figo da índia amarelo', 'Rua 37', '78');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (168, '12907-130', 'Piauí', 'Jambo', 'Rua 40', '37');
+VALUES (168, '62907-864', 'Rio de Janeiro', 'Mangaba', 'Rua 17', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (169, '72918-217', 'Pará', 'Toranja', 'Rua 58', '75');
+VALUES (169, '52915-171', 'Pernambuco', 'Pitaya', 'Rua 62', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (170, '72921-647', 'Bahia', 'Guaraná', 'Rua 89', '72');
+VALUES (170, '02926-261', 'Ceará', 'Damasco', 'Rua 51', '57');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (171, '92933-530', 'Distrito Federal', 'Caqui paulista', 'Rua 36', '62');
+VALUES (171, '52930-509', 'São Paulo', 'Calabura', 'Rua 82', '88');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (172, '42941-661', 'Amazonas', 'Cidra', 'Rua 19', '26');
+VALUES (172, '22946-236', 'Tocantins', 'Cabeludinha', 'Rua 80', '18');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (173, '32953-623', 'Espírito Santo', 'Sapucaia', 'Rua 33', '54');
+VALUES (173, '02950-129', 'Tocantins', 'Pitomba', 'Rua 95', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (174, '82967-836', 'Alagoas', 'Pequi', 'Rua 76', '63');
+VALUES (174, '22963-915', 'Bahia', 'Jatobáá', 'Rua 64', '10');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (175, '62971-633', 'Santa Catarina', 'Tucumã', 'Rua 26', '13');
+VALUES (175, '02972-415', 'Mato Grosso do Sul', 'Maracujá', 'Rua 54', '33');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (176, '82987-199', 'Mato Grosso do Sul', 'Glicosmis', 'Rua 77', '79');
+VALUES (176, '42985-272', 'Sergipe', 'Banana da terra', 'Rua 68', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (177, '32996-689', 'Rondônia', 'Caqui', 'Rua 36', '25');
+VALUES (177, '42992-843', 'Sergipe', 'Uva branca', 'Rua 12', '48');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (178, '43009-730', 'Mato Grosso', 'Uva niagara', 'Rua 70', '70');
+VALUES (178, '03008-633', 'Paraíba', 'Mandacarú', 'Rua 99', '95');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (179, '03017-167', 'Maranhão', 'Mamão formosa', 'Rua 20', '81');
+VALUES (179, '73016-548', 'Rondônia', 'Mangostão', 'Rua 67', '90');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (180, '33021-767', 'Acre', 'Graviola', 'Rua 73', '54');
+VALUES (180, '43023-994', 'Distrito Federal', 'Tamarindo', 'Rua 55', '48');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (181, '53036-823', 'Acre', 'Castanha portuguesa', 'Rua 30', '48');
+VALUES (181, '73039-542', 'Goiás', 'Tâmara', 'Rua 44', '52');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (182, '13048-328', 'Pernambuco', 'Jaca', 'Rua 52', '76');
+VALUES (182, '83049-063', 'Paraná', 'Caqui', 'Rua 81', '54');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (183, '43055-023', 'Rio Grande do Sul', 'Pêssego', 'Rua 44', '10');
+VALUES (183, '93056-827', 'São Paulo', 'Figo da índia vermelho', 'Rua 78', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (184, '83062-129', 'Amapá', 'Noz Pecã', 'Rua 23', '74');
+VALUES (184, '23062-452', 'Rio de Janeiro', 'Araçá', 'Rua 69', '45');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (185, '53074-339', 'Rio Grande do Sul', 'Ilama', 'Rua 86', '64');
+VALUES (185, '13072-798', 'Mato Grosso do Sul', 'Uva passa', 'Rua 60', '46');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (186, '03085-245', 'Piauí', 'Banana prata', 'Rua 23', '31');
+VALUES (186, '43082-079', 'Minas Gerais', 'Pistache', 'Rua 23', '60');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (187, '03098-482', 'Pernambuco', 'Murcote', 'Rua 85', '52');
+VALUES (187, '23096-809', 'Acre', 'Cherimóia', 'Rua 66', '59');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (188, '23109-660', 'Amapá', 'Uva japonesa', 'Rua 90', '12');
+VALUES (188, '83101-382', 'Sergipe', 'Fruta - Pão', 'Rua 78', '16');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (189, '03114-234', 'Maranhão', 'Tâmara', 'Rua 41', '71');
+VALUES (189, '83119-447', 'Pará', 'Uva', 'Rua 77', '31');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (190, '23127-861', 'Maranhão', 'Juá', 'Rua 50', '97');
+VALUES (190, '33126-103', 'Minas Gerais', 'Cubiu', 'Rua 52', '73');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (191, '33131-852', 'Tocantins', 'Macadâmia', 'Rua 31', '91');
+VALUES (191, '13137-444', 'Mato Grosso', 'Uva branca', 'Rua 70', '48');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (192, '33143-435', 'Acre', 'Caqui chocolate', 'Rua 64', '76');
+VALUES (192, '13145-900', 'Piauí', 'Mamão formosa', 'Rua 60', '20');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (193, '13154-779', 'Espírito Santo', 'Cajá vermelho', 'Rua 20', '71');
+VALUES (193, '93157-702', 'Rio Grande do Sul', 'Goiaba branca', 'Rua 68', '18');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (194, '23160-056', 'Paraná', 'Melancia amarela', 'Rua 24', '67');
+VALUES (194, '73169-853', 'Pará', 'Jabuticaba branca', 'Rua 99', '22');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (195, '93174-594', 'Santa Catarina', 'Cajá', 'Rua 92', '38');
+VALUES (195, '83177-084', 'Rio de Janeiro', 'Jambolão', 'Rua 94', '17');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (196, '53189-690', 'Goiás', 'Fruta-pão', 'Rua 59', '58');
+VALUES (196, '13183-354', 'Roraima', 'Açaí', 'Rua 27', '52');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (197, '93194-255', 'Distrito Federal', 'Biriba', 'Rua 69', '33');
+VALUES (197, '33193-952', 'Rio Grande do Sul', 'Jaca', 'Rua 79', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (198, '93203-461', 'Pernambuco', 'Sapucaia', 'Rua 30', '61');
+VALUES (198, '83200-413', 'Santa Catarina', 'Piquiá', 'Rua 73', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (199, '13211-528', 'Espírito Santo', 'Massala', 'Rua 16', '40');
+VALUES (199, '13214-344', 'Amapá', 'Condessa', 'Rua 80', '28');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (200, '63223-322', 'Paraná', 'Babaçu', 'Rua 66', '76');
+VALUES (200, '53222-707', 'Roraima', 'Tucumã', 'Rua 94', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (201, '03235-344', 'Minas Gerais', 'Rambutão', 'Rua 18', '19');
+VALUES (201, '33235-157', 'Rio Grande do Sul', 'Langsat', 'Rua 12', '56');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (202, '63245-707', 'Goiás', 'Groselha vermelha', 'Rua 59', '16');
+VALUES (202, '23246-086', 'Maranhão', 'Banana Passa', 'Rua 68', '11');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (203, '13253-792', 'Pará', 'Abacaxi', 'Rua 52', '87');
+VALUES (203, '33253-965', 'Distrito Federal', 'Coco babaçu', 'Rua 74', '99');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (204, '73268-951', 'Rio de Janeiro', 'Tucumã', 'Rua 43', '98');
+VALUES (204, '33268-929', 'Rio de Janeiro', 'Tucumã', 'Rua 15', '93');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (205, '63277-347', 'Mato Grosso', 'Pêssego', 'Rua 61', '68');
+VALUES (205, '73274-673', 'Alagoas', 'Figo', 'Rua 90', '69');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (206, '53284-696', 'Maranhão', 'Umbu', 'Rua 46', '42');
+VALUES (206, '53285-056', 'Rio de Janeiro', 'Mexerica', 'Rua 21', '63');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (207, '23299-654', 'Pará', 'Tangerina Poncâ', 'Rua 45', '20');
+VALUES (207, '93293-002', 'Sergipe', 'Caqui japonês', 'Rua 84', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (208, '83302-659', 'Tocantins', 'Sapucaia', 'Rua 36', '72');
+VALUES (208, '53306-188', 'Sergipe', 'Manga haden', 'Rua 81', '63');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (209, '43315-955', 'Mato Grosso', 'Framboesa', 'Rua 75', '71');
+VALUES (209, '53315-095', 'Acre', 'Graviola', 'Rua 67', '15');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (210, '13322-815', 'Espírito Santo', 'Caimito', 'Rua 88', '72');
+VALUES (210, '33325-415', 'Maranhão', 'Guabiju', 'Rua 67', '23');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (211, '33336-987', 'Paraíba', 'Abacaxi', 'Rua 15', '51');
+VALUES (211, '53331-046', 'São Paulo', 'Marang', 'Rua 26', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (212, '23340-148', 'Paraná', 'Naranjilla', 'Rua 23', '32');
+VALUES (212, '73341-933', 'Piauí', 'Calabaça', 'Rua 98', '36');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (213, '13355-224', 'Pará', 'Mirtilo', 'Rua 71', '61');
+VALUES (213, '13350-486', 'Amazonas', 'Pupunha', 'Rua 96', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (214, '73362-545', 'Amazonas', 'Damasco', 'Rua 85', '15');
+VALUES (214, '13363-889', 'Santa Catarina', 'Araçá', 'Rua 94', '67');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (215, '83371-963', 'Roraima', 'Mangostin', 'Rua 72', '38');
+VALUES (215, '93379-374', 'Ceará', 'Mamão papaia', 'Rua 84', '52');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (216, '33387-427', 'Sergipe', 'Atemoya', 'Rua 43', '32');
+VALUES (216, '33383-695', 'Minas Gerais', 'Caraguata', 'Rua 38', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (217, '33396-807', 'Amazonas', 'Feijoa', 'Rua 25', '99');
+VALUES (217, '23392-579', 'Acre', 'Banana Pacova', 'Rua 15', '67');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (218, '93404-867', 'Acre', 'Banana Ouro', 'Rua 68', '72');
+VALUES (218, '73405-867', 'Santa Catarina', 'Pêssego', 'Rua 65', '81');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (219, '73415-563', 'Amazonas', 'Tâmara natural', 'Rua 96', '13');
+VALUES (219, '53412-952', 'Maranhão', 'Mutamba', 'Rua 85', '26');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (220, '13420-447', 'Roraima', 'Jabuticaba branca', 'Rua 21', '21');
+VALUES (220, '93426-356', 'São Paulo', 'Banana Pacova', 'Rua 84', '86');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (221, '53431-995', 'Bahia', 'Camapu', 'Rua 25', '40');
+VALUES (221, '63430-018', 'Tocantins', 'Pitomba', 'Rua 61', '68');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (222, '83441-997', 'Maranhão', 'Calabura', 'Rua 63', '78');
+VALUES (222, '43440-060', 'Amapá', 'Bacaba', 'Rua 46', '38');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (223, '73455-596', 'Rio Grande do Sul', 'Marmelo', 'Rua 16', '27');
+VALUES (223, '53451-690', 'Ceará', 'Goiaba vermelha', 'Rua 35', '43');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (224, '53464-804', 'São Paulo', 'Grapefruit rosa', 'Rua 64', '77');
+VALUES (224, '53466-653', 'Ceará', 'Manga bourbon', 'Rua 87', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (225, '23471-851', 'Alagoas', 'Abacaxi', 'Rua 96', '61');
+VALUES (225, '43472-930', 'Sergipe', 'Amêndoa', 'Rua 48', '24');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (226, '23482-487', 'Maranhão', 'Tangerina Poncâ', 'Rua 95', '66');
+VALUES (226, '63489-587', 'Espírito Santo', 'Cajá vermelho', 'Rua 46', '99');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (227, '33497-006', 'Paraná', 'Banana figo', 'Rua 74', '79');
+VALUES (227, '73499-835', 'Distrito Federal', 'Limão tahiti', 'Rua 69', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (228, '43501-470', 'Amapá', 'Caqui japonês', 'Rua 11', '93');
+VALUES (228, '43509-451', 'Ceará', 'Pitanga', 'Rua 18', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (229, '93512-056', 'Mato Grosso do Sul', 'Nêspera', 'Rua 64', '42');
+VALUES (229, '83513-248', 'Sergipe', 'Ilama', 'Rua 95', '91');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (230, '93520-888', 'Bahia', 'Tangerina Poncâ', 'Rua 63', '88');
+VALUES (230, '93524-759', 'Goiás', 'Mangaba', 'Rua 91', '80');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (231, '93532-627', 'Pernambuco', 'Uva branca', 'Rua 31', '87');
+VALUES (231, '23538-123', 'Paraná', 'Coco', 'Rua 33', '40');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (232, '33545-868', 'Paraná', 'Tâmara', 'Rua 80', '47');
+VALUES (232, '83549-256', 'Alagoas', 'Glicosmis', 'Rua 51', '13');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (233, '73550-498', 'Amazonas', 'Pêra', 'Rua 80', '20');
+VALUES (233, '73555-678', 'Rondônia', 'Graviola', 'Rua 25', '11');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (234, '63569-942', 'Amazonas', 'Jujuba chinesa', 'Rua 94', '83');
+VALUES (234, '73568-902', 'Minas Gerais', 'Bacupari', 'Rua 38', '33');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (235, '93574-498', 'Roraima', 'Marang', 'Rua 70', '39');
+VALUES (235, '83572-033', 'Alagoas', 'Cherimóia', 'Rua 82', '16');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (236, '33587-003', 'Paraná', 'Lucuma', 'Rua 77', '40');
+VALUES (236, '63583-608', 'Bahia', 'Goiaba branca', 'Rua 67', '98');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (237, '33597-109', 'Ceará', 'Café', 'Rua 17', '56');
+VALUES (237, '33591-526', 'Alagoas', 'Mamão', 'Rua 96', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (238, '93605-239', 'Piauí', 'Dovyalis', 'Rua 13', '79');
+VALUES (238, '23600-065', 'Espírito Santo', 'Maná - Cubiu', 'Rua 40', '88');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (239, '13618-756', 'Piauí', 'Caju', 'Rua 77', '41');
+VALUES (239, '53610-784', 'Rio de Janeiro', 'Caimito branco', 'Rua 29', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (240, '93625-372', 'Minas Gerais', 'Melancia branca', 'Rua 36', '43');
+VALUES (240, '93621-677', 'Rio Grande do Sul', 'Damasco', 'Rua 52', '85');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (241, '53633-781', 'Amapá', 'Manga bourbon', 'Rua 26', '27');
+VALUES (241, '23636-724', 'Amazonas', 'Frutas do Cerrado', 'Rua 25', '35');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (242, '93644-433', 'Maranhão', 'Calabaça', 'Rua 41', '43');
+VALUES (242, '23648-591', 'Minas Gerais', 'Rambutão', 'Rua 10', '38');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (243, '83650-208', 'Pará', 'Banana dágua', 'Rua 18', '64');
+VALUES (243, '03659-633', 'Sergipe', 'Cabeludinha', 'Rua 26', '35');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (244, '13661-435', 'Mato Grosso', 'Banana Maçã', 'Rua 40', '60');
+VALUES (244, '03668-474', 'Paraíba', 'Abacaxi', 'Rua 28', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (245, '13676-728', 'Bahia', 'Limão tahiti', 'Rua 57', '16');
+VALUES (245, '03670-530', 'Alagoas', 'Atemoya', 'Rua 31', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (246, '03687-975', 'Maranhão', 'Cajá-manga', 'Rua 53', '26');
+VALUES (246, '93682-638', 'Mato Grosso do Sul', 'Umbu', 'Rua 82', '75');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (247, '63697-135', 'Rio Grande do Norte', 'Jambo amarelo', 'Rua 10', '68');
+VALUES (247, '43693-824', 'Pará', 'Kiwi', 'Rua 64', '72');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (248, '33701-986', 'Espírito Santo', 'Maçã', 'Rua 72', '21');
+VALUES (248, '83704-039', 'Paraíba', 'Avocadoe', 'Rua 17', '11');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (249, '93718-414', 'Mato Grosso', 'Caimito', 'Rua 59', '37');
+VALUES (249, '53716-750', 'Mato Grosso', 'Bacupari', 'Rua 85', '17');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (250, '53721-772', 'Paraná', 'Baru', 'Rua 34', '92');
+VALUES (250, '93720-100', 'Espírito Santo', 'Fruta - Pão', 'Rua 92', '14');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (251, '03738-140', 'Rondônia', 'Guaraná', 'Rua 72', '11');
+VALUES (251, '03734-526', 'Pará', 'Lucuma', 'Rua 71', '61');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (252, '53740-455', 'Rondônia', 'Abiu', 'Rua 39', '86');
+VALUES (252, '83745-959', 'Sergipe', 'Uva passa', 'Rua 16', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (253, '63751-995', 'Tocantins', 'Kinkan', 'Rua 69', '65');
+VALUES (253, '03758-311', 'Rio Grande do Norte', 'Caraguata', 'Rua 75', '79');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (254, '73767-948', 'Roraima', 'Frutas do Cerrado', 'Rua 51', '14');
+VALUES (254, '03765-479', 'Rio Grande do Sul', 'Laranja lima', 'Rua 80', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (255, '83774-751', 'Bahia', 'Jenipapo', 'Rua 93', '30');
+VALUES (255, '63777-509', 'Mato Grosso', 'Cutite', 'Rua 80', '95');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (256, '03788-166', 'Rondônia', 'Juá', 'Rua 56', '78');
+VALUES (256, '93782-891', 'Paraíba', 'Limão siciliano', 'Rua 11', '52');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (257, '33794-922', 'Amapá', 'Marmelo', 'Rua 95', '61');
+VALUES (257, '23790-643', 'Santa Catarina', 'Uva itália', 'Rua 43', '12');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (258, '53805-810', 'Tocantins', 'Baru', 'Rua 85', '21');
+VALUES (258, '93802-263', 'Maranhão', 'Jabuticaba', 'Rua 65', '31');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (259, '63819-910', 'Distrito Federal', 'Blueberry', 'Rua 94', '96');
+VALUES (259, '13816-738', 'São Paulo', 'Toranja', 'Rua 74', '49');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (260, '83824-033', 'Acre', 'Framboesa', 'Rua 82', '52');
+VALUES (260, '73827-491', 'Mato Grosso', 'Champedaque', 'Rua 37', '45');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (261, '03832-766', 'Rio de Janeiro', 'Jambo branco', 'Rua 15', '53');
+VALUES (261, '53838-632', 'Mato Grosso do Sul', 'Jenipapo', 'Rua 55', '49');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (262, '73841-432', 'Ceará', 'Ameixa', 'Rua 80', '35');
+VALUES (262, '03849-514', 'Mato Grosso do Sul', 'Avelã', 'Rua 74', '56');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (263, '53855-362', 'Alagoas', 'Café', 'Rua 85', '83');
+VALUES (263, '93850-685', 'Sergipe', 'Limão siciliano', 'Rua 93', '46');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (264, '53867-334', 'Rio de Janeiro', 'Taiúva', 'Rua 93', '71');
+VALUES (264, '13868-002', 'Santa Catarina', 'Cereja', 'Rua 14', '45');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (265, '93877-767', 'Tocantins', 'Maracujá', 'Rua 79', '26');
+VALUES (265, '73871-398', 'Amapá', 'Cutite', 'Rua 93', '38');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (266, '93884-924', 'Paraíba', 'Granadilla', 'Rua 65', '66');
+VALUES (266, '63886-049', 'Acre', 'Anonáceas', 'Rua 95', '70');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (267, '93897-571', 'Rio Grande do Sul', 'Cajá-manga', 'Rua 30', '58');
+VALUES (267, '43893-843', 'Mato Grosso', 'Jambo amarelo', 'Rua 15', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (268, '53902-680', 'Minas Gerais', 'Umbu', 'Rua 79', '52');
+VALUES (268, '93903-995', 'Piauí', 'Akee', 'Rua 24', '86');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (269, '93914-334', 'Bahia', 'Tangerina Poncâ', 'Rua 15', '54');
+VALUES (269, '63915-760', 'Maranhão', 'Cambuci', 'Rua 80', '75');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (270, '43925-782', 'Sergipe', 'Groselha vermelha', 'Rua 77', '84');
+VALUES (270, '43924-732', 'Pará', 'Maçã', 'Rua 58', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (271, '03934-587', 'Mato Grosso', 'Tamarilu', 'Rua 13', '41');
+VALUES (271, '53935-928', 'Distrito Federal', 'Melancia amarela', 'Rua 71', '19');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (272, '73944-894', 'Roraima', 'Bacaba', 'Rua 35', '22');
+VALUES (272, '63947-969', 'Ceará', 'Tarumã', 'Rua 18', '36');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (273, '73955-595', 'Bahia', 'Cabeludinha', 'Rua 22', '77');
+VALUES (273, '33951-758', 'Rio Grande do Sul', 'Café', 'Rua 80', '44');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (274, '83968-200', 'Goiás', 'Umari', 'Rua 47', '81');
+VALUES (274, '93965-284', 'Paraíba', 'Lichia', 'Rua 63', '19');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (275, '83974-008', 'Mato Grosso', 'Mirtilo', 'Rua 24', '22');
+VALUES (275, '93971-586', 'Amapá', 'Macadâmia', 'Rua 72', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (276, '43988-573', 'Ceará', 'Carambola', 'Rua 53', '97');
+VALUES (276, '63980-213', 'Sergipe', 'Figo da índia vermelho', 'Rua 56', '36');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (277, '03998-701', 'Pernambuco', 'Uva', 'Rua 95', '66');
+VALUES (277, '83997-564', 'Pará', 'Caqui chocolate', 'Rua 45', '94');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (278, '04004-656', 'Alagoas', 'Jaracatiá', 'Rua 80', '48');
+VALUES (278, '34001-598', 'Minas Gerais', 'Banana dágua', 'Rua 76', '52');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (279, '44018-028', 'Distrito Federal', 'Rambutão', 'Rua 63', '33');
+VALUES (279, '84017-122', 'Paraná', 'Tâmara natural', 'Rua 60', '96');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (280, '14028-453', 'Bahia', 'Tangerina Poncâ', 'Rua 28', '30');
+VALUES (280, '94027-589', 'Paraíba', 'Uva passa', 'Rua 84', '27');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (281, '04037-778', 'Pernambuco', 'Pitomba', 'Rua 86', '11');
+VALUES (281, '14034-199', 'Rio de Janeiro', 'Camu - Camu', 'Rua 17', '79');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (282, '14048-013', 'Maranhão', 'Guaraná', 'Rua 42', '61');
+VALUES (282, '54041-047', 'Bahia', 'Pulasan', 'Rua 13', '75');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (283, '34053-719', 'Amazonas', 'Uvalha', 'Rua 87', '11');
+VALUES (283, '54052-911', 'Minas Gerais', 'Grapefruit rosa', 'Rua 51', '29');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (284, '24065-816', 'Piauí', 'Noz Pecã', 'Rua 64', '70');
+VALUES (284, '34065-720', 'Distrito Federal', 'Limão siciliano', 'Rua 52', '41');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (285, '94071-945', 'Minas Gerais', 'Guaraná', 'Rua 29', '45');
+VALUES (285, '24076-414', 'Santa Catarina', 'Caimito', 'Rua 13', '40');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (286, '34085-603', 'Roraima', 'Pitanga', 'Rua 61', '30');
+VALUES (286, '84086-166', 'Piauí', 'Guabiroba', 'Rua 98', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (287, '64096-436', 'Rondônia', 'Physalis', 'Rua 70', '23');
+VALUES (287, '74097-434', 'Maranhão', 'Feijoa', 'Rua 41', '70');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (288, '64101-399', 'Rio de Janeiro', 'Nêspera', 'Rua 50', '73');
+VALUES (288, '84107-295', 'Paraná', 'Avelã', 'Rua 90', '29');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (289, '74112-870', 'Maranhão', 'Banana Ouro', 'Rua 95', '50');
+VALUES (289, '54111-435', 'Pernambuco', 'Uvaia', 'Rua 56', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (290, '04129-471', 'Goiás', 'Figo da índia vermelho', 'Rua 30', '57');
+VALUES (290, '64129-661', 'Goiás', 'Juá', 'Rua 40', '18');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (291, '64137-440', 'Distrito Federal', 'Morango', 'Rua 96', '30');
+VALUES (291, '44135-017', 'Piauí', 'Maçã Fuji', 'Rua 30', '96');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (292, '84145-496', 'Alagoas', 'Café', 'Rua 22', '81');
+VALUES (292, '04144-886', 'Rondônia', 'Framboesa fresca', 'Rua 64', '10');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (293, '24150-915', 'Santa Catarina', 'Cabeludinha', 'Rua 62', '17');
+VALUES (293, '24150-765', 'Pernambuco', 'Castanhas Variadas', 'Rua 73', '60');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (294, '94169-759', 'Rio de Janeiro', 'Atemoya', 'Rua 52', '67');
+VALUES (294, '34165-954', 'Acre', 'Marolo', 'Rua 53', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (295, '34176-021', 'Santa Catarina', 'Mexerica', 'Rua 46', '38');
+VALUES (295, '74178-714', 'Santa Catarina', 'Citrus em Geral', 'Rua 85', '51');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (296, '64183-682', 'Goiás', 'Nêspera', 'Rua 91', '20');
+VALUES (296, '14185-540', 'Piauí', 'Mamão papaia', 'Rua 59', '59');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (297, '34196-581', 'Amapá', 'Morango', 'Rua 87', '48');
+VALUES (297, '34194-113', 'Acre', 'Blueberry', 'Rua 51', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (298, '84207-983', 'Piauí', 'Coco', 'Rua 80', '53');
+VALUES (298, '74202-981', 'Pará', 'Cajá vermelho', 'Rua 74', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (299, '04218-874', 'Pará', 'Abricó', 'Rua 73', '17');
+VALUES (299, '14216-747', 'Amapá', 'Xixa', 'Rua 78', '17');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (300, '54223-861', 'Acre', 'Groselha', 'Rua 48', '86');
+VALUES (300, '94228-013', 'Pernambuco', 'Uva', 'Rua 91', '81');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (301, '24235-752', 'Distrito Federal', 'Uva passa', 'Rua 41', '42');
+VALUES (301, '24231-026', 'Rio de Janeiro', 'Feijoa', 'Rua 48', '13');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (302, '44241-342', 'Bahia', 'Umari', 'Rua 28', '94');
+VALUES (302, '54243-253', 'São Paulo', 'Guabiju', 'Rua 62', '30');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (303, '64252-568', 'Bahia', 'Pulasan', 'Rua 77', '18');
+VALUES (303, '94251-787', 'Rio Grande do Norte', 'Jaca', 'Rua 49', '56');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (304, '14267-621', 'Bahia', 'Piquiá', 'Rua 64', '57');
+VALUES (304, '34264-169', 'Rio Grande do Norte', 'Umbu', 'Rua 97', '99');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (305, '04275-777', 'Bahia', 'Pitanga', 'Rua 42', '86');
+VALUES (305, '64274-968', 'Paraná', 'Castanha do pará', 'Rua 75', '68');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (306, '84289-839', 'Rio Grande do Sul', 'Jambo', 'Rua 75', '75');
+VALUES (306, '84281-084', 'Bahia', 'Avocadoe', 'Rua 84', '11');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (307, '04291-251', 'Roraima', 'Mangaba', 'Rua 18', '10');
+VALUES (307, '44298-540', 'São Paulo', 'Licuri', 'Rua 74', '64');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (308, '84308-973', 'Amapá', 'Jaracatiá', 'Rua 34', '79');
+VALUES (308, '64308-381', 'Santa Catarina', 'Coco babaçu', 'Rua 70', '64');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (309, '44317-993', 'Minas Gerais', 'Sapoti', 'Rua 22', '23');
+VALUES (309, '54315-611', 'Rio Grande do Norte', 'Tarumã', 'Rua 47', '29');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (310, '74326-687', 'Rondônia', 'Caju', 'Rua 21', '68');
+VALUES (310, '64325-708', 'Mato Grosso do Sul', 'Condessa', 'Rua 88', '19');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (311, '34333-475', 'Goiás', 'Mamão', 'Rua 78', '11');
+VALUES (311, '24331-136', 'Alagoas', 'Sapota', 'Rua 11', '82');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (312, '54345-093', 'Amazonas', 'Lucuma', 'Rua 21', '25');
+VALUES (312, '54343-687', 'Rondônia', 'Camu-camu', 'Rua 35', '88');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (313, '84354-998', 'Sergipe', 'Biriba', 'Rua 22', '91');
+VALUES (313, '44350-368', 'Goiás', 'Uva branca', 'Rua 55', '72');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (314, '04363-478', 'Minas Gerais', 'Muruci', 'Rua 10', '26');
+VALUES (314, '04366-173', 'Piauí', 'Banana Maçã', 'Rua 46', '92');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (315, '64370-427', 'Rio Grande do Norte', 'Melancia', 'Rua 16', '51');
+VALUES (315, '84378-634', 'Pernambuco', 'Melancia branca', 'Rua 67', '26');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (316, '24389-174', 'Amazonas', 'Champedaque', 'Rua 54', '30');
+VALUES (316, '34382-143', 'Amazonas', 'Limão tahiti', 'Rua 69', '64');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (317, '84390-483', 'Pará', 'Coco babaçu', 'Rua 17', '55');
+VALUES (317, '24396-444', 'Roraima', 'Grapefruit rosa', 'Rua 48', '79');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (318, '24400-910', 'Rondônia', 'Nectarina', 'Rua 56', '31');
+VALUES (318, '64405-647', 'Alagoas', 'Jurubeba', 'Rua 25', '94');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (319, '14412-192', 'Rio Grande do Sul', 'Ingá', 'Rua 69', '40');
+VALUES (319, '74419-085', 'São Paulo', 'Cupuaçu', 'Rua 93', '38');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (320, '34426-488', 'Rio Grande do Norte', 'Longan', 'Rua 62', '91');
+VALUES (320, '94426-839', 'Paraná', 'Uva branca', 'Rua 45', '11');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (321, '14437-141', 'Paraná', 'Babaçu', 'Rua 32', '50');
+VALUES (321, '04436-582', 'Paraná', 'Fruta - Pão', 'Rua 28', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (322, '94448-147', 'Bahia', 'Ciriguela', 'Rua 71', '47');
+VALUES (322, '64449-481', 'Mato Grosso do Sul', 'Cidra', 'Rua 75', '16');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (323, '34455-552', 'Rio Grande do Sul', 'Banana', 'Rua 45', '81');
+VALUES (323, '54452-247', 'Alagoas', 'Mamão', 'Rua 74', '81');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (324, '74469-646', 'Espírito Santo', 'Avocadoe', 'Rua 47', '26');
+VALUES (324, '14466-291', 'Ceará', 'Caqui', 'Rua 53', '14');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (325, '64474-423', 'Amazonas', 'Guabiroba', 'Rua 79', '99');
+VALUES (325, '34478-615', 'Goiás', 'Cardo branco', 'Rua 50', '74');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (326, '64489-793', 'Roraima', 'Tamarilu', 'Rua 80', '68');
+VALUES (326, '44480-213', 'Rio Grande do Norte', 'Biribá', 'Rua 29', '43');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (327, '74490-220', 'São Paulo', 'Lucuma', 'Rua 24', '18');
+VALUES (327, '44495-542', 'Distrito Federal', 'Banana figo', 'Rua 11', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (328, '74500-630', 'Amapá', 'Banana', 'Rua 48', '57');
+VALUES (328, '84508-459', 'Pará', 'Longan', 'Rua 29', '42');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (329, '04510-497', 'Amazonas', 'Figo', 'Rua 95', '16');
+VALUES (329, '24515-911', 'Piauí', 'Tucumã', 'Rua 26', '43');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (330, '14522-283', 'Roraima', 'Carambola', 'Rua 11', '70');
+VALUES (330, '34529-553', 'Goiás', 'Ameixa', 'Rua 99', '59');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (331, '94532-124', 'Rio Grande do Norte', 'Tangerina', 'Rua 16', '46');
+VALUES (331, '54535-556', 'Alagoas', 'Pupunha', 'Rua 33', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (332, '14540-571', 'Amapá', 'Wampi', 'Rua 14', '54');
+VALUES (332, '04546-773', 'Tocantins', 'Mandacarú', 'Rua 12', '13');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (333, '84550-837', 'Tocantins', 'Guabiroba', 'Rua 30', '39');
+VALUES (333, '44550-397', 'Piauí', 'Uva japonesa', 'Rua 10', '73');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (334, '44566-115', 'São Paulo', 'Jambo branco', 'Rua 56', '64');
+VALUES (334, '34560-745', 'Rondônia', 'Abacate', 'Rua 11', '91');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (335, '84579-546', 'Goiás', 'Carissa', 'Rua 70', '26');
+VALUES (335, '34570-686', 'Pernambuco', 'Guariroba', 'Rua 29', '24');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (336, '94580-417', 'Pernambuco', 'Mangaba', 'Rua 71', '31');
+VALUES (336, '84586-169', 'Rio Grande do Norte', 'Café', 'Rua 45', '72');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (337, '64597-119', 'Mato Grosso do Sul', 'Cereja', 'Rua 28', '75');
+VALUES (337, '04590-501', 'Santa Catarina', 'Guaraná', 'Rua 58', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (338, '94601-956', 'Tocantins', 'Banana da terra', 'Rua 12', '88');
+VALUES (338, '44602-580', 'Santa Catarina', 'Uva branca', 'Rua 16', '53');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (339, '74613-030', 'Amapá', 'Jatobá', 'Rua 27', '95');
+VALUES (339, '74619-585', 'Tocantins', 'Damasco', 'Rua 68', '50');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (340, '24628-373', 'Espírito Santo', 'Limão tahiti', 'Rua 62', '78');
+VALUES (340, '34629-605', 'Tocantins', 'Piquiá', 'Rua 61', '46');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (341, '24633-897', 'Rio Grande do Norte', 'Muruci', 'Rua 18', '86');
+VALUES (341, '34634-346', 'Sergipe', 'Banana dágua', 'Rua 28', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (342, '04640-523', 'Paraíba', 'Glicosmis', 'Rua 43', '20');
+VALUES (342, '24642-922', 'Espírito Santo', 'Ilama', 'Rua 62', '35');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (343, '74654-499', 'Goiás', 'Murcote', 'Rua 57', '59');
+VALUES (343, '84653-280', 'Amazonas', 'Nêspera', 'Rua 58', '53');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (344, '54660-362', 'Paraná', 'Jambo branco', 'Rua 40', '36');
+VALUES (344, '04665-940', 'Goiás', 'Cherimóia', 'Rua 79', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (345, '04675-954', 'Ceará', 'Pinha', 'Rua 55', '97');
+VALUES (345, '14677-022', 'Alagoas', 'Castanha portuguesa', 'Rua 52', '86');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (346, '54687-124', 'Ceará', 'Figo da índia amarelo', 'Rua 53', '56');
+VALUES (346, '94687-872', 'Alagoas', 'Kinkan', 'Rua 89', '23');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (347, '94693-582', 'Bahia', 'Buriti', 'Rua 87', '87');
+VALUES (347, '94697-812', 'Amapá', 'Jabuticaba branca', 'Rua 52', '94');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (348, '54705-979', 'Ceará', 'Laranja pêra', 'Rua 54', '25');
+VALUES (348, '84704-648', 'Paraíba', 'Framboesa', 'Rua 49', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (349, '74711-689', 'Roraima', 'Coco babaçu', 'Rua 10', '92');
+VALUES (349, '54713-858', 'Amapá', 'Wampi', 'Rua 33', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (350, '24723-498', 'Tocantins', 'Xixa', 'Rua 95', '48');
+VALUES (350, '54725-907', 'Goiás', 'Morango', 'Rua 93', '23');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (351, '74739-545', 'Rio Grande do Sul', 'Jambo amarelo', 'Rua 75', '77');
+VALUES (351, '94737-756', 'Santa Catarina', 'Mandacarú', 'Rua 96', '38');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (352, '24742-376', 'Pará', 'Mexerica', 'Rua 23', '67');
+VALUES (352, '44740-598', 'Amazonas', 'Camapu', 'Rua 65', '15');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (353, '54756-210', 'Rondônia', 'Tomate Arbóreo', 'Rua 49', '72');
+VALUES (353, '04751-691', 'Sergipe', 'Mexerica Rio', 'Rua 15', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (354, '24761-957', 'Espírito Santo', 'Akee', 'Rua 17', '89');
+VALUES (354, '24764-786', 'Pará', 'Jambolão', 'Rua 21', '19');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (355, '54779-516', 'Acre', 'Cidra', 'Rua 89', '73');
+VALUES (355, '74770-516', 'Piauí', 'Melão', 'Rua 31', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (356, '24781-625', 'Pernambuco', 'Guaraná', 'Rua 63', '19');
+VALUES (356, '44784-660', 'Maranhão', 'Cherimoya', 'Rua 70', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (357, '24792-330', 'Goiás', 'Banana Nanica', 'Rua 28', '78');
+VALUES (357, '04799-075', 'Paraná', 'Coco fresco', 'Rua 36', '30');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (358, '34806-987', 'Distrito Federal', 'Manga haden', 'Rua 25', '59');
+VALUES (358, '64800-643', 'Pernambuco', 'Damasco', 'Rua 14', '30');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (359, '74813-951', 'Amapá', 'Calamondin', 'Rua 26', '23');
+VALUES (359, '54812-574', 'São Paulo', 'Laranja pêra', 'Rua 55', '82');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (360, '74822-097', 'Paraná', 'Calabaça', 'Rua 10', '40');
+VALUES (360, '04825-435', 'Alagoas', 'Banana', 'Rua 24', '26');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (361, '54833-802', 'Rio de Janeiro', 'Romã', 'Rua 17', '83');
+VALUES (361, '34832-631', 'Goiás', 'Amêndoa', 'Rua 21', '81');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (362, '54847-251', 'Mato Grosso do Sul', 'Uva japonesa', 'Rua 82', '59');
+VALUES (362, '74847-411', 'Pernambuco', 'Caqui paulista', 'Rua 29', '12');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (363, '24853-593', 'Acre', 'Umê', 'Rua 55', '92');
+VALUES (363, '14856-675', 'Rio Grande do Sul', 'Pêssego', 'Rua 71', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (364, '34862-267', 'Rio Grande do Norte', 'Jambo amarelo', 'Rua 55', '44');
+VALUES (364, '04866-203', 'Amazonas', 'Licuri', 'Rua 30', '61');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (365, '44873-282', 'Paraíba', 'Banana prata', 'Rua 26', '69');
+VALUES (365, '24872-373', 'Espírito Santo', 'Pêra Williams', 'Rua 45', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (366, '34889-796', 'São Paulo', 'Manga tommy', 'Rua 77', '85');
+VALUES (366, '14881-580', 'Paraná', 'Banana Maçã', 'Rua 61', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (367, '74894-467', 'Bahia', 'Caraguata', 'Rua 11', '76');
+VALUES (367, '84898-511', 'Distrito Federal', 'Champedaque', 'Rua 81', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (368, '64908-206', 'Maranhão', 'Jenipapo', 'Rua 42', '48');
+VALUES (368, '54902-522', 'Espírito Santo', 'Abiu', 'Rua 24', '92');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (369, '74916-579', 'Santa Catarina', 'Muruci', 'Rua 21', '35');
+VALUES (369, '64910-997', 'Pará', 'Noz Pecã', 'Rua 31', '15');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (370, '24926-294', 'Alagoas', 'Banana dágua', 'Rua 85', '59');
+VALUES (370, '24927-000', 'Roraima', 'Tâmara', 'Rua 88', '19');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (371, '34930-572', 'Pernambuco', 'Avocadoe', 'Rua 93', '17');
+VALUES (371, '44936-082', 'Rio de Janeiro', 'Granadilla', 'Rua 52', '45');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (372, '94945-731', 'Piauí', 'Frutas do Cerrado', 'Rua 11', '38');
+VALUES (372, '44940-577', 'Alagoas', 'Atemoya', 'Rua 58', '11');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (373, '04959-160', 'Santa Catarina', 'Cubiu', 'Rua 53', '45');
+VALUES (373, '04955-867', 'Rio Grande do Sul', 'Sapota', 'Rua 18', '31');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (374, '34963-393', 'Distrito Federal', 'Groselha', 'Rua 14', '21');
+VALUES (374, '64960-208', 'Amapá', 'Melancia amarela', 'Rua 36', '85');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (375, '44975-442', 'Bahia', 'Mabolo', 'Rua 59', '62');
+VALUES (375, '34978-851', 'Tocantins', 'Manga haden', 'Rua 94', '71');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (376, '14989-506', 'Pernambuco', 'Banana Ouro', 'Rua 18', '30');
+VALUES (376, '74989-419', 'Acre', 'Castanhas Variadas', 'Rua 57', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (377, '84990-986', 'Espírito Santo', 'Nectarina', 'Rua 87', '49');
+VALUES (377, '64992-144', 'Santa Catarina', 'Mexerica Rio', 'Rua 98', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (378, '45006-965', 'Goiás', 'Banana figo', 'Rua 26', '53');
+VALUES (378, '15001-341', 'Pará', 'Piquiá', 'Rua 93', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (379, '55018-867', 'Piauí', 'Marang', 'Rua 13', '27');
+VALUES (379, '45010-365', 'Bahia', 'Goiaba', 'Rua 42', '91');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (380, '85020-307', 'Tocantins', 'Pulasan', 'Rua 64', '92');
+VALUES (380, '45024-318', 'Acre', 'Pêra Park', 'Rua 21', '49');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (381, '95037-488', 'Ceará', 'Nectarina', 'Rua 27', '19');
+VALUES (381, '95038-715', 'Rondônia', 'Murici', 'Rua 41', '14');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (382, '55046-460', 'Minas Gerais', 'Cacau', 'Rua 76', '88');
+VALUES (382, '95046-883', 'Acre', 'Cajá-manga', 'Rua 79', '37');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (383, '35058-328', 'Piauí', 'Uva', 'Rua 13', '23');
+VALUES (383, '65058-453', 'Alagoas', 'Baru', 'Rua 54', '44');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (384, '35069-695', 'São Paulo', 'Cubiu', 'Rua 15', '48');
+VALUES (384, '45069-459', 'Rondônia', 'Araçá', 'Rua 34', '73');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (385, '95072-439', 'Minas Gerais', 'Taiúva', 'Rua 18', '23');
+VALUES (385, '25074-306', 'Alagoas', 'Laranja lima', 'Rua 88', '96');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (386, '65089-767', 'Mato Grosso', 'Maracujá', 'Rua 43', '53');
+VALUES (386, '95083-445', 'Pernambuco', 'Jaca', 'Rua 52', '90');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (387, '45090-022', 'Rio de Janeiro', 'Biriba', 'Rua 53', '53');
+VALUES (387, '35092-439', 'Amapá', 'Pitaya', 'Rua 85', '19');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (388, '45103-127', 'Tocantins', 'Romã', 'Rua 95', '99');
+VALUES (388, '45106-276', 'Espírito Santo', 'Cacau', 'Rua 71', '69');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (389, '55111-686', 'Rondônia', 'Limão tahiti', 'Rua 16', '36');
+VALUES (389, '75118-833', 'Minas Gerais', 'Manga haden', 'Rua 73', '58');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (390, '45123-720', 'Amapá', 'Banana da terra', 'Rua 94', '37');
+VALUES (390, '95125-808', 'São Paulo', 'Mabolo', 'Rua 61', '27');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (391, '95136-888', 'Amazonas', 'Mutamba', 'Rua 17', '34');
+VALUES (391, '95138-668', 'Minas Gerais', 'Pitanga', 'Rua 71', '64');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (392, '15141-340', 'Roraima', 'Cabeludinha', 'Rua 74', '54');
+VALUES (392, '85140-858', 'Espírito Santo', 'Ameixa', 'Rua 65', '74');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (393, '75156-105', 'Amapá', 'Uva branca', 'Rua 31', '66');
+VALUES (393, '85155-368', 'Amapá', 'Dovyalis', 'Rua 21', '23');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (394, '55162-813', 'Minas Gerais', 'Jambo rosa', 'Rua 57', '86');
+VALUES (394, '05166-690', 'Mato Grosso', 'Tâmara', 'Rua 12', '82');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (395, '85179-594', 'Pará', 'Toranja', 'Rua 66', '69');
+VALUES (395, '15174-843', 'Distrito Federal', 'Champedaque', 'Rua 33', '74');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (396, '45187-447', 'Tocantins', 'Limão galego', 'Rua 55', '12');
+VALUES (396, '95187-460', 'Distrito Federal', 'Sapucaia', 'Rua 88', '45');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (397, '85199-951', 'Bahia', 'Figo da índia vermelho', 'Rua 96', '51');
+VALUES (397, '65195-535', 'Amazonas', 'Laranja pêra', 'Rua 51', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (398, '85200-935', 'Rio de Janeiro', 'Jatobá', 'Rua 11', '53');
+VALUES (398, '15206-035', 'Rio de Janeiro', 'Pistache', 'Rua 23', '88');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (399, '55210-949', 'Bahia', 'Frutas do Cerrado', 'Rua 67', '74');
+VALUES (399, '55211-888', 'Ceará', 'Carambola', 'Rua 40', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (400, '45227-186', 'Piauí', 'Tâmara natural', 'Rua 99', '46');
+VALUES (400, '65226-660', 'Ceará', 'Fruta - Pão', 'Rua 68', '28');
 

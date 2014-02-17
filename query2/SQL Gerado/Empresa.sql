@@ -1,302 +1,302 @@
 -- Popula a tabela Empresa.
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (1, 'Petrobras', '17.247.654/0001-57', 101);
+VALUES (1, 'Petrobras', '56.247.657/0002-38', 101);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (2, 'BR Distribuidora', '08.248.939/0002-64', 102);
+VALUES (2, 'BR Distribuidora', '85.248.587/0002-42', 102);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (3, 'Vale', '05.249.211/0001-70', 103);
+VALUES (3, 'Vale', '70.249.829/0001-76', 103);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (4, 'Ipiranga Produtos', '34.250.679/0001-56', 104);
+VALUES (4, 'Ipiranga Produtos', '94.250.063/0002-27', 104);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (5, 'Raízen', '15.251.196/0001-98', 105);
+VALUES (5, 'Raízen', '59.251.380/0002-88', 105);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (6, 'Fiat', '83.252.385/0002-58', 106);
+VALUES (6, 'Fiat', '16.252.766/0001-78', 106);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (7, 'Volkswagen', '89.253.584/0001-61', 107);
+VALUES (7, 'Volkswagen', '93.253.445/0001-79', 107);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (8, 'Vivo', '86.254.936/0002-99', 108);
+VALUES (8, 'Vivo', '97.254.185/0002-30', 108);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (9, 'Bunge Alimentos', '71.255.642/0001-84', 109);
+VALUES (9, 'Bunge Alimentos', '84.255.557/0001-34', 109);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (10, 'Cargill', '90.256.248/0001-65', 110);
+VALUES (10, 'Cargill', '37.256.061/0001-66', 110);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (11, 'Braskem', '43.257.346/0002-35', 111);
+VALUES (11, 'Braskem', '43.257.836/0002-09', 111);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (12, 'Pão de Açúcar', '21.258.148/0001-18', 112);
+VALUES (12, 'Pão de Açúcar', '59.258.100/0002-87', 112);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (13, 'TIM', '98.259.015/0002-65', 113);
+VALUES (13, 'TIM', '75.259.460/0002-12', 113);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (14, 'General Motors', '50.260.789/0001-18', 114);
+VALUES (14, 'General Motors', '61.260.619/0001-91', 114);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (15, 'Telefônica', '94.261.303/0001-15', 115);
+VALUES (15, 'Telefônica', '75.261.862/0001-86', 115);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (16, 'Casas Bahia', '34.262.030/0002-60', 116);
+VALUES (16, 'Casas Bahia', '47.262.276/0001-92', 116);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (17, 'Walmart', '34.263.223/0001-72', 117);
+VALUES (17, 'Walmart', '32.263.755/0001-72', 117);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (18, 'Ambev', '79.264.984/0002-89', 118);
+VALUES (18, 'Ambev', '10.264.128/0002-57', 118);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (19, 'ArcelorMittal Brasil', '90.265.575/0001-64', 119);
+VALUES (19, 'ArcelorMittal Brasil', '06.265.011/0001-80', 119);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (20, 'Correios', '27.266.472/0002-92', 120);
+VALUES (20, 'Correios', '76.266.999/0002-34', 120);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (21, 'Mercedes-Benz', '99.267.542/0001-40', 121);
+VALUES (21, 'Mercedes-Benz', '01.267.954/0002-61', 121);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (22, 'JBS', '34.268.349/0002-84', 122);
+VALUES (22, 'JBS', '84.268.448/0002-97', 122);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (23, 'Carrefour', '65.269.724/0001-15', 123);
+VALUES (23, 'Carrefour', '31.269.890/0002-40', 123);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (24, 'TAM', '12.270.352/0002-52', 124);
+VALUES (24, 'TAM', '77.270.220/0002-50', 124);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (25, 'Brasil Foods/Sadia', '64.271.207/0002-62', 125);
+VALUES (25, 'Brasil Foods/Sadia', '79.271.670/0002-43', 125);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (26, 'Brasil Foods', '56.272.471/0001-47', 126);
+VALUES (26, 'Brasil Foods', '42.272.056/0001-80', 126);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (27, 'Telemar', '29.273.062/0002-99', 127);
+VALUES (27, 'Telemar', '56.273.431/0002-14', 127);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (28, 'Cosan', '27.274.412/0002-39', 128);
+VALUES (28, 'Cosan', '72.274.008/0001-23', 128);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (29, 'Ford', '32.275.102/0001-23', 129);
+VALUES (29, 'Ford', '67.275.971/0001-63', 129);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (30, 'Atacadão', '93.276.403/0001-47', 130);
+VALUES (30, 'Atacadão', '86.276.241/0002-49', 130);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (31, 'CSN', '84.277.508/0001-81', 131);
+VALUES (31, 'CSN', '97.277.162/0001-83', 131);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (32, 'Claro', '56.278.566/0001-72', 132);
+VALUES (32, 'Claro', '48.278.501/0001-35', 132);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (33, 'Usiminas', '30.279.325/0002-61', 133);
+VALUES (33, 'Usiminas', '23.279.983/0002-10', 133);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (34, 'Embratel', '21.280.915/0002-86', 134);
+VALUES (34, 'Embratel', '04.280.814/0002-92', 134);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (35, 'Moto Honda', '46.281.457/0001-43', 135);
+VALUES (35, 'Moto Honda', '48.281.221/0001-08', 135);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (36, 'Sabesp', '82.282.085/0001-64', 136);
+VALUES (36, 'Sabesp', '21.282.376/0002-06', 136);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (37, 'AES Eletropaulo', '94.283.930/0002-61', 137);
+VALUES (37, 'AES Eletropaulo', '32.283.728/0002-09', 137);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (38, 'ADM', '33.284.133/0001-25', 138);
+VALUES (38, 'ADM', '96.284.795/0002-80', 138);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (39, 'Oi (TNL PCS)', '67.285.044/0002-33', 139);
+VALUES (39, 'Oi (TNL PCS)', '59.285.071/0001-92', 139);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (40, 'MAN', '44.286.433/0001-58', 140);
+VALUES (40, 'MAN', '95.286.791/0001-71', 140);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (41, 'Toyota', '94.287.078/0001-64', 141);
+VALUES (41, 'Toyota', '95.287.866/0002-91', 141);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (42, 'Cemig Distribuição', '42.288.604/0001-51', 142);
+VALUES (42, 'Cemig Distribuição', '28.288.786/0001-32', 142);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (43, 'Embraer', '02.289.839/0001-73', 143);
+VALUES (43, 'Embraer', '53.289.974/0002-00', 143);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (44, 'Globo', '00.290.760/0002-54', 144);
+VALUES (44, 'Globo', '73.290.625/0002-73', 144);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (45, 'Construtora Odebrecht', '37.291.532/0001-19', 145);
+VALUES (45, 'Construtora Odebrecht', '63.291.756/0001-65', 145);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (46, 'Samsung', '76.292.031/0002-36', 146);
+VALUES (46, 'Samsung', '53.292.049/0002-24', 146);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (47, 'Copersucar', '60.293.054/0002-60', 147);
+VALUES (47, 'Copersucar', '97.293.352/0002-94', 147);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (48, 'Gerdau Aços Longos', '24.294.645/0001-27', 148);
+VALUES (48, 'Gerdau Aços Longos', '61.294.580/0002-50', 148);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (49, 'Nextel', '10.295.926/0002-94', 149);
+VALUES (49, 'Nextel', '08.295.397/0001-20', 149);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (50, 'Renault', '50.296.831/0002-64', 150);
+VALUES (50, 'Renault', '45.296.219/0001-28', 150);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (51, 'Ale', '49.297.549/0001-62', 151);
+VALUES (51, 'Ale', '50.297.627/0002-94', 151);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (52, 'Oi', '21.298.252/0002-78', 152);
+VALUES (52, 'Oi', '39.298.716/0001-29', 152);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (53, 'GOL', '79.299.060/0002-71', 153);
+VALUES (53, 'GOL', '67.299.761/0001-91', 153);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (54, 'Unilever', '62.300.722/0001-81', 154);
+VALUES (54, 'Unilever', '21.300.036/0002-63', 154);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (55, 'Samarco', '94.301.788/0002-01', 155);
+VALUES (55, 'Samarco', '03.301.506/0001-21', 155);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (56, 'Furnas', '27.302.352/0001-22', 156);
+VALUES (56, 'Furnas', '66.302.349/0002-15', 156);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (57, 'Amil', '23.303.439/0002-32', 157);
+VALUES (57, 'Amil', '16.303.771/0001-70', 157);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (58, 'GE', '85.304.669/0001-58', 158);
+VALUES (58, 'GE', '19.304.387/0001-01', 158);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (59, 'Refap', '21.305.526/0001-11', 159);
+VALUES (59, 'Refap', '15.305.671/0001-75', 159);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (60, 'Itaipu Binacional', '55.306.960/0001-66', 160);
+VALUES (60, 'Itaipu Binacional', '66.306.972/0002-77', 160);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (61, 'Louis Dreyfus', '63.307.006/0002-72', 161);
+VALUES (61, 'Louis Dreyfus', '34.307.399/0002-80', 161);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (62, 'Peugeot Citroën', '54.308.147/0001-33', 162);
+VALUES (62, 'Peugeot Citroën', '98.308.740/0002-48', 162);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (63, 'Light', '83.309.084/0002-74', 163);
+VALUES (63, 'Light', '15.309.262/0001-87', 163);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (64, 'Lojas Americanas', '14.310.019/0001-42', 164);
+VALUES (64, 'Lojas Americanas', '00.310.487/0001-43', 164);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (65, 'Honda Automóveis', '08.311.900/0002-83', 165);
+VALUES (65, 'Honda Automóveis', '04.311.470/0001-96', 165);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (66, 'Natura', '61.312.790/0001-16', 166);
+VALUES (66, 'Natura', '86.312.709/0001-53', 166);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (67, 'Whirlpool', '93.313.733/0002-54', 167);
+VALUES (67, 'Whirlpool', '58.313.446/0002-69', 167);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (68, 'Basf', '32.314.852/0002-22', 168);
+VALUES (68, 'Basf', '64.314.177/0002-26', 168);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (69, 'CPFL Paulista', '22.315.548/0002-50', 169);
+VALUES (69, 'CPFL Paulista', '25.315.406/0002-16', 169);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (70, 'Coamo', '65.316.132/0002-72', 170);
+VALUES (70, 'Coamo', '17.316.219/0001-25', 170);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (71, 'Souza Cruz', '31.317.007/0001-98', 171);
+VALUES (71, 'Souza Cruz', '90.317.292/0001-95', 171);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (72, 'Makro', '71.318.503/0002-14', 172);
+VALUES (72, 'Makro', '72.318.237/0001-26', 172);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (73, 'Copel', '78.319.368/0002-63', 173);
+VALUES (73, 'Copel', '98.319.540/0001-80', 173);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (74, 'Votoran', '13.320.157/0002-58', 174);
+VALUES (74, 'Votoran', '75.320.365/0002-16', 174);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (75, 'Magazine Luiza', '15.321.232/0002-77', 175);
+VALUES (75, 'Magazine Luiza', '89.321.860/0002-24', 175);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (76, 'Chesf', '45.322.359/0002-34', 176);
+VALUES (76, 'Chesf', '53.322.604/0002-01', 176);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (77, 'Nestlé', '62.323.218/0001-07', 177);
+VALUES (77, 'Nestlé', '12.323.475/0002-67', 177);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (78, 'Gerdau Açominas', '68.324.882/0002-37', 178);
+VALUES (78, 'Gerdau Açominas', '81.324.650/0001-89', 178);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (79, 'Coelba', '54.325.142/0002-58', 179);
+VALUES (79, 'Coelba', '20.325.932/0002-21', 179);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (80, 'Transpetro', '84.326.950/0002-55', 180);
+VALUES (80, 'Transpetro', '99.326.333/0002-50', 180);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (81, 'Suzano', '40.327.322/0001-53', 181);
+VALUES (81, 'Suzano', '15.327.827/0001-86', 181);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (82, 'Heringer', '49.328.935/0001-05', 182);
+VALUES (82, 'Heringer', '93.328.153/0002-26', 182);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (83, 'CNH', '96.329.506/0001-10', 183);
+VALUES (83, 'CNH', '74.329.980/0001-72', 183);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (84, 'Paranapanema', '53.330.251/0002-50', 184);
+VALUES (84, 'Paranapanema', '75.330.019/0002-60', 184);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (85, 'Iveco', '55.331.872/0001-87', 185);
+VALUES (85, 'Iveco', '44.331.375/0001-37', 185);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (86, 'Ponto Frio', '89.332.997/0001-16', 186);
+VALUES (86, 'Ponto Frio', '44.332.695/0002-85', 186);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (87, 'Marfrig', '05.333.097/0002-18', 187);
+VALUES (87, 'Marfrig', '56.333.138/0001-09', 187);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (88, 'Camargo Corrêa', '98.334.669/0002-23', 188);
+VALUES (88, 'Camargo Corrêa', '88.334.120/0002-88', 188);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (89, 'Bunge Fertilizantes', '16.335.631/0002-55', 189);
+VALUES (89, 'Bunge Fertilizantes', '97.335.431/0001-09', 189);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (90, 'Mitsubishi Motors', '43.336.448/0001-67', 190);
+VALUES (90, 'Mitsubishi Motors', '65.336.828/0002-85', 190);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (91, 'Andrade Gutierrez', '14.337.493/0002-82', 191);
+VALUES (91, 'Andrade Gutierrez', '88.337.322/0002-70', 191);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (92, 'Bayer', '45.338.043/0001-73', 192);
+VALUES (92, 'Bayer', '20.338.898/0002-96', 192);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (93, 'Avon', '77.339.113/0001-37', 193);
+VALUES (93, 'Avon', '54.339.107/0002-24', 193);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (94, 'Eletronorte', '49.340.927/0001-85', 194);
+VALUES (94, 'Eletronorte', '34.340.570/0002-84', 194);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (95, 'Robert Bosch', '69.341.313/0002-07', 195);
+VALUES (95, 'Robert Bosch', '99.341.834/0002-99', 195);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (96, 'HP', '36.342.185/0001-09', 196);
+VALUES (96, 'HP', '59.342.457/0002-96', 196);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (97, 'Braskem Qpar', '58.343.754/0002-83', 197);
+VALUES (97, 'Braskem Qpar', '87.343.932/0001-85', 197);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (98, 'Spal', '61.344.846/0002-51', 198);
+VALUES (98, 'Spal', '56.344.887/0001-61', 198);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (99, 'Tag', '06.345.510/0002-48', 199);
+VALUES (99, 'Tag', '09.345.357/0001-58', 199);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (100, 'Comgás', '40.346.634/0002-09', 200);
+VALUES (100, 'Comgás', '31.346.572/0002-46', 200);
 

@@ -32,360 +32,369 @@ INSERT INTO TipoCarga(id, nome)
 VALUES (10, 'Mobília');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (1, 'BWV-2751', 'Mercedes 710');
+VALUES (1, 'HMZ-2751', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (2, 'GZB-2752', 'Volvo FH 460');
+VALUES (2, 'VJB-2752', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (3, 'KKE-2753', 'Mercedes Accelo 815');
+VALUES (3, 'SIU-2753', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (4, 'ESB-2754', 'Volks 9150');
+VALUES (4, 'SBP-2754', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (5, 'JJG-2755', 'Mercedes 710');
+VALUES (5, 'RTM-2755', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (6, 'YQD-2756', 'Volvo VM 260');
+VALUES (6, 'QKC-2756', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (7, 'SVO-2757', 'Volvo VM 260');
+VALUES (7, 'OSE-2757', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (8, 'BIN-2758', 'Volks 13180');
+VALUES (8, 'RXL-2758', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (9, 'GSW-2759', 'Volks 8150');
+VALUES (9, 'XCC-2759', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (10, 'TFU-2760', 'Mercedes Accelo 815');
+VALUES (10, 'RNH-2760', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (11, 'JDN-2761', 'Mercedes Accelo 815');
+VALUES (11, 'BVC-2761', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (12, 'ZOV-2762', 'Mercedes Accelo 815');
+VALUES (12, 'XSS-2762', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (13, 'OKI-2763', 'Mercedes 710');
+VALUES (13, 'AIV-2763', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (14, 'VZO-2764', 'Mercedes Accelo 815');
+VALUES (14, 'SOH-2764', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (15, 'UXT-2765', 'Volvo FH 460');
+VALUES (15, 'SSW-2765', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (16, 'VOF-2766', 'Scania R440');
+VALUES (16, 'APS-2766', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (17, 'PYD-2767', 'Volks 13180');
+VALUES (17, 'QTW-2767', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (18, 'ZGV-2768', 'Scania R440');
+VALUES (18, 'UIK-2768', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (19, 'CTH-2769', 'Volks 8150');
+VALUES (19, 'VJE-2769', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (20, 'DUZ-2770', 'Volks 8150');
+VALUES (20, 'UAC-2770', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (21, 'XXX-2771', 'Volvo FH 460');
+VALUES (21, 'XMF-2771', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (22, 'BGS-2772', 'Scania R440');
+VALUES (22, 'IXF-2772', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (23, 'VTF-2773', 'Mercedes Accelo 815');
+VALUES (23, 'BAO-2773', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (24, 'AYS-2774', 'Scania R440');
+VALUES (24, 'SFK-2774', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (25, 'ZAY-2775', 'Mercedes 710');
+VALUES (25, 'OWK-2775', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (26, 'NWJ-2776', 'Mercedes Accelo 815');
+VALUES (26, 'XUV-2776', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (27, 'WQN-2777', 'Mercedes Atego 2425');
+VALUES (27, 'SGV-2777', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (28, 'LHM-2778', 'Mercedes Accelo 815');
+VALUES (28, 'ANX-2778', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (29, 'RWF-2779', 'Volks 8150');
+VALUES (29, 'PMS-2779', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (30, 'BGL-2780', 'Volks 24250');
+VALUES (30, 'GFE-2780', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (31, 'OLR-2781', 'Scania R440');
+VALUES (31, 'TXQ-2781', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (32, 'WGY-2782', 'Volvo VM 260');
+VALUES (32, 'NOZ-2782', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (33, 'PGN-2783', 'Volks 8150');
+VALUES (33, 'KVL-2783', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (34, 'NTA-2784', 'Volks 8150');
+VALUES (34, 'VJL-2784', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (35, 'MEB-2785', 'Volks 24250');
+VALUES (35, 'IPM-2785', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (36, 'LAB-2786', 'Mercedes Atego 2425');
+VALUES (36, 'YAV-2786', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (37, 'ZID-2787', 'Volks 8150');
+VALUES (37, 'GWD-2787', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (38, 'XJD-2788', 'Volvo FH 460');
+VALUES (38, 'CAK-2788', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (39, 'EGX-2789', 'Volks 8150');
+VALUES (39, 'FEF-2789', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (40, 'DXX-2790', 'Mercedes 710');
+VALUES (40, 'RZJ-2790', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (41, 'FIO-2791', 'Mercedes Accelo 815');
+VALUES (41, 'XUS-2791', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (42, 'LMF-2792', 'Volvo FH 460');
+VALUES (42, 'XNK-2792', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (43, 'LVH-2793', 'Volks 8150');
+VALUES (43, 'UUI-2793', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (44, 'GNT-2794', 'Mercedes Accelo 815');
+VALUES (44, 'HNN-2794', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (45, 'BLA-2795', 'Volks 9150');
+VALUES (45, 'AHY-2795', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (46, 'PXX-2796', 'Volks 24250');
+VALUES (46, 'AAC-2796', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (47, 'EFH-2797', 'Scania R440');
+VALUES (47, 'SBI-2797', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (48, 'QIR-2798', 'Volks 9150');
+VALUES (48, 'OKB-2798', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (49, 'DUH-2799', 'Mercedes 710');
+VALUES (49, 'XKL-2799', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (50, 'SVQ-2800', 'Volks 9150');
+VALUES (50, 'WRF-2800', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (51, 'BFI-2801', 'Volks 24250');
+VALUES (51, 'IXN-2801', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (52, 'TZS-2802', 'Mercedes Atego 2425');
+VALUES (52, 'BVD-2802', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (53, 'UHX-2803', 'Volks 9150');
+VALUES (53, 'SIN-2803', 'Volks 13180');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (54, 'JTV-2804', 'Volks 13180');
+VALUES (54, 'CYY-2804', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (55, 'NIK-2805', 'Volks 9150');
+VALUES (55, 'YMF-2805', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (56, 'JEK-2806', 'Volks 13180');
+VALUES (56, 'CTL-2806', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (57, 'IMC-2807', 'Scania R440');
+VALUES (57, 'RZE-2807', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (58, 'OVR-2808', 'Mercedes 710');
+VALUES (58, 'XSB-2808', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (59, 'CDG-2809', 'Volks 24250');
+VALUES (59, 'HAU-2809', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (60, 'IAK-2810', 'Volks 24250');
+VALUES (60, 'BRV-2810', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (61, 'BXN-2811', 'Scania R440');
+VALUES (61, 'GTW-2811', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (62, 'VRJ-2812', 'Mercedes Accelo 815');
+VALUES (62, 'UNO-2812', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (63, 'RLI-2813', 'Volvo VM 260');
+VALUES (63, 'ITQ-2813', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (64, 'SWS-2814', 'Mercedes Accelo 815');
+VALUES (64, 'PCR-2814', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (65, 'QLQ-2815', 'Scania R440');
+VALUES (65, 'DOV-2815', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (66, 'AUZ-2816', 'Volks 9150');
+VALUES (66, 'IHF-2816', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (67, 'ZTT-2817', 'Volks 9150');
+VALUES (67, 'AXU-2817', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (68, 'SUW-2818', 'Volvo FH 460');
+VALUES (68, 'SHS-2818', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (69, 'YYN-2819', 'Volks 8150');
+VALUES (69, 'EBL-2819', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (70, 'NQT-2820', 'Volvo FH 460');
+VALUES (70, 'PCL-2820', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (71, 'XQF-2821', 'Volks 13180');
+VALUES (71, 'JEH-2821', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (72, 'MGN-2822', 'Volks 24250');
+VALUES (72, 'RHU-2822', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (73, 'DXC-2823', 'Mercedes Atego 2425');
+VALUES (73, 'HRH-2823', 'Scania R440');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (74, 'JDR-2824', 'Volvo FH 460');
+VALUES (74, 'BQG-2824', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (75, 'MDA-2825', 'Volks 13180');
+VALUES (75, 'WEA-2825', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (76, 'LQZ-2826', 'Volks 8150');
+VALUES (76, 'YES-2826', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (77, 'YND-2827', 'Volks 13180');
+VALUES (77, 'QYK-2827', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (78, 'KNZ-2828', 'Volks 9150');
+VALUES (78, 'CIE-2828', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (79, 'HEJ-2829', 'Mercedes Accelo 815');
+VALUES (79, 'MPG-2829', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (80, 'LGK-2830', 'Volvo FH 460');
+VALUES (80, 'XGY-2830', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (81, 'TBZ-2831', 'Mercedes Accelo 815');
+VALUES (81, 'SWD-2831', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (82, 'UEO-2832', 'Volvo FH 460');
+VALUES (82, 'CSB-2832', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (83, 'ZKC-2833', 'Volvo FH 460');
+VALUES (83, 'SYT-2833', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (84, 'ION-2834', 'Volks 24250');
+VALUES (84, 'GUN-2834', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (85, 'OON-2835', 'Volks 13180');
+VALUES (85, 'OMY-2835', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (86, 'ASR-2836', 'Mercedes 710');
+VALUES (86, 'KHA-2836', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (87, 'TLP-2837', 'Volks 13180');
+VALUES (87, 'YGQ-2837', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (88, 'KNW-2838', 'Volks 8150');
+VALUES (88, 'SJX-2838', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (89, 'LCZ-2839', 'Volks 13180');
+VALUES (89, 'SUV-2839', 'Mercedes 710');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (90, 'AWN-2840', 'Volvo FH 460');
+VALUES (90, 'UBR-2840', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (91, 'LMR-2841', 'Volvo VM 260');
+VALUES (91, 'TDJ-2841', 'Mercedes Atego 2425');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (92, 'XPH-2842', 'Volks 24250');
+VALUES (92, 'JSK-2842', 'Volks 24250');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (93, 'HLG-2843', 'Scania R440');
+VALUES (93, 'CQA-2843', 'Mercedes Accelo 815');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (94, 'DMX-2844', 'Volks 13180');
+VALUES (94, 'IJK-2844', 'Volvo VM 260');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (95, 'BKL-2845', 'Volks 13180');
+VALUES (95, 'GDZ-2845', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (96, 'MUO-2846', 'Volvo VM 260');
+VALUES (96, 'TYO-2846', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (97, 'NRP-2847', 'Scania R440');
+VALUES (97, 'LSI-2847', 'Volks 9150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (98, 'OXE-2848', 'Volks 9150');
+VALUES (98, 'INU-2848', 'Volvo FH 460');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (99, 'MMU-2849', 'Volks 9150');
+VALUES (99, 'IOR-2849', 'Volks 8150');
 
 INSERT INTO veiculo(id, placa, modelo)
-VALUES (100, 'HNQ-2850', 'Volks 24250');
+VALUES (100, 'TRR-2850', 'Scania R440');
 
 -- Popula a tabela VeiculoTipoCarga.
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (1, 1);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (1, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (1, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (2, 6);
+VALUES (1, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (3, 8);
+VALUES (1, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (4, 3);
+VALUES (2, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (4, 4);
+VALUES (3, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (5, 1);
+VALUES (4, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (5, 2);
+VALUES (4, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (6, 6);
+VALUES (5, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (7, 2);
+VALUES (5, 8);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (6, 7);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (6, 8);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (6, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (7, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (8, 1);
+VALUES (7, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (8, 2);
+VALUES (8, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (9, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (9, 6);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (9, 7);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (10, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (10, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (10, 5);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (10, 6);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (10, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (11, 4);
@@ -394,88 +403,88 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (11, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (12, 2);
+VALUES (11, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (12, 3);
+VALUES (12, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (13, 3);
+VALUES (12, 8);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (12, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (13, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (13, 5);
+VALUES (14, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (14, 5);
+VALUES (14, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (14, 6);
+VALUES (15, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (15, 3);
+VALUES (16, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (16, 1);
+VALUES (17, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (16, 2);
+VALUES (17, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (17, 5);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (18, 5);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (18, 6);
+VALUES (17, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (18, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (19, 4);
+VALUES (19, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (19, 5);
+VALUES (19, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (19, 6);
+VALUES (19, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (20, 8);
+VALUES (20, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (20, 9);
+VALUES (20, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (21, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (21, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (22, 1);
+VALUES (21, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (22, 2);
+VALUES (22, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (22, 3);
+VALUES (22, 5);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (23, 1);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (23, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (23, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (24, 7);
+VALUES (24, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (24, 8);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (24, 9);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (25, 7);
+VALUES (24, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (25, 8);
@@ -487,76 +496,85 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (26, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (27, 1);
+VALUES (26, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (27, 2);
+VALUES (27, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (28, 2);
+VALUES (27, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (29, 2);
+VALUES (27, 10);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (29, 3);
+VALUES (28, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (30, 2);
+VALUES (29, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (30, 3);
+VALUES (29, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (30, 4);
+VALUES (29, 10);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (31, 7);
+VALUES (30, 7);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (31, 2);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (31, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (32, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (32, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (33, 2);
+VALUES (32, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (34, 3);
+VALUES (33, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (35, 4);
+VALUES (34, 7);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (34, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (35, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (36, 7);
+VALUES (35, 6);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (36, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (36, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (36, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (37, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (37, 3);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (37, 4);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (38, 1);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (38, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (39, 2);
+VALUES (38, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (39, 3);
+VALUES (39, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (39, 4);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (40, 7);
+VALUES (40, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (41, 5);
@@ -565,28 +583,25 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (41, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (41, 7);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (42, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (42, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (42, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (42, 6);
+VALUES (43, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (43, 6);
+VALUES (44, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (43, 7);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (44, 2);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (44, 3);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (45, 1);
+VALUES (44, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (45, 2);
@@ -595,88 +610,112 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (45, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (46, 3);
+VALUES (45, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (46, 7);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (46, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (47, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (48, 3);
+VALUES (48, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (48, 4);
+VALUES (49, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (48, 5);
+VALUES (49, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (49, 1);
+VALUES (50, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (50, 6);
+VALUES (50, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (50, 7);
+VALUES (50, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (50, 8);
+VALUES (51, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (51, 1);
+VALUES (51, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (52, 8);
+VALUES (51, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (53, 2);
+VALUES (52, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (53, 3);
+VALUES (53, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (54, 7);
+VALUES (53, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (54, 8);
+VALUES (53, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (55, 6);
+VALUES (54, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (55, 7);
+VALUES (55, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (56, 3);
+VALUES (55, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (56, 4);
+VALUES (55, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (57, 7);
+VALUES (56, 7);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (56, 8);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (57, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (58, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (58, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (58, 4);
+VALUES (59, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (59, 8);
+VALUES (60, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (60, 8);
+VALUES (60, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (60, 9);
+VALUES (60, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (61, 1);
+VALUES (61, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (61, 5);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (62, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (62, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (62, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (62, 7);
+VALUES (63, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (63, 4);
@@ -685,16 +724,19 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (63, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (64, 5);
+VALUES (64, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (64, 6);
+VALUES (64, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (65, 3);
+VALUES (65, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (65, 4);
+VALUES (65, 2);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (66, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (66, 4);
@@ -703,31 +745,22 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (66, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (67, 7);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (67, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (67, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (67, 10);
+VALUES (68, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (68, 2);
+VALUES (68, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (68, 3);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (68, 4);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (69, 6);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (69, 7);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (69, 8);
+VALUES (69, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (70, 3);
@@ -736,67 +769,55 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (70, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (70, 5);
+VALUES (71, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (71, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (71, 6);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (71, 7);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (72, 5);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (72, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (73, 4);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (73, 5);
+VALUES (72, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (73, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (74, 8);
+VALUES (74, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (74, 9);
+VALUES (75, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (75, 3);
+VALUES (75, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (75, 4);
+VALUES (76, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (76, 4);
+VALUES (76, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (77, 3);
+VALUES (77, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (77, 4);
+VALUES (77, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (78, 2);
+VALUES (78, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (79, 3);
+VALUES (79, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (80, 8);
+VALUES (80, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (80, 9);
+VALUES (80, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (80, 10);
+VALUES (81, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (81, 8);
@@ -805,40 +826,52 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (82, 1);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (82, 2);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (82, 3);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (83, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (83, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (83, 7);
+VALUES (84, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (84, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (84, 7);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (85, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (85, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (86, 1);
+VALUES (85, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (86, 2);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (87, 2);
+VALUES (87, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (88, 3);
+VALUES (87, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (89, 6);
+VALUES (88, 6);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (88, 7);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (89, 3);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (89, 4);
+
+INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
+VALUES (89, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (90, 2);
@@ -847,37 +880,37 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (90, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (91, 7);
+VALUES (91, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (92, 1);
+VALUES (91, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (93, 5);
+VALUES (91, 10);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (93, 6);
+VALUES (92, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (93, 7);
+VALUES (92, 7);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (94, 6);
+VALUES (93, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (94, 7);
+VALUES (93, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (94, 8);
+VALUES (94, 3);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (95, 3);
+VALUES (94, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (95, 4);
+VALUES (95, 8);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (95, 5);
+VALUES (95, 9);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (96, 3);
@@ -886,1233 +919,1227 @@ INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (96, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (96, 5);
+VALUES (97, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
 VALUES (97, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (98, 6);
+VALUES (97, 6);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (98, 7);
+VALUES (98, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (98, 8);
+VALUES (99, 4);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (99, 1);
+VALUES (99, 5);
 
 INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (100, 2);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (100, 3);
-
-INSERT INTO VeiculoTipoCarga(Veiculo_id, TipoCarga_id)
-VALUES (100, 4);
+VALUES (100, 6);
 
 -- Popula a tabela Endereco.
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (1, '91238-475', 'Goiás', 'Mamão', 'Rua 54', '67');
+VALUES (1, '11235-146', 'Sergipe', 'Romã', 'Rua 68', '43');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (2, '21249-033', 'Alagoas', 'Ciriguela', 'Rua 24', '59');
+VALUES (2, '01245-986', 'Alagoas', 'Guabiroba', 'Rua 56', '46');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (3, '31250-261', 'Paraíba', 'Tâmara natural', 'Rua 48', '33');
+VALUES (3, '51255-073', 'Minas Gerais', 'Goiaba branca', 'Rua 27', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (4, '91265-791', 'Mato Grosso', 'Laranja', 'Rua 27', '66');
+VALUES (4, '81266-523', 'São Paulo', 'Baru', 'Rua 21', '33');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (5, '71279-515', 'Rio Grande do Sul', 'Mirtilo', 'Rua 24', '10');
+VALUES (5, '21276-376', 'Rio Grande do Sul', 'Banana dágua', 'Rua 30', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (6, '91284-443', 'São Paulo', 'Pitomba', 'Rua 14', '85');
+VALUES (6, '71280-861', 'Amazonas', 'Uva branca', 'Rua 82', '67');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (7, '91292-423', 'Piauí', 'Naranjilla', 'Rua 94', '70');
+VALUES (7, '91295-449', 'Acre', 'Laranja valência', 'Rua 79', '86');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (8, '11300-065', 'Roraima', 'Xixa', 'Rua 92', '88');
+VALUES (8, '51302-592', 'Ceará', 'Jatobáá', 'Rua 26', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (9, '21316-519', 'Sergipe', 'Caraguata', 'Rua 51', '56');
+VALUES (9, '71318-071', 'Goiás', 'Rambutão', 'Rua 38', '51');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (10, '41329-198', 'Bahia', 'Laranja valência', 'Rua 60', '51');
+VALUES (10, '01328-977', 'Rio Grande do Norte', 'Melão', 'Rua 78', '60');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (11, '11334-567', 'Minas Gerais', 'Babaco', 'Rua 77', '29');
+VALUES (11, '41332-098', 'Alagoas', 'Lucuma', 'Rua 18', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (12, '81349-221', 'São Paulo', 'Guabiroba', 'Rua 82', '28');
+VALUES (12, '11345-029', 'Goiás', 'Jatobá', 'Rua 22', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (13, '11357-952', 'Mato Grosso', 'Pinha', 'Rua 50', '51');
+VALUES (13, '01353-419', 'Goiás', 'Juá de queimada', 'Rua 15', '31');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (14, '91365-473', 'Pará', 'Pitaya', 'Rua 59', '73');
+VALUES (14, '91362-996', 'Amazonas', 'Lucuma', 'Rua 95', '30');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (15, '01375-235', 'Rio de Janeiro', 'Coco fresco', 'Rua 51', '77');
+VALUES (15, '21375-517', 'Espírito Santo', 'Tarumã', 'Rua 83', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (16, '61389-512', 'Amapá', 'Achachairu', 'Rua 90', '31');
+VALUES (16, '31383-852', 'Rondônia', 'Mamão papaia', 'Rua 79', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (17, '31390-951', 'Minas Gerais', 'Sapoti', 'Rua 77', '16');
+VALUES (17, '01398-258', 'Minas Gerais', 'Guabiroba', 'Rua 14', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (18, '71401-361', 'Pernambuco', 'Guariroba', 'Rua 66', '85');
+VALUES (18, '01402-008', 'Roraima', 'Babaçu', 'Rua 41', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (19, '21410-917', 'Amapá', 'Biriba', 'Rua 40', '80');
+VALUES (19, '21413-335', 'Paraná', 'Pequi', 'Rua 52', '54');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (20, '21422-632', 'Santa Catarina', 'Durião', 'Rua 18', '64');
+VALUES (20, '51425-921', 'Paraná', 'Pupunha', 'Rua 83', '77');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (21, '61434-417', 'Rondônia', 'Bilimbi', 'Rua 11', '42');
+VALUES (21, '81439-390', 'Goiás', 'Caraguata', 'Rua 91', '87');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (22, '41445-455', 'Acre', 'Avelã', 'Rua 27', '50');
+VALUES (22, '81449-382', 'Goiás', 'Dovyalis', 'Rua 68', '68');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (23, '51458-271', 'Bahia', 'Mamoncillo', 'Rua 31', '66');
+VALUES (23, '11458-536', 'Goiás', 'Banana Pacova', 'Rua 37', '77');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (24, '11462-994', 'Acre', 'Bacuri', 'Rua 96', '12');
+VALUES (24, '71467-899', 'Roraima', 'Cherimoya', 'Rua 13', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (25, '01471-269', 'Ceará', 'Goiaba vermelha', 'Rua 79', '79');
+VALUES (25, '31473-870', 'Ceará', 'Calabaça', 'Rua 41', '33');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (26, '11484-815', 'Rio Grande do Norte', 'Caimito', 'Rua 99', '26');
+VALUES (26, '91489-697', 'Amazonas', 'Cherimóia', 'Rua 19', '46');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (27, '11495-840', 'Rio de Janeiro', 'Cherimóia', 'Rua 80', '35');
+VALUES (27, '01492-371', 'Paraná', 'Cutite', 'Rua 44', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (28, '01500-529', 'Ceará', 'Avocadoe', 'Rua 75', '64');
+VALUES (28, '01504-851', 'Paraná', 'Laranja', 'Rua 93', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (29, '31510-494', 'Paraíba', 'Taiúva', 'Rua 87', '29');
+VALUES (29, '41512-994', 'Bahia', 'Tomate Arbóreo', 'Rua 30', '90');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (30, '31526-389', 'Pará', 'Uva japonesa', 'Rua 64', '30');
+VALUES (30, '21522-117', 'Amapá', 'Pêssego', 'Rua 97', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (31, '41534-970', 'Alagoas', 'Groselha vermelha', 'Rua 71', '54');
+VALUES (31, '31535-324', 'Minas Gerais', 'Caimito branco', 'Rua 98', '67');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (32, '61548-270', 'Alagoas', 'Achachairu', 'Rua 39', '21');
+VALUES (32, '81541-546', 'Alagoas', 'Jambo branco', 'Rua 96', '63');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (33, '91558-872', 'Mato Grosso', 'Uva rubi', 'Rua 42', '85');
+VALUES (33, '71558-122', 'Pará', 'Jambo amarelo', 'Rua 79', '22');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (34, '71560-479', 'Rondônia', 'Mandacarú', 'Rua 37', '66');
+VALUES (34, '81562-955', 'Amazonas', 'Taiúva', 'Rua 43', '38');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (35, '61574-384', 'Ceará', 'Cherimóia', 'Rua 80', '90');
+VALUES (35, '01575-070', 'Tocantins', 'Açaí', 'Rua 64', '23');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (36, '31584-290', 'Ceará', 'Ilama', 'Rua 58', '42');
+VALUES (36, '21588-989', 'Rondônia', 'Tamarindo', 'Rua 15', '77');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (37, '91593-846', 'Rio de Janeiro', 'Baru', 'Rua 32', '56');
+VALUES (37, '11594-936', 'Paraíba', 'Melancia amarela', 'Rua 84', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (38, '91602-389', 'Bahia', 'Cabeludinha', 'Rua 75', '65');
+VALUES (38, '51602-441', 'Distrito Federal', 'Pitaya', 'Rua 99', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (39, '11617-262', 'Mato Grosso do Sul', 'Amêndoa', 'Rua 38', '68');
+VALUES (39, '41616-010', 'Rio Grande do Sul', 'Calabaça', 'Rua 65', '63');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (40, '91629-526', 'Sergipe', 'Massala', 'Rua 20', '46');
+VALUES (40, '71624-188', 'Paraná', 'Jatobá', 'Rua 91', '95');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (41, '71630-044', 'Ceará', 'Noz Pecã', 'Rua 79', '32');
+VALUES (41, '81634-716', 'Goiás', 'Cambucá', 'Rua 13', '58');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (42, '01643-594', 'Distrito Federal', 'Kinkan', 'Rua 21', '41');
+VALUES (42, '71643-651', 'Goiás', 'Mamey', 'Rua 46', '43');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (43, '71650-793', 'Ceará', 'Uva', 'Rua 27', '53');
+VALUES (43, '21652-805', 'Santa Catarina', 'Amora silvestre', 'Rua 53', '73');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (44, '51664-123', 'Paraná', 'Baru', 'Rua 57', '42');
+VALUES (44, '81666-220', 'Pernambuco', 'Anonáceas', 'Rua 70', '29');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (45, '21675-812', 'Amapá', 'Ilama', 'Rua 16', '57');
+VALUES (45, '51677-910', 'Acre', 'Goiaba vermelha', 'Rua 87', '84');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (46, '91686-946', 'Rio Grande do Norte', 'Macaúba', 'Rua 15', '41');
+VALUES (46, '91682-373', 'Rondônia', 'Jaca', 'Rua 98', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (47, '91693-651', 'Roraima', 'Limão tahiti', 'Rua 38', '27');
+VALUES (47, '21698-389', 'Bahia', 'Guabiroba', 'Rua 52', '14');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (48, '51707-594', 'Espírito Santo', 'Figo da índia vermelho', 'Rua 86', '24');
+VALUES (48, '71705-050', 'Mato Grosso do Sul', 'Natanjila', 'Rua 54', '81');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (49, '41714-553', 'Santa Catarina', 'Wampi', 'Rua 85', '83');
+VALUES (49, '81712-484', 'Amapá', 'Avelã', 'Rua 75', '33');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (50, '61728-128', 'Mato Grosso', 'Banana figo', 'Rua 11', '39');
+VALUES (50, '71728-228', 'Espírito Santo', 'Cupuaçu', 'Rua 74', '70');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (51, '41735-844', 'Rondônia', 'Physalis', 'Rua 92', '16');
+VALUES (51, '61730-237', 'Rio Grande do Sul', 'Jatobá', 'Rua 67', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (52, '31741-372', 'Pernambuco', 'Laranja lima', 'Rua 21', '88');
+VALUES (52, '21742-422', 'Paraná', 'Banana Nanica', 'Rua 66', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (53, '21753-065', 'Espírito Santo', 'Jerivá ou Jeribá', 'Rua 61', '36');
+VALUES (53, '81753-339', 'Alagoas', 'Cutite', 'Rua 54', '63');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (54, '31760-106', 'Santa Catarina', 'Guabiju', 'Rua 31', '27');
+VALUES (54, '91767-322', 'Paraíba', 'Ilama', 'Rua 58', '44');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (55, '81776-908', 'Paraíba', 'Carambola', 'Rua 75', '98');
+VALUES (55, '01777-682', 'Amapá', 'Banana', 'Rua 43', '96');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (56, '31785-120', 'Tocantins', 'Fruta-pão', 'Rua 90', '91');
+VALUES (56, '61788-619', 'Goiás', 'Akee', 'Rua 38', '86');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (57, '31794-442', 'Mato Grosso do Sul', 'Uva rubi', 'Rua 30', '78');
+VALUES (57, '61793-944', 'Pará', 'Maracujá', 'Rua 31', '56');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (58, '31800-155', 'Roraima', 'Cherimoya', 'Rua 55', '30');
+VALUES (58, '01807-994', 'Paraná', 'Uva', 'Rua 66', '18');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (59, '31810-524', 'Tocantins', 'Durião', 'Rua 28', '39');
+VALUES (59, '51818-164', 'Amazonas', 'Pulasan', 'Rua 33', '75');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (60, '31823-374', 'Rio Grande do Sul', 'Muruci', 'Rua 13', '84');
+VALUES (60, '01820-964', 'Pernambuco', 'Groselha', 'Rua 85', '12');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (61, '41838-709', 'São Paulo', 'Tâmara natural', 'Rua 72', '59');
+VALUES (61, '11834-267', 'Goiás', 'Cambuci', 'Rua 95', '14');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (62, '81848-189', 'Amazonas', 'Mutamba', 'Rua 45', '30');
+VALUES (62, '91844-168', 'Tocantins', 'Biriba', 'Rua 52', '16');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (63, '21851-833', 'Distrito Federal', 'Juá', 'Rua 65', '96');
+VALUES (63, '01855-923', 'Mato Grosso', 'Caraguata', 'Rua 34', '70');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (64, '51867-204', 'Amapá', 'Cidra', 'Rua 53', '98');
+VALUES (64, '11860-146', 'Distrito Federal', 'Jujuba', 'Rua 49', '99');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (65, '01879-594', 'Distrito Federal', 'Uvaia', 'Rua 72', '42');
+VALUES (65, '91877-786', 'Goiás', 'Limão siciliano', 'Rua 39', '62');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (66, '91881-671', 'Tocantins', 'Jabuticaba', 'Rua 64', '34');
+VALUES (66, '61881-937', 'Rondônia', 'Mamão', 'Rua 85', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (67, '71890-349', 'Maranhão', 'Cherimóia', 'Rua 90', '90');
+VALUES (67, '61899-710', 'Bahia', 'Cereja fresca', 'Rua 92', '33');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (68, '61908-411', 'Paraíba', 'Feijoa', 'Rua 32', '94');
+VALUES (68, '31909-369', 'Rio de Janeiro', 'Natanjila', 'Rua 23', '57');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (69, '81917-965', 'Ceará', 'Kinkan', 'Rua 28', '52');
+VALUES (69, '41914-929', 'Amapá', 'Butiá', 'Rua 81', '42');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (70, '61926-509', 'Sergipe', 'Jambolão', 'Rua 28', '16');
+VALUES (70, '11926-009', 'Minas Gerais', 'Banana prata', 'Rua 40', '75');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (71, '91932-120', 'Roraima', 'Ingá', 'Rua 34', '95');
+VALUES (71, '71934-458', 'Santa Catarina', 'Limão galego', 'Rua 54', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (72, '71940-672', 'Alagoas', 'Mandacarú', 'Rua 87', '30');
+VALUES (72, '01944-284', 'Ceará', 'Jatobá', 'Rua 16', '28');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (73, '51957-951', 'Roraima', 'Cacau', 'Rua 81', '98');
+VALUES (73, '61954-597', 'Tocantins', 'Kiwi', 'Rua 10', '78');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (74, '61969-007', 'Rio de Janeiro', 'Jambo amarelo', 'Rua 12', '79');
+VALUES (74, '41960-198', 'Tocantins', 'Babaçu', 'Rua 93', '91');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (75, '91974-003', 'Maranhão', 'Damasco', 'Rua 96', '47');
+VALUES (75, '71977-899', 'Rio Grande do Norte', 'Champedaque', 'Rua 84', '22');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (76, '01985-251', 'Ceará', 'Carissa', 'Rua 61', '90');
+VALUES (76, '11980-782', 'Bahia', 'Condessa', 'Rua 13', '59');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (77, '61996-477', 'Distrito Federal', 'Tâmara', 'Rua 90', '36');
+VALUES (77, '91995-196', 'Ceará', 'Baru', 'Rua 28', '80');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (78, '32000-054', 'Distrito Federal', 'Camu-camu', 'Rua 92', '62');
+VALUES (78, '02004-615', 'Rondônia', 'Maná - Cubiu', 'Rua 64', '90');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (79, '52018-321', 'Alagoas', 'Atemóia', 'Rua 63', '11');
+VALUES (79, '72012-544', 'Rio Grande do Norte', 'Abiu', 'Rua 46', '91');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (80, '62023-001', 'Roraima', 'Limão', 'Rua 67', '80');
+VALUES (80, '42025-599', 'Amazonas', 'Jujuba', 'Rua 66', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (81, '02031-608', 'Rio de Janeiro', 'Guaraná', 'Rua 34', '58');
+VALUES (81, '62031-958', 'Pará', 'Rambutão', 'Rua 56', '71');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (82, '52048-452', 'Rio de Janeiro', 'Biriba', 'Rua 39', '31');
+VALUES (82, '12049-961', 'Distrito Federal', 'Tamarindo', 'Rua 17', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (83, '92058-848', 'Pará', 'Tangerina', 'Rua 11', '45');
+VALUES (83, '82050-307', 'Tocantins', 'Amêndoa', 'Rua 27', '71');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (84, '62069-309', 'Alagoas', 'Uva branca', 'Rua 36', '30');
+VALUES (84, '82064-699', 'Rio Grande do Sul', 'Jamelão', 'Rua 87', '63');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (85, '12071-793', 'Paraíba', 'Umbu', 'Rua 60', '94');
+VALUES (85, '42072-597', 'Minas Gerais', 'Caimito branco', 'Rua 16', '58');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (86, '02084-584', 'Alagoas', 'Manga bourbon', 'Rua 29', '92');
+VALUES (86, '92084-753', 'Pará', 'Castanha do pará', 'Rua 50', '93');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (87, '62096-442', 'Maranhão', 'Calamondin', 'Rua 81', '20');
+VALUES (87, '72093-345', 'Pará', 'Butiá', 'Rua 30', '35');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (88, '82105-303', 'Amazonas', 'Melancia branca', 'Rua 77', '63');
+VALUES (88, '22104-796', 'Pernambuco', 'Cereja', 'Rua 63', '85');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (89, '92115-786', 'Mato Grosso', 'Coco', 'Rua 75', '84');
+VALUES (89, '02111-226', 'Rondônia', 'Caraguata', 'Rua 81', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (90, '62128-087', 'Rondônia', 'Coco', 'Rua 19', '44');
+VALUES (90, '22122-730', 'Paraná', 'Jujuba', 'Rua 43', '87');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (91, '62134-858', 'Rio Grande do Sul', 'Goiaba vermelha', 'Rua 16', '36');
+VALUES (91, '92132-676', 'São Paulo', 'Juá', 'Rua 21', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (92, '72147-208', 'Espírito Santo', 'Pitomba', 'Rua 36', '61');
+VALUES (92, '42145-918', 'Espírito Santo', 'Camu - Camu', 'Rua 24', '37');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (93, '72152-087', 'Rio de Janeiro', 'Cereja fresca', 'Rua 16', '35');
+VALUES (93, '32156-452', 'Ceará', 'Maçã Fuji', 'Rua 23', '98');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (94, '62162-283', 'Rio Grande do Norte', 'Laranja valência', 'Rua 95', '78');
+VALUES (94, '62166-899', 'Tocantins', 'Dendê', 'Rua 83', '70');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (95, '72171-646', 'Roraima', 'Maçã argentina', 'Rua 24', '42');
+VALUES (95, '12174-833', 'São Paulo', 'Goiaba branca', 'Rua 95', '12');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (96, '92182-868', 'Pará', 'Pêra Williams', 'Rua 70', '98');
+VALUES (96, '92182-331', 'Paraná', 'Tangerina Poncâ', 'Rua 88', '80');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (97, '22194-829', 'Espírito Santo', 'Damasco', 'Rua 26', '49');
+VALUES (97, '02198-747', 'Rondônia', 'Cagaita', 'Rua 71', '51');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (98, '42207-760', 'Distrito Federal', 'Calamondin', 'Rua 90', '59');
+VALUES (98, '42206-781', 'Paraná', 'Calamondin', 'Rua 95', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (99, '82218-217', 'Paraíba', 'Marula', 'Rua 30', '13');
+VALUES (99, '62211-779', 'Bahia', 'Abacaxi', 'Rua 14', '17');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (100, '52223-065', 'Distrito Federal', 'Figo da índia amarelo', 'Rua 59', '44');
+VALUES (100, '12221-879', 'Espírito Santo', 'Lichia', 'Rua 99', '99');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (101, '42231-337', 'Amazonas', 'Grapefruit rosa', 'Rua 35', '47');
+VALUES (101, '12238-296', 'Bahia', 'Pêra Park', 'Rua 66', '52');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (102, '42245-150', 'Mato Grosso do Sul', 'Umbu', 'Rua 67', '67');
+VALUES (102, '32246-514', 'Rio Grande do Sul', 'Achachairu', 'Rua 19', '62');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (103, '52253-165', 'Piauí', 'Bacaba', 'Rua 37', '18');
+VALUES (103, '22250-918', 'Rio de Janeiro', 'Mamoncillo', 'Rua 22', '92');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (104, '02262-868', 'Amapá', 'Manga bourbon', 'Rua 72', '64');
+VALUES (104, '22263-691', 'Goiás', 'Cajá', 'Rua 39', '82');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (105, '02275-745', 'Pará', 'Castanhas Variadas', 'Rua 39', '14');
+VALUES (105, '32275-136', 'Goiás', 'Tangerina Poncâ', 'Rua 17', '77');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (106, '42283-875', 'Tocantins', 'Banana Pacova', 'Rua 29', '38');
+VALUES (106, '62288-711', 'Rondônia', 'Uva japonesa', 'Rua 89', '48');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (107, '22299-501', 'Ceará', 'Mabolo', 'Rua 37', '88');
+VALUES (107, '32293-565', 'Alagoas', 'Guabiroba', 'Rua 87', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (108, '22307-404', 'Santa Catarina', 'Melão', 'Rua 76', '78');
+VALUES (108, '12304-818', 'Rio Grande do Sul', 'Mamey', 'Rua 35', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (109, '62312-222', 'Mato Grosso', 'Mangostão', 'Rua 35', '58');
+VALUES (109, '12311-451', 'Goiás', 'Maná - Cubiu', 'Rua 86', '85');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (110, '72320-398', 'Mato Grosso do Sul', 'Cagaita', 'Rua 87', '73');
+VALUES (110, '42329-569', 'Rio Grande do Sul', 'Uva itália', 'Rua 30', '68');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (111, '02331-356', 'Amapá', 'Tomate Arbóreo', 'Rua 25', '73');
+VALUES (111, '02333-255', 'Alagoas', 'Jambo branco', 'Rua 10', '53');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (112, '32344-301', 'Rio de Janeiro', 'Tangerina', 'Rua 80', '95');
+VALUES (112, '02343-770', 'Alagoas', 'Cidra', 'Rua 69', '90');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (113, '82358-297', 'Minas Gerais', 'Nêspera', 'Rua 58', '32');
+VALUES (113, '12357-034', 'Alagoas', 'Noz Pecã', 'Rua 68', '77');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (114, '02369-657', 'Acre', 'Manga haden', 'Rua 85', '37');
+VALUES (114, '42360-278', 'Bahia', 'Kiwi', 'Rua 72', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (115, '02377-495', 'Paraná', 'Amora', 'Rua 23', '17');
+VALUES (115, '22371-722', 'Roraima', 'Mabolo', 'Rua 35', '72');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (116, '92389-425', 'Sergipe', 'Coco babaçu', 'Rua 82', '68');
+VALUES (116, '92380-029', 'Amapá', 'Mangostin', 'Rua 43', '40');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (117, '42396-696', 'Rio de Janeiro', 'Goiaba branca', 'Rua 31', '22');
+VALUES (117, '02396-045', 'Rio de Janeiro', 'Abacaxi', 'Rua 10', '41');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (118, '62407-654', 'Espírito Santo', 'Juá de queimada', 'Rua 65', '78');
+VALUES (118, '32407-516', 'Mato Grosso do Sul', 'Macadâmia', 'Rua 70', '14');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (119, '42412-333', 'Bahia', 'Caraguata', 'Rua 49', '46');
+VALUES (119, '22417-134', 'Rio de Janeiro', 'Langsat', 'Rua 95', '17');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (120, '12425-741', 'Alagoas', 'Calabaça', 'Rua 36', '26');
+VALUES (120, '42429-235', 'Ceará', 'Jujuba chinesa', 'Rua 92', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (121, '62438-690', 'Pernambuco', 'Champedaque', 'Rua 86', '38');
+VALUES (121, '22431-211', 'Pernambuco', 'Ilama', 'Rua 82', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (122, '72441-354', 'Paraná', 'Nêspera', 'Rua 29', '37');
+VALUES (122, '02441-318', 'Maranhão', 'Physalis', 'Rua 82', '78');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (123, '62457-923', 'Goiás', 'Toranja', 'Rua 61', '36');
+VALUES (123, '82456-486', 'Paraná', 'Pitomba', 'Rua 47', '56');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (124, '12466-550', 'Piauí', 'Goiaba', 'Rua 66', '29');
+VALUES (124, '72464-246', 'Rio Grande do Norte', 'Pêra Williams', 'Rua 72', '22');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (125, '42473-252', 'Rio Grande do Norte', 'Grapefruit rosa', 'Rua 88', '64');
+VALUES (125, '72479-656', 'Tocantins', 'Abacaxi', 'Rua 84', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (126, '62480-950', 'Roraima', 'Tangerina', 'Rua 88', '72');
+VALUES (126, '72489-861', 'Bahia', 'Laranja valência', 'Rua 97', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (127, '32491-612', 'Rio Grande do Sul', 'Guajirú', 'Rua 97', '98');
+VALUES (127, '72494-040', 'Rio Grande do Norte', 'Ingá', 'Rua 15', '71');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (128, '42504-815', 'Bahia', 'Uva rubi', 'Rua 97', '26');
+VALUES (128, '92505-005', 'Piauí', 'Tâmara natural', 'Rua 98', '73');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (129, '52511-850', 'Amapá', 'Coco babaçu', 'Rua 25', '77');
+VALUES (129, '22518-224', 'Paraná', 'Baru', 'Rua 12', '20');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (130, '32525-693', 'Maranhão', 'Figo da índia amarelo', 'Rua 89', '93');
+VALUES (130, '12523-613', 'Acre', 'Amêndoa', 'Rua 16', '96');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (131, '72535-126', 'Tocantins', 'Jurubeba', 'Rua 60', '89');
+VALUES (131, '12537-467', 'Amapá', 'Banana Maçã', 'Rua 33', '58');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (132, '52540-285', 'Espírito Santo', 'Jambo branco', 'Rua 47', '75');
+VALUES (132, '92544-276', 'Bahia', 'Guaraná', 'Rua 36', '56');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (133, '72552-616', 'Espírito Santo', 'Pêssego', 'Rua 82', '37');
+VALUES (133, '52556-053', 'Pará', 'Noz Pecã', 'Rua 13', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (134, '02569-560', 'Amapá', 'Camu - Camu', 'Rua 30', '81');
+VALUES (134, '02566-597', 'Paraná', 'Cherimóia', 'Rua 30', '13');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (135, '72576-367', 'Minas Gerais', 'Macaúba', 'Rua 45', '68');
+VALUES (135, '32573-283', 'Rio de Janeiro', 'Kinkan', 'Rua 73', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (136, '52580-956', 'Distrito Federal', 'Mamey', 'Rua 48', '46');
+VALUES (136, '22580-702', 'Paraíba', 'Calabura', 'Rua 22', '28');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (137, '32593-800', 'Distrito Federal', 'Butiá', 'Rua 76', '38');
+VALUES (137, '12593-700', 'Amapá', 'Banana figo', 'Rua 14', '29');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (138, '32600-308', 'Amazonas', 'Uxi', 'Rua 17', '26');
+VALUES (138, '72606-010', 'Amapá', 'Abacaxi', 'Rua 98', '90');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (139, '32619-825', 'Santa Catarina', 'Nêspera', 'Rua 16', '82');
+VALUES (139, '22610-806', 'Mato Grosso do Sul', 'Maçã Fuji', 'Rua 69', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (140, '22622-472', 'Rio Grande do Sul', 'Banana Ouro', 'Rua 28', '32');
+VALUES (140, '52626-482', 'Distrito Federal', 'Salak', 'Rua 64', '98');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (141, '72638-829', 'Mato Grosso', 'Guabiroba', 'Rua 85', '10');
+VALUES (141, '72638-769', 'Rio Grande do Sul', 'Pêra Park', 'Rua 73', '27');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (142, '62646-386', 'Paraná', 'Guajirú', 'Rua 22', '90');
+VALUES (142, '22642-882', 'Tocantins', 'Manga tommy', 'Rua 66', '50');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (143, '32656-383', 'Paraíba', 'Taperebá', 'Rua 59', '76');
+VALUES (143, '22659-753', 'Maranhão', 'Cacau', 'Rua 43', '95');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (144, '42660-675', 'Espírito Santo', 'Carnaúba', 'Rua 21', '11');
+VALUES (144, '42668-378', 'Rio de Janeiro', 'Maçã argentina', 'Rua 70', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (145, '32670-691', 'Pará', 'Cajá-manga', 'Rua 25', '27');
+VALUES (145, '42673-181', 'Minas Gerais', 'Abricó', 'Rua 97', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (146, '22684-038', 'Bahia', 'Pinhão', 'Rua 20', '74');
+VALUES (146, '22689-023', 'Distrito Federal', 'Goiaba vermelha', 'Rua 58', '91');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (147, '92694-401', 'Amazonas', 'Framboesa fresca', 'Rua 36', '80');
+VALUES (147, '42690-730', 'Tocantins', 'Coco fresco', 'Rua 40', '44');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (148, '82700-231', 'Pernambuco', 'Banana Passa', 'Rua 86', '59');
+VALUES (148, '22707-729', 'Paraíba', 'Tarumã', 'Rua 77', '30');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (149, '12711-239', 'Distrito Federal', 'Atemóia', 'Rua 17', '38');
+VALUES (149, '32710-212', 'São Paulo', 'Carambola', 'Rua 72', '92');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (150, '72721-322', 'Bahia', 'Carnaúba', 'Rua 59', '18');
+VALUES (150, '32723-219', 'Maranhão', 'Veludo', 'Rua 47', '82');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (151, '72737-798', 'Amazonas', 'Limão siciliano', 'Rua 56', '52');
+VALUES (151, '72738-886', 'Acre', 'Pêra Williams', 'Rua 67', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (152, '92743-028', 'Pará', 'Macadâmia', 'Rua 58', '52');
+VALUES (152, '62748-450', 'Goiás', 'Caqui japonês', 'Rua 17', '57');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (153, '12759-201', 'Minas Gerais', 'Limão galego', 'Rua 78', '28');
+VALUES (153, '02756-768', 'Rio Grande do Norte', 'Cutite', 'Rua 66', '62');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (154, '22764-415', 'Amapá', 'Juá', 'Rua 46', '87');
+VALUES (154, '62768-199', 'Tocantins', 'Mutamba', 'Rua 97', '18');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (155, '42777-450', 'Paraná', 'Condessa', 'Rua 41', '47');
+VALUES (155, '32779-013', 'São Paulo', 'Jaca', 'Rua 11', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (156, '02782-808', 'Mato Grosso do Sul', 'Mangostin', 'Rua 54', '27');
+VALUES (156, '22784-533', 'Bahia', 'Banana Maçã', 'Rua 16', '75');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (157, '72793-108', 'Sergipe', 'Romã', 'Rua 94', '18');
+VALUES (157, '52791-092', 'Mato Grosso', 'Maçã Fuji', 'Rua 88', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (158, '92806-342', 'Santa Catarina', 'Jatobá', 'Rua 91', '99');
+VALUES (158, '52800-537', 'Ceará', 'Calamondin', 'Rua 66', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (159, '52813-009', 'Distrito Federal', 'Guabiju', 'Rua 97', '38');
+VALUES (159, '42811-542', 'Paraíba', 'Jaracatiá', 'Rua 54', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (160, '52825-911', 'Tocantins', 'Pêra', 'Rua 99', '66');
+VALUES (160, '92827-516', 'Bahia', 'Marmelo', 'Rua 90', '78');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (161, '42832-919', 'Amazonas', 'Laranja', 'Rua 69', '73');
+VALUES (161, '52832-858', 'Rio Grande do Norte', 'Banana Nanica', 'Rua 66', '67');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (162, '92844-414', 'Sergipe', 'Taperebá', 'Rua 39', '32');
+VALUES (162, '32847-701', 'Sergipe', 'Figo', 'Rua 40', '64');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (163, '12857-942', 'Distrito Federal', 'Cajá vermelho', 'Rua 85', '36');
+VALUES (163, '32858-824', 'Amapá', 'Mangostin', 'Rua 73', '18');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (164, '12868-498', 'Sergipe', 'Uva itália', 'Rua 75', '95');
+VALUES (164, '12862-227', 'Goiás', 'Mamey', 'Rua 20', '94');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (165, '22871-141', 'Espírito Santo', 'Biriba', 'Rua 89', '49');
+VALUES (165, '92873-123', 'Espírito Santo', 'Uva niagara', 'Rua 91', '74');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (166, '62885-247', 'Alagoas', 'Uva niagara', 'Rua 18', '90');
+VALUES (166, '62888-476', 'Paraná', 'Uvalha', 'Rua 95', '50');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (167, '22895-845', 'Mato Grosso', 'Marmelo', 'Rua 68', '95');
+VALUES (167, '22899-434', 'Pará', 'Figo da índia amarelo', 'Rua 37', '78');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (168, '12907-130', 'Piauí', 'Jambo', 'Rua 40', '37');
+VALUES (168, '62907-864', 'Rio de Janeiro', 'Mangaba', 'Rua 17', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (169, '72918-217', 'Pará', 'Toranja', 'Rua 58', '75');
+VALUES (169, '52915-171', 'Pernambuco', 'Pitaya', 'Rua 62', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (170, '72921-647', 'Bahia', 'Guaraná', 'Rua 89', '72');
+VALUES (170, '02926-261', 'Ceará', 'Damasco', 'Rua 51', '57');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (171, '92933-530', 'Distrito Federal', 'Caqui paulista', 'Rua 36', '62');
+VALUES (171, '52930-509', 'São Paulo', 'Calabura', 'Rua 82', '88');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (172, '42941-661', 'Amazonas', 'Cidra', 'Rua 19', '26');
+VALUES (172, '22946-236', 'Tocantins', 'Cabeludinha', 'Rua 80', '18');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (173, '32953-623', 'Espírito Santo', 'Sapucaia', 'Rua 33', '54');
+VALUES (173, '02950-129', 'Tocantins', 'Pitomba', 'Rua 95', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (174, '82967-836', 'Alagoas', 'Pequi', 'Rua 76', '63');
+VALUES (174, '22963-915', 'Bahia', 'Jatobáá', 'Rua 64', '10');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (175, '62971-633', 'Santa Catarina', 'Tucumã', 'Rua 26', '13');
+VALUES (175, '02972-415', 'Mato Grosso do Sul', 'Maracujá', 'Rua 54', '33');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (176, '82987-199', 'Mato Grosso do Sul', 'Glicosmis', 'Rua 77', '79');
+VALUES (176, '42985-272', 'Sergipe', 'Banana da terra', 'Rua 68', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (177, '32996-689', 'Rondônia', 'Caqui', 'Rua 36', '25');
+VALUES (177, '42992-843', 'Sergipe', 'Uva branca', 'Rua 12', '48');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (178, '43009-730', 'Mato Grosso', 'Uva niagara', 'Rua 70', '70');
+VALUES (178, '03008-633', 'Paraíba', 'Mandacarú', 'Rua 99', '95');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (179, '03017-167', 'Maranhão', 'Mamão formosa', 'Rua 20', '81');
+VALUES (179, '73016-548', 'Rondônia', 'Mangostão', 'Rua 67', '90');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (180, '33021-767', 'Acre', 'Graviola', 'Rua 73', '54');
+VALUES (180, '43023-994', 'Distrito Federal', 'Tamarindo', 'Rua 55', '48');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (181, '53036-823', 'Acre', 'Castanha portuguesa', 'Rua 30', '48');
+VALUES (181, '73039-542', 'Goiás', 'Tâmara', 'Rua 44', '52');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (182, '13048-328', 'Pernambuco', 'Jaca', 'Rua 52', '76');
+VALUES (182, '83049-063', 'Paraná', 'Caqui', 'Rua 81', '54');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (183, '43055-023', 'Rio Grande do Sul', 'Pêssego', 'Rua 44', '10');
+VALUES (183, '93056-827', 'São Paulo', 'Figo da índia vermelho', 'Rua 78', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (184, '83062-129', 'Amapá', 'Noz Pecã', 'Rua 23', '74');
+VALUES (184, '23062-452', 'Rio de Janeiro', 'Araçá', 'Rua 69', '45');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (185, '53074-339', 'Rio Grande do Sul', 'Ilama', 'Rua 86', '64');
+VALUES (185, '13072-798', 'Mato Grosso do Sul', 'Uva passa', 'Rua 60', '46');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (186, '03085-245', 'Piauí', 'Banana prata', 'Rua 23', '31');
+VALUES (186, '43082-079', 'Minas Gerais', 'Pistache', 'Rua 23', '60');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (187, '03098-482', 'Pernambuco', 'Murcote', 'Rua 85', '52');
+VALUES (187, '23096-809', 'Acre', 'Cherimóia', 'Rua 66', '59');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (188, '23109-660', 'Amapá', 'Uva japonesa', 'Rua 90', '12');
+VALUES (188, '83101-382', 'Sergipe', 'Fruta - Pão', 'Rua 78', '16');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (189, '03114-234', 'Maranhão', 'Tâmara', 'Rua 41', '71');
+VALUES (189, '83119-447', 'Pará', 'Uva', 'Rua 77', '31');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (190, '23127-861', 'Maranhão', 'Juá', 'Rua 50', '97');
+VALUES (190, '33126-103', 'Minas Gerais', 'Cubiu', 'Rua 52', '73');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (191, '33131-852', 'Tocantins', 'Macadâmia', 'Rua 31', '91');
+VALUES (191, '13137-444', 'Mato Grosso', 'Uva branca', 'Rua 70', '48');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (192, '33143-435', 'Acre', 'Caqui chocolate', 'Rua 64', '76');
+VALUES (192, '13145-900', 'Piauí', 'Mamão formosa', 'Rua 60', '20');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (193, '13154-779', 'Espírito Santo', 'Cajá vermelho', 'Rua 20', '71');
+VALUES (193, '93157-702', 'Rio Grande do Sul', 'Goiaba branca', 'Rua 68', '18');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (194, '23160-056', 'Paraná', 'Melancia amarela', 'Rua 24', '67');
+VALUES (194, '73169-853', 'Pará', 'Jabuticaba branca', 'Rua 99', '22');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (195, '93174-594', 'Santa Catarina', 'Cajá', 'Rua 92', '38');
+VALUES (195, '83177-084', 'Rio de Janeiro', 'Jambolão', 'Rua 94', '17');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (196, '53189-690', 'Goiás', 'Fruta-pão', 'Rua 59', '58');
+VALUES (196, '13183-354', 'Roraima', 'Açaí', 'Rua 27', '52');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (197, '93194-255', 'Distrito Federal', 'Biriba', 'Rua 69', '33');
+VALUES (197, '33193-952', 'Rio Grande do Sul', 'Jaca', 'Rua 79', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (198, '93203-461', 'Pernambuco', 'Sapucaia', 'Rua 30', '61');
+VALUES (198, '83200-413', 'Santa Catarina', 'Piquiá', 'Rua 73', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (199, '13211-528', 'Espírito Santo', 'Massala', 'Rua 16', '40');
+VALUES (199, '13214-344', 'Amapá', 'Condessa', 'Rua 80', '28');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (200, '63223-322', 'Paraná', 'Babaçu', 'Rua 66', '76');
+VALUES (200, '53222-707', 'Roraima', 'Tucumã', 'Rua 94', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (201, '03235-344', 'Minas Gerais', 'Rambutão', 'Rua 18', '19');
+VALUES (201, '33235-157', 'Rio Grande do Sul', 'Langsat', 'Rua 12', '56');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (202, '63245-707', 'Goiás', 'Groselha vermelha', 'Rua 59', '16');
+VALUES (202, '23246-086', 'Maranhão', 'Banana Passa', 'Rua 68', '11');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (203, '13253-792', 'Pará', 'Abacaxi', 'Rua 52', '87');
+VALUES (203, '33253-965', 'Distrito Federal', 'Coco babaçu', 'Rua 74', '99');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (204, '73268-951', 'Rio de Janeiro', 'Tucumã', 'Rua 43', '98');
+VALUES (204, '33268-929', 'Rio de Janeiro', 'Tucumã', 'Rua 15', '93');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (205, '63277-347', 'Mato Grosso', 'Pêssego', 'Rua 61', '68');
+VALUES (205, '73274-673', 'Alagoas', 'Figo', 'Rua 90', '69');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (206, '53284-696', 'Maranhão', 'Umbu', 'Rua 46', '42');
+VALUES (206, '53285-056', 'Rio de Janeiro', 'Mexerica', 'Rua 21', '63');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (207, '23299-654', 'Pará', 'Tangerina Poncâ', 'Rua 45', '20');
+VALUES (207, '93293-002', 'Sergipe', 'Caqui japonês', 'Rua 84', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (208, '83302-659', 'Tocantins', 'Sapucaia', 'Rua 36', '72');
+VALUES (208, '53306-188', 'Sergipe', 'Manga haden', 'Rua 81', '63');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (209, '43315-955', 'Mato Grosso', 'Framboesa', 'Rua 75', '71');
+VALUES (209, '53315-095', 'Acre', 'Graviola', 'Rua 67', '15');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (210, '13322-815', 'Espírito Santo', 'Caimito', 'Rua 88', '72');
+VALUES (210, '33325-415', 'Maranhão', 'Guabiju', 'Rua 67', '23');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (211, '33336-987', 'Paraíba', 'Abacaxi', 'Rua 15', '51');
+VALUES (211, '53331-046', 'São Paulo', 'Marang', 'Rua 26', '21');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (212, '23340-148', 'Paraná', 'Naranjilla', 'Rua 23', '32');
+VALUES (212, '73341-933', 'Piauí', 'Calabaça', 'Rua 98', '36');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (213, '13355-224', 'Pará', 'Mirtilo', 'Rua 71', '61');
+VALUES (213, '13350-486', 'Amazonas', 'Pupunha', 'Rua 96', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (214, '73362-545', 'Amazonas', 'Damasco', 'Rua 85', '15');
+VALUES (214, '13363-889', 'Santa Catarina', 'Araçá', 'Rua 94', '67');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (215, '83371-963', 'Roraima', 'Mangostin', 'Rua 72', '38');
+VALUES (215, '93379-374', 'Ceará', 'Mamão papaia', 'Rua 84', '52');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (216, '33387-427', 'Sergipe', 'Atemoya', 'Rua 43', '32');
+VALUES (216, '33383-695', 'Minas Gerais', 'Caraguata', 'Rua 38', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (217, '33396-807', 'Amazonas', 'Feijoa', 'Rua 25', '99');
+VALUES (217, '23392-579', 'Acre', 'Banana Pacova', 'Rua 15', '67');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (218, '93404-867', 'Acre', 'Banana Ouro', 'Rua 68', '72');
+VALUES (218, '73405-867', 'Santa Catarina', 'Pêssego', 'Rua 65', '81');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (219, '73415-563', 'Amazonas', 'Tâmara natural', 'Rua 96', '13');
+VALUES (219, '53412-952', 'Maranhão', 'Mutamba', 'Rua 85', '26');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (220, '13420-447', 'Roraima', 'Jabuticaba branca', 'Rua 21', '21');
+VALUES (220, '93426-356', 'São Paulo', 'Banana Pacova', 'Rua 84', '86');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (221, '53431-995', 'Bahia', 'Camapu', 'Rua 25', '40');
+VALUES (221, '63430-018', 'Tocantins', 'Pitomba', 'Rua 61', '68');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (222, '83441-997', 'Maranhão', 'Calabura', 'Rua 63', '78');
+VALUES (222, '43440-060', 'Amapá', 'Bacaba', 'Rua 46', '38');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (223, '73455-596', 'Rio Grande do Sul', 'Marmelo', 'Rua 16', '27');
+VALUES (223, '53451-690', 'Ceará', 'Goiaba vermelha', 'Rua 35', '43');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (224, '53464-804', 'São Paulo', 'Grapefruit rosa', 'Rua 64', '77');
+VALUES (224, '53466-653', 'Ceará', 'Manga bourbon', 'Rua 87', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (225, '23471-851', 'Alagoas', 'Abacaxi', 'Rua 96', '61');
+VALUES (225, '43472-930', 'Sergipe', 'Amêndoa', 'Rua 48', '24');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (226, '23482-487', 'Maranhão', 'Tangerina Poncâ', 'Rua 95', '66');
+VALUES (226, '63489-587', 'Espírito Santo', 'Cajá vermelho', 'Rua 46', '99');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (227, '33497-006', 'Paraná', 'Banana figo', 'Rua 74', '79');
+VALUES (227, '73499-835', 'Distrito Federal', 'Limão tahiti', 'Rua 69', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (228, '43501-470', 'Amapá', 'Caqui japonês', 'Rua 11', '93');
+VALUES (228, '43509-451', 'Ceará', 'Pitanga', 'Rua 18', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (229, '93512-056', 'Mato Grosso do Sul', 'Nêspera', 'Rua 64', '42');
+VALUES (229, '83513-248', 'Sergipe', 'Ilama', 'Rua 95', '91');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (230, '93520-888', 'Bahia', 'Tangerina Poncâ', 'Rua 63', '88');
+VALUES (230, '93524-759', 'Goiás', 'Mangaba', 'Rua 91', '80');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (231, '93532-627', 'Pernambuco', 'Uva branca', 'Rua 31', '87');
+VALUES (231, '23538-123', 'Paraná', 'Coco', 'Rua 33', '40');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (232, '33545-868', 'Paraná', 'Tâmara', 'Rua 80', '47');
+VALUES (232, '83549-256', 'Alagoas', 'Glicosmis', 'Rua 51', '13');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (233, '73550-498', 'Amazonas', 'Pêra', 'Rua 80', '20');
+VALUES (233, '73555-678', 'Rondônia', 'Graviola', 'Rua 25', '11');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (234, '63569-942', 'Amazonas', 'Jujuba chinesa', 'Rua 94', '83');
+VALUES (234, '73568-902', 'Minas Gerais', 'Bacupari', 'Rua 38', '33');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (235, '93574-498', 'Roraima', 'Marang', 'Rua 70', '39');
+VALUES (235, '83572-033', 'Alagoas', 'Cherimóia', 'Rua 82', '16');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (236, '33587-003', 'Paraná', 'Lucuma', 'Rua 77', '40');
+VALUES (236, '63583-608', 'Bahia', 'Goiaba branca', 'Rua 67', '98');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (237, '33597-109', 'Ceará', 'Café', 'Rua 17', '56');
+VALUES (237, '33591-526', 'Alagoas', 'Mamão', 'Rua 96', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (238, '93605-239', 'Piauí', 'Dovyalis', 'Rua 13', '79');
+VALUES (238, '23600-065', 'Espírito Santo', 'Maná - Cubiu', 'Rua 40', '88');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (239, '13618-756', 'Piauí', 'Caju', 'Rua 77', '41');
+VALUES (239, '53610-784', 'Rio de Janeiro', 'Caimito branco', 'Rua 29', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (240, '93625-372', 'Minas Gerais', 'Melancia branca', 'Rua 36', '43');
+VALUES (240, '93621-677', 'Rio Grande do Sul', 'Damasco', 'Rua 52', '85');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (241, '53633-781', 'Amapá', 'Manga bourbon', 'Rua 26', '27');
+VALUES (241, '23636-724', 'Amazonas', 'Frutas do Cerrado', 'Rua 25', '35');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (242, '93644-433', 'Maranhão', 'Calabaça', 'Rua 41', '43');
+VALUES (242, '23648-591', 'Minas Gerais', 'Rambutão', 'Rua 10', '38');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (243, '83650-208', 'Pará', 'Banana dágua', 'Rua 18', '64');
+VALUES (243, '03659-633', 'Sergipe', 'Cabeludinha', 'Rua 26', '35');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (244, '13661-435', 'Mato Grosso', 'Banana Maçã', 'Rua 40', '60');
+VALUES (244, '03668-474', 'Paraíba', 'Abacaxi', 'Rua 28', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (245, '13676-728', 'Bahia', 'Limão tahiti', 'Rua 57', '16');
+VALUES (245, '03670-530', 'Alagoas', 'Atemoya', 'Rua 31', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (246, '03687-975', 'Maranhão', 'Cajá-manga', 'Rua 53', '26');
+VALUES (246, '93682-638', 'Mato Grosso do Sul', 'Umbu', 'Rua 82', '75');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (247, '63697-135', 'Rio Grande do Norte', 'Jambo amarelo', 'Rua 10', '68');
+VALUES (247, '43693-824', 'Pará', 'Kiwi', 'Rua 64', '72');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (248, '33701-986', 'Espírito Santo', 'Maçã', 'Rua 72', '21');
+VALUES (248, '83704-039', 'Paraíba', 'Avocadoe', 'Rua 17', '11');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (249, '93718-414', 'Mato Grosso', 'Caimito', 'Rua 59', '37');
+VALUES (249, '53716-750', 'Mato Grosso', 'Bacupari', 'Rua 85', '17');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (250, '53721-772', 'Paraná', 'Baru', 'Rua 34', '92');
+VALUES (250, '93720-100', 'Espírito Santo', 'Fruta - Pão', 'Rua 92', '14');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (251, '03738-140', 'Rondônia', 'Guaraná', 'Rua 72', '11');
+VALUES (251, '03734-526', 'Pará', 'Lucuma', 'Rua 71', '61');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (252, '53740-455', 'Rondônia', 'Abiu', 'Rua 39', '86');
+VALUES (252, '83745-959', 'Sergipe', 'Uva passa', 'Rua 16', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (253, '63751-995', 'Tocantins', 'Kinkan', 'Rua 69', '65');
+VALUES (253, '03758-311', 'Rio Grande do Norte', 'Caraguata', 'Rua 75', '79');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (254, '73767-948', 'Roraima', 'Frutas do Cerrado', 'Rua 51', '14');
+VALUES (254, '03765-479', 'Rio Grande do Sul', 'Laranja lima', 'Rua 80', '34');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (255, '83774-751', 'Bahia', 'Jenipapo', 'Rua 93', '30');
+VALUES (255, '63777-509', 'Mato Grosso', 'Cutite', 'Rua 80', '95');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (256, '03788-166', 'Rondônia', 'Juá', 'Rua 56', '78');
+VALUES (256, '93782-891', 'Paraíba', 'Limão siciliano', 'Rua 11', '52');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (257, '33794-922', 'Amapá', 'Marmelo', 'Rua 95', '61');
+VALUES (257, '23790-643', 'Santa Catarina', 'Uva itália', 'Rua 43', '12');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (258, '53805-810', 'Tocantins', 'Baru', 'Rua 85', '21');
+VALUES (258, '93802-263', 'Maranhão', 'Jabuticaba', 'Rua 65', '31');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (259, '63819-910', 'Distrito Federal', 'Blueberry', 'Rua 94', '96');
+VALUES (259, '13816-738', 'São Paulo', 'Toranja', 'Rua 74', '49');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (260, '83824-033', 'Acre', 'Framboesa', 'Rua 82', '52');
+VALUES (260, '73827-491', 'Mato Grosso', 'Champedaque', 'Rua 37', '45');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (261, '03832-766', 'Rio de Janeiro', 'Jambo branco', 'Rua 15', '53');
+VALUES (261, '53838-632', 'Mato Grosso do Sul', 'Jenipapo', 'Rua 55', '49');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (262, '73841-432', 'Ceará', 'Ameixa', 'Rua 80', '35');
+VALUES (262, '03849-514', 'Mato Grosso do Sul', 'Avelã', 'Rua 74', '56');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (263, '53855-362', 'Alagoas', 'Café', 'Rua 85', '83');
+VALUES (263, '93850-685', 'Sergipe', 'Limão siciliano', 'Rua 93', '46');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (264, '53867-334', 'Rio de Janeiro', 'Taiúva', 'Rua 93', '71');
+VALUES (264, '13868-002', 'Santa Catarina', 'Cereja', 'Rua 14', '45');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (265, '93877-767', 'Tocantins', 'Maracujá', 'Rua 79', '26');
+VALUES (265, '73871-398', 'Amapá', 'Cutite', 'Rua 93', '38');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (266, '93884-924', 'Paraíba', 'Granadilla', 'Rua 65', '66');
+VALUES (266, '63886-049', 'Acre', 'Anonáceas', 'Rua 95', '70');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (267, '93897-571', 'Rio Grande do Sul', 'Cajá-manga', 'Rua 30', '58');
+VALUES (267, '43893-843', 'Mato Grosso', 'Jambo amarelo', 'Rua 15', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (268, '53902-680', 'Minas Gerais', 'Umbu', 'Rua 79', '52');
+VALUES (268, '93903-995', 'Piauí', 'Akee', 'Rua 24', '86');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (269, '93914-334', 'Bahia', 'Tangerina Poncâ', 'Rua 15', '54');
+VALUES (269, '63915-760', 'Maranhão', 'Cambuci', 'Rua 80', '75');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (270, '43925-782', 'Sergipe', 'Groselha vermelha', 'Rua 77', '84');
+VALUES (270, '43924-732', 'Pará', 'Maçã', 'Rua 58', '97');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (271, '03934-587', 'Mato Grosso', 'Tamarilu', 'Rua 13', '41');
+VALUES (271, '53935-928', 'Distrito Federal', 'Melancia amarela', 'Rua 71', '19');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (272, '73944-894', 'Roraima', 'Bacaba', 'Rua 35', '22');
+VALUES (272, '63947-969', 'Ceará', 'Tarumã', 'Rua 18', '36');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (273, '73955-595', 'Bahia', 'Cabeludinha', 'Rua 22', '77');
+VALUES (273, '33951-758', 'Rio Grande do Sul', 'Café', 'Rua 80', '44');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (274, '83968-200', 'Goiás', 'Umari', 'Rua 47', '81');
+VALUES (274, '93965-284', 'Paraíba', 'Lichia', 'Rua 63', '19');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (275, '83974-008', 'Mato Grosso', 'Mirtilo', 'Rua 24', '22');
+VALUES (275, '93971-586', 'Amapá', 'Macadâmia', 'Rua 72', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (276, '43988-573', 'Ceará', 'Carambola', 'Rua 53', '97');
+VALUES (276, '63980-213', 'Sergipe', 'Figo da índia vermelho', 'Rua 56', '36');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (277, '03998-701', 'Pernambuco', 'Uva', 'Rua 95', '66');
+VALUES (277, '83997-564', 'Pará', 'Caqui chocolate', 'Rua 45', '94');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (278, '04004-656', 'Alagoas', 'Jaracatiá', 'Rua 80', '48');
+VALUES (278, '34001-598', 'Minas Gerais', 'Banana dágua', 'Rua 76', '52');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (279, '44018-028', 'Distrito Federal', 'Rambutão', 'Rua 63', '33');
+VALUES (279, '84017-122', 'Paraná', 'Tâmara natural', 'Rua 60', '96');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (280, '14028-453', 'Bahia', 'Tangerina Poncâ', 'Rua 28', '30');
+VALUES (280, '94027-589', 'Paraíba', 'Uva passa', 'Rua 84', '27');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (281, '04037-778', 'Pernambuco', 'Pitomba', 'Rua 86', '11');
+VALUES (281, '14034-199', 'Rio de Janeiro', 'Camu - Camu', 'Rua 17', '79');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (282, '14048-013', 'Maranhão', 'Guaraná', 'Rua 42', '61');
+VALUES (282, '54041-047', 'Bahia', 'Pulasan', 'Rua 13', '75');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (283, '34053-719', 'Amazonas', 'Uvalha', 'Rua 87', '11');
+VALUES (283, '54052-911', 'Minas Gerais', 'Grapefruit rosa', 'Rua 51', '29');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (284, '24065-816', 'Piauí', 'Noz Pecã', 'Rua 64', '70');
+VALUES (284, '34065-720', 'Distrito Federal', 'Limão siciliano', 'Rua 52', '41');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (285, '94071-945', 'Minas Gerais', 'Guaraná', 'Rua 29', '45');
+VALUES (285, '24076-414', 'Santa Catarina', 'Caimito', 'Rua 13', '40');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (286, '34085-603', 'Roraima', 'Pitanga', 'Rua 61', '30');
+VALUES (286, '84086-166', 'Piauí', 'Guabiroba', 'Rua 98', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (287, '64096-436', 'Rondônia', 'Physalis', 'Rua 70', '23');
+VALUES (287, '74097-434', 'Maranhão', 'Feijoa', 'Rua 41', '70');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (288, '64101-399', 'Rio de Janeiro', 'Nêspera', 'Rua 50', '73');
+VALUES (288, '84107-295', 'Paraná', 'Avelã', 'Rua 90', '29');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (289, '74112-870', 'Maranhão', 'Banana Ouro', 'Rua 95', '50');
+VALUES (289, '54111-435', 'Pernambuco', 'Uvaia', 'Rua 56', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (290, '04129-471', 'Goiás', 'Figo da índia vermelho', 'Rua 30', '57');
+VALUES (290, '64129-661', 'Goiás', 'Juá', 'Rua 40', '18');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (291, '64137-440', 'Distrito Federal', 'Morango', 'Rua 96', '30');
+VALUES (291, '44135-017', 'Piauí', 'Maçã Fuji', 'Rua 30', '96');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (292, '84145-496', 'Alagoas', 'Café', 'Rua 22', '81');
+VALUES (292, '04144-886', 'Rondônia', 'Framboesa fresca', 'Rua 64', '10');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (293, '24150-915', 'Santa Catarina', 'Cabeludinha', 'Rua 62', '17');
+VALUES (293, '24150-765', 'Pernambuco', 'Castanhas Variadas', 'Rua 73', '60');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (294, '94169-759', 'Rio de Janeiro', 'Atemoya', 'Rua 52', '67');
+VALUES (294, '34165-954', 'Acre', 'Marolo', 'Rua 53', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (295, '34176-021', 'Santa Catarina', 'Mexerica', 'Rua 46', '38');
+VALUES (295, '74178-714', 'Santa Catarina', 'Citrus em Geral', 'Rua 85', '51');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (296, '64183-682', 'Goiás', 'Nêspera', 'Rua 91', '20');
+VALUES (296, '14185-540', 'Piauí', 'Mamão papaia', 'Rua 59', '59');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (297, '34196-581', 'Amapá', 'Morango', 'Rua 87', '48');
+VALUES (297, '34194-113', 'Acre', 'Blueberry', 'Rua 51', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (298, '84207-983', 'Piauí', 'Coco', 'Rua 80', '53');
+VALUES (298, '74202-981', 'Pará', 'Cajá vermelho', 'Rua 74', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (299, '04218-874', 'Pará', 'Abricó', 'Rua 73', '17');
+VALUES (299, '14216-747', 'Amapá', 'Xixa', 'Rua 78', '17');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (300, '54223-861', 'Acre', 'Groselha', 'Rua 48', '86');
+VALUES (300, '94228-013', 'Pernambuco', 'Uva', 'Rua 91', '81');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (301, '24235-752', 'Distrito Federal', 'Uva passa', 'Rua 41', '42');
+VALUES (301, '24231-026', 'Rio de Janeiro', 'Feijoa', 'Rua 48', '13');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (302, '44241-342', 'Bahia', 'Umari', 'Rua 28', '94');
+VALUES (302, '54243-253', 'São Paulo', 'Guabiju', 'Rua 62', '30');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (303, '64252-568', 'Bahia', 'Pulasan', 'Rua 77', '18');
+VALUES (303, '94251-787', 'Rio Grande do Norte', 'Jaca', 'Rua 49', '56');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (304, '14267-621', 'Bahia', 'Piquiá', 'Rua 64', '57');
+VALUES (304, '34264-169', 'Rio Grande do Norte', 'Umbu', 'Rua 97', '99');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (305, '04275-777', 'Bahia', 'Pitanga', 'Rua 42', '86');
+VALUES (305, '64274-968', 'Paraná', 'Castanha do pará', 'Rua 75', '68');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (306, '84289-839', 'Rio Grande do Sul', 'Jambo', 'Rua 75', '75');
+VALUES (306, '84281-084', 'Bahia', 'Avocadoe', 'Rua 84', '11');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (307, '04291-251', 'Roraima', 'Mangaba', 'Rua 18', '10');
+VALUES (307, '44298-540', 'São Paulo', 'Licuri', 'Rua 74', '64');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (308, '84308-973', 'Amapá', 'Jaracatiá', 'Rua 34', '79');
+VALUES (308, '64308-381', 'Santa Catarina', 'Coco babaçu', 'Rua 70', '64');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (309, '44317-993', 'Minas Gerais', 'Sapoti', 'Rua 22', '23');
+VALUES (309, '54315-611', 'Rio Grande do Norte', 'Tarumã', 'Rua 47', '29');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (310, '74326-687', 'Rondônia', 'Caju', 'Rua 21', '68');
+VALUES (310, '64325-708', 'Mato Grosso do Sul', 'Condessa', 'Rua 88', '19');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (311, '34333-475', 'Goiás', 'Mamão', 'Rua 78', '11');
+VALUES (311, '24331-136', 'Alagoas', 'Sapota', 'Rua 11', '82');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (312, '54345-093', 'Amazonas', 'Lucuma', 'Rua 21', '25');
+VALUES (312, '54343-687', 'Rondônia', 'Camu-camu', 'Rua 35', '88');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (313, '84354-998', 'Sergipe', 'Biriba', 'Rua 22', '91');
+VALUES (313, '44350-368', 'Goiás', 'Uva branca', 'Rua 55', '72');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (314, '04363-478', 'Minas Gerais', 'Muruci', 'Rua 10', '26');
+VALUES (314, '04366-173', 'Piauí', 'Banana Maçã', 'Rua 46', '92');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (315, '64370-427', 'Rio Grande do Norte', 'Melancia', 'Rua 16', '51');
+VALUES (315, '84378-634', 'Pernambuco', 'Melancia branca', 'Rua 67', '26');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (316, '24389-174', 'Amazonas', 'Champedaque', 'Rua 54', '30');
+VALUES (316, '34382-143', 'Amazonas', 'Limão tahiti', 'Rua 69', '64');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (317, '84390-483', 'Pará', 'Coco babaçu', 'Rua 17', '55');
+VALUES (317, '24396-444', 'Roraima', 'Grapefruit rosa', 'Rua 48', '79');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (318, '24400-910', 'Rondônia', 'Nectarina', 'Rua 56', '31');
+VALUES (318, '64405-647', 'Alagoas', 'Jurubeba', 'Rua 25', '94');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (319, '14412-192', 'Rio Grande do Sul', 'Ingá', 'Rua 69', '40');
+VALUES (319, '74419-085', 'São Paulo', 'Cupuaçu', 'Rua 93', '38');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (320, '34426-488', 'Rio Grande do Norte', 'Longan', 'Rua 62', '91');
+VALUES (320, '94426-839', 'Paraná', 'Uva branca', 'Rua 45', '11');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (321, '14437-141', 'Paraná', 'Babaçu', 'Rua 32', '50');
+VALUES (321, '04436-582', 'Paraná', 'Fruta - Pão', 'Rua 28', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (322, '94448-147', 'Bahia', 'Ciriguela', 'Rua 71', '47');
+VALUES (322, '64449-481', 'Mato Grosso do Sul', 'Cidra', 'Rua 75', '16');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (323, '34455-552', 'Rio Grande do Sul', 'Banana', 'Rua 45', '81');
+VALUES (323, '54452-247', 'Alagoas', 'Mamão', 'Rua 74', '81');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (324, '74469-646', 'Espírito Santo', 'Avocadoe', 'Rua 47', '26');
+VALUES (324, '14466-291', 'Ceará', 'Caqui', 'Rua 53', '14');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (325, '64474-423', 'Amazonas', 'Guabiroba', 'Rua 79', '99');
+VALUES (325, '34478-615', 'Goiás', 'Cardo branco', 'Rua 50', '74');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (326, '64489-793', 'Roraima', 'Tamarilu', 'Rua 80', '68');
+VALUES (326, '44480-213', 'Rio Grande do Norte', 'Biribá', 'Rua 29', '43');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (327, '74490-220', 'São Paulo', 'Lucuma', 'Rua 24', '18');
+VALUES (327, '44495-542', 'Distrito Federal', 'Banana figo', 'Rua 11', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (328, '74500-630', 'Amapá', 'Banana', 'Rua 48', '57');
+VALUES (328, '84508-459', 'Pará', 'Longan', 'Rua 29', '42');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (329, '04510-497', 'Amazonas', 'Figo', 'Rua 95', '16');
+VALUES (329, '24515-911', 'Piauí', 'Tucumã', 'Rua 26', '43');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (330, '14522-283', 'Roraima', 'Carambola', 'Rua 11', '70');
+VALUES (330, '34529-553', 'Goiás', 'Ameixa', 'Rua 99', '59');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (331, '94532-124', 'Rio Grande do Norte', 'Tangerina', 'Rua 16', '46');
+VALUES (331, '54535-556', 'Alagoas', 'Pupunha', 'Rua 33', '83');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (332, '14540-571', 'Amapá', 'Wampi', 'Rua 14', '54');
+VALUES (332, '04546-773', 'Tocantins', 'Mandacarú', 'Rua 12', '13');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (333, '84550-837', 'Tocantins', 'Guabiroba', 'Rua 30', '39');
+VALUES (333, '44550-397', 'Piauí', 'Uva japonesa', 'Rua 10', '73');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (334, '44566-115', 'São Paulo', 'Jambo branco', 'Rua 56', '64');
+VALUES (334, '34560-745', 'Rondônia', 'Abacate', 'Rua 11', '91');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (335, '84579-546', 'Goiás', 'Carissa', 'Rua 70', '26');
+VALUES (335, '34570-686', 'Pernambuco', 'Guariroba', 'Rua 29', '24');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (336, '94580-417', 'Pernambuco', 'Mangaba', 'Rua 71', '31');
+VALUES (336, '84586-169', 'Rio Grande do Norte', 'Café', 'Rua 45', '72');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (337, '64597-119', 'Mato Grosso do Sul', 'Cereja', 'Rua 28', '75');
+VALUES (337, '04590-501', 'Santa Catarina', 'Guaraná', 'Rua 58', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (338, '94601-956', 'Tocantins', 'Banana da terra', 'Rua 12', '88');
+VALUES (338, '44602-580', 'Santa Catarina', 'Uva branca', 'Rua 16', '53');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (339, '74613-030', 'Amapá', 'Jatobá', 'Rua 27', '95');
+VALUES (339, '74619-585', 'Tocantins', 'Damasco', 'Rua 68', '50');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (340, '24628-373', 'Espírito Santo', 'Limão tahiti', 'Rua 62', '78');
+VALUES (340, '34629-605', 'Tocantins', 'Piquiá', 'Rua 61', '46');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (341, '24633-897', 'Rio Grande do Norte', 'Muruci', 'Rua 18', '86');
+VALUES (341, '34634-346', 'Sergipe', 'Banana dágua', 'Rua 28', '66');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (342, '04640-523', 'Paraíba', 'Glicosmis', 'Rua 43', '20');
+VALUES (342, '24642-922', 'Espírito Santo', 'Ilama', 'Rua 62', '35');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (343, '74654-499', 'Goiás', 'Murcote', 'Rua 57', '59');
+VALUES (343, '84653-280', 'Amazonas', 'Nêspera', 'Rua 58', '53');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (344, '54660-362', 'Paraná', 'Jambo branco', 'Rua 40', '36');
+VALUES (344, '04665-940', 'Goiás', 'Cherimóia', 'Rua 79', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (345, '04675-954', 'Ceará', 'Pinha', 'Rua 55', '97');
+VALUES (345, '14677-022', 'Alagoas', 'Castanha portuguesa', 'Rua 52', '86');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (346, '54687-124', 'Ceará', 'Figo da índia amarelo', 'Rua 53', '56');
+VALUES (346, '94687-872', 'Alagoas', 'Kinkan', 'Rua 89', '23');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (347, '94693-582', 'Bahia', 'Buriti', 'Rua 87', '87');
+VALUES (347, '94697-812', 'Amapá', 'Jabuticaba branca', 'Rua 52', '94');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (348, '54705-979', 'Ceará', 'Laranja pêra', 'Rua 54', '25');
+VALUES (348, '84704-648', 'Paraíba', 'Framboesa', 'Rua 49', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (349, '74711-689', 'Roraima', 'Coco babaçu', 'Rua 10', '92');
+VALUES (349, '54713-858', 'Amapá', 'Wampi', 'Rua 33', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (350, '24723-498', 'Tocantins', 'Xixa', 'Rua 95', '48');
+VALUES (350, '54725-907', 'Goiás', 'Morango', 'Rua 93', '23');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (351, '74739-545', 'Rio Grande do Sul', 'Jambo amarelo', 'Rua 75', '77');
+VALUES (351, '94737-756', 'Santa Catarina', 'Mandacarú', 'Rua 96', '38');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (352, '24742-376', 'Pará', 'Mexerica', 'Rua 23', '67');
+VALUES (352, '44740-598', 'Amazonas', 'Camapu', 'Rua 65', '15');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (353, '54756-210', 'Rondônia', 'Tomate Arbóreo', 'Rua 49', '72');
+VALUES (353, '04751-691', 'Sergipe', 'Mexerica Rio', 'Rua 15', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (354, '24761-957', 'Espírito Santo', 'Akee', 'Rua 17', '89');
+VALUES (354, '24764-786', 'Pará', 'Jambolão', 'Rua 21', '19');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (355, '54779-516', 'Acre', 'Cidra', 'Rua 89', '73');
+VALUES (355, '74770-516', 'Piauí', 'Melão', 'Rua 31', '65');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (356, '24781-625', 'Pernambuco', 'Guaraná', 'Rua 63', '19');
+VALUES (356, '44784-660', 'Maranhão', 'Cherimoya', 'Rua 70', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (357, '24792-330', 'Goiás', 'Banana Nanica', 'Rua 28', '78');
+VALUES (357, '04799-075', 'Paraná', 'Coco fresco', 'Rua 36', '30');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (358, '34806-987', 'Distrito Federal', 'Manga haden', 'Rua 25', '59');
+VALUES (358, '64800-643', 'Pernambuco', 'Damasco', 'Rua 14', '30');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (359, '74813-951', 'Amapá', 'Calamondin', 'Rua 26', '23');
+VALUES (359, '54812-574', 'São Paulo', 'Laranja pêra', 'Rua 55', '82');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (360, '74822-097', 'Paraná', 'Calabaça', 'Rua 10', '40');
+VALUES (360, '04825-435', 'Alagoas', 'Banana', 'Rua 24', '26');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (361, '54833-802', 'Rio de Janeiro', 'Romã', 'Rua 17', '83');
+VALUES (361, '34832-631', 'Goiás', 'Amêndoa', 'Rua 21', '81');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (362, '54847-251', 'Mato Grosso do Sul', 'Uva japonesa', 'Rua 82', '59');
+VALUES (362, '74847-411', 'Pernambuco', 'Caqui paulista', 'Rua 29', '12');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (363, '24853-593', 'Acre', 'Umê', 'Rua 55', '92');
+VALUES (363, '14856-675', 'Rio Grande do Sul', 'Pêssego', 'Rua 71', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (364, '34862-267', 'Rio Grande do Norte', 'Jambo amarelo', 'Rua 55', '44');
+VALUES (364, '04866-203', 'Amazonas', 'Licuri', 'Rua 30', '61');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (365, '44873-282', 'Paraíba', 'Banana prata', 'Rua 26', '69');
+VALUES (365, '24872-373', 'Espírito Santo', 'Pêra Williams', 'Rua 45', '89');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (366, '34889-796', 'São Paulo', 'Manga tommy', 'Rua 77', '85');
+VALUES (366, '14881-580', 'Paraná', 'Banana Maçã', 'Rua 61', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (367, '74894-467', 'Bahia', 'Caraguata', 'Rua 11', '76');
+VALUES (367, '84898-511', 'Distrito Federal', 'Champedaque', 'Rua 81', '55');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (368, '64908-206', 'Maranhão', 'Jenipapo', 'Rua 42', '48');
+VALUES (368, '54902-522', 'Espírito Santo', 'Abiu', 'Rua 24', '92');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (369, '74916-579', 'Santa Catarina', 'Muruci', 'Rua 21', '35');
+VALUES (369, '64910-997', 'Pará', 'Noz Pecã', 'Rua 31', '15');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (370, '24926-294', 'Alagoas', 'Banana dágua', 'Rua 85', '59');
+VALUES (370, '24927-000', 'Roraima', 'Tâmara', 'Rua 88', '19');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (371, '34930-572', 'Pernambuco', 'Avocadoe', 'Rua 93', '17');
+VALUES (371, '44936-082', 'Rio de Janeiro', 'Granadilla', 'Rua 52', '45');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (372, '94945-731', 'Piauí', 'Frutas do Cerrado', 'Rua 11', '38');
+VALUES (372, '44940-577', 'Alagoas', 'Atemoya', 'Rua 58', '11');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (373, '04959-160', 'Santa Catarina', 'Cubiu', 'Rua 53', '45');
+VALUES (373, '04955-867', 'Rio Grande do Sul', 'Sapota', 'Rua 18', '31');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (374, '34963-393', 'Distrito Federal', 'Groselha', 'Rua 14', '21');
+VALUES (374, '64960-208', 'Amapá', 'Melancia amarela', 'Rua 36', '85');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (375, '44975-442', 'Bahia', 'Mabolo', 'Rua 59', '62');
+VALUES (375, '34978-851', 'Tocantins', 'Manga haden', 'Rua 94', '71');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (376, '14989-506', 'Pernambuco', 'Banana Ouro', 'Rua 18', '30');
+VALUES (376, '74989-419', 'Acre', 'Castanhas Variadas', 'Rua 57', '47');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (377, '84990-986', 'Espírito Santo', 'Nectarina', 'Rua 87', '49');
+VALUES (377, '64992-144', 'Santa Catarina', 'Mexerica Rio', 'Rua 98', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (378, '45006-965', 'Goiás', 'Banana figo', 'Rua 26', '53');
+VALUES (378, '15001-341', 'Pará', 'Piquiá', 'Rua 93', '25');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (379, '55018-867', 'Piauí', 'Marang', 'Rua 13', '27');
+VALUES (379, '45010-365', 'Bahia', 'Goiaba', 'Rua 42', '91');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (380, '85020-307', 'Tocantins', 'Pulasan', 'Rua 64', '92');
+VALUES (380, '45024-318', 'Acre', 'Pêra Park', 'Rua 21', '49');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (381, '95037-488', 'Ceará', 'Nectarina', 'Rua 27', '19');
+VALUES (381, '95038-715', 'Rondônia', 'Murici', 'Rua 41', '14');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (382, '55046-460', 'Minas Gerais', 'Cacau', 'Rua 76', '88');
+VALUES (382, '95046-883', 'Acre', 'Cajá-manga', 'Rua 79', '37');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (383, '35058-328', 'Piauí', 'Uva', 'Rua 13', '23');
+VALUES (383, '65058-453', 'Alagoas', 'Baru', 'Rua 54', '44');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (384, '35069-695', 'São Paulo', 'Cubiu', 'Rua 15', '48');
+VALUES (384, '45069-459', 'Rondônia', 'Araçá', 'Rua 34', '73');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (385, '95072-439', 'Minas Gerais', 'Taiúva', 'Rua 18', '23');
+VALUES (385, '25074-306', 'Alagoas', 'Laranja lima', 'Rua 88', '96');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (386, '65089-767', 'Mato Grosso', 'Maracujá', 'Rua 43', '53');
+VALUES (386, '95083-445', 'Pernambuco', 'Jaca', 'Rua 52', '90');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (387, '45090-022', 'Rio de Janeiro', 'Biriba', 'Rua 53', '53');
+VALUES (387, '35092-439', 'Amapá', 'Pitaya', 'Rua 85', '19');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (388, '45103-127', 'Tocantins', 'Romã', 'Rua 95', '99');
+VALUES (388, '45106-276', 'Espírito Santo', 'Cacau', 'Rua 71', '69');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (389, '55111-686', 'Rondônia', 'Limão tahiti', 'Rua 16', '36');
+VALUES (389, '75118-833', 'Minas Gerais', 'Manga haden', 'Rua 73', '58');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (390, '45123-720', 'Amapá', 'Banana da terra', 'Rua 94', '37');
+VALUES (390, '95125-808', 'São Paulo', 'Mabolo', 'Rua 61', '27');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (391, '95136-888', 'Amazonas', 'Mutamba', 'Rua 17', '34');
+VALUES (391, '95138-668', 'Minas Gerais', 'Pitanga', 'Rua 71', '64');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (392, '15141-340', 'Roraima', 'Cabeludinha', 'Rua 74', '54');
+VALUES (392, '85140-858', 'Espírito Santo', 'Ameixa', 'Rua 65', '74');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (393, '75156-105', 'Amapá', 'Uva branca', 'Rua 31', '66');
+VALUES (393, '85155-368', 'Amapá', 'Dovyalis', 'Rua 21', '23');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (394, '55162-813', 'Minas Gerais', 'Jambo rosa', 'Rua 57', '86');
+VALUES (394, '05166-690', 'Mato Grosso', 'Tâmara', 'Rua 12', '82');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (395, '85179-594', 'Pará', 'Toranja', 'Rua 66', '69');
+VALUES (395, '15174-843', 'Distrito Federal', 'Champedaque', 'Rua 33', '74');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (396, '45187-447', 'Tocantins', 'Limão galego', 'Rua 55', '12');
+VALUES (396, '95187-460', 'Distrito Federal', 'Sapucaia', 'Rua 88', '45');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (397, '85199-951', 'Bahia', 'Figo da índia vermelho', 'Rua 96', '51');
+VALUES (397, '65195-535', 'Amazonas', 'Laranja pêra', 'Rua 51', '32');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (398, '85200-935', 'Rio de Janeiro', 'Jatobá', 'Rua 11', '53');
+VALUES (398, '15206-035', 'Rio de Janeiro', 'Pistache', 'Rua 23', '88');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (399, '55210-949', 'Bahia', 'Frutas do Cerrado', 'Rua 67', '74');
+VALUES (399, '55211-888', 'Ceará', 'Carambola', 'Rua 40', '39');
 
 INSERT INTO Endereco(id, cep, estado, bairro, rua, numero)
-VALUES (400, '45227-186', 'Piauí', 'Tâmara natural', 'Rua 99', '46');
+VALUES (400, '65226-660', 'Ceará', 'Fruta - Pão', 'Rua 68', '28');
 
 -- Popula a tabela Contato.
 
@@ -2320,2413 +2347,2413 @@ INSERT INTO Contato(id, Endereco_id) VALUES (200, 200);
 -- Popula a tabela Telefone.
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (1, '(056) 3731-5754', 1);
+VALUES (1, '(067) 3114-3883', 1);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (2, '(035) 3413-2178', 2);
+VALUES (2, '(047) 3925-3596', 2);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (3, '(094) 3880-7888', 3);
+VALUES (3, '(074) 3130-7909', 3);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (4, '(096) 3232-0781', 4);
+VALUES (4, '(092) 3855-8075', 4);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (5, '(075) 3831-1391', 5);
+VALUES (5, '(055) 3092-7385', 5);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (6, '(085) 3364-7666', 6);
+VALUES (6, '(022) 3661-7268', 6);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (7, '(075) 3486-5185', 7);
+VALUES (7, '(061) 3294-1344', 7);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (8, '(064) 3551-0291', 8);
+VALUES (8, '(022) 3527-2295', 8);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (9, '(067) 3634-7366', 9);
+VALUES (9, '(086) 3290-1499', 9);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (10, '(013) 3196-1424', 10);
+VALUES (10, '(061) 3849-1763', 10);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (11, '(087) 3105-0925', 11);
+VALUES (11, '(077) 3726-7375', 11);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (12, '(086) 3712-0983', 12);
+VALUES (12, '(017) 3731-5743', 12);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (13, '(042) 3687-5928', 13);
+VALUES (13, '(027) 3173-3740', 13);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (14, '(083) 3387-2828', 14);
+VALUES (14, '(062) 3839-2682', 14);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (15, '(042) 3925-2326', 15);
+VALUES (15, '(019) 3538-7389', 15);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (16, '(071) 3489-3513', 16);
+VALUES (16, '(077) 3620-8353', 16);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (17, '(017) 3421-3329', 17);
+VALUES (17, '(066) 3908-8618', 17);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (18, '(031) 3235-5935', 18);
+VALUES (18, '(012) 3304-2135', 18);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (19, '(023) 3142-8687', 19);
+VALUES (19, '(043) 3926-1894', 19);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (20, '(048) 3697-4304', 20);
+VALUES (20, '(089) 3930-0543', 20);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (21, '(073) 3201-0991', 21);
+VALUES (21, '(087) 3262-2586', 21);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (22, '(088) 3803-3518', 22);
+VALUES (22, '(076) 3341-5825', 22);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (23, '(081) 3405-6248', 23);
+VALUES (23, '(024) 3550-7909', 23);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (24, '(019) 3842-5084', 24);
+VALUES (24, '(013) 3562-7810', 24);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (25, '(073) 3738-3533', 25);
+VALUES (25, '(024) 3107-2423', 25);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (26, '(065) 3867-4240', 26);
+VALUES (26, '(026) 3598-9160', 26);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (27, '(097) 3945-3986', 27);
+VALUES (27, '(037) 3827-7893', 27);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (28, '(092) 3888-5739', 28);
+VALUES (28, '(055) 3771-4514', 28);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (29, '(094) 3223-8602', 29);
+VALUES (29, '(092) 3465-9031', 29);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (30, '(024) 3648-3781', 30);
+VALUES (30, '(018) 3771-1094', 30);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (31, '(063) 3658-0763', 31);
+VALUES (31, '(012) 3229-0546', 31);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (32, '(046) 3494-6681', 32);
+VALUES (32, '(087) 3134-7650', 32);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (33, '(079) 3266-4135', 33);
+VALUES (33, '(034) 3759-3823', 33);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (34, '(035) 3151-7581', 34);
+VALUES (34, '(065) 3557-1942', 34);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (35, '(036) 3547-6583', 35);
+VALUES (35, '(046) 3683-5425', 35);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (36, '(033) 3835-3872', 36);
+VALUES (36, '(012) 3440-3675', 36);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (37, '(046) 3188-6763', 37);
+VALUES (37, '(097) 3904-6864', 37);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (38, '(078) 3898-6928', 38);
+VALUES (38, '(034) 3369-8517', 38);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (39, '(077) 3007-4915', 39);
+VALUES (39, '(035) 3361-1395', 39);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (40, '(032) 3756-6188', 40);
+VALUES (40, '(085) 3196-2260', 40);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (41, '(014) 3843-9805', 41);
+VALUES (41, '(028) 3536-1572', 41);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (42, '(075) 3125-1335', 42);
+VALUES (42, '(036) 3938-7718', 42);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (43, '(016) 3380-8913', 43);
+VALUES (43, '(037) 3966-2215', 43);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (44, '(018) 3597-1705', 44);
+VALUES (44, '(093) 3199-7363', 44);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (45, '(062) 3819-6404', 45);
+VALUES (45, '(088) 3054-5068', 45);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (46, '(036) 3840-7002', 46);
+VALUES (46, '(063) 3757-7189', 46);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (47, '(037) 3687-2071', 47);
+VALUES (47, '(029) 3331-9928', 47);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (48, '(089) 3939-3818', 48);
+VALUES (48, '(088) 3892-8407', 48);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (49, '(078) 3946-8603', 49);
+VALUES (49, '(079) 3686-3864', 49);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (50, '(062) 3833-8036', 50);
+VALUES (50, '(068) 3084-5366', 50);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (51, '(031) 3818-1053', 51);
+VALUES (51, '(059) 3142-9402', 51);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (52, '(057) 3079-2207', 52);
+VALUES (52, '(033) 3334-4549', 52);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (53, '(023) 3258-4080', 53);
+VALUES (53, '(099) 3390-1973', 53);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (54, '(078) 3665-0164', 54);
+VALUES (54, '(045) 3407-0483', 54);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (55, '(062) 3295-1955', 55);
+VALUES (55, '(015) 3529-3847', 55);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (56, '(038) 3201-3065', 56);
+VALUES (56, '(028) 3250-8219', 56);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (57, '(036) 3931-1791', 57);
+VALUES (57, '(029) 3462-6395', 57);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (58, '(017) 3762-4107', 58);
+VALUES (58, '(045) 3952-7245', 58);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (59, '(025) 3761-9907', 59);
+VALUES (59, '(093) 3328-7887', 59);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (60, '(079) 3674-2143', 60);
+VALUES (60, '(038) 3888-1275', 60);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (61, '(095) 3025-6581', 61);
+VALUES (61, '(029) 3282-9512', 61);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (62, '(065) 3465-5081', 62);
+VALUES (62, '(075) 3617-0230', 62);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (63, '(059) 3880-8291', 63);
+VALUES (63, '(092) 3476-4815', 63);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (64, '(043) 3347-0054', 64);
+VALUES (64, '(028) 3609-0099', 64);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (65, '(044) 3900-7714', 65);
+VALUES (65, '(021) 3766-4751', 65);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (66, '(057) 3065-3161', 66);
+VALUES (66, '(077) 3766-2966', 66);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (67, '(032) 3716-9899', 67);
+VALUES (67, '(027) 3303-8161', 67);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (68, '(069) 3272-7483', 68);
+VALUES (68, '(043) 3165-5621', 68);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (69, '(096) 3910-3133', 69);
+VALUES (69, '(068) 3416-4044', 69);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (70, '(057) 3516-6504', 70);
+VALUES (70, '(055) 3810-2841', 70);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (71, '(068) 3100-4911', 71);
+VALUES (71, '(088) 3032-3506', 71);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (72, '(052) 3709-5549', 72);
+VALUES (72, '(022) 3207-4683', 72);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (73, '(032) 3714-4808', 73);
+VALUES (73, '(059) 3752-6514', 73);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (74, '(043) 3903-7509', 74);
+VALUES (74, '(073) 3915-9450', 74);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (75, '(071) 3737-3829', 75);
+VALUES (75, '(063) 3485-9540', 75);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (76, '(027) 3915-4941', 76);
+VALUES (76, '(072) 3187-1265', 76);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (77, '(068) 3971-9862', 77);
+VALUES (77, '(049) 3440-2171', 77);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (78, '(072) 3675-9180', 78);
+VALUES (78, '(024) 3840-4595', 78);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (79, '(048) 3899-0453', 79);
+VALUES (79, '(029) 3440-3071', 79);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (80, '(061) 3955-7644', 80);
+VALUES (80, '(021) 3516-2120', 80);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (81, '(055) 3416-0058', 81);
+VALUES (81, '(059) 3548-3450', 81);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (82, '(019) 3222-9894', 82);
+VALUES (82, '(085) 3916-5795', 82);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (83, '(085) 3523-3496', 83);
+VALUES (83, '(049) 3107-8445', 83);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (84, '(017) 3859-3668', 84);
+VALUES (84, '(079) 3092-1972', 84);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (85, '(054) 3446-3612', 85);
+VALUES (85, '(013) 3505-2252', 85);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (86, '(079) 3699-1502', 86);
+VALUES (86, '(064) 3195-4349', 86);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (87, '(075) 3511-4072', 87);
+VALUES (87, '(052) 3263-9709', 87);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (88, '(074) 3251-2503', 88);
+VALUES (88, '(095) 3453-6400', 88);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (89, '(033) 3379-9219', 89);
+VALUES (89, '(016) 3373-5333', 89);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (90, '(067) 3738-4916', 90);
+VALUES (90, '(023) 3898-2497', 90);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (91, '(029) 3122-9413', 91);
+VALUES (91, '(098) 3460-2508', 91);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (92, '(072) 3852-7654', 92);
+VALUES (92, '(073) 3995-6386', 92);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (93, '(085) 3340-8995', 93);
+VALUES (93, '(072) 3492-8531', 93);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (94, '(079) 3829-2635', 94);
+VALUES (94, '(055) 3423-7285', 94);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (95, '(029) 3051-7583', 95);
+VALUES (95, '(063) 3474-6260', 95);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (96, '(072) 3139-8765', 96);
+VALUES (96, '(026) 3075-7550', 96);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (97, '(032) 3221-7624', 97);
+VALUES (97, '(062) 3373-8669', 97);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (98, '(052) 3278-9489', 98);
+VALUES (98, '(073) 3035-9189', 98);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (99, '(079) 3367-7016', 99);
+VALUES (99, '(045) 3537-0113', 99);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (100, '(029) 3316-4822', 100);
+VALUES (100, '(069) 3433-1446', 100);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (101, '(032) 3340-8444', 101);
+VALUES (101, '(098) 3382-4551', 101);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (102, '(072) 3656-9791', 102);
+VALUES (102, '(022) 3933-9235', 102);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (103, '(092) 3590-8419', 103);
+VALUES (103, '(099) 3846-6352', 103);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (104, '(081) 3976-9132', 104);
+VALUES (104, '(057) 3702-2593', 104);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (105, '(016) 3137-2048', 105);
+VALUES (105, '(093) 3486-7702', 105);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (106, '(091) 3220-2217', 106);
+VALUES (106, '(021) 3432-5767', 106);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (107, '(067) 3942-8260', 107);
+VALUES (107, '(096) 3740-2337', 107);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (108, '(015) 3864-6870', 108);
+VALUES (108, '(086) 3648-1352', 108);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (109, '(026) 3770-8344', 109);
+VALUES (109, '(044) 3840-7659', 109);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (110, '(094) 3901-9898', 110);
+VALUES (110, '(079) 3964-6370', 110);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (111, '(088) 3020-8523', 111);
+VALUES (111, '(036) 3161-3670', 111);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (112, '(043) 3879-4725', 112);
+VALUES (112, '(044) 3811-4387', 112);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (113, '(089) 3783-2077', 113);
+VALUES (113, '(082) 3668-5710', 113);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (114, '(099) 3188-7853', 114);
+VALUES (114, '(085) 3837-4427', 114);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (115, '(042) 3075-6200', 115);
+VALUES (115, '(047) 3664-7824', 115);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (116, '(041) 3195-2693', 116);
+VALUES (116, '(078) 3175-2920', 116);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (117, '(099) 3504-3208', 117);
+VALUES (117, '(014) 3519-4196', 117);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (118, '(032) 3968-4349', 118);
+VALUES (118, '(026) 3425-8000', 118);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (119, '(027) 3601-5433', 119);
+VALUES (119, '(077) 3966-6969', 119);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (120, '(077) 3011-3287', 120);
+VALUES (120, '(018) 3703-6855', 120);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (121, '(017) 3059-1716', 121);
+VALUES (121, '(066) 3441-3049', 121);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (122, '(024) 3800-0920', 122);
+VALUES (122, '(027) 3970-8258', 122);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (123, '(077) 3655-0143', 123);
+VALUES (123, '(047) 3494-6473', 123);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (124, '(021) 3941-9269', 124);
+VALUES (124, '(034) 3654-9211', 124);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (125, '(098) 3641-3559', 125);
+VALUES (125, '(087) 3473-3569', 125);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (126, '(099) 3865-9756', 126);
+VALUES (126, '(023) 3115-2785', 126);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (127, '(065) 3647-1778', 127);
+VALUES (127, '(057) 3938-6876', 127);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (128, '(061) 3729-3107', 128);
+VALUES (128, '(095) 3019-1594', 128);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (129, '(024) 3353-0025', 129);
+VALUES (129, '(051) 3665-2290', 129);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (130, '(099) 3044-8453', 130);
+VALUES (130, '(045) 3105-9832', 130);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (131, '(037) 3051-3207', 131);
+VALUES (131, '(071) 3050-9104', 131);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (132, '(077) 3994-6122', 132);
+VALUES (132, '(063) 3172-2199', 132);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (133, '(019) 3441-2531', 133);
+VALUES (133, '(037) 3671-6455', 133);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (134, '(068) 3221-8031', 134);
+VALUES (134, '(021) 3082-6818', 134);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (135, '(096) 3563-6652', 135);
+VALUES (135, '(092) 3577-6740', 135);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (136, '(055) 3364-7346', 136);
+VALUES (136, '(045) 3892-0245', 136);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (137, '(039) 3012-0943', 137);
+VALUES (137, '(079) 3075-3648', 137);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (138, '(098) 3961-6190', 138);
+VALUES (138, '(051) 3386-2643', 138);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (139, '(088) 3943-8812', 139);
+VALUES (139, '(038) 3295-5388', 139);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (140, '(015) 3121-4917', 140);
+VALUES (140, '(034) 3729-7385', 140);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (141, '(018) 3235-1442', 141);
+VALUES (141, '(091) 3164-3996', 141);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (142, '(057) 3168-2062', 142);
+VALUES (142, '(088) 3016-0735', 142);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (143, '(047) 3331-8486', 143);
+VALUES (143, '(076) 3073-0883', 143);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (144, '(035) 3173-8780', 144);
+VALUES (144, '(034) 3933-1738', 144);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (145, '(063) 3403-8017', 145);
+VALUES (145, '(083) 3534-7045', 145);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (146, '(014) 3854-9464', 146);
+VALUES (146, '(013) 3780-3162', 146);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (147, '(065) 3132-3412', 147);
+VALUES (147, '(092) 3139-7198', 147);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (148, '(044) 3930-6726', 148);
+VALUES (148, '(087) 3799-4534', 148);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (149, '(086) 3625-6919', 149);
+VALUES (149, '(085) 3035-5592', 149);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (150, '(045) 3631-4989', 150);
+VALUES (150, '(092) 3198-4360', 150);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (151, '(097) 3228-3908', 151);
+VALUES (151, '(099) 3384-7839', 151);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (152, '(097) 3595-6300', 152);
+VALUES (152, '(068) 3485-0554', 152);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (153, '(013) 3037-9202', 153);
+VALUES (153, '(021) 3425-2441', 153);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (154, '(058) 3806-4360', 154);
+VALUES (154, '(035) 3056-2699', 154);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (155, '(013) 3892-1895', 155);
+VALUES (155, '(055) 3435-0260', 155);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (156, '(057) 3834-6784', 156);
+VALUES (156, '(079) 3470-6424', 156);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (157, '(074) 3287-7814', 157);
+VALUES (157, '(028) 3658-8546', 157);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (158, '(072) 3332-9949', 158);
+VALUES (158, '(022) 3711-2498', 158);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (159, '(091) 3067-5299', 159);
+VALUES (159, '(096) 3668-1060', 159);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (160, '(077) 3884-2075', 160);
+VALUES (160, '(097) 3380-1549', 160);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (161, '(061) 3173-2751', 161);
+VALUES (161, '(073) 3405-4017', 161);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (162, '(069) 3413-2936', 162);
+VALUES (162, '(048) 3196-0883', 162);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (163, '(058) 3814-2053', 163);
+VALUES (163, '(033) 3005-7206', 163);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (164, '(069) 3307-3560', 164);
+VALUES (164, '(077) 3865-3102', 164);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (165, '(062) 3900-3447', 165);
+VALUES (165, '(088) 3801-1805', 165);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (166, '(093) 3376-0551', 166);
+VALUES (166, '(031) 3687-7497', 166);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (167, '(021) 3456-7113', 167);
+VALUES (167, '(054) 3986-7210', 167);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (168, '(029) 3031-4431', 168);
+VALUES (168, '(037) 3961-5163', 168);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (169, '(065) 3952-7091', 169);
+VALUES (169, '(077) 3470-8851', 169);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (170, '(049) 3500-1013', 170);
+VALUES (170, '(016) 3380-7178', 170);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (171, '(072) 3944-1375', 171);
+VALUES (171, '(021) 3876-3042', 171);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (172, '(026) 3564-4385', 172);
+VALUES (172, '(095) 3074-0463', 172);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (173, '(048) 3895-5966', 173);
+VALUES (173, '(028) 3593-3910', 173);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (174, '(089) 3164-8081', 174);
+VALUES (174, '(014) 3815-0763', 174);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (175, '(091) 3319-9669', 175);
+VALUES (175, '(062) 3598-4748', 175);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (176, '(063) 3012-4844', 176);
+VALUES (176, '(028) 3538-1658', 176);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (177, '(057) 3335-3553', 177);
+VALUES (177, '(057) 3465-5105', 177);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (178, '(097) 3121-0051', 178);
+VALUES (178, '(098) 3059-4196', 178);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (179, '(048) 3434-7099', 179);
+VALUES (179, '(025) 3800-8948', 179);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (180, '(011) 3317-3874', 180);
+VALUES (180, '(043) 3372-6930', 180);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (181, '(046) 3043-4252', 181);
+VALUES (181, '(075) 3167-8814', 181);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (182, '(075) 3619-1431', 182);
+VALUES (182, '(038) 3132-0596', 182);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (183, '(067) 3221-5294', 183);
+VALUES (183, '(046) 3793-2808', 183);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (184, '(033) 3643-9804', 184);
+VALUES (184, '(056) 3760-0159', 184);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (185, '(022) 3352-3767', 185);
+VALUES (185, '(027) 3393-2088', 185);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (186, '(056) 3011-6303', 186);
+VALUES (186, '(066) 3941-0038', 186);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (187, '(043) 3336-8075', 187);
+VALUES (187, '(072) 3241-7658', 187);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (188, '(045) 3799-4600', 188);
+VALUES (188, '(056) 3136-7163', 188);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (189, '(062) 3210-8212', 189);
+VALUES (189, '(056) 3384-6537', 189);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (190, '(073) 3528-6353', 190);
+VALUES (190, '(057) 3320-1908', 190);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (191, '(036) 3717-3557', 191);
+VALUES (191, '(056) 3121-3307', 191);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (192, '(046) 3943-7950', 192);
+VALUES (192, '(057) 3764-8225', 192);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (193, '(021) 3174-0052', 193);
+VALUES (193, '(041) 3669-8660', 193);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (194, '(019) 3471-4261', 194);
+VALUES (194, '(052) 3334-9547', 194);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (195, '(026) 3989-5665', 195);
+VALUES (195, '(021) 3712-1910', 195);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (196, '(014) 3968-2571', 196);
+VALUES (196, '(095) 3932-5609', 196);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (197, '(072) 3625-8871', 197);
+VALUES (197, '(066) 3560-1893', 197);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (198, '(071) 3377-4464', 198);
+VALUES (198, '(056) 3069-0026', 198);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (199, '(052) 3755-3809', 199);
+VALUES (199, '(035) 3825-0891', 199);
 
 INSERT INTO Telefone(id, numero, Contato_id)
-VALUES (200, '(059) 3989-0736', 200);
+VALUES (200, '(071) 3070-3022', 200);
 
 -- Popula a tabela Motorista.
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (1, 'Rashad Romer', '073.233.575-31', '4023215', '82921535721', false, 1, 1);
+VALUES (1, 'Rashad Romer', '221.233.746-00', '9193215', '78011536691', true, 1, 1);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (2, 'Teresa Tant', '522.234.143-28', '6583228', '10731543091', false, 2, 2);
+VALUES (2, 'Teresa Tant', '160.234.659-08', '3783222', '19181544089', false, 2, 2);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (3, 'Kyoko Korn', '889.235.372-25', '3463230', '77971554187', true, 3, 3);
+VALUES (3, 'Kyoko Korn', '903.235.760-94', '6603236', '23321552720', true, 3, 3);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (4, 'Latonya Leaman', '561.236.239-55', '5453246', '51791560899', true, 4, 4);
+VALUES (4, 'Latonya Leaman', '214.236.662-04', '0993240', '04271565644', false, 4, 4);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (5, 'Luigi Lamay', '958.237.301-43', '6683254', '41671578933', false, 5, 5);
+VALUES (5, 'Luigi Lamay', '508.237.884-73', '4443252', '00411579417', false, 5, 5);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (6, 'Suzanne Scola', '155.238.329-77', '3153260', '93111588603', true, 6, 6);
+VALUES (6, 'Suzanne Scola', '575.238.132-27', '5443267', '76281588337', false, 6, 6);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (7, 'Tabitha Tunnell', '215.239.459-42', '8563271', '49691590181', false, 7, 7);
+VALUES (7, 'Tabitha Tunnell', '675.239.845-69', '4313273', '17581590556', true, 7, 7);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (8, 'Lonny Lacasse', '777.240.200-86', '2983284', '71361604928', false, 8, 8);
+VALUES (8, 'Lonny Lacasse', '012.240.311-08', '9103287', '79231606751', true, 8, 8);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (9, 'Tangela Trowbridge', '190.241.417-35', '4343299', '13081615647', true, 9, 9);
+VALUES (9, 'Tangela Trowbridge', '761.241.162-62', '6333296', '59521611651', false, 9, 9);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (10, 'Theressa Tarkington', '658.242.815-94', '3373300', '70031628204', false, 10, 10);
+VALUES (10, 'Theressa Tarkington', '043.242.388-81', '4143302', '54541620455', false, 10, 10);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (11, 'Bettye Beaubien', '623.243.620-18', '8873310', '19591630720', true, 11, 11);
+VALUES (11, 'Bettye Beaubien', '248.243.717-60', '9853315', '84561638468', false, 11, 11);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (12, 'Sung Southall', '237.244.109-52', '7773323', '91531643356', true, 12, 12);
+VALUES (12, 'Sung Southall', '007.244.173-28', '0343323', '65811646548', false, 12, 12);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (13, 'Leighann Logan', '931.245.496-08', '3423338', '01961651918', false, 13, 13);
+VALUES (13, 'Leighann Logan', '959.245.093-15', '7053334', '00171652985', true, 13, 13);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (14, 'Avery Almanzar', '344.246.166-52', '0003340', '19871665805', true, 14, 14);
+VALUES (14, 'Avery Almanzar', '803.246.899-03', '4183347', '79151661813', true, 14, 14);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (15, 'Horace Huber', '360.247.590-25', '3593358', '04101674325', true, 15, 15);
+VALUES (15, 'Horace Huber', '201.247.120-03', '0373352', '91201672446', true, 15, 15);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (16, 'Candace Calderone', '583.248.698-46', '7813362', '93321683045', true, 16, 16);
+VALUES (16, 'Candace Calderone', '168.248.063-11', '5883369', '76331689743', true, 16, 16);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (17, 'Selma Siegler', '168.249.745-68', '2153373', '71251690553', false, 17, 17);
+VALUES (17, 'Selma Siegler', '293.249.623-79', '6293376', '70861698062', true, 17, 17);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (18, 'Ok Oyler', '313.250.311-98', '6343382', '85761709734', false, 18, 18);
+VALUES (18, 'Ok Oyler', '822.250.866-94', '8523387', '81871706111', false, 18, 18);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (19, 'Rex Raynes', '506.251.830-82', '8043398', '13001714318', false, 19, 19);
+VALUES (19, 'Rex Raynes', '112.251.985-74', '3883391', '36441710157', false, 19, 19);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (20, 'Mariela Mccorkle', '319.252.949-00', '2443404', '94671727812', true, 20, 20);
+VALUES (20, 'Mariela Mccorkle', '506.252.297-83', '7683401', '23161722086', false, 20, 20);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (21, 'Andres Auman', '986.253.951-93', '0153418', '11991739145', false, 21, 21);
+VALUES (21, 'Andres Auman', '633.253.606-66', '7813412', '26761731558', false, 21, 21);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (22, 'Vera Vannote', '071.254.847-03', '6683429', '99421741586', false, 22, 22);
+VALUES (22, 'Vera Vannote', '138.254.508-36', '4093426', '73941749308', false, 22, 22);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (23, 'Cristine Condie', '836.255.966-61', '9673432', '68701758964', true, 23, 23);
+VALUES (23, 'Cristine Condie', '590.255.854-31', '3943433', '82631758780', true, 23, 23);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (24, 'Andree Audet', '355.256.599-48', '3023442', '90901767730', false, 24, 24);
+VALUES (24, 'Andree Audet', '327.256.422-53', '8503440', '43521768859', false, 24, 24);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (25, 'Samual Sparacino', '965.257.668-38', '3223450', '92211774417', true, 25, 25);
+VALUES (25, 'Samual Sparacino', '168.257.490-70', '0753452', '91651777699', false, 25, 25);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (26, 'Rosalba Riehl', '193.258.355-81', '9573468', '59861789732', true, 26, 26);
+VALUES (26, 'Rosalba Riehl', '042.258.605-62', '6383460', '30901782018', true, 26, 26);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (27, 'Blair Becerra', '171.259.902-52', '0533478', '39041791646', true, 27, 27);
+VALUES (27, 'Blair Becerra', '517.259.097-91', '9273470', '81971794300', false, 27, 27);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (28, 'Ilene Iman', '646.260.146-71', '9263486', '44491809608', true, 28, 28);
+VALUES (28, 'Ilene Iman', '453.260.482-25', '1053484', '86471802482', true, 28, 28);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (29, 'Sherley Stuber', '279.261.902-46', '8233495', '39001818966', false, 29, 29);
+VALUES (29, 'Sherley Stuber', '614.261.102-75', '0833491', '09921813734', false, 29, 29);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (30, 'Leslee Lafler', '262.262.721-67', '0723500', '37031822968', true, 30, 30);
+VALUES (30, 'Leslee Lafler', '056.262.677-57', '2043509', '46261828274', false, 30, 30);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (31, 'Lavonne Leverette', '693.263.692-71', '4553519', '25411835906', false, 31, 31);
+VALUES (31, 'Lavonne Leverette', '828.263.569-39', '3793513', '85731839576', true, 31, 31);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (32, 'Chantal Chubb', '215.264.780-65', '7583529', '85731846602', true, 32, 32);
+VALUES (32, 'Chantal Chubb', '127.264.817-96', '0313529', '61671849124', true, 32, 32);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (33, 'Ozie Ottley', '885.265.866-61', '3263536', '42421855795', false, 33, 33);
+VALUES (33, 'Ozie Ottley', '609.265.839-10', '5663535', '53581850307', true, 33, 33);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (34, 'Judie Jaycox', '424.266.789-08', '9353541', '97131863962', false, 34, 34);
+VALUES (34, 'Judie Jaycox', '211.266.189-95', '6673545', '55751868128', true, 34, 34);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (35, 'Faye Fluellen', '500.267.256-60', '3183556', '78051872514', false, 35, 35);
+VALUES (35, 'Faye Fluellen', '513.267.555-18', '9373557', '60691870082', false, 35, 35);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (36, 'Shakia Snelson', '876.268.345-40', '3693561', '61691889011', false, 36, 36);
+VALUES (36, 'Shakia Snelson', '313.268.243-81', '1313564', '75831888794', true, 36, 36);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (37, 'Louisa Lathan', '438.269.021-07', '8533577', '24331896585', false, 37, 37);
+VALUES (37, 'Louisa Lathan', '193.269.806-57', '2783576', '55391891935', false, 37, 37);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (38, 'Dexter Dana', '942.270.851-80', '1413581', '67671902525', false, 38, 38);
+VALUES (38, 'Dexter Dana', '290.270.126-84', '3733584', '20541905951', false, 38, 38);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (39, 'Ray Ridder', '185.271.316-08', '6033599', '49601911679', false, 39, 39);
+VALUES (39, 'Ray Ridder', '870.271.507-06', '7753593', '73151913377', false, 39, 39);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (40, 'Kenny Kosak', '066.272.829-64', '2133608', '44771925504', true, 40, 40);
+VALUES (40, 'Kenny Kosak', '386.272.591-49', '4563600', '54241929476', false, 40, 40);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (41, 'Eliz Elie', '610.273.780-83', '7443610', '66711932407', true, 41, 41);
+VALUES (41, 'Eliz Elie', '189.273.862-73', '7823610', '32401939213', false, 41, 41);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (42, 'Nichole Newingham', '658.274.148-75', '4543625', '27481942179', false, 42, 42);
+VALUES (42, 'Nichole Newingham', '188.274.152-55', '0983628', '09641943839', true, 42, 42);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (43, 'Saul Soto', '022.275.135-88', '3633632', '42931958145', true, 43, 43);
+VALUES (43, 'Saul Soto', '160.275.211-84', '1343635', '61311953866', true, 43, 43);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (44, 'Julissa Jone', '112.276.874-31', '7463642', '87471963133', true, 44, 44);
+VALUES (44, 'Julissa Jone', '307.276.299-14', '5753649', '43511962047', false, 44, 44);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (45, 'Abram Applin', '980.277.632-24', '5503659', '62701973086', true, 45, 45);
+VALUES (45, 'Abram Applin', '697.277.411-61', '7653658', '66601979660', false, 45, 45);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (46, 'Rosenda Rossman', '412.278.778-14', '8263660', '34511988058', false, 46, 46);
+VALUES (46, 'Rosenda Rossman', '517.278.867-18', '3983669', '58281989201', false, 46, 46);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (47, 'Nidia Nembhard', '229.279.466-46', '0473670', '38491996445', false, 47, 47);
+VALUES (47, 'Nidia Nembhard', '781.279.146-64', '2123671', '20821998462', false, 47, 47);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (48, 'Patty Preece', '201.280.276-95', '6663685', '53892009253', false, 48, 48);
+VALUES (48, 'Patty Preece', '972.280.322-09', '1963681', '22732005609', true, 48, 48);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (49, 'Berenice Butt', '400.281.539-81', '5243698', '48682016211', true, 49, 49);
+VALUES (49, 'Berenice Butt', '854.281.781-08', '5833699', '82612013535', false, 49, 49);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (50, 'Ashlee Andreas', '642.282.082-09', '1993701', '95132026668', false, 50, 50);
+VALUES (50, 'Ashlee Andreas', '130.282.698-39', '4613707', '50932022020', false, 50, 50);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (51, 'Marisela Morrow', '100.283.281-62', '1963716', '87292032194', true, 51, 51);
+VALUES (51, 'Marisela Morrow', '284.283.624-02', '3713718', '51092030139', true, 51, 51);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (52, 'Katheleen Kenan', '861.284.438-92', '6863726', '06902044899', false, 52, 52);
+VALUES (52, 'Katheleen Kenan', '731.284.005-01', '4843724', '29942043703', false, 52, 52);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (53, 'Scarlett Schiavo', '848.285.177-80', '4483734', '79582057150', false, 53, 53);
+VALUES (53, 'Scarlett Schiavo', '242.285.337-52', '7983735', '05742058596', true, 53, 53);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (54, 'Collin Cuneo', '663.286.440-46', '1223743', '95822064491', true, 54, 54);
+VALUES (54, 'Collin Cuneo', '715.286.623-30', '5403746', '47852062454', false, 54, 54);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (55, 'Sharika Severs', '688.287.183-77', '4313755', '07492079495', true, 55, 55);
+VALUES (55, 'Sharika Severs', '670.287.763-56', '6373752', '32512076068', true, 55, 55);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (56, 'Ardelle Arrieta', '769.288.325-09', '1893769', '24852083945', true, 56, 56);
+VALUES (56, 'Ardelle Arrieta', '379.288.204-21', '6183761', '78962083830', false, 56, 56);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (57, 'Gaynelle Geraghty', '621.289.980-99', '7113779', '71282095280', false, 57, 57);
+VALUES (57, 'Gaynelle Geraghty', '444.289.182-29', '0463775', '24682091621', false, 57, 57);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (58, 'Noemi Nuzzo', '303.290.549-97', '5753780', '20912100424', true, 58, 58);
+VALUES (58, 'Noemi Nuzzo', '958.290.608-41', '3153784', '22312104188', true, 58, 58);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (59, 'Willis Wilkens', '464.291.239-19', '0673799', '29092113208', false, 59, 59);
+VALUES (59, 'Willis Wilkens', '550.291.037-79', '3043791', '94172118394', true, 59, 59);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (60, 'Nisha Neilson', '469.292.315-33', '4183800', '46262124661', false, 60, 60);
+VALUES (60, 'Nisha Neilson', '372.292.713-88', '2533803', '03412128122', false, 60, 60);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (61, 'Trula Toomey', '667.293.657-84', '7673816', '60602132189', true, 61, 61);
+VALUES (61, 'Trula Toomey', '774.293.187-94', '3713811', '20842139883', true, 61, 61);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (62, 'Jonie Johnstone', '341.294.134-31', '8223829', '16442147777', false, 62, 62);
+VALUES (62, 'Jonie Johnstone', '764.294.926-04', '6233820', '59462147748', true, 62, 62);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (63, 'Tod Traughber', '593.295.157-43', '1773835', '00992155881', true, 63, 63);
+VALUES (63, 'Tod Traughber', '020.295.944-28', '3953830', '15562155702', true, 63, 63);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (64, 'Nidia Null', '847.296.465-62', '6333848', '77852163143', false, 64, 64);
+VALUES (64, 'Nidia Null', '192.296.888-82', '4323849', '75072166108', false, 64, 64);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (65, 'Mamie Mccumber', '170.297.293-09', '4683852', '89122172597', true, 65, 65);
+VALUES (65, 'Mamie Mccumber', '243.297.477-34', '0383858', '44992175456', false, 65, 65);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (66, 'Becky Babcock', '561.298.795-06', '9043867', '57892187830', true, 66, 66);
+VALUES (66, 'Becky Babcock', '560.298.612-26', '9833865', '68252181979', true, 66, 66);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (67, 'Yvone Yaple', '397.299.932-50', '7843879', '53422190372', false, 67, 67);
+VALUES (67, 'Yvone Yaple', '976.299.091-79', '6033871', '17432196512', true, 67, 67);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (68, 'Bee Breck', '397.300.995-21', '1033886', '89692205494', false, 68, 68);
+VALUES (68, 'Bee Breck', '818.300.450-50', '7383882', '57062200578', false, 68, 68);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (69, 'Ara Alves', '707.301.821-16', '4043894', '39752216385', false, 69, 69);
+VALUES (69, 'Ara Alves', '159.301.879-54', '4013894', '74922216556', false, 69, 69);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (70, 'May Mongillo', '878.302.502-75', '0803901', '11932229872', false, 70, 70);
+VALUES (70, 'May Mongillo', '375.302.750-02', '2333901', '71462225665', false, 70, 70);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (71, 'Angel Altizer', '364.303.637-20', '9243911', '31702238474', true, 71, 71);
+VALUES (71, 'Angel Altizer', '193.303.083-36', '9633914', '23952233868', true, 71, 71);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (72, 'Bo Bledsoe', '208.304.465-69', '9153925', '79542245133', true, 72, 72);
+VALUES (72, 'Bo Bledsoe', '231.304.772-87', '6103928', '98782247362', true, 72, 72);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (73, 'Andre Avis', '557.305.589-70', '5563932', '14682258195', false, 73, 73);
+VALUES (73, 'Andre Avis', '744.305.374-07', '8583933', '85112254931', true, 73, 73);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (74, 'Lanny Lennon', '889.306.711-90', '5743948', '46642260344', false, 74, 74);
+VALUES (74, 'Lanny Lennon', '963.306.410-11', '7713941', '84912267998', false, 74, 74);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (75, 'Carla Cogdill', '690.307.030-55', '0923958', '47372271782', true, 75, 75);
+VALUES (75, 'Carla Cogdill', '709.307.750-02', '8253958', '05702272075', false, 75, 75);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (76, 'Donna Dobbin', '749.308.427-59', '5793967', '07192286428', false, 76, 76);
+VALUES (76, 'Donna Dobbin', '489.308.631-61', '6733969', '08182283734', false, 76, 76);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (77, 'Troy Turman', '297.309.518-85', '0923972', '23592292261', false, 77, 77);
+VALUES (77, 'Troy Turman', '231.309.467-77', '2683976', '86642291761', false, 77, 77);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (78, 'Mozella Mcneil', '490.310.462-20', '7053985', '56182308910', false, 78, 78);
+VALUES (78, 'Mozella Mcneil', '305.310.038-45', '5873983', '44192305410', true, 78, 78);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (79, 'Jennell Jarrett', '994.311.614-13', '1013997', '26952311160', true, 79, 79);
+VALUES (79, 'Jennell Jarrett', '953.311.962-06', '3323997', '72792318662', false, 79, 79);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (80, 'Tasha Tu', '505.312.635-45', '9284004', '22522321592', true, 80, 80);
+VALUES (80, 'Tasha Tu', '854.312.215-20', '7734002', '70272326726', false, 80, 80);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (81, 'Reena Releford', '932.313.447-51', '6714018', '50202336539', false, 81, 81);
+VALUES (81, 'Reena Releford', '447.313.392-29', '4504017', '68312333490', false, 81, 81);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (82, 'Carin Crabill', '139.314.154-37', '9254022', '24142344162', false, 82, 82);
+VALUES (82, 'Carin Crabill', '733.314.401-36', '8244023', '38092345863', false, 82, 82);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (83, 'Ernestine Eberhardt', '864.315.255-96', '0544039', '91962354864', true, 83, 83);
+VALUES (83, 'Ernestine Eberhardt', '007.315.598-25', '1234039', '77002357634', false, 83, 83);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (84, 'Berenice Benshoof', '850.316.030-66', '6314043', '58262360452', true, 84, 84);
+VALUES (84, 'Berenice Benshoof', '186.316.133-47', '7804049', '01602369365', false, 84, 84);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (85, 'Sharleen Spengler', '377.317.217-77', '9564053', '02182377804', false, 85, 85);
+VALUES (85, 'Sharleen Spengler', '708.317.086-38', '3734051', '78942375787', false, 85, 85);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (86, 'Ruth Routt', '123.318.999-15', '2724067', '87832387778', true, 86, 86);
+VALUES (86, 'Ruth Routt', '347.318.805-34', '6714064', '62942387239', false, 86, 86);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (87, 'Marivel Mangum', '850.319.476-81', '9164073', '81442395143', false, 87, 87);
+VALUES (87, 'Marivel Mangum', '741.319.601-45', '0564074', '55702398849', false, 87, 87);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (88, 'Bobby Burchard', '161.320.775-27', '9064083', '02142400891', false, 88, 88);
+VALUES (88, 'Bobby Burchard', '843.320.565-89', '5694083', '13042404808', false, 88, 88);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (89, 'Candance Ceniceros', '523.321.426-28', '2374092', '07352411231', false, 89, 89);
+VALUES (89, 'Candance Ceniceros', '517.321.883-28', '2334096', '36722417195', false, 89, 89);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (90, 'Jamee Jaillet', '088.322.548-17', '5384103', '31522425516', false, 90, 90);
+VALUES (90, 'Jamee Jaillet', '978.322.566-86', '1604101', '44952423590', false, 90, 90);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (91, 'Anh Arens', '555.323.276-33', '0084111', '04302435202', true, 91, 91);
+VALUES (91, 'Anh Arens', '039.323.783-63', '7964115', '25292436214', true, 91, 91);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (92, 'Arvilla Amore', '760.324.328-35', '1094122', '54272446707', true, 92, 92);
+VALUES (92, 'Arvilla Amore', '856.324.163-53', '9024128', '83722445103', false, 92, 92);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (93, 'Sierra Suess', '195.325.543-20', '4384138', '53732450230', true, 93, 93);
+VALUES (93, 'Sierra Suess', '791.325.307-20', '5804133', '64532458354', false, 93, 93);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (94, 'Arthur Armagost', '856.326.678-89', '5604149', '45282460991', true, 94, 94);
+VALUES (94, 'Arthur Armagost', '363.326.502-42', '0124148', '80152462896', true, 94, 94);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (95, 'Cami Chaplin', '937.327.994-03', '8774156', '80372474930', false, 95, 95);
+VALUES (95, 'Cami Chaplin', '581.327.160-08', '6334151', '39602470728', true, 95, 95);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (96, 'Joi Jarrell', '659.328.758-63', '2584166', '14312485777', true, 96, 96);
+VALUES (96, 'Joi Jarrell', '961.328.471-32', '3604160', '54472487698', true, 96, 96);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (97, 'Claudie Curtsinger', '897.329.488-72', '0454170', '47842494272', true, 97, 97);
+VALUES (97, 'Claudie Curtsinger', '777.329.052-62', '3264175', '07842496332', true, 97, 97);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (98, 'Luisa Leinen', '158.330.523-53', '4994181', '90582505960', false, 98, 98);
+VALUES (98, 'Luisa Leinen', '904.330.734-45', '6494184', '92762502464', true, 98, 98);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (99, 'Kendra Kitzman', '977.331.948-80', '3794197', '11972518177', true, 99, 99);
+VALUES (99, 'Kendra Kitzman', '292.331.090-98', '2604193', '49462513891', false, 99, 99);
 
 INSERT INTO Motorista(id, nome, cpf, rg, cnh, disponibilidade, Contato_id, Veiculo_id)
-VALUES (100, 'Lucille Lirette', '068.332.763-73', '8534203', '59742524246', false, 100, 100);
+VALUES (100, 'Lucille Lirette', '280.332.717-59', '2004203', '19982524517', true, 100, 100);
 
 -- Popula a tabela Empresa.
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (1, 'Petrobras', '17.247.654/0001-57', 101);
+VALUES (1, 'Petrobras', '56.247.657/0002-38', 101);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (2, 'BR Distribuidora', '08.248.939/0002-64', 102);
+VALUES (2, 'BR Distribuidora', '85.248.587/0002-42', 102);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (3, 'Vale', '05.249.211/0001-70', 103);
+VALUES (3, 'Vale', '70.249.829/0001-76', 103);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (4, 'Ipiranga Produtos', '34.250.679/0001-56', 104);
+VALUES (4, 'Ipiranga Produtos', '94.250.063/0002-27', 104);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (5, 'Raízen', '15.251.196/0001-98', 105);
+VALUES (5, 'Raízen', '59.251.380/0002-88', 105);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (6, 'Fiat', '83.252.385/0002-58', 106);
+VALUES (6, 'Fiat', '16.252.766/0001-78', 106);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (7, 'Volkswagen', '89.253.584/0001-61', 107);
+VALUES (7, 'Volkswagen', '93.253.445/0001-79', 107);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (8, 'Vivo', '86.254.936/0002-99', 108);
+VALUES (8, 'Vivo', '97.254.185/0002-30', 108);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (9, 'Bunge Alimentos', '71.255.642/0001-84', 109);
+VALUES (9, 'Bunge Alimentos', '84.255.557/0001-34', 109);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (10, 'Cargill', '90.256.248/0001-65', 110);
+VALUES (10, 'Cargill', '37.256.061/0001-66', 110);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (11, 'Braskem', '43.257.346/0002-35', 111);
+VALUES (11, 'Braskem', '43.257.836/0002-09', 111);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (12, 'Pão de Açúcar', '21.258.148/0001-18', 112);
+VALUES (12, 'Pão de Açúcar', '59.258.100/0002-87', 112);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (13, 'TIM', '98.259.015/0002-65', 113);
+VALUES (13, 'TIM', '75.259.460/0002-12', 113);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (14, 'General Motors', '50.260.789/0001-18', 114);
+VALUES (14, 'General Motors', '61.260.619/0001-91', 114);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (15, 'Telefônica', '94.261.303/0001-15', 115);
+VALUES (15, 'Telefônica', '75.261.862/0001-86', 115);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (16, 'Casas Bahia', '34.262.030/0002-60', 116);
+VALUES (16, 'Casas Bahia', '47.262.276/0001-92', 116);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (17, 'Walmart', '34.263.223/0001-72', 117);
+VALUES (17, 'Walmart', '32.263.755/0001-72', 117);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (18, 'Ambev', '79.264.984/0002-89', 118);
+VALUES (18, 'Ambev', '10.264.128/0002-57', 118);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (19, 'ArcelorMittal Brasil', '90.265.575/0001-64', 119);
+VALUES (19, 'ArcelorMittal Brasil', '06.265.011/0001-80', 119);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (20, 'Correios', '27.266.472/0002-92', 120);
+VALUES (20, 'Correios', '76.266.999/0002-34', 120);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (21, 'Mercedes-Benz', '99.267.542/0001-40', 121);
+VALUES (21, 'Mercedes-Benz', '01.267.954/0002-61', 121);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (22, 'JBS', '34.268.349/0002-84', 122);
+VALUES (22, 'JBS', '84.268.448/0002-97', 122);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (23, 'Carrefour', '65.269.724/0001-15', 123);
+VALUES (23, 'Carrefour', '31.269.890/0002-40', 123);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (24, 'TAM', '12.270.352/0002-52', 124);
+VALUES (24, 'TAM', '77.270.220/0002-50', 124);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (25, 'Brasil Foods/Sadia', '64.271.207/0002-62', 125);
+VALUES (25, 'Brasil Foods/Sadia', '79.271.670/0002-43', 125);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (26, 'Brasil Foods', '56.272.471/0001-47', 126);
+VALUES (26, 'Brasil Foods', '42.272.056/0001-80', 126);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (27, 'Telemar', '29.273.062/0002-99', 127);
+VALUES (27, 'Telemar', '56.273.431/0002-14', 127);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (28, 'Cosan', '27.274.412/0002-39', 128);
+VALUES (28, 'Cosan', '72.274.008/0001-23', 128);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (29, 'Ford', '32.275.102/0001-23', 129);
+VALUES (29, 'Ford', '67.275.971/0001-63', 129);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (30, 'Atacadão', '93.276.403/0001-47', 130);
+VALUES (30, 'Atacadão', '86.276.241/0002-49', 130);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (31, 'CSN', '84.277.508/0001-81', 131);
+VALUES (31, 'CSN', '97.277.162/0001-83', 131);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (32, 'Claro', '56.278.566/0001-72', 132);
+VALUES (32, 'Claro', '48.278.501/0001-35', 132);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (33, 'Usiminas', '30.279.325/0002-61', 133);
+VALUES (33, 'Usiminas', '23.279.983/0002-10', 133);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (34, 'Embratel', '21.280.915/0002-86', 134);
+VALUES (34, 'Embratel', '04.280.814/0002-92', 134);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (35, 'Moto Honda', '46.281.457/0001-43', 135);
+VALUES (35, 'Moto Honda', '48.281.221/0001-08', 135);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (36, 'Sabesp', '82.282.085/0001-64', 136);
+VALUES (36, 'Sabesp', '21.282.376/0002-06', 136);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (37, 'AES Eletropaulo', '94.283.930/0002-61', 137);
+VALUES (37, 'AES Eletropaulo', '32.283.728/0002-09', 137);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (38, 'ADM', '33.284.133/0001-25', 138);
+VALUES (38, 'ADM', '96.284.795/0002-80', 138);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (39, 'Oi (TNL PCS)', '67.285.044/0002-33', 139);
+VALUES (39, 'Oi (TNL PCS)', '59.285.071/0001-92', 139);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (40, 'MAN', '44.286.433/0001-58', 140);
+VALUES (40, 'MAN', '95.286.791/0001-71', 140);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (41, 'Toyota', '94.287.078/0001-64', 141);
+VALUES (41, 'Toyota', '95.287.866/0002-91', 141);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (42, 'Cemig Distribuição', '42.288.604/0001-51', 142);
+VALUES (42, 'Cemig Distribuição', '28.288.786/0001-32', 142);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (43, 'Embraer', '02.289.839/0001-73', 143);
+VALUES (43, 'Embraer', '53.289.974/0002-00', 143);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (44, 'Globo', '00.290.760/0002-54', 144);
+VALUES (44, 'Globo', '73.290.625/0002-73', 144);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (45, 'Construtora Odebrecht', '37.291.532/0001-19', 145);
+VALUES (45, 'Construtora Odebrecht', '63.291.756/0001-65', 145);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (46, 'Samsung', '76.292.031/0002-36', 146);
+VALUES (46, 'Samsung', '53.292.049/0002-24', 146);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (47, 'Copersucar', '60.293.054/0002-60', 147);
+VALUES (47, 'Copersucar', '97.293.352/0002-94', 147);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (48, 'Gerdau Aços Longos', '24.294.645/0001-27', 148);
+VALUES (48, 'Gerdau Aços Longos', '61.294.580/0002-50', 148);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (49, 'Nextel', '10.295.926/0002-94', 149);
+VALUES (49, 'Nextel', '08.295.397/0001-20', 149);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (50, 'Renault', '50.296.831/0002-64', 150);
+VALUES (50, 'Renault', '45.296.219/0001-28', 150);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (51, 'Ale', '49.297.549/0001-62', 151);
+VALUES (51, 'Ale', '50.297.627/0002-94', 151);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (52, 'Oi', '21.298.252/0002-78', 152);
+VALUES (52, 'Oi', '39.298.716/0001-29', 152);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (53, 'GOL', '79.299.060/0002-71', 153);
+VALUES (53, 'GOL', '67.299.761/0001-91', 153);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (54, 'Unilever', '62.300.722/0001-81', 154);
+VALUES (54, 'Unilever', '21.300.036/0002-63', 154);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (55, 'Samarco', '94.301.788/0002-01', 155);
+VALUES (55, 'Samarco', '03.301.506/0001-21', 155);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (56, 'Furnas', '27.302.352/0001-22', 156);
+VALUES (56, 'Furnas', '66.302.349/0002-15', 156);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (57, 'Amil', '23.303.439/0002-32', 157);
+VALUES (57, 'Amil', '16.303.771/0001-70', 157);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (58, 'GE', '85.304.669/0001-58', 158);
+VALUES (58, 'GE', '19.304.387/0001-01', 158);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (59, 'Refap', '21.305.526/0001-11', 159);
+VALUES (59, 'Refap', '15.305.671/0001-75', 159);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (60, 'Itaipu Binacional', '55.306.960/0001-66', 160);
+VALUES (60, 'Itaipu Binacional', '66.306.972/0002-77', 160);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (61, 'Louis Dreyfus', '63.307.006/0002-72', 161);
+VALUES (61, 'Louis Dreyfus', '34.307.399/0002-80', 161);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (62, 'Peugeot Citroën', '54.308.147/0001-33', 162);
+VALUES (62, 'Peugeot Citroën', '98.308.740/0002-48', 162);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (63, 'Light', '83.309.084/0002-74', 163);
+VALUES (63, 'Light', '15.309.262/0001-87', 163);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (64, 'Lojas Americanas', '14.310.019/0001-42', 164);
+VALUES (64, 'Lojas Americanas', '00.310.487/0001-43', 164);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (65, 'Honda Automóveis', '08.311.900/0002-83', 165);
+VALUES (65, 'Honda Automóveis', '04.311.470/0001-96', 165);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (66, 'Natura', '61.312.790/0001-16', 166);
+VALUES (66, 'Natura', '86.312.709/0001-53', 166);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (67, 'Whirlpool', '93.313.733/0002-54', 167);
+VALUES (67, 'Whirlpool', '58.313.446/0002-69', 167);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (68, 'Basf', '32.314.852/0002-22', 168);
+VALUES (68, 'Basf', '64.314.177/0002-26', 168);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (69, 'CPFL Paulista', '22.315.548/0002-50', 169);
+VALUES (69, 'CPFL Paulista', '25.315.406/0002-16', 169);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (70, 'Coamo', '65.316.132/0002-72', 170);
+VALUES (70, 'Coamo', '17.316.219/0001-25', 170);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (71, 'Souza Cruz', '31.317.007/0001-98', 171);
+VALUES (71, 'Souza Cruz', '90.317.292/0001-95', 171);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (72, 'Makro', '71.318.503/0002-14', 172);
+VALUES (72, 'Makro', '72.318.237/0001-26', 172);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (73, 'Copel', '78.319.368/0002-63', 173);
+VALUES (73, 'Copel', '98.319.540/0001-80', 173);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (74, 'Votoran', '13.320.157/0002-58', 174);
+VALUES (74, 'Votoran', '75.320.365/0002-16', 174);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (75, 'Magazine Luiza', '15.321.232/0002-77', 175);
+VALUES (75, 'Magazine Luiza', '89.321.860/0002-24', 175);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (76, 'Chesf', '45.322.359/0002-34', 176);
+VALUES (76, 'Chesf', '53.322.604/0002-01', 176);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (77, 'Nestlé', '62.323.218/0001-07', 177);
+VALUES (77, 'Nestlé', '12.323.475/0002-67', 177);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (78, 'Gerdau Açominas', '68.324.882/0002-37', 178);
+VALUES (78, 'Gerdau Açominas', '81.324.650/0001-89', 178);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (79, 'Coelba', '54.325.142/0002-58', 179);
+VALUES (79, 'Coelba', '20.325.932/0002-21', 179);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (80, 'Transpetro', '84.326.950/0002-55', 180);
+VALUES (80, 'Transpetro', '99.326.333/0002-50', 180);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (81, 'Suzano', '40.327.322/0001-53', 181);
+VALUES (81, 'Suzano', '15.327.827/0001-86', 181);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (82, 'Heringer', '49.328.935/0001-05', 182);
+VALUES (82, 'Heringer', '93.328.153/0002-26', 182);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (83, 'CNH', '96.329.506/0001-10', 183);
+VALUES (83, 'CNH', '74.329.980/0001-72', 183);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (84, 'Paranapanema', '53.330.251/0002-50', 184);
+VALUES (84, 'Paranapanema', '75.330.019/0002-60', 184);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (85, 'Iveco', '55.331.872/0001-87', 185);
+VALUES (85, 'Iveco', '44.331.375/0001-37', 185);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (86, 'Ponto Frio', '89.332.997/0001-16', 186);
+VALUES (86, 'Ponto Frio', '44.332.695/0002-85', 186);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (87, 'Marfrig', '05.333.097/0002-18', 187);
+VALUES (87, 'Marfrig', '56.333.138/0001-09', 187);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (88, 'Camargo Corrêa', '98.334.669/0002-23', 188);
+VALUES (88, 'Camargo Corrêa', '88.334.120/0002-88', 188);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (89, 'Bunge Fertilizantes', '16.335.631/0002-55', 189);
+VALUES (89, 'Bunge Fertilizantes', '97.335.431/0001-09', 189);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (90, 'Mitsubishi Motors', '43.336.448/0001-67', 190);
+VALUES (90, 'Mitsubishi Motors', '65.336.828/0002-85', 190);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (91, 'Andrade Gutierrez', '14.337.493/0002-82', 191);
+VALUES (91, 'Andrade Gutierrez', '88.337.322/0002-70', 191);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (92, 'Bayer', '45.338.043/0001-73', 192);
+VALUES (92, 'Bayer', '20.338.898/0002-96', 192);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (93, 'Avon', '77.339.113/0001-37', 193);
+VALUES (93, 'Avon', '54.339.107/0002-24', 193);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (94, 'Eletronorte', '49.340.927/0001-85', 194);
+VALUES (94, 'Eletronorte', '34.340.570/0002-84', 194);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (95, 'Robert Bosch', '69.341.313/0002-07', 195);
+VALUES (95, 'Robert Bosch', '99.341.834/0002-99', 195);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (96, 'HP', '36.342.185/0001-09', 196);
+VALUES (96, 'HP', '59.342.457/0002-96', 196);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (97, 'Braskem Qpar', '58.343.754/0002-83', 197);
+VALUES (97, 'Braskem Qpar', '87.343.932/0001-85', 197);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (98, 'Spal', '61.344.846/0002-51', 198);
+VALUES (98, 'Spal', '56.344.887/0001-61', 198);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (99, 'Tag', '06.345.510/0002-48', 199);
+VALUES (99, 'Tag', '09.345.357/0001-58', 199);
 
 INSERT INTO Empresa(id, nome, cnpj, Contato_id)
-VALUES (100, 'Comgás', '40.346.634/0002-09', 200);
+VALUES (100, 'Comgás', '31.346.572/0002-46', 200);
 
 -- Popula a tabela Servico.
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (1, 'ECONOMICO', 10, '478', 'kilogramas', '2011-10-3 18:2', '20 Km', 90, 201, 202, 'Transportar 478 kilogramas, usando o serviço ECONOMICO.');
+VALUES (1, 'EXPRESSO', 10, '234', 'kilogramas', '2011-6-16 6:13', '60 Km', 10, 201, 202, 'A carga deve estar com gps, por toda a viagem.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (2, 'EXPRESSO', 1, '598', 'gramas', '2011-11-21 7:49', '62 Km', 56, 203, 204, 'Transportar 598 gramas, usando o serviço EXPRESSO.');
+VALUES (2, 'ECONOMICO', 8, '878', 'unidades', '2011-8-7 7:15', '32 Km', 3, 203, 204, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (3, 'ECONOMICO', 1, '781', 'kilogramas', '2011-10-4 3:9', '9 Km', 57, 205, 206, 'Transportar 781 kilogramas, usando o serviço ECONOMICO.');
+VALUES (3, 'ECONOMICO', 4, '261', 'unidades', '2011-6-11 17:43', '37 Km', 97, 205, 206, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (4, 'NORMAL', 5, '525', 'kilogramas', '2011-10-2 16:21', '13 Km', 56, 207, 208, 'Transportar 525 kilogramas, usando o serviço NORMAL.');
+VALUES (4, 'EXPRESSO', 8, '806', 'gramas', '2011-2-20 7:56', '8 Km', 44, 207, 208, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (5, 'NORMAL', 6, '609', 'unidades', '2011-5-19 0:32', '63 Km', 69, 209, 210, 'Transportar 609 unidades, usando o serviço NORMAL.');
+VALUES (5, 'EXPRESSO', 4, '337', 'gramas', '2011-2-5 0:56', '4 Km', 9, 209, 210, 'Em caso de acidentes, muito cuidado com a carga, pois é altamente inflamável.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (6, 'NORMAL', 4, '745', 'gramas', '2011-8-14 2:34', '35 Km', 30, 211, 212, 'Transportar 745 gramas, usando o serviço NORMAL.');
+VALUES (6, 'ECONOMICO', 5, '208', 'cabeças', '2011-6-22 20:14', '22 Km', 61, 211, 212, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (7, 'ECONOMICO', 8, '204', 'cabeças', '2011-6-24 14:16', '8 Km', 47, 213, 214, 'Transportar 204 cabeças, usando o serviço ECONOMICO.');
+VALUES (7, 'EXPRESSO', 7, '489', 'gramas', '2011-8-22 9:53', '67 Km', 47, 213, 214, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (8, 'ECONOMICO', 5, '373', 'unidades', '2011-9-13 14:20', '14 Km', 92, 215, 216, 'Transportar 373 unidades, usando o serviço ECONOMICO.');
+VALUES (8, 'EXPRESSO', 9, '638', 'cabeças', '2011-7-23 3:3', '24 Km', 18, 215, 216, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (9, 'EXPRESSO', 10, '548', 'kilogramas', '2011-10-10 0:0', '42 Km', 14, 217, 218, 'Transportar 548 kilogramas, usando o serviço EXPRESSO.');
+VALUES (9, 'NORMAL', 8, '910', 'unidades', '2011-2-11 1:34', '11 Km', 75, 217, 218, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (10, 'EXPRESSO', 7, '781', 'cabeças', '2011-11-25 5:38', '28 Km', 41, 219, 220, 'Transportar 781 cabeças, usando o serviço EXPRESSO.');
+VALUES (10, 'EXPRESSO', 6, '487', 'cabeças', '2011-7-1 22:47', '29 Km', 87, 219, 220, 'Evitar caminhos esburacados, a carga é muito sensível.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (11, 'EXPRESSO', 8, '680', 'kilogramas', '2011-4-3 19:22', '48 Km', 2, 221, 222, 'Transportar 680 kilogramas, usando o serviço EXPRESSO.');
+VALUES (11, 'NORMAL', 5, '604', 'gramas', '2011-7-19 6:13', '54 Km', 2, 221, 222, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (12, 'EXPRESSO', 10, '558', 'unidades', '2011-2-16 16:41', '6 Km', 66, 223, 224, 'Transportar 558 unidades, usando o serviço EXPRESSO.');
+VALUES (12, 'ECONOMICO', 7, '947', 'kilogramas', '2011-3-9 17:59', '30 Km', 90, 223, 224, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (13, 'NORMAL', 10, '549', 'cabeças', '2011-8-9 12:56', '17 Km', 86, 225, 226, 'Transportar 549 cabeças, usando o serviço NORMAL.');
+VALUES (13, 'EXPRESSO', 7, '810', 'cabeças', '2011-9-3 15:27', '67 Km', 34, 225, 226, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (14, 'ECONOMICO', 4, '795', 'unidades', '2011-9-2 14:18', '67 Km', 55, 227, 228, 'Transportar 795 unidades, usando o serviço ECONOMICO.');
+VALUES (14, 'ECONOMICO', 2, '183', 'gramas', '2011-4-13 21:1', '54 Km', 76, 227, 228, 'Evitar caminhos esburacados, a carga é muito sensível.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (15, 'NORMAL', 8, '537', 'unidades', '2011-2-16 6:18', '62 Km', 91, 229, 230, 'Transportar 537 unidades, usando o serviço NORMAL.');
+VALUES (15, 'ECONOMICO', 10, '210', 'gramas', '2011-1-18 4:5', '1 Km', 78, 229, 230, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (16, 'NORMAL', 4, '142', 'kilogramas', '2011-2-26 8:28', '4 Km', 22, 231, 232, 'Transportar 142 kilogramas, usando o serviço NORMAL.');
+VALUES (16, 'ECONOMICO', 5, '426', 'gramas', '2011-2-3 12:26', '64 Km', 85, 231, 232, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (17, 'NORMAL', 4, '380', 'gramas', '2011-5-17 13:16', '67 Km', 18, 233, 234, 'Transportar 380 gramas, usando o serviço NORMAL.');
+VALUES (17, 'NORMAL', 7, '760', 'gramas', '2011-4-19 13:5', '60 Km', 41, 233, 234, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (18, 'EXPRESSO', 9, '609', 'unidades', '2011-6-25 8:27', '30 Km', 2, 235, 236, 'Transportar 609 unidades, usando o serviço EXPRESSO.');
+VALUES (18, 'ECONOMICO', 8, '576', 'kilogramas', '2011-1-12 22:16', '7 Km', 6, 235, 236, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (19, 'NORMAL', 9, '805', 'unidades', '2011-1-23 13:33', '30 Km', 50, 237, 238, 'Transportar 805 unidades, usando o serviço NORMAL.');
+VALUES (19, 'EXPRESSO', 10, '758', 'kilogramas', '2011-9-14 14:20', '59 Km', 96, 237, 238, 'Em caso de acidentes, muito cuidado com a carga, pois é altamente inflamável.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (20, 'EXPRESSO', 1, '139', 'gramas', '2011-7-4 4:8', '28 Km', 98, 239, 240, 'Transportar 139 gramas, usando o serviço EXPRESSO.');
+VALUES (20, 'NORMAL', 3, '246', 'unidades', '2011-5-27 23:5', '66 Km', 29, 239, 240, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (21, 'ECONOMICO', 7, '693', 'unidades', '2011-1-22 8:51', '66 Km', 10, 241, 242, 'Transportar 693 unidades, usando o serviço ECONOMICO.');
+VALUES (21, 'EXPRESSO', 6, '717', 'cabeças', '2011-12-23 6:15', '29 Km', 42, 241, 242, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (22, 'ECONOMICO', 9, '533', 'unidades', '2011-1-29 23:37', '3 Km', 25, 243, 244, 'Transportar 533 unidades, usando o serviço ECONOMICO.');
+VALUES (22, 'ECONOMICO', 7, '957', 'cabeças', '2011-10-21 13:31', '35 Km', 50, 243, 244, 'Pegaro máximo de estradas livres.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (23, 'NORMAL', 9, '454', 'gramas', '2011-7-21 20:34', '31 Km', 67, 245, 246, 'Transportar 454 gramas, usando o serviço NORMAL.');
+VALUES (23, 'ECONOMICO', 9, '617', 'kilogramas', '2011-8-9 16:37', '46 Km', 45, 245, 246, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (24, 'EXPRESSO', 3, '508', 'gramas', '2011-11-29 6:38', '42 Km', 42, 247, 248, 'Transportar 508 gramas, usando o serviço EXPRESSO.');
+VALUES (24, 'EXPRESSO', 2, '627', 'kilogramas', '2011-7-19 0:47', '55 Km', 9, 247, 248, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (25, 'EXPRESSO', 1, '896', 'gramas', '2011-10-3 8:38', '50 Km', 32, 249, 250, 'Transportar 896 gramas, usando o serviço EXPRESSO.');
+VALUES (25, 'ECONOMICO', 1, '754', 'gramas', '2011-10-12 19:40', '13 Km', 13, 249, 250, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (26, 'EXPRESSO', 2, '262', 'gramas', '2011-2-9 19:0', '3 Km', 24, 251, 252, 'Transportar 262 gramas, usando o serviço EXPRESSO.');
+VALUES (26, 'NORMAL', 10, '609', 'gramas', '2011-10-1 18:29', '51 Km', 75, 251, 252, 'Atrasos não serão tolerados para essa entrega.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (27, 'ECONOMICO', 3, '458', 'gramas', '2011-4-24 17:5', '49 Km', 86, 253, 254, 'Transportar 458 gramas, usando o serviço ECONOMICO.');
+VALUES (27, 'NORMAL', 7, '678', 'cabeças', '2011-7-14 14:36', '35 Km', 67, 253, 254, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (28, 'NORMAL', 7, '616', 'cabeças', '2011-3-16 17:3', '4 Km', 4, 255, 256, 'Transportar 616 cabeças, usando o serviço NORMAL.');
+VALUES (28, 'EXPRESSO', 10, '566', 'kilogramas', '2011-3-6 7:9', '40 Km', 3, 255, 256, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (29, 'ECONOMICO', 4, '433', 'unidades', '2011-7-3 2:7', '39 Km', 3, 257, 258, 'Transportar 433 unidades, usando o serviço ECONOMICO.');
+VALUES (29, 'EXPRESSO', 3, '853', 'unidades', '2011-9-21 8:35', '2 Km', 77, 257, 258, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (30, 'NORMAL', 8, '680', 'gramas', '2011-12-21 8:57', '68 Km', 39, 259, 260, 'Transportar 680 gramas, usando o serviço NORMAL.');
+VALUES (30, 'EXPRESSO', 8, '759', 'cabeças', '2011-1-2 3:0', '3 Km', 33, 259, 260, 'A carga deve estar com gps, por toda a viagem.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (31, 'ECONOMICO', 10, '329', 'unidades', '2011-3-21 21:42', '65 Km', 4, 261, 262, 'Transportar 329 unidades, usando o serviço ECONOMICO.');
+VALUES (31, 'EXPRESSO', 9, '922', 'gramas', '2011-8-7 0:0', '34 Km', 64, 261, 262, 'A carga deve ser deixada no campo ao lado do prédio principal.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (32, 'NORMAL', 2, '738', 'unidades', '2011-9-3 15:35', '63 Km', 97, 263, 264, 'Transportar 738 unidades, usando o serviço NORMAL.');
+VALUES (32, 'NORMAL', 6, '915', 'cabeças', '2011-8-29 5:5', '67 Km', 53, 263, 264, 'Evitar caminhos esburacados, a carga é muito sensível.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (33, 'NORMAL', 10, '545', 'kilogramas', '2011-1-4 22:5', '23 Km', 6, 265, 266, 'Transportar 545 kilogramas, usando o serviço NORMAL.');
+VALUES (33, 'EXPRESSO', 3, '223', 'gramas', '2011-1-4 23:56', '50 Km', 65, 265, 266, 'Pegaro máximo de estradas livres.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (34, 'EXPRESSO', 8, '529', 'cabeças', '2011-8-21 18:25', '31 Km', 87, 267, 268, 'Transportar 529 cabeças, usando o serviço EXPRESSO.');
+VALUES (34, 'NORMAL', 5, '318', 'cabeças', '2011-10-3 2:46', '62 Km', 76, 267, 268, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (35, 'NORMAL', 7, '753', 'kilogramas', '2011-8-29 1:0', '1 Km', 54, 269, 270, 'Transportar 753 kilogramas, usando o serviço NORMAL.');
+VALUES (35, 'NORMAL', 10, '142', 'gramas', '2011-3-2 5:33', '37 Km', 49, 269, 270, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (36, 'ECONOMICO', 1, '342', 'cabeças', '2011-10-11 1:36', '19 Km', 34, 271, 272, 'Transportar 342 cabeças, usando o serviço ECONOMICO.');
+VALUES (36, 'EXPRESSO', 1, '909', 'kilogramas', '2011-2-5 11:3', '22 Km', 50, 271, 272, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (37, 'ECONOMICO', 4, '983', 'kilogramas', '2011-6-12 12:40', '8 Km', 35, 273, 274, 'Transportar 983 kilogramas, usando o serviço ECONOMICO.');
+VALUES (37, 'EXPRESSO', 5, '896', 'kilogramas', '2011-1-13 0:37', '7 Km', 73, 273, 274, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (38, 'ECONOMICO', 1, '855', 'cabeças', '2011-1-26 11:49', '13 Km', 99, 275, 276, 'Transportar 855 cabeças, usando o serviço ECONOMICO.');
+VALUES (38, 'EXPRESSO', 10, '114', 'kilogramas', '2011-10-26 16:52', '66 Km', 44, 275, 276, 'A carga deve estar com gps, por toda a viagem.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (39, 'NORMAL', 7, '838', 'cabeças', '2011-6-3 11:27', '53 Km', 66, 277, 278, 'Transportar 838 cabeças, usando o serviço NORMAL.');
+VALUES (39, 'EXPRESSO', 4, '436', 'unidades', '2011-1-9 20:17', '41 Km', 34, 277, 278, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (40, 'ECONOMICO', 4, '486', 'kilogramas', '2011-12-28 6:26', '67 Km', 51, 279, 280, 'Transportar 486 kilogramas, usando o serviço ECONOMICO.');
+VALUES (40, 'NORMAL', 6, '334', 'kilogramas', '2011-3-10 17:24', '57 Km', 66, 279, 280, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (41, 'ECONOMICO', 6, '165', 'unidades', '2011-4-23 7:0', '58 Km', 100, 281, 282, 'Transportar 165 unidades, usando o serviço ECONOMICO.');
+VALUES (41, 'NORMAL', 10, '500', 'kilogramas', '2011-3-16 19:48', '15 Km', 75, 281, 282, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (42, 'ECONOMICO', 8, '478', 'gramas', '2011-9-23 4:2', '38 Km', 84, 283, 284, 'Transportar 478 gramas, usando o serviço ECONOMICO.');
+VALUES (42, 'ECONOMICO', 6, '541', 'cabeças', '2011-9-12 5:43', '5 Km', 34, 283, 284, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (43, 'EXPRESSO', 3, '183', 'gramas', '2011-7-28 12:15', '44 Km', 82, 285, 286, 'Transportar 183 gramas, usando o serviço EXPRESSO.');
+VALUES (43, 'NORMAL', 5, '763', 'cabeças', '2011-8-6 16:48', '18 Km', 55, 285, 286, 'Em caso de acidentes, muito cuidado com a carga, pois é altamente inflamável.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (44, 'ECONOMICO', 10, '521', 'kilogramas', '2011-1-2 4:35', '29 Km', 3, 287, 288, 'Transportar 521 kilogramas, usando o serviço ECONOMICO.');
+VALUES (44, 'EXPRESSO', 10, '189', 'unidades', '2011-3-11 1:53', '69 Km', 66, 287, 288, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (45, 'NORMAL', 1, '472', 'kilogramas', '2011-12-3 9:44', '64 Km', 69, 289, 290, 'Transportar 472 kilogramas, usando o serviço NORMAL.');
+VALUES (45, 'NORMAL', 10, '417', 'kilogramas', '2011-10-6 15:4', '50 Km', 61, 289, 290, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (46, 'NORMAL', 4, '554', 'kilogramas', '2011-6-20 18:12', '59 Km', 3, 291, 292, 'Transportar 554 kilogramas, usando o serviço NORMAL.');
+VALUES (46, 'EXPRESSO', 1, '611', 'gramas', '2011-2-18 14:53', '49 Km', 79, 291, 292, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (47, 'NORMAL', 8, '717', 'gramas', '2011-12-25 4:23', '63 Km', 48, 293, 294, 'Transportar 717 gramas, usando o serviço NORMAL.');
+VALUES (47, 'NORMAL', 7, '321', 'cabeças', '2011-11-3 3:23', '35 Km', 54, 293, 294, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (48, 'NORMAL', 3, '156', 'kilogramas', '2011-7-15 2:39', '59 Km', 96, 295, 296, 'Transportar 156 kilogramas, usando o serviço NORMAL.');
+VALUES (48, 'EXPRESSO', 1, '634', 'unidades', '2011-12-19 18:8', '1 Km', 76, 295, 296, 'A carga deve ser deixada no campo ao lado do prédio principal.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (49, 'EXPRESSO', 8, '475', 'cabeças', '2011-8-24 19:45', '57 Km', 69, 297, 298, 'Transportar 475 cabeças, usando o serviço EXPRESSO.');
+VALUES (49, 'EXPRESSO', 5, '444', 'gramas', '2011-4-4 8:38', '31 Km', 75, 297, 298, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (50, 'EXPRESSO', 7, '749', 'kilogramas', '2011-11-7 15:15', '6 Km', 93, 299, 300, 'Transportar 749 kilogramas, usando o serviço EXPRESSO.');
+VALUES (50, 'EXPRESSO', 3, '973', 'kilogramas', '2011-10-13 1:41', '59 Km', 66, 299, 300, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (51, 'ECONOMICO', 2, '896', 'unidades', '2011-10-4 9:46', '4 Km', 98, 301, 302, 'Transportar 896 unidades, usando o serviço ECONOMICO.');
+VALUES (51, 'NORMAL', 7, '255', 'unidades', '2011-7-15 7:2', '66 Km', 75, 301, 302, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (52, 'NORMAL', 5, '125', 'cabeças', '2011-1-29 12:15', '21 Km', 60, 303, 304, 'Transportar 125 cabeças, usando o serviço NORMAL.');
+VALUES (52, 'NORMAL', 1, '843', 'unidades', '2011-10-4 6:11', '31 Km', 93, 303, 304, 'Passar apenas por caminhos asfaltados.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (53, 'ECONOMICO', 4, '271', 'kilogramas', '2011-6-4 19:10', '67 Km', 48, 305, 306, 'Transportar 271 kilogramas, usando o serviço ECONOMICO.');
+VALUES (53, 'ECONOMICO', 10, '565', 'gramas', '2011-2-16 0:41', '43 Km', 64, 305, 306, 'Passar apenas por caminhos asfaltados.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (54, 'EXPRESSO', 10, '765', 'kilogramas', '2011-8-4 23:42', '39 Km', 43, 307, 308, 'Transportar 765 kilogramas, usando o serviço EXPRESSO.');
+VALUES (54, 'NORMAL', 5, '135', 'gramas', '2011-8-22 7:44', '4 Km', 36, 307, 308, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (55, 'EXPRESSO', 9, '814', 'cabeças', '2011-5-29 6:41', '16 Km', 56, 309, 310, 'Transportar 814 cabeças, usando o serviço EXPRESSO.');
+VALUES (55, 'EXPRESSO', 1, '741', 'cabeças', '2011-10-26 10:23', '61 Km', 12, 309, 310, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (56, 'NORMAL', 6, '127', 'unidades', '2011-10-19 7:2', '2 Km', 68, 311, 312, 'Transportar 127 unidades, usando o serviço NORMAL.');
+VALUES (56, 'EXPRESSO', 2, '969', 'kilogramas', '2011-5-4 17:50', '60 Km', 53, 311, 312, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (57, 'ECONOMICO', 8, '863', 'unidades', '2011-5-4 7:1', '47 Km', 70, 313, 314, 'Transportar 863 unidades, usando o serviço ECONOMICO.');
+VALUES (57, 'NORMAL', 9, '685', 'unidades', '2011-6-9 10:29', '10 Km', 23, 313, 314, 'Pegaro máximo de estradas livres.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (58, 'NORMAL', 8, '920', 'kilogramas', '2011-11-26 11:37', '22 Km', 49, 315, 316, 'Transportar 920 kilogramas, usando o serviço NORMAL.');
+VALUES (58, 'EXPRESSO', 4, '609', 'unidades', '2011-11-26 17:24', '13 Km', 82, 315, 316, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (59, 'NORMAL', 5, '502', 'gramas', '2011-7-26 4:38', '49 Km', 77, 317, 318, 'Transportar 502 gramas, usando o serviço NORMAL.');
+VALUES (59, 'ECONOMICO', 5, '491', 'kilogramas', '2011-2-4 22:44', '13 Km', 14, 317, 318, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (60, 'NORMAL', 4, '957', 'cabeças', '2011-9-9 19:26', '33 Km', 36, 319, 320, 'Transportar 957 cabeças, usando o serviço NORMAL.');
+VALUES (60, 'ECONOMICO', 9, '442', 'gramas', '2011-6-29 9:19', '31 Km', 71, 319, 320, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (61, 'NORMAL', 6, '395', 'kilogramas', '2011-11-5 16:7', '2 Km', 44, 321, 322, 'Transportar 395 kilogramas, usando o serviço NORMAL.');
+VALUES (61, 'ECONOMICO', 5, '441', 'cabeças', '2011-8-20 9:4', '63 Km', 70, 321, 322, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (62, 'ECONOMICO', 9, '721', 'kilogramas', '2011-7-3 19:37', '37 Km', 92, 323, 324, 'Transportar 721 kilogramas, usando o serviço ECONOMICO.');
+VALUES (62, 'EXPRESSO', 3, '466', 'kilogramas', '2011-5-15 1:26', '53 Km', 66, 323, 324, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (63, 'EXPRESSO', 8, '996', 'gramas', '2011-11-14 17:1', '39 Km', 2, 325, 326, 'Transportar 996 gramas, usando o serviço EXPRESSO.');
+VALUES (63, 'ECONOMICO', 5, '892', 'unidades', '2011-4-5 12:48', '1 Km', 81, 325, 326, 'Pegaro máximo de estradas livres.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (64, 'EXPRESSO', 6, '165', 'gramas', '2011-10-29 7:42', '38 Km', 49, 327, 328, 'Transportar 165 gramas, usando o serviço EXPRESSO.');
+VALUES (64, 'EXPRESSO', 5, '160', 'gramas', '2011-2-5 20:2', '67 Km', 28, 327, 328, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (65, 'NORMAL', 9, '683', 'kilogramas', '2011-2-7 19:37', '14 Km', 65, 329, 330, 'Transportar 683 kilogramas, usando o serviço NORMAL.');
+VALUES (65, 'ECONOMICO', 7, '213', 'unidades', '2011-9-9 13:10', '34 Km', 24, 329, 330, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (66, 'ECONOMICO', 4, '405', 'kilogramas', '2011-8-15 11:14', '56 Km', 47, 331, 332, 'Transportar 405 kilogramas, usando o serviço ECONOMICO.');
+VALUES (66, 'ECONOMICO', 6, '244', 'cabeças', '2011-4-22 0:49', '37 Km', 33, 331, 332, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (67, 'EXPRESSO', 2, '596', 'kilogramas', '2011-10-4 14:38', '64 Km', 57, 333, 334, 'Transportar 596 kilogramas, usando o serviço EXPRESSO.');
+VALUES (67, 'EXPRESSO', 2, '151', 'kilogramas', '2011-5-1 17:56', '13 Km', 23, 333, 334, 'Passar apenas por caminhos asfaltados.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (68, 'ECONOMICO', 8, '117', 'unidades', '2011-2-10 10:21', '54 Km', 30, 335, 336, 'Transportar 117 unidades, usando o serviço ECONOMICO.');
+VALUES (68, 'EXPRESSO', 5, '436', 'gramas', '2011-3-6 4:39', '19 Km', 56, 335, 336, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (69, 'NORMAL', 4, '331', 'unidades', '2011-2-4 5:47', '42 Km', 20, 337, 338, 'Transportar 331 unidades, usando o serviço NORMAL.');
+VALUES (69, 'EXPRESSO', 8, '459', 'cabeças', '2011-7-18 22:4', '50 Km', 29, 337, 338, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (70, 'NORMAL', 2, '166', 'unidades', '2011-7-29 15:39', '66 Km', 11, 339, 340, 'Transportar 166 unidades, usando o serviço NORMAL.');
+VALUES (70, 'EXPRESSO', 4, '319', 'cabeças', '2011-9-25 21:43', '62 Km', 85, 339, 340, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (71, 'ECONOMICO', 3, '166', 'cabeças', '2011-4-28 15:30', '16 Km', 89, 341, 342, 'Transportar 166 cabeças, usando o serviço ECONOMICO.');
+VALUES (71, 'NORMAL', 3, '704', 'cabeças', '2011-4-21 3:16', '67 Km', 60, 341, 342, 'A carga deve estar com gps, por toda a viagem.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (72, 'ECONOMICO', 10, '977', 'cabeças', '2011-5-13 23:25', '19 Km', 49, 343, 344, 'Transportar 977 cabeças, usando o serviço ECONOMICO.');
+VALUES (72, 'ECONOMICO', 4, '237', 'kilogramas', '2011-2-8 9:22', '36 Km', 47, 343, 344, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (73, 'NORMAL', 10, '115', 'cabeças', '2011-10-13 7:19', '59 Km', 55, 345, 346, 'Transportar 115 cabeças, usando o serviço NORMAL.');
+VALUES (73, 'EXPRESSO', 3, '700', 'cabeças', '2011-9-24 20:56', '11 Km', 15, 345, 346, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (74, 'ECONOMICO', 7, '732', 'gramas', '2011-2-26 20:50', '2 Km', 47, 347, 348, 'Transportar 732 gramas, usando o serviço ECONOMICO.');
+VALUES (74, 'ECONOMICO', 7, '577', 'cabeças', '2011-2-21 3:27', '24 Km', 83, 347, 348, 'A entrega deve ser feita pela manhã.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (75, 'EXPRESSO', 1, '997', 'cabeças', '2011-3-19 2:24', '10 Km', 92, 349, 350, 'Transportar 997 cabeças, usando o serviço EXPRESSO.');
+VALUES (75, 'ECONOMICO', 8, '526', 'gramas', '2011-9-4 22:15', '7 Km', 72, 349, 350, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (76, 'NORMAL', 9, '610', 'kilogramas', '2011-7-20 17:13', '34 Km', 57, 351, 352, 'Transportar 610 kilogramas, usando o serviço NORMAL.');
+VALUES (76, 'NORMAL', 7, '198', 'cabeças', '2011-4-20 16:15', '1 Km', 24, 351, 352, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (77, 'EXPRESSO', 5, '166', 'unidades', '2011-8-13 2:16', '45 Km', 65, 353, 354, 'Transportar 166 unidades, usando o serviço EXPRESSO.');
+VALUES (77, 'EXPRESSO', 2, '694', 'unidades', '2011-12-17 18:48', '22 Km', 66, 353, 354, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (78, 'NORMAL', 1, '788', 'kilogramas', '2011-7-3 7:52', '29 Km', 98, 355, 356, 'Transportar 788 kilogramas, usando o serviço NORMAL.');
+VALUES (78, 'ECONOMICO', 8, '885', 'cabeças', '2011-1-7 6:54', '19 Km', 95, 355, 356, 'Atrasos não serão tolerados para essa entrega.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (79, 'EXPRESSO', 10, '510', 'gramas', '2011-6-8 11:40', '56 Km', 41, 357, 358, 'Transportar 510 gramas, usando o serviço EXPRESSO.');
+VALUES (79, 'EXPRESSO', 6, '936', 'kilogramas', '2011-4-13 16:52', '38 Km', 88, 357, 358, 'Evitar caminhos esburacados, a carga é muito sensível.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (80, 'ECONOMICO', 10, '813', 'kilogramas', '2011-1-17 0:54', '36 Km', 83, 359, 360, 'Transportar 813 kilogramas, usando o serviço ECONOMICO.');
+VALUES (80, 'EXPRESSO', 4, '950', 'cabeças', '2011-9-20 2:26', '61 Km', 95, 359, 360, 'A entrega deve ser feita pela manhã.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (81, 'NORMAL', 9, '181', 'cabeças', '2011-3-28 16:8', '50 Km', 34, 361, 362, 'Transportar 181 cabeças, usando o serviço NORMAL.');
+VALUES (81, 'ECONOMICO', 10, '949', 'cabeças', '2011-8-21 18:8', '3 Km', 42, 361, 362, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (82, 'NORMAL', 3, '193', 'unidades', '2011-4-7 20:39', '50 Km', 57, 363, 364, 'Transportar 193 unidades, usando o serviço NORMAL.');
+VALUES (82, 'ECONOMICO', 10, '841', 'unidades', '2011-7-9 20:23', '44 Km', 42, 363, 364, 'A entrega deve ser feita pela manhã.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (83, 'NORMAL', 1, '344', 'kilogramas', '2011-5-27 10:59', '37 Km', 80, 365, 366, 'Transportar 344 kilogramas, usando o serviço NORMAL.');
+VALUES (83, 'NORMAL', 2, '220', 'kilogramas', '2011-1-28 2:48', '37 Km', 15, 365, 366, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (84, 'ECONOMICO', 8, '515', 'gramas', '2011-12-6 9:42', '24 Km', 71, 367, 368, 'Transportar 515 gramas, usando o serviço ECONOMICO.');
+VALUES (84, 'ECONOMICO', 3, '161', 'kilogramas', '2011-9-26 21:35', '15 Km', 59, 367, 368, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (85, 'ECONOMICO', 5, '293', 'kilogramas', '2011-7-25 4:33', '8 Km', 26, 369, 370, 'Transportar 293 kilogramas, usando o serviço ECONOMICO.');
+VALUES (85, 'EXPRESSO', 9, '437', 'gramas', '2011-1-13 7:31', '48 Km', 56, 369, 370, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (86, 'EXPRESSO', 3, '553', 'kilogramas', '2011-4-20 15:26', '53 Km', 70, 371, 372, 'Transportar 553 kilogramas, usando o serviço EXPRESSO.');
+VALUES (86, 'NORMAL', 4, '244', 'kilogramas', '2011-2-6 3:6', '61 Km', 45, 371, 372, 'Passar apenas por caminhos asfaltados.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (87, 'ECONOMICO', 8, '878', 'gramas', '2011-3-4 6:5', '40 Km', 3, 373, 374, 'Transportar 878 gramas, usando o serviço ECONOMICO.');
+VALUES (87, 'EXPRESSO', 10, '608', 'gramas', '2011-1-18 9:17', '44 Km', 19, 373, 374, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (88, 'NORMAL', 6, '143', 'gramas', '2011-4-15 15:42', '20 Km', 34, 375, 376, 'Transportar 143 gramas, usando o serviço NORMAL.');
+VALUES (88, 'NORMAL', 3, '954', 'cabeças', '2011-11-9 2:17', '52 Km', 23, 375, 376, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (89, 'NORMAL', 7, '404', 'gramas', '2011-2-15 15:34', '7 Km', 80, 377, 378, 'Transportar 404 gramas, usando o serviço NORMAL.');
+VALUES (89, 'NORMAL', 3, '615', 'gramas', '2011-10-5 23:23', '10 Km', 63, 377, 378, 'A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (90, 'NORMAL', 5, '913', 'gramas', '2011-7-18 3:36', '55 Km', 7, 379, 380, 'Transportar 913 gramas, usando o serviço NORMAL.');
+VALUES (90, 'ECONOMICO', 6, '144', 'kilogramas', '2011-2-10 8:48', '47 Km', 7, 379, 380, 'Atrasos não serão tolerados para essa entrega.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (91, 'EXPRESSO', 1, '103', 'kilogramas', '2011-9-17 17:2', '61 Km', 33, 381, 382, 'Transportar 103 kilogramas, usando o serviço EXPRESSO.');
+VALUES (91, 'NORMAL', 8, '569', 'unidades', '2011-12-24 5:56', '3 Km', 14, 381, 382, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (92, 'ECONOMICO', 8, '134', 'gramas', '2011-7-24 13:14', '37 Km', 74, 383, 384, 'Transportar 134 gramas, usando o serviço ECONOMICO.');
+VALUES (92, 'EXPRESSO', 6, '590', 'unidades', '2011-7-6 17:21', '32 Km', 83, 383, 384, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (93, 'ECONOMICO', 1, '236', 'gramas', '2011-7-15 4:44', '61 Km', 36, 385, 386, 'Transportar 236 gramas, usando o serviço ECONOMICO.');
+VALUES (93, 'EXPRESSO', 7, '579', 'gramas', '2011-4-9 13:8', '37 Km', 64, 385, 386, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (94, 'EXPRESSO', 7, '231', 'gramas', '2011-1-25 19:39', '35 Km', 58, 387, 388, 'Transportar 231 gramas, usando o serviço EXPRESSO.');
+VALUES (94, 'ECONOMICO', 6, '737', 'kilogramas', '2011-2-25 3:23', '63 Km', 70, 387, 388, 'A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los');
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (95, 'ECONOMICO', 1, '388', 'kilogramas', '2011-1-5 14:27', '5 Km', 16, 389, 390, 'Transportar 388 kilogramas, usando o serviço ECONOMICO.');
+VALUES (95, 'EXPRESSO', 3, '484', 'cabeças', '2011-10-17 9:33', '65 Km', 59, 389, 390, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (96, 'ECONOMICO', 9, '496', 'kilogramas', '2011-5-22 5:2', '11 Km', 5, 391, 392, 'Transportar 496 kilogramas, usando o serviço ECONOMICO.');
+VALUES (96, 'EXPRESSO', 1, '340', 'gramas', '2011-6-24 13:34', '31 Km', 14, 391, 392, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (97, 'ECONOMICO', 5, '394', 'kilogramas', '2011-6-25 16:34', '64 Km', 29, 393, 394, 'Transportar 394 kilogramas, usando o serviço ECONOMICO.');
+VALUES (97, 'EXPRESSO', 5, '545', 'kilogramas', '2011-5-5 18:59', '56 Km', 50, 393, 394, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (98, 'EXPRESSO', 1, '853', 'unidades', '2011-9-26 4:7', '36 Km', 3, 395, 396, 'Transportar 853 unidades, usando o serviço EXPRESSO.');
+VALUES (98, 'EXPRESSO', 3, '334', 'kilogramas', '2011-11-16 17:9', '60 Km', 33, 395, 396, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (99, 'NORMAL', 6, '936', 'unidades', '2011-12-2 21:26', '9 Km', 100, 397, 398, 'Transportar 936 unidades, usando o serviço NORMAL.');
+VALUES (99, 'NORMAL', 8, '903', 'gramas', '2011-4-24 15:0', '29 Km', 27, 397, 398, null);
 
 INSERT INTO Servico(id, tipoServico, TipoCarga_id, quantidadeCarga, unidadeCarga, dataPedido, distancia, Empresa_id, origem, destino, descricao)
-VALUES (100, 'NORMAL', 4, '153', 'cabeças', '2011-7-4 1:22', '35 Km', 90, 399, 400, 'Transportar 153 cabeças, usando o serviço NORMAL.');
+VALUES (100, 'EXPRESSO', 7, '275', 'cabeças', '2011-10-15 14:5', '59 Km', 99, 399, 400, 'A entrega deve ser feitas em mãos e com assinatura do dono.');
 
 -- Popula a tabela Transporte.
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (1, '2012-4-3 3:36', null, 941.18, 37, 91, 50);
+VALUES (1, '2012-12-8 0:26', null, 978.84, 87, 95, 63);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (2, '2012-1-14 23:50', null, 181.51, 60, 91, 84);
+VALUES (2, '2012-1-6 10:28', null, 772.14, 48, 93, 60);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (3, '2012-1-5 18:2', null, 678.52, 42, 86, 80);
+VALUES (3, '2012-3-14 2:44', '2013-3-16 2:0', 420.87, 84, 51, 56);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (4, '2012-8-5 13:23', null, 359.65, 82, 59, 7);
+VALUES (4, '2012-11-1 2:18', null, 795.79, 39, 6, 16);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (5, '2012-3-28 17:13', null, 298.99, 78, 51, 69);
+VALUES (5, '2012-4-3 17:46', null, 838.36, 49, 10, 87);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (6, '2012-5-22 1:14', '2013-3-14 18:2', 570.40, 42, 52, 6);
+VALUES (6, '2012-12-5 1:43', '2013-3-10 13:56', 958.64, 65, 33, 27);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (7, '2012-6-29 14:33', '2013-5-3 6:44', 709.04, 36, 73, 95);
+VALUES (7, '2012-3-22 18:10', null, 810.79, 19, 100, 98);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (8, '2012-5-8 0:37', '2013-10-19 12:2', 537.55, 93, 1, 52);
+VALUES (8, '2012-4-12 21:49', null, 577.84, 13, 23, 18);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (9, '2012-3-5 1:2', '2013-1-18 13:21', 170.48, 12, 87, 82);
+VALUES (9, '2012-3-13 21:26', null, 863.81, 61, 59, 85);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (10, '2012-10-13 1:9', null, 186.66, 68, 6, 49);
+VALUES (10, '2012-9-11 15:8', null, 209.04, 14, 79, 98);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (11, '2012-12-16 21:43', '2013-1-17 13:13', 597.00, 24, 60, 22);
+VALUES (11, '2012-4-9 22:20', null, 718.22, 31, 26, 86);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (12, '2012-6-17 17:48', null, 305.45, 64, 81, 58);
+VALUES (12, '2012-9-6 5:1', null, 299.10, 69, 80, 41);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (13, '2012-1-22 0:34', '2013-11-25 5:8', 369.22, 23, 77, 51);
+VALUES (13, '2012-11-23 17:43', '2013-4-12 13:20', 796.67, 98, 73, 44);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (14, '2012-7-9 14:20', null, 223.43, 78, 4, 92);
+VALUES (14, '2012-5-25 23:38', '2013-6-20 3:21', 744.65, 29, 3, 42);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (15, '2012-5-19 1:6', '2013-8-27 8:9', 125.35, 44, 71, 2);
+VALUES (15, '2012-8-29 19:43', null, 184.92, 37, 78, 98);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (16, '2012-11-9 14:49', '2013-9-26 19:45', 139.67, 11, 96, 77);
+VALUES (16, '2012-9-3 10:25', '2013-11-5 12:20', 989.74, 50, 91, 6);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (17, '2012-11-27 9:41', '2013-12-27 22:51', 277.87, 56, 70, 74);
+VALUES (17, '2012-12-29 7:35', null, 335.80, 54, 5, 97);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (18, '2012-6-8 14:37', '2013-5-5 17:5', 269.97, 19, 36, 89);
+VALUES (18, '2012-10-17 3:56', null, 168.81, 22, 4, 77);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (19, '2012-12-2 16:13', '2013-7-7 4:9', 447.31, 78, 86, 56);
+VALUES (19, '2012-8-3 18:21', null, 583.40, 12, 77, 9);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (20, '2012-6-24 12:51', null, 564.85, 18, 17, 85);
+VALUES (20, '2012-9-2 6:32', null, 191.34, 44, 27, 19);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (21, '2012-10-5 10:13', null, 284.30, 29, 34, 31);
+VALUES (21, '2012-2-23 8:59', null, 404.30, 73, 95, 49);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (22, '2012-12-19 20:35', '2013-4-22 23:2', 573.26, 42, 93, 70);
+VALUES (22, '2012-10-21 18:25', null, 533.82, 15, 98, 38);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (23, '2012-4-26 2:1', null, 406.91, 80, 63, 63);
+VALUES (23, '2012-11-23 12:21', null, 843.01, 16, 94, 8);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (24, '2012-2-2 9:12', null, 456.39, 92, 20, 35);
+VALUES (24, '2012-12-3 21:0', null, 853.13, 89, 11, 44);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (25, '2012-1-7 3:4', '2013-6-21 22:45', 280.31, 66, 6, 71);
+VALUES (25, '2012-2-9 2:43', '2013-4-17 14:37', 603.64, 77, 72, 99);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (26, '2012-4-26 1:12', '2013-5-4 14:47', 366.11, 75, 69, 72);
+VALUES (26, '2012-6-29 16:12', null, 366.45, 98, 34, 57);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (27, '2012-1-16 18:4', '2013-5-22 16:53', 810.30, 17, 22, 78);
+VALUES (27, '2012-2-28 18:44', '2013-6-24 16:1', 908.82, 84, 35, 24);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (28, '2012-9-11 9:57', null, 262.26, 53, 13, 14);
+VALUES (28, '2012-11-7 15:44', null, 641.55, 53, 60, 72);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (29, '2012-11-16 19:8', '2013-9-20 4:49', 919.20, 98, 97, 44);
+VALUES (29, '2012-7-26 15:4', null, 896.27, 99, 16, 81);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (30, '2012-11-3 21:46', '2013-11-4 22:59', 853.30, 58, 23, 74);
+VALUES (30, '2012-10-9 8:15', '2013-6-2 9:42', 644.39, 14, 53, 46);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (31, '2012-4-17 5:7', null, 684.42, 73, 32, 52);
+VALUES (31, '2012-12-22 18:18', null, 574.53, 59, 93, 15);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (32, '2012-10-23 3:48', '2013-4-22 16:0', 842.14, 21, 82, 11);
+VALUES (32, '2012-12-12 12:7', null, 813.44, 17, 1, 30);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (33, '2012-5-27 4:48', null, 674.38, 74, 10, 43);
+VALUES (33, '2012-2-16 20:15', null, 235.83, 22, 72, 59);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (34, '2012-9-8 14:18', null, 293.05, 12, 83, 20);
+VALUES (34, '2012-9-6 22:37', '2013-10-29 5:50', 982.71, 41, 26, 31);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (35, '2012-2-23 14:33', null, 737.31, 11, 92, 99);
+VALUES (35, '2012-9-22 5:48', null, 635.92, 19, 5, 4);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (36, '2012-3-17 10:21', null, 140.05, 98, 39, 33);
+VALUES (36, '2012-5-3 18:21', null, 321.59, 93, 50, 50);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (37, '2012-2-25 7:28', '2013-7-2 22:27', 621.47, 33, 52, 10);
+VALUES (37, '2012-7-27 12:4', null, 716.64, 53, 88, 8);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (38, '2012-4-28 23:1', '2013-6-14 1:8', 331.17, 30, 43, 38);
+VALUES (38, '2012-2-14 21:53', '2013-12-2 14:29', 868.84, 18, 57, 10);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (39, '2012-3-8 12:19', null, 710.81, 75, 49, 3);
+VALUES (39, '2012-3-16 17:52', '2013-5-18 21:52', 575.27, 74, 51, 6);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (40, '2012-10-17 0:10', null, 789.96, 16, 34, 24);
+VALUES (40, '2012-1-28 21:4', '2013-8-16 14:23', 303.09, 11, 33, 53);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (41, '2012-6-4 18:17', null, 673.63, 47, 51, 61);
+VALUES (41, '2012-3-5 8:34', null, 950.17, 80, 24, 84);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (42, '2012-7-7 11:20', null, 596.66, 78, 82, 13);
+VALUES (42, '2012-7-25 7:23', null, 474.04, 79, 99, 69);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (43, '2012-1-2 19:25', null, 670.13, 40, 96, 12);
+VALUES (43, '2012-1-6 16:1', null, 186.84, 63, 56, 13);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (44, '2012-12-9 7:2', null, 784.94, 84, 54, 80);
+VALUES (44, '2012-1-23 20:4', null, 882.33, 34, 74, 8);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (45, '2012-7-24 3:50', null, 868.96, 69, 91, 11);
+VALUES (45, '2012-11-11 8:14', null, 274.66, 69, 40, 59);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (46, '2012-5-7 19:47', '2013-7-29 9:3', 766.08, 13, 37, 47);
+VALUES (46, '2012-11-7 8:38', null, 295.52, 37, 6, 64);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (47, '2012-12-5 5:0', '2013-1-24 8:5', 777.78, 53, 71, 79);
+VALUES (47, '2012-8-17 4:27', '2013-3-24 9:43', 166.64, 16, 46, 81);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (48, '2012-6-9 1:10', null, 396.01, 52, 94, 36);
+VALUES (48, '2012-8-2 16:44', null, 633.54, 85, 61, 33);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (49, '2012-1-22 21:0', '2013-1-9 23:43', 860.75, 14, 48, 9);
+VALUES (49, '2012-11-20 4:55', null, 129.12, 43, 75, 21);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (50, '2012-2-3 20:39', '2013-10-14 16:7', 286.88, 12, 80, 66);
+VALUES (50, '2012-3-25 12:11', null, 836.12, 54, 43, 96);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (51, '2012-3-6 12:46', '2013-7-12 12:54', 154.91, 45, 29, 58);
+VALUES (51, '2012-3-26 6:45', null, 784.98, 42, 59, 1);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (52, '2012-11-17 12:18', '2013-12-23 15:54', 178.36, 55, 83, 97);
+VALUES (52, '2012-11-19 4:14', '2013-10-20 16:42', 948.54, 72, 65, 1);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (53, '2012-5-11 16:40', null, 872.37, 73, 21, 64);
+VALUES (53, '2012-9-21 15:56', null, 499.80, 79, 45, 61);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (54, '2012-3-28 7:4', '2013-10-25 17:40', 495.17, 11, 6, 34);
+VALUES (54, '2012-4-14 2:49', null, 434.68, 74, 91, 61);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (55, '2012-2-6 4:37', null, 199.25, 62, 86, 77);
+VALUES (55, '2012-10-13 2:36', '2013-9-11 13:11', 358.23, 59, 63, 48);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (56, '2012-12-10 17:46', '2013-8-17 22:1', 202.80, 61, 10, 51);
+VALUES (56, '2012-6-26 16:47', null, 492.37, 57, 42, 76);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (57, '2012-6-10 8:18', null, 128.12, 87, 17, 57);
+VALUES (57, '2012-11-14 0:7', null, 117.92, 79, 59, 89);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (58, '2012-7-8 21:4', '2013-7-8 20:0', 794.28, 48, 23, 82);
+VALUES (58, '2012-8-27 2:14', '2013-4-14 9:30', 284.03, 98, 31, 20);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (59, '2012-2-6 19:43', null, 872.03, 14, 35, 99);
+VALUES (59, '2012-5-23 15:11', null, 129.15, 44, 9, 38);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (60, '2012-10-9 23:50', '2013-8-27 4:55', 871.43, 58, 41, 43);
+VALUES (60, '2012-10-19 9:58', '2013-10-23 8:24', 361.12, 76, 5, 73);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (61, '2012-8-11 19:45', null, 884.43, 31, 47, 43);
+VALUES (61, '2012-12-14 17:27', null, 738.69, 31, 2, 11);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (62, '2012-8-14 0:50', null, 616.91, 73, 69, 44);
+VALUES (62, '2012-4-22 0:52', null, 132.37, 22, 91, 97);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (63, '2012-5-4 15:46', null, 732.24, 31, 57, 63);
+VALUES (63, '2012-5-21 10:28', '2013-7-29 23:40', 320.28, 16, 83, 45);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (64, '2012-11-6 6:52', null, 361.76, 11, 58, 82);
+VALUES (64, '2012-4-14 15:24', '2013-3-18 22:34', 424.32, 99, 25, 95);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (65, '2012-1-13 23:27', '2013-9-20 8:23', 246.04, 72, 35, 62);
+VALUES (65, '2012-11-15 14:5', null, 516.26, 20, 1, 100);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (66, '2012-11-22 13:55', '2013-11-18 9:55', 294.82, 14, 41, 73);
+VALUES (66, '2012-4-19 13:39', null, 629.43, 33, 17, 73);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (67, '2012-7-26 4:9', null, 721.32, 65, 48, 46);
+VALUES (67, '2012-10-23 19:35', null, 399.60, 68, 1, 18);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (68, '2012-3-17 19:29', null, 511.02, 14, 39, 75);
+VALUES (68, '2012-1-27 1:44', null, 884.01, 81, 87, 11);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (69, '2012-5-28 14:20', null, 385.25, 20, 14, 2);
+VALUES (69, '2012-1-27 21:32', '2013-2-23 4:49', 557.12, 42, 48, 33);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (70, '2012-10-13 21:26', null, 976.16, 15, 99, 64);
+VALUES (70, '2012-12-24 12:58', '2013-10-10 1:12', 723.90, 28, 17, 86);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (71, '2012-1-4 1:18', '2013-3-5 18:10', 524.80, 12, 41, 17);
+VALUES (71, '2012-1-28 20:51', null, 152.66, 64, 64, 64);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (72, '2012-11-5 3:46', '2013-7-10 19:17', 113.30, 12, 15, 31);
+VALUES (72, '2012-4-1 4:49', null, 473.83, 14, 87, 96);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (73, '2012-5-3 23:7', '2013-11-15 6:58', 928.52, 22, 76, 21);
+VALUES (73, '2012-12-1 8:5', '2013-10-3 1:37', 420.44, 71, 81, 23);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (74, '2012-10-12 2:45', '2013-7-2 13:42', 288.69, 77, 33, 34);
+VALUES (74, '2012-12-17 12:39', '2013-2-25 21:16', 713.65, 92, 18, 94);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (75, '2012-12-9 1:26', null, 667.11, 98, 53, 47);
+VALUES (75, '2012-6-27 14:48', null, 979.90, 65, 27, 100);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (76, '2012-7-22 4:0', null, 695.19, 63, 7, 50);
+VALUES (76, '2012-8-11 11:58', '2013-9-14 14:51', 672.17, 31, 42, 81);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (77, '2012-9-12 8:27', '2013-6-2 18:51', 333.42, 30, 9, 61);
+VALUES (77, '2012-6-1 10:26', '2013-10-2 18:53', 190.19, 12, 83, 54);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (78, '2012-12-4 10:54', '2013-10-16 22:15', 911.45, 74, 72, 12);
+VALUES (78, '2012-8-28 12:29', '2013-2-4 19:49', 822.21, 67, 99, 18);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (79, '2012-5-1 0:11', null, 145.51, 46, 83, 57);
+VALUES (79, '2012-3-24 0:4', '2013-8-27 2:1', 755.11, 59, 71, 5);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (80, '2012-12-10 14:10', null, 485.03, 19, 35, 19);
+VALUES (80, '2012-1-14 11:52', '2013-7-10 12:16', 677.92, 47, 98, 93);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (81, '2012-10-29 8:11', '2013-12-9 4:59', 894.52, 75, 56, 67);
+VALUES (81, '2012-4-4 22:33', null, 984.97, 73, 66, 10);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (82, '2012-3-13 12:52', null, 337.46, 14, 17, 12);
+VALUES (82, '2012-11-19 6:20', '2013-3-14 19:57', 766.05, 98, 7, 11);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (83, '2012-4-15 8:36', null, 568.21, 46, 85, 25);
+VALUES (83, '2012-6-8 10:53', null, 633.29, 42, 80, 70);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (84, '2012-6-22 5:59', '2013-5-27 0:27', 286.19, 51, 43, 53);
+VALUES (84, '2012-1-13 5:13', '2013-3-1 23:35', 151.23, 32, 53, 93);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (85, '2012-11-20 8:52', null, 318.46, 97, 56, 64);
+VALUES (85, '2012-6-8 2:9', '2013-11-9 14:52', 547.42, 19, 92, 79);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (86, '2012-3-19 23:58', null, 622.79, 32, 53, 72);
+VALUES (86, '2012-2-15 2:57', '2013-4-3 20:52', 628.90, 96, 31, 8);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (87, '2012-6-18 23:12', '2013-10-27 8:50', 985.80, 27, 87, 52);
+VALUES (87, '2012-4-9 21:43', null, 555.20, 49, 82, 45);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (88, '2012-3-23 5:16', null, 190.30, 43, 6, 6);
+VALUES (88, '2012-12-11 17:58', null, 744.61, 99, 35, 24);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (89, '2012-10-10 6:14', '2013-2-4 11:6', 408.01, 40, 99, 62);
+VALUES (89, '2012-12-10 17:41', null, 857.73, 88, 32, 28);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (90, '2012-8-21 2:31', null, 829.65, 97, 36, 35);
+VALUES (90, '2012-8-17 17:25', '2013-2-7 11:59', 281.28, 65, 55, 21);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (91, '2012-3-21 5:29', null, 666.45, 90, 53, 29);
+VALUES (91, '2012-7-2 15:58', '2013-7-14 21:55', 955.81, 66, 87, 74);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (92, '2012-6-23 10:16', '2013-5-6 6:43', 242.68, 34, 100, 66);
+VALUES (92, '2012-6-8 8:25', null, 841.01, 29, 66, 49);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (93, '2012-3-25 7:46', '2013-7-11 18:27', 789.28, 71, 50, 50);
+VALUES (93, '2012-7-3 16:9', '2013-3-25 7:12', 383.45, 98, 96, 44);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (94, '2012-6-15 16:17', null, 980.51, 11, 78, 81);
+VALUES (94, '2012-1-15 17:55', '2013-6-28 20:4', 503.90, 46, 19, 37);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (95, '2012-6-20 14:1', '2013-1-29 20:35', 321.71, 62, 74, 56);
+VALUES (95, '2012-4-7 22:20', '2013-9-1 7:12', 475.40, 10, 1, 9);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (96, '2012-1-19 22:23', '2013-4-2 14:17', 488.22, 76, 35, 49);
+VALUES (96, '2012-3-26 6:35', '2013-1-19 18:51', 778.06, 68, 10, 67);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (97, '2012-8-18 5:7', null, 935.80, 19, 48, 26);
+VALUES (97, '2012-8-4 1:9', null, 468.42, 18, 31, 52);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (98, '2012-9-6 14:19', null, 175.01, 29, 59, 20);
+VALUES (98, '2012-11-27 21:21', null, 973.24, 23, 3, 63);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (99, '2012-5-21 1:25', '2013-7-25 16:17', 805.08, 10, 52, 11);
+VALUES (99, '2012-9-9 7:7', null, 487.87, 28, 89, 76);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (100, '2012-10-16 16:40', null, 256.92, 85, 53, 71);
+VALUES (100, '2012-10-1 19:50', '2013-5-27 1:2', 173.29, 34, 78, 50);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (101, '2012-3-20 11:42', null, 632.77, 15, 30, 85);
+VALUES (101, '2012-4-9 23:38', null, 917.77, 36, 1, 23);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (102, '2012-8-6 14:35', '2013-5-7 18:31', 108.26, 55, 77, 24);
+VALUES (102, '2012-8-23 5:58', null, 802.90, 15, 49, 35);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (103, '2012-5-12 2:45', null, 807.42, 50, 32, 55);
+VALUES (103, '2012-10-24 17:36', null, 477.40, 74, 8, 68);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (104, '2012-2-9 2:14', '2013-10-28 3:59', 603.80, 71, 3, 7);
+VALUES (104, '2012-4-14 10:38', '2013-10-4 9:32', 195.36, 40, 80, 38);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (105, '2012-5-7 21:53', null, 994.29, 20, 16, 14);
+VALUES (105, '2012-12-9 3:59', null, 556.82, 94, 97, 72);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (106, '2012-12-17 6:30', '2013-8-9 17:9', 961.60, 10, 4, 91);
+VALUES (106, '2012-5-9 8:45', '2013-2-15 11:45', 513.95, 48, 8, 90);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (107, '2012-4-25 1:21', '2013-4-24 7:17', 125.95, 36, 52, 83);
+VALUES (107, '2012-12-26 5:13', '2013-8-7 19:41', 213.28, 17, 83, 56);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (108, '2012-9-12 10:18', '2013-11-7 0:3', 735.37, 32, 27, 27);
+VALUES (108, '2012-8-3 21:1', null, 171.91, 59, 61, 67);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (109, '2012-10-13 12:48', null, 368.20, 49, 16, 65);
+VALUES (109, '2012-7-9 9:22', '2013-6-28 22:33', 921.70, 35, 54, 31);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (110, '2012-11-13 0:59', null, 540.19, 43, 8, 82);
+VALUES (110, '2012-8-12 0:2', '2013-4-1 6:44', 698.07, 67, 36, 62);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (111, '2012-11-26 15:36', '2013-12-10 12:22', 711.13, 57, 64, 20);
+VALUES (111, '2012-10-21 20:50', '2013-8-4 0:32', 666.56, 17, 56, 78);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (112, '2012-1-1 11:52', null, 880.24, 37, 7, 4);
+VALUES (112, '2012-9-8 23:31', null, 839.38, 41, 83, 94);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (113, '2012-11-14 21:9', '2013-1-20 18:26', 392.00, 22, 96, 3);
+VALUES (113, '2012-4-2 15:55', '2013-5-28 14:6', 130.89, 60, 9, 38);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (114, '2012-6-3 21:31', '2013-12-20 14:20', 989.79, 28, 41, 61);
+VALUES (114, '2012-8-17 23:35', '2013-6-6 17:46', 767.32, 23, 86, 13);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (115, '2012-9-2 8:19', '2013-11-24 18:39', 328.46, 11, 14, 83);
+VALUES (115, '2012-7-2 9:41', '2013-11-29 20:48', 500.69, 55, 88, 86);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (116, '2012-4-15 1:37', '2013-2-11 13:38', 569.02, 66, 80, 71);
+VALUES (116, '2012-5-26 0:23', '2013-7-25 5:4', 797.93, 54, 38, 8);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (117, '2012-12-14 23:49', null, 988.70, 97, 24, 73);
+VALUES (117, '2012-9-25 13:31', '2013-12-6 7:2', 255.72, 69, 1, 30);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (118, '2012-9-24 3:16', null, 100.19, 64, 24, 96);
+VALUES (118, '2012-10-5 8:33', null, 946.36, 74, 91, 70);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (119, '2012-8-20 23:32', null, 177.84, 99, 95, 23);
+VALUES (119, '2012-1-19 4:25', null, 908.38, 82, 44, 69);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (120, '2012-12-1 9:8', '2013-6-13 12:40', 760.00, 11, 73, 10);
+VALUES (120, '2012-4-16 0:14', '2013-12-12 9:12', 293.75, 91, 55, 34);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (121, '2012-10-12 20:57', '2013-12-11 11:38', 437.60, 16, 27, 43);
+VALUES (121, '2012-11-18 3:9', null, 384.63, 82, 84, 70);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (122, '2012-8-17 17:56', null, 476.34, 14, 5, 22);
+VALUES (122, '2012-8-7 1:12', '2013-10-1 16:8', 706.31, 32, 35, 1);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (123, '2012-7-15 15:35', '2013-11-22 4:53', 848.84, 13, 5, 36);
+VALUES (123, '2012-5-12 9:54', null, 366.03, 80, 94, 99);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (124, '2012-7-18 22:49', '2013-3-1 4:1', 373.10, 27, 53, 46);
+VALUES (124, '2012-5-23 15:25', null, 845.35, 45, 7, 41);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (125, '2012-3-5 11:55', null, 277.33, 72, 77, 89);
+VALUES (125, '2012-8-19 3:42', '2013-4-14 12:56', 348.81, 77, 40, 92);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (126, '2012-3-15 5:31', null, 382.63, 44, 66, 85);
+VALUES (126, '2012-11-20 10:53', null, 111.82, 26, 55, 46);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (127, '2012-12-17 10:34', '2013-10-22 18:4', 167.58, 88, 61, 19);
+VALUES (127, '2012-7-25 13:51', null, 831.29, 26, 42, 76);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (128, '2012-10-7 19:14', null, 262.97, 86, 20, 20);
+VALUES (128, '2012-5-22 3:27', '2013-1-4 16:2', 608.60, 81, 64, 41);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (129, '2012-10-7 5:55', '2013-3-22 4:8', 466.26, 83, 19, 37);
+VALUES (129, '2012-8-28 22:17', null, 619.39, 77, 77, 82);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (130, '2012-6-11 13:17', null, 377.57, 67, 41, 61);
+VALUES (130, '2012-8-12 19:36', null, 170.61, 48, 51, 9);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (131, '2012-9-10 12:36', null, 421.56, 38, 97, 16);
+VALUES (131, '2012-2-11 14:27', null, 136.85, 81, 42, 63);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (132, '2012-2-10 18:15', '2013-3-8 17:55', 212.49, 41, 100, 4);
+VALUES (132, '2012-4-26 8:46', '2013-8-4 21:44', 939.72, 20, 68, 100);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (133, '2012-11-15 23:36', '2013-9-11 11:38', 865.22, 86, 4, 51);
+VALUES (133, '2012-6-11 0:48', '2013-10-9 13:53', 604.35, 19, 97, 85);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (134, '2012-2-17 0:19', '2013-6-12 3:36', 160.98, 79, 41, 50);
+VALUES (134, '2012-11-25 7:20', null, 649.36, 78, 73, 61);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (135, '2012-3-22 7:53', '2013-6-20 19:49', 468.53, 17, 39, 11);
+VALUES (135, '2012-11-2 3:6', '2013-12-8 21:42', 129.39, 61, 99, 54);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (136, '2012-3-5 21:3', null, 178.36, 45, 95, 84);
+VALUES (136, '2012-7-7 21:2', '2013-5-4 20:52', 402.11, 69, 90, 5);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (137, '2012-7-15 4:52', null, 376.76, 13, 1, 2);
+VALUES (137, '2012-11-11 22:0', null, 374.98, 29, 69, 35);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (138, '2012-8-14 18:5', '2013-10-3 3:18', 811.67, 16, 7, 58);
+VALUES (138, '2012-11-14 21:24', '2013-11-1 4:26', 240.93, 81, 62, 97);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (139, '2012-1-29 11:30', null, 794.18, 19, 94, 15);
+VALUES (139, '2012-11-5 7:47', '2013-11-16 5:47', 724.98, 54, 62, 45);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (140, '2012-5-22 7:42', null, 141.00, 98, 10, 4);
+VALUES (140, '2012-9-25 23:13', '2013-4-25 13:2', 189.50, 21, 100, 9);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (141, '2012-10-17 8:18', '2013-4-23 12:54', 483.61, 27, 81, 33);
+VALUES (141, '2012-11-21 15:35', '2013-8-15 4:29', 832.15, 56, 52, 60);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (142, '2012-12-26 3:38', '2013-4-27 3:26', 754.95, 46, 34, 56);
+VALUES (142, '2012-11-3 3:26', '2013-9-8 10:6', 127.97, 58, 7, 63);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (143, '2012-6-2 7:39', null, 878.18, 76, 15, 77);
+VALUES (143, '2012-10-11 22:40', '2013-8-22 2:28', 679.45, 67, 12, 88);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (144, '2012-11-26 15:8', null, 603.08, 86, 44, 36);
+VALUES (144, '2012-12-29 22:35', null, 408.15, 10, 74, 25);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (145, '2012-8-2 2:34', '2013-11-10 3:51', 693.13, 33, 76, 88);
+VALUES (145, '2012-8-28 6:20', null, 149.82, 86, 50, 1);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (146, '2012-3-19 10:27', null, 707.94, 10, 48, 74);
+VALUES (146, '2012-7-13 12:57', null, 492.98, 17, 20, 25);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (147, '2012-12-2 21:17', null, 571.64, 48, 74, 84);
+VALUES (147, '2012-8-6 14:22', null, 800.95, 93, 99, 39);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (148, '2012-10-14 12:1', null, 618.21, 64, 60, 27);
+VALUES (148, '2012-12-19 2:2', '2013-10-3 8:30', 274.77, 80, 97, 68);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (149, '2012-5-5 4:15', '2013-5-17 20:35', 705.16, 12, 43, 20);
+VALUES (149, '2012-7-23 4:23', null, 547.79, 12, 38, 95);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (150, '2012-7-1 7:7', '2013-11-27 9:45', 185.24, 56, 26, 64);
+VALUES (150, '2012-3-26 12:45', '2013-4-16 23:13', 538.53, 50, 22, 8);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (151, '2012-2-10 16:59', null, 747.74, 90, 73, 4);
+VALUES (151, '2012-10-24 13:19', null, 106.80, 83, 62, 72);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (152, '2012-10-23 19:45', '2013-6-10 9:51', 744.57, 39, 19, 27);
+VALUES (152, '2012-2-13 10:38', '2013-11-18 3:41', 504.20, 15, 19, 69);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (153, '2012-11-26 21:47', null, 757.07, 27, 69, 83);
+VALUES (153, '2012-4-14 9:50', null, 119.18, 99, 84, 31);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (154, '2012-5-26 7:25', null, 728.62, 63, 8, 15);
+VALUES (154, '2012-1-7 22:9', '2013-9-8 15:34', 480.38, 55, 99, 7);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (155, '2012-7-9 14:7', null, 892.99, 63, 64, 64);
+VALUES (155, '2012-10-19 3:54', null, 930.24, 23, 32, 73);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (156, '2012-5-25 22:12', null, 503.82, 42, 2, 73);
+VALUES (156, '2012-3-28 4:41', null, 211.59, 13, 21, 42);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (157, '2012-12-7 17:45', null, 151.32, 35, 77, 75);
+VALUES (157, '2012-8-25 8:46', '2013-11-12 17:6', 274.78, 16, 77, 28);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (158, '2012-6-28 18:44', null, 430.93, 93, 95, 55);
+VALUES (158, '2012-4-10 9:17', null, 971.34, 12, 33, 74);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (159, '2012-10-6 8:55', '2013-1-13 5:10', 239.21, 35, 58, 3);
+VALUES (159, '2012-8-27 2:25', null, 186.53, 81, 63, 3);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (160, '2012-12-18 13:32', null, 576.98, 52, 25, 24);
+VALUES (160, '2012-3-10 2:29', '2013-4-26 22:35', 172.10, 12, 75, 62);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (161, '2012-1-13 13:29', '2013-1-25 23:19', 702.88, 79, 26, 35);
+VALUES (161, '2012-8-8 0:55', null, 639.11, 25, 20, 92);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (162, '2012-4-24 21:13', '2013-7-6 16:20', 387.96, 50, 36, 75);
+VALUES (162, '2012-2-4 4:36', '2013-2-20 2:2', 273.70, 93, 65, 40);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (163, '2012-6-25 9:44', null, 222.54, 88, 88, 53);
+VALUES (163, '2012-10-6 13:49', '2013-8-15 19:54', 874.96, 49, 50, 15);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (164, '2012-9-1 2:36', '2013-5-23 19:48', 582.99, 38, 19, 4);
+VALUES (164, '2012-1-26 17:2', '2013-7-6 15:0', 894.41, 94, 41, 68);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (165, '2012-10-2 19:25', null, 806.95, 55, 33, 30);
+VALUES (165, '2012-8-24 10:48', null, 987.20, 15, 6, 1);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (166, '2012-5-15 0:56', null, 357.27, 41, 30, 13);
+VALUES (166, '2012-7-14 0:54', '2013-3-2 21:13', 995.60, 95, 9, 37);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (167, '2012-11-11 23:40', '2013-11-9 12:30', 870.91, 73, 3, 1);
+VALUES (167, '2012-8-20 18:59', '2013-7-29 20:39', 281.08, 56, 2, 31);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (168, '2012-5-5 20:1', null, 873.17, 75, 73, 85);
+VALUES (168, '2012-11-6 5:42', '2013-10-17 8:40', 778.35, 66, 26, 28);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (169, '2012-8-9 15:15', '2013-5-13 12:44', 127.40, 88, 61, 84);
+VALUES (169, '2012-3-29 13:41', null, 739.21, 69, 36, 56);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (170, '2012-4-17 3:40', null, 209.81, 21, 38, 17);
+VALUES (170, '2012-2-13 0:29', '2013-12-23 14:54', 965.20, 46, 20, 50);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (171, '2012-9-5 8:57', null, 819.52, 18, 55, 58);
+VALUES (171, '2012-8-9 14:51', null, 603.49, 10, 6, 92);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (172, '2012-11-5 21:29', null, 795.96, 43, 22, 58);
+VALUES (172, '2012-11-28 13:27', null, 488.29, 68, 48, 60);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (173, '2012-6-5 8:55', null, 721.14, 78, 87, 3);
+VALUES (173, '2012-2-26 22:55', '2013-8-2 15:49', 671.13, 72, 57, 76);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (174, '2012-7-8 2:40', '2013-10-28 18:53', 864.60, 49, 66, 53);
+VALUES (174, '2012-6-12 22:44', null, 123.41, 68, 46, 98);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (175, '2012-3-7 4:1', null, 452.62, 30, 82, 90);
+VALUES (175, '2012-6-16 9:41', '2013-3-26 15:31', 301.71, 98, 12, 83);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (176, '2012-5-3 0:25', '2013-1-18 15:34', 856.44, 10, 21, 38);
+VALUES (176, '2012-9-24 22:3', '2013-11-20 4:41', 126.85, 91, 18, 2);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (177, '2012-10-22 4:49', '2013-6-24 5:8', 146.24, 39, 12, 38);
+VALUES (177, '2012-1-3 12:24', '2013-4-10 3:15', 367.50, 63, 83, 14);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (178, '2012-9-22 10:31', null, 183.42, 27, 88, 44);
+VALUES (178, '2012-4-26 9:36', '2013-3-1 16:12', 779.53, 78, 87, 39);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (179, '2012-3-17 6:2', '2013-2-4 21:34', 482.04, 13, 88, 30);
+VALUES (179, '2012-9-12 11:35', '2013-11-29 2:42', 484.37, 74, 29, 7);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (180, '2012-7-25 15:35', null, 571.39, 36, 53, 14);
+VALUES (180, '2012-6-6 2:9', '2013-1-1 8:4', 384.64, 97, 82, 41);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (181, '2012-5-22 5:8', null, 882.75, 44, 39, 64);
+VALUES (181, '2012-8-14 3:6', '2013-11-24 4:35', 155.89, 73, 59, 58);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (182, '2012-11-24 23:24', null, 893.13, 53, 100, 32);
+VALUES (182, '2012-9-2 14:40', null, 106.35, 48, 96, 69);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (183, '2012-6-21 22:19', null, 246.46, 13, 95, 54);
+VALUES (183, '2012-3-17 8:37', null, 417.60, 13, 54, 68);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (184, '2012-3-23 9:29', '2013-11-17 22:38', 465.31, 56, 28, 47);
+VALUES (184, '2012-4-18 9:17', '2013-1-25 0:53', 125.81, 12, 5, 11);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (185, '2012-10-26 6:1', null, 893.05, 40, 92, 56);
+VALUES (185, '2012-2-28 3:59', null, 905.72, 11, 41, 70);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (186, '2012-10-28 17:24', null, 172.72, 74, 34, 4);
+VALUES (186, '2012-2-21 3:5', '2013-6-11 2:6', 226.27, 75, 92, 48);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (187, '2012-8-14 4:0', null, 635.93, 44, 95, 21);
+VALUES (187, '2012-2-11 23:42', '2013-12-18 4:56', 329.12, 66, 43, 32);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (188, '2012-8-3 8:6', null, 165.19, 43, 2, 38);
+VALUES (188, '2012-2-11 13:0', '2013-4-4 11:37', 630.34, 19, 31, 62);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (189, '2012-2-14 5:14', '2013-10-27 5:36', 388.54, 33, 29, 86);
+VALUES (189, '2012-10-17 14:19', null, 471.83, 99, 43, 6);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (190, '2012-5-21 5:11', '2013-11-12 1:6', 295.05, 34, 99, 58);
+VALUES (190, '2012-8-4 9:38', null, 155.36, 42, 52, 97);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (191, '2012-1-18 19:26', null, 536.11, 73, 75, 100);
+VALUES (191, '2012-11-3 21:5', '2013-4-15 10:55', 380.08, 20, 74, 57);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (192, '2012-7-21 14:30', '2013-1-24 0:49', 192.25, 15, 16, 89);
+VALUES (192, '2012-1-11 3:43', null, 284.20, 18, 32, 99);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (193, '2012-4-12 20:51', null, 197.91, 56, 59, 47);
+VALUES (193, '2012-4-14 23:42', null, 875.77, 68, 40, 54);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (194, '2012-3-19 21:56', null, 460.37, 25, 83, 17);
+VALUES (194, '2012-2-7 9:11', '2013-6-15 12:51', 907.64, 65, 92, 56);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (195, '2012-12-29 2:47', null, 335.06, 48, 52, 64);
+VALUES (195, '2012-3-16 14:40', '2013-3-10 23:57', 622.26, 45, 51, 1);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (196, '2012-9-18 9:0', '2013-10-15 11:3', 949.52, 23, 7, 43);
+VALUES (196, '2012-12-22 2:39', null, 384.75, 85, 30, 67);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (197, '2012-1-27 8:59', '2013-3-4 15:18', 512.96, 37, 91, 52);
+VALUES (197, '2012-11-2 2:59', '2013-8-3 9:31', 530.18, 65, 82, 69);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (198, '2012-12-13 10:27', '2013-10-14 8:8', 538.55, 83, 29, 32);
+VALUES (198, '2012-9-4 23:18', '2013-2-17 18:16', 787.94, 14, 58, 23);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (199, '2012-8-8 1:30', null, 693.89, 33, 96, 68);
+VALUES (199, '2012-5-24 13:12', '2013-9-10 2:40', 980.93, 92, 31, 32);
 
 INSERT INTO Transporte(id, dataIniciou, dataTerminou, custoTransporte, quantidadeCarga, Servico_id, Motorista_id)
-VALUES (200, '2012-5-8 13:28', null, 480.68, 11, 15, 38);
+VALUES (200, '2012-9-10 13:36', '2013-11-27 9:1', 898.86, 30, 91, 43);
 
 -- Popula a tabela Acidente.
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (1, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 7);
+VALUES (1, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 147);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (2, '80% da carga foi roubada em um semáforo fechado.', 16);
+VALUES (2, 'Colisão com um carro esporte.', 107);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (3, 'Atropelamento de um político.', 7);
+VALUES (3, 'Um meteoro pegou de raspão no veículo.', 182);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (4, 'Um meteoro pegou de raspão no veículo.', 83);
+VALUES (4, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 188);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (5, 'Houve um tsunami no local de entrega', 20);
+VALUES (5, 'Atropelamento de um político.', 174);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (6, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 133);
+VALUES (6, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 156);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (7, 'Houve um tsunami no local de entrega', 44);
+VALUES (7, 'Um meteoro pegou de raspão no veículo.', 155);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (8, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 102);
+VALUES (8, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 97);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (9, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 117);
+VALUES (9, 'Atropelamento de um Chocobo.', 111);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (10, 'Atropelamento de um Chocobo.', 168);
+VALUES (10, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 77);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (11, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 108);
+VALUES (11, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 132);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (12, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 159);
+VALUES (12, 'Atropelamento de um Chocobo.', 76);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (13, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 154);
+VALUES (13, 'Atropelamento de um Chocobo.', 58);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (14, 'Houve um tsunami no local de entrega', 187);
+VALUES (14, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 5);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (15, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 7);
+VALUES (15, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 171);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (16, 'Colisão com um carro esporte.', 136);
+VALUES (16, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 48);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (17, 'Houve um tsunami no local de entrega', 12);
+VALUES (17, 'Atropelamento de um político.', 39);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (18, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 9);
+VALUES (18, 'Atropelamento de um político.', 117);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (19, 'Houve um tsunami no local de entrega', 82);
+VALUES (19, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 139);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (20, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 113);
+VALUES (20, 'Atropelamento de um Chocobo.', 103);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (21, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 190);
+VALUES (21, 'Um meteoro pegou de raspão no veículo.', 63);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (22, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 26);
+VALUES (22, 'Um meteoro pegou de raspão no veículo.', 70);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (23, 'Atropelamento de um Chocobo.', 147);
+VALUES (23, 'Houve um tsunami no local de entrega', 36);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (24, 'Houve um tsunami no local de entrega', 22);
+VALUES (24, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 148);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (25, 'Colisão com um carro esporte.', 7);
+VALUES (25, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 90);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (26, 'Um meteoro pegou de raspão no veículo.', 143);
+VALUES (26, 'Um meteoro pegou de raspão no veículo.', 158);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (27, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 32);
+VALUES (27, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 155);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (28, 'Houve um tsunami no local de entrega', 15);
+VALUES (28, 'Colisão com um carro esporte.', 177);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (29, '80% da carga foi roubada em um semáforo fechado.', 185);
+VALUES (29, '80% da carga foi roubada em um semáforo fechado.', 160);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (30, 'Atropelamento de um político.', 55);
+VALUES (30, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 113);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (31, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 178);
+VALUES (31, '80% da carga foi roubada em um semáforo fechado.', 43);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (32, 'Atropelamento de um político.', 198);
+VALUES (32, 'Atropelamento de um Chocobo.', 60);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (33, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 49);
+VALUES (33, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 25);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (34, 'Houve um tsunami no local de entrega', 42);
+VALUES (34, 'Um meteoro pegou de raspão no veículo.', 93);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (35, 'Um meteoro pegou de raspão no veículo.', 117);
+VALUES (35, 'Um meteoro pegou de raspão no veículo.', 9);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (36, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 98);
+VALUES (36, 'Houve um tsunami no local de entrega', 168);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (37, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 55);
+VALUES (37, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 55);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (38, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 46);
+VALUES (38, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 139);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (39, 'Um meteoro pegou de raspão no veículo.', 163);
+VALUES (39, 'Houve um tsunami no local de entrega', 7);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (40, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 73);
+VALUES (40, '80% da carga foi roubada em um semáforo fechado.', 189);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (41, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 198);
+VALUES (41, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 15);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (42, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 81);
+VALUES (42, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 152);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (43, 'Atropelamento de um Chocobo.', 23);
+VALUES (43, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 180);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (44, 'Houve um tsunami no local de entrega', 166);
+VALUES (44, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 31);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (45, '80% da carga foi roubada em um semáforo fechado.', 110);
+VALUES (45, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 51);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (46, 'Houve um tsunami no local de entrega', 111);
+VALUES (46, 'Atropelamento de um político.', 111);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (47, 'Atropelamento de um Chocobo.', 62);
+VALUES (47, 'Houve um tsunami no local de entrega', 136);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (48, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 177);
+VALUES (48, 'Colisão com um carro esporte.', 5);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (49, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 85);
+VALUES (49, 'Atropelamento de um Chocobo.', 186);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (50, '80% da carga foi roubada em um semáforo fechado.', 191);
+VALUES (50, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 57);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (51, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 28);
+VALUES (51, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 115);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (52, 'Atropelamento de um político.', 154);
+VALUES (52, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 118);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (53, 'Houve um tsunami no local de entrega', 65);
+VALUES (53, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 196);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (54, 'Houve um tsunami no local de entrega', 195);
+VALUES (54, 'Houve um tsunami no local de entrega', 183);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (55, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 133);
+VALUES (55, '80% da carga foi roubada em um semáforo fechado.', 91);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (56, 'Houve um tsunami no local de entrega', 143);
+VALUES (56, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 130);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (57, 'Houve um tsunami no local de entrega', 198);
+VALUES (57, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 122);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (58, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 189);
+VALUES (58, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 10);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (59, 'Um meteoro pegou de raspão no veículo.', 141);
+VALUES (59, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 6);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (60, '80% da carga foi roubada em um semáforo fechado.', 71);
+VALUES (60, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 73);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (61, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 89);
+VALUES (61, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 185);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (62, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 33);
+VALUES (62, 'Houve um tsunami no local de entrega', 167);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (63, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 168);
+VALUES (63, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 140);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (64, '80% da carga foi roubada em um semáforo fechado.', 155);
+VALUES (64, 'Atropelamento de um Chocobo.', 93);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (65, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 185);
+VALUES (65, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 39);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (66, 'Colisão com um carro esporte.', 4);
+VALUES (66, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 194);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (67, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 32);
+VALUES (67, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 41);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (68, 'Atropelamento de um Chocobo.', 151);
+VALUES (68, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 105);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (69, 'Atropelamento de um Chocobo.', 12);
+VALUES (69, 'Atropelamento de um Chocobo.', 98);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (70, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 14);
+VALUES (70, 'Atropelamento de um Chocobo.', 190);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (71, 'Um meteoro pegou de raspão no veículo.', 36);
+VALUES (71, 'Houve um tsunami no local de entrega', 28);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (72, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 181);
+VALUES (72, 'Houve um tsunami no local de entrega', 30);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (73, 'Um meteoro pegou de raspão no veículo.', 132);
+VALUES (73, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 159);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (74, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 163);
+VALUES (74, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 142);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (75, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 52);
+VALUES (75, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 163);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (76, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 68);
+VALUES (76, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 52);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (77, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 157);
+VALUES (77, 'Atropelamento de um Chocobo.', 12);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (78, 'Houve um tsunami no local de entrega', 106);
+VALUES (78, 'Um meteoro pegou de raspão no veículo.', 137);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (79, 'Atropelamento de um Chocobo.', 68);
+VALUES (79, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 150);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (80, 'Um meteoro pegou de raspão no veículo.', 102);
+VALUES (80, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 160);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (81, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 23);
+VALUES (81, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 31);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (82, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 126);
+VALUES (82, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 128);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (83, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 69);
+VALUES (83, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 181);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (84, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 137);
+VALUES (84, 'Colisão com um carro esporte.', 107);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (85, 'Colisão com um carro esporte.', 49);
+VALUES (85, 'Um meteoro pegou de raspão no veículo.', 157);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (86, 'Um meteoro pegou de raspão no veículo.', 21);
+VALUES (86, 'Colisão com um carro esporte.', 141);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (87, 'Atropelamento de um político.', 50);
+VALUES (87, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 122);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (88, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 74);
+VALUES (88, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 24);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (89, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 43);
+VALUES (89, 'Atropelamento de um Chocobo.', 174);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (90, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 45);
+VALUES (90, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 34);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (91, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 61);
+VALUES (91, 'Um meteoro pegou de raspão no veículo.', 42);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (92, 'Colisão com um carro esporte.', 171);
+VALUES (92, 'Um transformer se apaixonou pelo veículo, e interronpeu o caminho para ficar cantando o veículo', 97);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (93, 'Houve um tsunami no local de entrega', 172);
+VALUES (93, '80% da carga foi roubada em um semáforo fechado.', 26);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (94, 'Um meteoro pegou de raspão no veículo.', 69);
+VALUES (94, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 64);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (95, 'Atropelamento de um político.', 87);
+VALUES (95, 'O veículo entrou no meio de um fogo cruzado entre gangues.', 2);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (96, 'Houve um tsunami no local de entrega', 96);
+VALUES (96, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 3);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (97, 'A carga entrou em combustão espontânea. Apenas foi possível salvar 50% da carga', 126);
+VALUES (97, '80% da carga foi roubada em um semáforo fechado.', 67);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (98, 'Atropelamento de um político.', 159);
+VALUES (98, 'Uma manada de elefantes saiu atropelando tudo o que tinha no caminho. Felizmente os motoristas sobreviveram, mas o veículo e a carga se encontram em péssimo estado.', 179);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (99, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 54);
+VALUES (99, 'Houve um tsunami no local de entrega', 178);
 
 INSERT INTO Acidente(id, descricao, Transporte_id)
-VALUES (100, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 73);
+VALUES (100, 'Um prédio caiu no meio da estrada, bloqueando as estradas num raio de 50 metros.', 176);
 
 

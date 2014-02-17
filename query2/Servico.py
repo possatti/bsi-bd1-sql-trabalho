@@ -7,6 +7,19 @@ UNIDADES = ["cabeças", "unidades", "gramas", "kilogramas"]
 TIPO_DE_SERVICOS = ["NORMAL", "ECONOMICO", "EXPRESSO"]
 NUMERO_DE_EMPRESAS = 100
 NUMERO_DE_TIPOS_DE_CARGA = 10
+DESCRICOES = [
+"Pegaro máximo de estradas livres.",
+"Passar apenas por caminhos asfaltados.",
+"Evitar caminhos esburacados, a carga é muito sensível.",
+"A carga deve estar com gps, por toda a viagem.",
+"Em caso de acidentes, muito cuidado com a carga, pois é altamente inflamável.",
+"A entrega deve ser feitas em mãos e com assinatura do dono.",
+"Atrasos não serão tolerados para essa entrega.",
+"A carga será verificada por um especialista que estará no local de entrega. E somente pode ser entregue com a aprovação assinada do especialista.",
+"A entrega deve ser feita pela manhã.",
+"A carga deve ser deixada no campo ao lado do prédio principal.",
+"A entrega não pode demorar. Em caso de atraso, deve ser avisado que o serviço não será cobrado. Este é um cliente importante para a empresa, e não podemos desapontá-los",
+]
 
 # Variável de controle do id dos serviços.
 __idServico = 1 # Primeiro id.
@@ -74,8 +87,10 @@ def distanciaAleatoria():
 	distancia += " Km"
 	return distancia
 
-def getDescricao( quantidade, unidade, tipoServico ):
-	return "Transportar " + str(quantidade) + " " + unidade + ", usando o serviço " + tipoServico + "."
+def getDescricaoAleatoria():
+	descricao = random.choice(DESCRICOES)
+	descricao = "'" + descricao + "'"
+	return random.choice([descricao, "null"])
 
 def insert():
 	id = str(nextIdServico())
@@ -99,7 +114,7 @@ def insert():
 	sql +=", " + str(idEmpresaAleatorio())
 	sql +=", " + str(nextIdEndereco())
 	sql +=", " + str(nextIdEndereco())
-	sql +=", '" + getDescricao(quantidade, unidade, tipoServico) + "');\n"
+	sql +=", " + getDescricaoAleatoria() + ");\n"
 	return sql
 
 # Dá uma nova seed ao random.
